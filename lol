@@ -1,1 +1,3458 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _gPrEcKOttziq = a; end)); _fIOHukbKPHkJJRp=_ENV;CboyhYGUlVmAynn='1RZ<.!}Ds?BjXyeMXyMsD.M^}XMI}.e>!Xy}RBjZZ<jDRMBsZ!js<BjHZXBsZZs}*.DDMsDB:X?Zv.smMXD}jv!!X!!<XyZZXR.Rje!vyy.sX..+jBMWsj_?sy7!sXi!sDMX}eX?DReB}?esZ!Mss!Mx}Xes}ZBj.!j<<XsM<dBeZMBB+!?<RX?X0jsRMMBgZR?sR.?TAB!Re<DCyDDBM.D=eX}se.}TR!Rsy}eB}!eR!yy?!!RRM<<{jRZsB.Zh?By<DsMj}MnssBHrDXMsDZBX!.jM.Djj!XyM!.yU.XX}ZX?DZn?ZR??<ZXjBZ.BlRX?}e!!Be<}Ree!My!.My}<?XB.yXe<yXD<XBD!#yR.sX..6jBR!sjR<sDZsBXZ{?XRs?ZX?DRMY!Mjy}DyDD.M<}Xes}.!<yR<B!.y}.XXs..<<jbZB?yRe?<Bs<.BVRX?sRZ!YX<}RM&.ZyX<!Bj!jj?<Zy<.jX.<jy.!sXX.sX.<eD!Ry?sR.sDFRseZZ?XRs?.RmsXns}.<MDXMMD.Mq}X.ey<!ZXR<?jD<s.Xy<..Xb<Xj}My?B_<?08eDjg.!!MM}MPXsX;.s(MXyB}ye.!R}Be.}tyX!sy.<2<jssX..jjX<sj.Ze}?5<see?DD)6s9eM}!e<s.;!DXMsD.ee.MjM.eje!Xe<!.yC.XX}:e?jZBBZMys?(<sBMMDBRXBpR.?_zXs}eo}seR!jjXZyB.}sM!}(yX!syZ2?BeZ<?jZss}R<BZRBDRfX}=#!D!5<DyRT?BTss.)lDBjR!?y<.MjM.sjBZ!XD<yjBZDBj..yZ<Xjs<.BeM.s<kBsZMjDRejDBeD}ZXy}BeR}NXj.yXD}je!}ZyX!sy.!7XX.sysstje<sj.<hBXZsZ.}eyXRsBZRfsXdssZy!!?je!XBj.!B?Z?XB.}Xs<<jD.XyR..XJ<Xj}Re?!R!?ZOXDMK5D!R.B*0Xss5.Dej.!yyX.BXD!mBy<MXX<<?BZMjBZ<B}.hXD<sj.<NBBM?}XMjssMyD}MX}DM(!D()s.MsD.Mu}Bj..<X?<jjP<}Bj.Xy&..Xt<Xj}MZsM#?s}RRDD j?BR.?/QXssG.s#.!jsM.DMeX}se.!e?..<j}<ZBD<ZBydX?jZR?<Asset<B}Z(?XRs?.RP}X}MX.x3?}MsD.M&}BBj.?X!.nBRZMB?ZR?RZeBsRj?XRR??eBsDMeDBMDDXXjDBM}DST.seMXDsM.}ej!.}X?.BX!ReBM<ss!ZBB<R??y<sje<GBXZsBZe?D!f^}MejDwX!}MyMDXMMD.M#}Xe}ZyX}..j<ZjBB.Xy!..X0<Xj}MXsjR!s<le}!bG}RMB}DM?}Xa}sSMXDsM.DSeXsXB.}ZyX!sy.!0XX.sess4jX.Zj.<VBXZ}}ZMjD<#{Dees}DyM}ekhB.MsD.MY}BjZ.ZjM.!}e<-BMZeB<yBByR<BRXB?}R.sy:eDjM!sZeM}BBZD!e<}ByBGejD!!yR.XBy<jj!eeBhM?XX!<X..cjX<}D<R.?ZR<seysDDM!}jM.seVss.uTDXMsD.e6Bjes}?el!Xys!ZsX<RBXZeX>.bjs<.jrBaZR?.P!RXB<R.?l3Xs}Xe!jeB}ZBy!!Xe.yXX3?yX!Xy.! XXBjZXBRZe<sX;<PBXZsBZe}DeeMs<ejD.jM!eyB!DyZD}M3}Xes}.e0!Xys!.yL.XXs..XS<XXD<.j2ZXB}yyDeM<stej}?M}}<eX<Dy}!ZXM.BeXDDe.}+yXX!.}X!.!?XRjj!MyDMReDXZZsje!}B?eRs?.R=sXmss.qUjXMsDyMq}Xes}ZB}.RXR<<jBZjByZsXw.Rjs<.jHZB}XMjs<MD?sRy?AAXssEZ<Me%}Rye.Dyi.RjM}(es!sy.!^XBaBB?R??<RBDBRZs<RDDMvs?XRM?.RvsXk}<ye!!eyy!X??}XeX}.eT!Xy}<sBj<?Xs.XXA<Xjs<Z}jRTDMMXsZMDDZR.?}WXss*.DeXy.RjDZyjM}see}-yX!syZh?BBRMBXRD?!ZZsMRsBX<<B.Zg?XR}!XMjD,yR!Mes}syD.yXj}XMj}.e)!Xy}Z!sB<Rj<RXBZRD!jeXsDR.?:MMsZjZ}RyR}<4X?!J.sxMXD}yM!.ys.DjM.yBZ<BBj<MBD<IX..jjX<sj.Ze}jnXsBGjs}y<DseB}DeZsDF9DXbhD.M0}Xe}Zejj.BXZVXj!<BXs.?X*<XjsBsRRseR.s?BLZR?sR.?PlB!ZyM}ee}DsMBD%eX}seZZj?}<DjDMseR.sX..reD<sj.</BXZeB.ZV?XR}DBe?}<eB}}Jus?MsD.Mb}BBU.<XZ<ejT<?BD<.BZhRBjRjjs.jjvZXBsZZ!sM<DRM!}yM.}yeM}.y}.ZyX.DyI!RXB<DX.<<jsZ?jj.BX..ljX<sj.<lX)}sB}Zi?XRs?.R&.X}MX.NHsRMsD.M_}BBX<jX<<Dys!syb.XXs.ZB.RDB!<.j.ZXBsZ.?eM?s<M<?ARRssv.s8MB<<ys!jXM}sMA}hyX!syZR?j}<<?eZ?sRR.?;R?sDRZB.Z??XRs?.;e.BM<}DyD}Tyy!<XB}ees}.e;!Xys<.<MsXXs!sXK<Xjs<ZD.*<sjMM!BMjsRMBDZe<DDje!Me!}ZXj!.X!.<e.}XyX!sy..es<ZBjRRDBjZRD?R.D}aysBZHB?Rs?.RTsBy!!jyM}}j.!?ysZ!X}.<XZ<}ys!Xyq.XXs.ZD?ZR?XRssjq!?ZZ.BsRX?sR.seys}<yy}BeR}9?yDzM_}se.}iyBR<?yR}XX!ZX..)jX<}De4j?BRZ}}MDD.M<D}RZsXqss.l8DXDsy!<_}ees}.ew!Xys!.y.sXXs.XXm<Xjs<Z}D/}sy#Xs.MDD<R.??tXss,.Dejj!Xyy!BX<.Xjy<jye!sy.!CXX.sX.<=Mj<Bj.<8BXZsB.Z+eV!s?.RDsX3ss.Me.ZXM!XXj!dyZ}.e!!Xys!.XeiBB<Rj?B<Mj?<.j!ZXBsZ.?eM!DyMsD.nX?D3.sUMXD}jA.MyT.ZBi<MX..RjeG?BBZDB}RBjX.+j.<VBXZ}!eMjs!5ZDXM!DjSs?<x+DXMsDZj?!Ry<.Xj?<DBRZjj.<!sSZ?BZR}js<?jLZXBsZZ}?MjsseM?GRRssk.s=MB<.y?!.y}}se.}PyX!sy.!DXX.sX.<eD!Ry?}R!?.yRB.Zj?XRs?.ne!}e<DZeB<!yy!}y!!.?R}.es!Xys!.XeZsj)Z?B<O.D!eXjA<BBsZ.B4RB}neMD.e}}<eX.?e}!<yB!}XD.Ze.}XyX!sy..es}ZDByZ}?e>MB<M.s<GjDMZ%BDRs?.RvsByZ!Mee}}XR.yXD.eX<<eec}Zys!.ym.B?<Me?MRM}7<}j3ZXBsZ.BFRX?sR.?.&Xss&.sjMXDsM.DUM<}se.}QyBR}BMZDBe<ZBZ.^XR<sj.<*BBeXDjo<DDRs??RvsX_ssZXB!De}!eM_D}es}.el!B?R<ZBD<.?MRyBBRDB(<.j?ZXBsZ.?eyBs<MD}DMu}ye<!BMXDMM.D2eX}}BB.Zj<.DBM<sXX.yX..kjX<}?DED?}Y}B.ZZ?XRs?.=eZjWssD{cDXMsDZs}_Bes}Bez!Xys!ZBXZeByZ?Bs<XXD<.jWZXB}ekDMPLDZy_}MM.DRee<?yB!Dy}.BeX}se.}cyXs.y.!dXX.s?y.GjX<sj.<PBXZsBBBd?XRs?.<8sX-?s.%8DXMXZBM/}Xess.e8!yys!.B?.XXs..XA<Xjs<.yuj!BsZ.BmRX?sRs?(RZsj,.s/MXsJM.DReX}?e.}.?Z!sy.!^y..sX!.JXYeej.<{BX.sB.ZR?XRs}yR-sXKss.GqDXMs?.?<}Xes}.eh!XyX!.M#!MXs..Xm<Xjs<Mj4<eMZZ.BZRX?yR.?uuXssBRsdMXDsM}Dxee}seBs2yX!sy.}bXX.?X..RjX<X}B<8BXZsj.ZC?yRs?sX}sXTss.Z7DXM?D.wZXses}.eT}<ys!.yx}XZC..X^<Xjs<.jBZXBs<yB&Ry?sR.?V>XssZ.?4MXD?M.DReX}Xe.sbeM!sy!!SXy.sX?.SyX<yj.<RBXZ?B.ZR?XRsB!R(sX:ss}zWDeMsD.M!}Xe?}.eR!Xys!.yQZ!Xs.}X3<Xjs<.j#.X<BZ.BZRX?BR.?ZuX?B(?s:MMDsMyDaeX}se.DyyX!Xy.!5XX.sX.!ZXJ<sj?<{j.ZsB.Zz?XRj?.RZsX(Bs.n!DXbsDsM)}yes}De9!eys!sy..XXs..ej<Xj?<.j8F!BsZ.BWRy?sR.?2OX}Rt.sRMXDsM.D=eX}e}.}=yy!sMy!nXy.sX..aX_eej.<2BX!RB.ZR?XRs}yRvsyIss.czDXMs?.!<}Xe?}.eR!XyB!.y}XXXs.!X2}!js<!jPZXBsZs!}RX?sR.j?,Xs?5.s.jZDsM.D+R}}se!}geeBZy.!RXX.eX..kjX.s}j<uBXZsBDZw?yRs?.y!sXfss.7RDXMsD.M.}Xes}.e)}Rys!.ym.BsXZ?B.RDjs.sj-ZXBsZZ!BMjsRMBDZe<DDje!Me!}ZXj!.X!.<Be.MXZ<<y.!!XX.sX.<eDDRX?MR<BX..B.ZU?XR}!ZMj}MyM}se!!jyZZeXM!!Xe.}jD.j?Z<<j?<}?MZs??RDsZZ<?}GDBsZ.BLRX?sRB?OOXssr.?MMXDsM.DYeX}se.DZeR!sy!!dXM.sX..{yX.<j.<RBXZ?B.Z.?X<s?sRhsyuss!6+DyMss.TX}Xes}.eZ!Xy?!.y7}ZXs..Xf<yjs<.jAZeBsZ.B6RXB<R.?I Xs}je!Me!!Ry?!.y/.<jy.ByX!yy.!_XX.}?yZ!BWRXj.<%BXZsB.ZD?XRs?.Rz?y(ss.vkDXMsD.M-}XM.}.eR!Xy?!.yl.XXs!eX6<Xjs<.j0ZyBs..BjRX?sR.?bOXsB(.BoQ.DsM.D)eX}se!};yX}Dy.!oXX.BX..RjX<sje<=BXZsB!ZC?XRs?}RFsXSss._sDXMsD.eeZ}X<.yXB..jy.<yA!IXs..X%<B?!RMsMZXBsZ.B7RX?MR.?)GXssR!s0MXDsM.DfeX}se.}ByX!?y.!RXX.sX..QX}<sj.<5BXZsB!ZSjXRX?.RtsX&ss.uZDXRssXM_}Xes}.e%!yys!.e!.XXs..XZ<Xj?<.jp.DBsZ.BQRy?sR.?SueuMS.soMXDeD.DAey}seD}-yy!sy.!=y)MeX..8jX<jj.<RBXZX!BZf?XRs?sRwsy9ss.X!DXMsD.MR}Xes}.i&{Bys!}yA.yXs}ZXh.eJZ<.j.ZXX<Z.BtRX?sjR?4Jess6ssVMeDsMB?:eX}Be.}yyX!?y.!RXX.XDB.EjX<sXR<wByZsX.Xe?XRB?.RRsXRDs.RZX}MsDsM4sDes}.eF}eZZ!.y!.XXX..XF<XjsyRjlZeBsZ?BmRe?s<.<eJXsjp.sRMX?}M.sZ<}}se?};eD!sy.!WXXe!X..<jX<yj.<ZBXZeZ.ZA?MRsBDR2sydss.8os;BeD.M/}XMj}.eR!XyX{By .XXs!jXg<yjs!.!eZXBjZ.BRRXBDR.BZ!}ss,?sQcDDsM.D*MejZe.}}yX!Xy.!UXX.s}R.QjM<sjB<rBeZsBBB5?XRB?.ZjsXb?s.49DXMXZBMT}XesDMeV!yys!BM_.XXj..yX<Xj?<.jRZXBXyBBURX?s<(?iuyss=..!MXDsM.DReX}se.?-ZZ!syD!Iy?.seM.-eXDej.<<BX!oB..<?XZBMdRp?F:ss!Y,DXMsDBZR}Xey}.eR!Xy?!.yR.XXss<X5<Xjs<Dj/ZXBsZ.tZRX?XR.?ZVXs?S.BICsDsMsDSee}s+Z}9eeDRy.!}XX!BX..&jX<syk<Oj)ZsBBZ>?eRs?BZXsXzXs.Z?DXM?D.Mu}XeXRBed!XysDyyL.yXs}.}e<Xjy<.j.ZXXDZ.BK.s?sR??v%essJ!s49ey.M.D!eXDMe.}+yXDs!B!6yR.sX?.oX<<sX}<?BXZeB.ZZ?XRs?.R4??Sss?_TDeMsD}MS?X8<}.e!!Xye!.eZ.Xys.?Xa.Rjs.BjpZeBs<}j<RX?eR.jB>Xss%.B3R!DsMBDiMZ}sej}(eeBZy.!DXXD<X..rjX.BZ<<mj.ZsB?Z5?XRsB}ResXRRs.ZjDXMsD.4Zs?es}eeJD!ys!.y .Xys..X}<XXZ<.jZZXjsZjB3ZR?s<!?gRZss<.syMXDyM.DeeXs.e.DZeB!syB!;yy.sX..3yX?jj.<}BXZeB.ZD?XZBe.Ra?<csBM{PDXMss}M!}XMg}.M!!Xys!.eZ!yXs.yXu}Djs<.j9ZXBXZ.B}RXBRR.?ZKX?sRDs{WRDsMeDWMZ}sM.}}yX!yy.}BXX.BX.!ZXB<sjB<JX<ZsB.Z8jXDj?.R}sXkes.fDDXKBXmMTD<esDDeC!Xys!.y..Xyb..X!<Xjs<.jb<hBsZBBcZ.?sR}?+ResXp.sDMXBZM.DaeXssOR} e<!syj!Uy<.sy}.sjX.%j..sBXZsB.<ZjRRs?yR3jD>ss.6Hse.ZD.MB}XU8}.e^!XeBMeyI!DXs}MX4<Xjs<.X}ZXBMZ.BjRX?BR.B3RMss(BsuRyDsMjD9RXD}e.}}yX!jy.}sXX!BXj._X<<sys<xBXZsX.<s?XRM?.RDsXZes.RZsMMsDXMODses}.ed}eZZ!.y?.XyX..X&<XXB<!j^<}Bs.MB0RX?sR.B<OXsMO.sBMXDBM.sJPs}seB}H5R!syj! MX}!X..}jX}Rj..XBX<BB}ZwB<Rs?yRasX,sB.FZDXMMD.MD}X9B}.6qDsys!jym!<Xs}.XI.X}M<.j}ZXXBZ.BDRX?s<I?TR<ss_jsuMXDsM..?eXD)e.}*yX!sy.DQ}M.sXX.FX.<syj<KXXZyB.Zs?XZo?.ZwsXFej!bAs}MsD.M2}yes}}e^!XRD!.yl.XXs..XY<XjsD<joZXBsZBBTRX?sR.RMdX?Y .sBMXDBM.DWey}sej}9e.!sy.!JXX}ZX..sjX<?j.<iBXZsB?Z8B!Rs?!RvsXCss.9}DX RD.M?}Xes}.e}DRys!yyfj!Xs.!X(<Xjs<s}}ZXBsZ.0?RX??R.?.XZss).s5}}DsM!DOeXyZe.}?yX!sy.!rXX.sM}.FX.<sj.<7j!ZsB.M??XZ:?.RRsX;ss.b{R}MsDXMzD.es}.e^DX<j!.ys.XyF..yy<Xjej.j><.Bs??B*Ry?sR.?-RP<e{.s,MXeyM.DReXDB.o}3e.!sy!!YXX.sXBDRjX.Rj.<ZBXZ?B.ZZ?XRs!<RhsX6ss!pCDXMsD.ZM}Xes}.ez!Xys!.ylDsXs.XX{<ejs<!j8ZXsRZ.BsRX??R.?raXss?esLA.DsMXDteX}sC.e?yX}Vy.!sXX!aX..}X.<sjX<LZDZsB!Zv?yRs?sX}sXzss.DjDXM?D.M.ZZes}.eIyXys!!yL!eZ...Xs<Xj?<.jPZXBe!!B+Z!?sRD?=Pyssr}sYMX<DM.D/eX}?e.}OyX!sR<!7XX.sX..xjX<sj.!XBX<JB.ZZ?XR??.R;}!assX%WDyMsD.M#}X?y}.es!Xe:!.y^.Xys!BXN..js!Rj6<<BsZ.BeRXBfR.?R^Xss0.st;.DsMXD^M.}se.}ueX!yy.!sXX!tX..!jX<sjy<oBXZsB!Zd?XRs??RPsX_ss.Y!DXMsD.ee!}jM.yXR!XeR!.y#.XX}VZBjRMsMRs?!fjsZZ.B!RX?sR.seM?!Me<}BMeDsM.DveX}se..9Rj!se<!tXX.sXZMX?jRXseeXsjR_sy7B!!M}D<MZ}}Oss.5;DXM?s}M:}XesD}j.!Xy?!.yR.XXs..eC.Djs<!j=ZyBsZDB{ZeBsR.?ZpXsXn.sHMXDsG<DGey}se}}Wyy!sy.}ZXX.?X..hjX<sj.<}XsZsB!Z(ByRs?!R+syAsssj}DXMsD.KR}Xe?}.e}yXys!.yn!yXs.!Xf<Xjs<s}}ZXBsZ.jRRX??R.jGjBssd!s+MXDsM?D/MejZe.}<yX!By.!^XX.s}R.Ejy<sjD<bBeZsBBB5?XR??.ZRsXr?s.I)DXMXZBML}XesD!e;!yys!.B?.XX?..XR<Xjs<.y;?RBsZ}B^RX?sR}?A3X?<i.sRMXDBM.DReX}sB?}hyX!sy!!*XX.sXj.gjX<sj.<}BXZsB.ResZMR}jMZ}e>sse/VDXMsDZB?.BjM.XjD<!XZZMjs.XyD..X#<Xj}eyseo<?4MjD?G}D<MX.De}}ZyM!BMXDMM.D*eX}}BB<DX.<<js<BXX.XX..OjX<}?RRjsjZsBXZN?XRs?ZX?DReX}syj!!eZD.U<}Xes}.ye<!j}ZjjsZ<BRZe?jZ.}M^esBmDsZyys!QoDXR}?grXssoDsoMXDsM.D!eX}se.!eX?ZMj<<BXX.yX..QjX<}?e)D?!6?B}Z-?XRs?.R%sXesX<4SDXMsD.MRD!es}.eE}eRM!.yR.XXB..XU<Xys.}jqZyBsZ!BNRy?sZ}BXWXsBd.s<MXDsM.DUeM}se!}2ye!sy!!VXX.yX..RjX<sj.<UBXZsBBZ4?eRs?!R-sXUss.R!DXMjD.Mm}Xes}.e+t<ys!!yJ.MXs.!X(<XDy<.jdZXB?Z.B(RX?BR.?IUXssRDsUMXDsMZ.?XB<MXX<Dj!.ZBM<ss<ZZ?eRj?}MR??R.?cZsBMZ_?XRs?ZXB}jMR!ye!};yX.MX?!}es}.e4!Xys!jyQ.XXs..yR<Xjs<.jQZXBsZ.B_Z.?sR!?#>yss_.sOMXsZM.DPeX}se.}RyXDsye!8XX.sX..+jy<sy.<}BXZsB.Z(?XRB?.Rl?<iss.pbDeMsD!M^}Xej}.eV!Xy?!.yp.XX?DyXh<Xjs<B<CZXBsZ.B!RX??R.?&AXsXjBsSMXDsM?DWey}se.<?yX!?y.!5XX.sX..}XM<sj.<WjZZsB!Zp?yRs?sX}sX9ss.:}DXM?D.M0<Res}.e^!yys!.y=.XBR..XR<Xj?<.jTZXBsjeBkRy?sR!?5PXss=BK9MXD?M.s}eX}?e.}0yX!XsB!:XX.syB._jy<sj.F?BXZ?B.ZR?XRs?.RbZ}&ss!P8DyMsD.MKsX.j}.eR!Xy?!.y!.XXeX.Xq<yjs.Bj+ZyBsZ.B(Zw.eR.?KhX?ek.sRMXDsXyD%ey}se!}&yX!sy.eBXX.?X..RjX<sj.!v_MZsB!ZE?yRs??RGBX}js.mRDXM?D.M.}Xeee.eJ!yys}By8.yXs..X0.:}e<.j^ZXjeZ.BRRX?sy??>rXss=!s{MXDsM..?eX}?e.}RyX!sy.!8B!.sX}.9jy<sj.<kBXXZB.ZZ?XRB?.R_sX#eB.2lDeMs?AMT}yes}!ez}Fse!.y .Xe...XR<Xjs?ejuZeBsZ.BtRX?sR.XZJXs?k.siMXDBM.?0D!}se!}hyX!sy}!%yZ}QX..RjX!?j.<RBXZ?B.Z.!ZRs?.R_ByGss!cIslBeD.MI}Xvy}.eR!XysZyy(.yXs.}X(<Xjs<.!!ZXBBZ.BrRX?sR.jn}MssgDs_MXDsM}DNeX2Me.}RyX!jy.!RXX.s?y.djy<sj!<OBXZsB.jB?XR??.RRsXass.Z+yMMsD!MI}yes}jeN}Z!s!.yR.XMD..XR<Xjs<.j.eZBsZ.Bx.j?sR!?qRee. .sRMXD?M.DmeX}eR!}nye!sy!!>Xy.sX}.bjXMDj.<VBXZ?B.ZI?XRsy<R>sX*ss.5WDXMsD.RX}Xe?}.eZ!Xy?!.yxZ!Xs.!XE<yjs<.j*ZX.ZZ.BRRX??R.?uSXBsBDsEMeDsM.D_eM}s=.DjyX!By.!ZXX.eX..}ey<sjs<ABXZsB!Zt?eRs?.XMsXpss.VZDXMsD.MaBjes}.eQ!Xys!.yL.X}!..XZ<XjX<.jZZXjsyjB,Ry?sRj?SSessU..!MXDsM.DReX}se.sRyX!sy.!ly?.sX.._jBZ<?sRXsjc<?Re}DeeMs<ejD.YssBc7DXMsDZy}.<XD.XX?!eys!.y).XXs..jJDjjs<?j ZXBsZZ}.M<DjeM?9R<ssh.spMB!<yy!}X<.BX}}Ie!!sy.!oXB<<BsZB?<Zv?Rzj?}ZsBXZO?XRs?ZyX}jMR}<ys!ey<DDMR}ees}.en!Xys!.yzsXXs.BXS<Xjs<Z?jRhs<Ays}RXB?R.?_AXs}XB}Zy<}DXM!ssZ.XX?.BDZ<.j?<jj,ZZX..?jX<sj.Ze?D+XDM_?sZeMD}MZsXRZs.7EDXM}!eXD!.X!<MXB<<jB<}y(!RXs..X^<BsZ-M?eR}BsZXBkRX?sRZ.jMx!MyX}ZyD!ZM.sZeX}se.!ejD.RjBe}j.Z<BDZ!BsR<seX}ssR/s?N<<ZRsBRR sX:ssZXZ}RyR!!Xj.}De.?X..}jyeByU!8Xs..X)<B?<Ry?}ZXX!Z.B-RX?}XM!?yZReeX!jyM!ye_.jX}MeX_.sXR<j}BZDBeZB!BZ}?ebMB<,j?.RRB.Z}?XRs?.VeD!ee}}yM}}MsDBME}Xes}ZXZ.RX!ZMjs.Xy...X><Xj}8M??RZ<e3?s.jZD.M?DsBZssIMsfMXDsMZZyXD!ZBB.Zj<.DBM<sj!.sXj.0jX<sjZRj?lR.s<Mjs?RsBBRLsX-ssZXB!<eC!RXj!}XD.sjyMZBM<}jZeZBeZ}?DZj?<RX??ZMBsZ.jZRX?sR.sey}!MeX!yyD}Zy<!.X?MeXy.BXR<ejBZjB}.sOH.xjX<sjZejD!ee<BMjs^eM}XMZ}DeZRByX}Re9rBXD.eXBMBX}<eBM.<Bj<.jRyB!eRsB<Re?jR.s<jBsxvRDDMsD?BZD!e<}Zye:eXX.jsZ.DXs<?je.<BeZjB}eDX..ZjX<sj.Ze.ZZsBjZr?XRs?ZM?D}Mb}<e.!?MsDjMA}Xes}ZXB<<Xx<RBj<}Xs.?XL<Xjs<Z?X{js<RRBlRX?sR.?)vXss/.s9My<sM.DheX}e0.}5yX!syD!lXy.sX!.wXceej.<&BXZjB.ZR?XRX.BRosXLs.<k8DyMsD.X?}Xe?}.ep!Xys!.M=y.Xs.!Xg<yjs.Zjb<ejsZ.BZRXj}R.?*_XBs6!s+MeDsM}DVc0}se.D?yX!jy.!RXX.sX.!Zje<sjs<;X?ZsB.ZI?XRX?.RZsX5Xs.kZDXRsDsM_}Mes}}eQ!Mys!BMH.XXj..Xe<Xj?<.jRZXBXyBB4RX?sZZ?t_yss+s<}MXDsM.sReX}?e.s^<M!syD!bXe.sXD.OyXe}j.<<BXZjB.<!?XRsBsRPsM8ss}K_DeMs?.!<}XeX}.eZ!XeR!.M}y?Xs.DXx!Rjs<!jq<eBsZs!}RX?sR.B!(Xs?V.s.jZDsM.D5R}}se!}teZysy.!.XXDZX..RjX<sj.<.}ZZsB.Z(X}Rs?!R5sXeRs.r!DXM?D.M0}XesY?e^}Zys!syH.XXs..y.<Xjy<.jZZXBBZ.B}<X?sR??7Z?ss_!skMyDsMsZ}eX}se.DyyX!?y.!.sZ.sX..3eZ<sj!<UBXtRB.Z}?XRB?.R*sXGs<DaKs<MsD?MU}Xes}.eB!Xye!.yZ.XX?..X6!Djs<BjlZMBsZ.BEZe?MR.?D8X?e*.s_MX?sM?DaM.}se?}GeT!sy.}sXX.MX..DjX.2j.<aXRZsBBZp?eRs?!Ru?kjes.W*DXj<D.MR}Xes<yeQ}Zys!DyA.XXs!}gB<XjM<.jjZXBsZ.BH.s?sRB?Omessp!sS0wZeM.DYeXZ<e.}RyXDe!s!3XM.s#}.Cjy<sje<8j2yeB.ZI?X!B?.RRsXfeB.G(sCMsB<MV}yes}!et}gse!.yS.XMD..XR<XjXeBj-ZXBs}}BkRy?sR.}?JXsy^.sRMXDsM.DY?R}seB}6e+!sy.!5XX!XX..!jX<Bj.<ZBXZeX.ZhBRRsX?RQsy,ss!4;s:BeD.MF}XRy}.eR!XyX0By/.XXssZX7<yjs<.s?ZXBeZ.B.RX?sR.?_jMssxjsfVRDsM.D&eX}Xe.}}yX!By.!RXX.sX?.#XZ<sjD<dBXZsj}Zj?XRM?.ZVsX-ss.ZGsZMsDXMFDRes}sei!Xee!.yD.XXM..Xs<Xjs<Mj_<ZBsZ}BYRy?sRs.} Xss,.<jMXD?M.DSX!}seB}tyM!sy.!Gye?ZX..DjX.<j.<{BXZsyYZ5BZRs?}R_sy:sssj}DXMsD.Bj}Xe?}.F}e?ys!Dyl?RXs.!Xw.Rjs<s}}ZXBsZ.e!RX??R.?.XZss;.sP!!DsM!DaeXy.e.}!yX!?y.!;XX.s}../XR<sj?<*BXZsj}Zj?XRy?.RZsXHss.m>sXMsDBMxDZes}.erDXey!.y}.XXe..yD<Xjs<DjW<ZBsZjBARX?sR.?!mXsy&.suMXDMM.D.MM}se.}qZM!sy!!nXXZRX..BjX<Mj.<6BXZe<DZNB!RseDRQsy4sse2gsEBeD.Mc}X<j}.eR!XysZyy*!}Xs.}XK<Xjs<.!!ZXj<Z.B?RX?sR.?A<sssHesaMeDsM!D5MZ<Ie.}!yXB!y.!RXX.BX...DZ<sj.<%M?ZsB!Za?XMR?.R!sXwjs.OFDX)BjeMfDZess9e6!Xys!.MX.XXy..XZ<Xj?<.j.eZBsZ.B5yD?sR!?K<ZR!Y.s<MXy.M.DReXD.e.}.?Z!sy.!VZs.sX!.,XWeej.<VBX??B.ZR?XRs-JRO?RPss.ICDXMsD.?>}Xey}.e!!Xys!.eZ.eXs.?XI<ejs<.j3ZXBBZ.B}RX?eR.?YnXBs !s2+ZDsMBDf3<}se.}!yX!ey.!DXX.sX..8Xy<sj?<#BXZsBjZ{B8<!?.RFsXD<s.FRDXMs.yMED}es}jeL!Xys!Be<.XyR..Zs<Xj?<.jBZXBXyBB%RX?sDX?Kcyss;s<}MXDsM.yjeX}?e.}mj!!sye!&y%.sX..mjXyyj.<jBX<RB.Zn?XRsX-R&?}2ss}%YDyMsDBjs}Xey}...!Xy?!.yZ.XXXMBX0<Xjs?sj6ZyBsZ.D?RX?yR.?<vXssH.?Z.}DsMBDYMM}se.}wyXs.y.!!XX.BX..RjX<X}B<bBXZs!MZf?yRsjB?.sX7js.sjDXM?D.fM}XeXRBe^!XysyMyO.yXs.B.v<XjX<.<jZXB?Z.B%RX?XXB?4xXsssMs5MyDsM..?eX}ye.}RyX!sy.!pDR.sXB.9X;<sj.<&BX<XB.Z!?XRB?.RZsX>ed.:7sRMsMjMp}yes}.eN} se!.yP.X.M..XR<Xjsewj:<RBsZXBgRX?sR.}!lXseK.s?MXDsM.B#MZ}seB}(ej!syX!VXX!yX..}jX<sj.<3BXZsjZZqBZRs?eRasXrss.WRDXMeD.Mj}Xes}.eYD?ys!By5.yXs.!Xo<XyZ<.j}ZXBjZ.B*RXBB.X?vR<ssR!s0MXDsR.DeeXDve.}!yX!Xy.!5yR.sXj./X<<sjX<PBX..B.Z}?XRB?.RRsX{XBR/NDXMsZMM6}yes}.j?!Xye!.y<.XXs..yZs}js<jj+<DBsZ.BmRXX.R.?}IXsBk.sRMXDXBBDneX}s?M}nyy!sMBy.XX.jX.y?jX<?j.<yBXZX!BZ^?XRsZyR,syass.RXDXMyD.M!}Xes}.eW}}ys!?yf!.Xs..X&<XyR<.j!ZXB?Z.B_RX?sZB?oRRssFes3MXDsM.sjeX}ye.}?yX!sy.s7yM.sX?.%Xj<sjX</BX<dB.Z!?XZ<?.RnsXlsss_isRMsD!M)}yes}.j?!Xyy!.y<.XXs..yZs}js<BjN.!BsZ.BKRXX.R.?!YXsBa.sRMXDXBBDbeX}s?M}vyy!sMBy.XX.jX.e!jX<?j.<}BXZX!BZQ?XRs<?R-sy)ss.RXDXMyD.M!}Xes}.e5yyys!?yh!.Xs..XY<XX<<.j!ZXBsZ.B_RX?sRj?#RRss_esNMXDsM.s}eX}ye.}?yX!sy.sPeN.sX?.+Xj<sXe<LBX.!B.Z!?XRj?.RJsXRB?<qtsZMssMMn}Xes}.%X!Xyy!.yZ.XX?..X.MZjs<.jWeDBsZ!B9.ZRXR.?< X<Mv.sRMX?sM.D.BZ}se.}S?<!sy!!YyZXsX...jXeMj.<RBXZsB.Z.!ZRs?.RV.<dss!nCDXyRD.M!}Xe?}.e)!XysM?yp!ZXs.sXJ<Xjs<.X.ZXByZ.BZRX?BR.?}ZXss>?s6BjDsM!D=ey}sesR}yX!sy.MMXX.?X...DZ<sj.<#!MZsB!Z3?XMR?.R}sXR.s.wxDXMsR?MID<es}?ep!Xys!.MX.XXe..XZ<Xj?<.j.eZBsZ.B_yD?sR!?6JX}R_.s}MXDjM.DUeXDBZe};e<!syM!HXX.sX.}XjX<ej.<ZBXZ?B.Z.!ZRs?.Rp.DKss!n7BZDXD.M<}XB<}.eR!XMP!.y.,ZXs..XkMDjs<!jW<eT.Z.B!RX??R.?rPXss}XsLtRDsM!Dmey}se.<?yX!yy.!oXX.sX.D{EZ<sj?<,jBZsX!Z&?XMR?.R!sXR!s.A_DXZsjBMADRes}je8D}ys!.?!.XXs..XR<Xjs<.j<ZXBsZ.B3ZZ?sR.?4pB}eyy!Dye!BM.D}eX}se.!eXZZMj<<sj!.sXM.pjX<sjZeBsjRRDyl!s#MX}Me?D}%?s.&;DXM?D.MN}Xes}MeV!Xys!ZsBZjjRRyB!Zu?X8Ms?R}BsZ.BbRX?sRs?w3Xss .!?MXDsM.D/eX}se.svsB!sy.!nXX.sX!._jX}.j.<LBXZBB.ZR?XRs!?R&sXxss!&FDXMsD.r!}Xes}.MZjsys!.yq.eXs..X{<X?R<.jRZXBsZ.B_RX?s?j?g-XssP}sEMeDsMsZ}eX}se.DvyX!?y.!}eX.sXs.3X<<sj!<aByZsBsy}?XRs?.RDsXV?s.0.<ZMsD.MODjes}!eNDX<j!.y!.XXX..X<<Xje!.jx<RBsZMBKRy?sR!?=RW<el.s8MXs<M.DReX}X?B}TyX!se<!dXy.sy}?XjX<yj.<RBXZsB.Z}XyRs?BR{sX&ss!-zDyMsD.ZM}Xes}.e.!Xys!.ykDsXs.?Xl<ejs<!jQZXMMZ.B<RX?sR.?l-XseXXsmMXDsMsDJey}se}}^eG*ey.!pXX.XX..RjX<sRe<mBXZsB.Z)?XRs?.jXsXGss.G2DXMsD.M8<Res}.eV!yys!.yh!}Xs..X&<XX!<.j)ZXB}yyDDVZsZMMDseD..e?!?eD}RM.DseX}se.!e?y<<X<T?jRZZ?M. X}<sj.<,BBMRDM{<DjMRD?MZDReXs.I!DXMsD.ee!}jM.yXR!Xe!!.yI.XX}SX?jRe?<(j?? D}.,?D?nDsRR.?!IXssg.DeX}!<eZ!BeXDoe.}>yX!}B&ZMj!ZD?XZZ?D<sj?<WBXZsBZhyD<MDDeRbsX&ss.6EDXMyD.Mz}Xe}RMX..Djj!.yb.XXs.}ye<Xjs<.j}.XBsZ!BG<??sR!?HEyssEs<}MXDsM.syeX}?e.si<M!sy}!uXX.sX}.YXe?.j.<<BX<ZB.Z6?X<sMDRYsMOssD+WDeMs?.!<}Xej}.e<!Xyj!.y}!MXs.}Xf!?js<!j:ZMBsZs!}RX?sR.By*Xs?6.s6y!DsM}D(eX}se.}*yXyjy.!<XX.sX..gjX!syR<2BMZsBDZgB<Rs?.ZBsXajs.b<DXMsD.6dD?es}}el}<ys!Dy .XXy..XZ<Xjs<.jvZXXsZDB3Re?sR}?GR<ss0Bs<MXDBM.sBeX}?e.}GyX!XsB!IXX.sye.kjy<sj.#?BXZBB.ZR?XRs?..4j<uss}J&sZMsDyMmDeM!}.eZ!XyX!.ya.Xes.XX3<ejs<}j^<.BsZ.BBRX?BR.?RWXs?E.sEMeDsM}DTey}se.}vMX}Dy.!ZXX.BX..RjX<sXB<aBeZsB}ZN?yRs?sX}sXkss.RyDXM?D.ML.!es}}e5!yys!.yv}XD}..XZ<XjB<.j!ZXBs!aBgRe?sR}?5vyss-..!MXDsM.DReX}se.}DyX!sy.!,y<.sX..UjBMR?MR??}CysDZWBBRs?.R#sBXR}Mes}.y<!syBZ!jM.Djj..BM!.yj.XXs..jeM!sMRDsjR.DMeesM^ZD<R.?e(Xss+.Dej!.MyD.jy.<MBy.jj.<sBMZ?j}.sX?.CjX<sjZej?;R<sDZ2BDRs?.R*sByR!yes!jye!eXD..XB<Mei}}ys!.y7.Bj!Z?BsRyBRRBsD=!s<Z.BCRX?sR!BZkXssL.s}RXDsM.D,eM}se!}Jyy!sys=}XX.sX..<jX<?j.<+DRZsB.ZJ?yRs?.R4?e}.s.dRDXMMD.Mc}XmsjZeL!yys!!yw.eXs!.X!<Xj?<.j.ZXBsZ.X>Z<?sR}?H;yss/DsN=e?RM.D<eX}ye.}#yXDseB!GXM.sXD.PjM<sy..!BXZjB.Z<?XRe?.R}Bs(ss}NFs?MsD!MN}Mes}s?}!Xys!.yy.XX?..X.MZjs<.j&<yBsZ!BnZeM.R.?ZfXsy(.s4MX?s!DDEee}se}}iyM!sM.j<XX.BX..ZjX<?j..C}<ZsB!Z6?MRs?}RVsXXys.9%DXM?D.M3}XMt}.e{!Xys}.yG.XXs.Zs?Z}?yRB?}qDsZjBsXMjD<OR}MMf}!l.sMMXDsM.}eB!.}jj.sj<<RjeZjj.MM?eRB?DRZj.<}BXZsB.Res}eM}XMZ}DHs?<+zDXMsDZBX.jXX<e?X<jX3<yjB7!B}Z<BZR}js<ejTZXBsZZ!?MB}MMX}De!DZyM}sMXDMM.DleX}}X<..X!<<jX<BXX!>X..4jX<}}yR!?V^XDMM?s}Rs?yRosX,ssZje}Dyj.jy.!RXD<eeR!Xys!.y}.XXs..X9.jjs<.j;ZB}.u<s.M}!.M<DsM!DZjy!eyj!BXeD^MR}se.}YyB.!BjZMj}.sX?.djX<sjZRBs<RRs!Z,B!Rs?.RxsBX}}Me<!<yX!?XM.}eB}.eQ!Xys!.y_ZX#D..X}<Xjs<.BeRZsRMjsZMe??R.?=2Xs?C.sAMXDsMMD2eX}seZRBjj.RBy<!j ZX?MR?B}<sj.<nBXZsBsZh?XRs?.e?sXbss.b8DXMsD.R2RBes}.e5!Xys!!yk.XM...X_<XjB<.jRZXBse?BORX?sR!?phXssF!?!MXDsM.sZ!e}se!}xyM!sy.!,eX.XX..RjX<?j.<ZBX<BB!Z*?eRs??R)sX{ss.RDDXM?D.MZ}Xe?}.e}D?ys!.yi!<Xs.!XV<yjs<s}}ZXBsZ.BDRX??R.?.XZss*.sGoXDsM!Dx*XR}e.}RyX!sy.!RXX!Bre.{jM<sjs<mBXZsB.jy?XR??.R<sXuBs.6}?XMsD!M&D?es}!eL!yys!ss}.XXs..Xy<Xj?<.j.eZBsZ.B#ZX?sR!?4hX}RE.sRMXDsM.D(eXss.?}Oye!sy.!2y,.sX..yjX<?j.<ZBXZ?B.<ZMsRs?!R9?ZEss.+%sZZ?D.MZ}Xes}.eR!Xy?!.yV7jXs..X/<yjs<.jTZXy.Z.BRRX?BR.?R:XssX?s,MXDsM!DteX}se.ssyX!sy.!%B<.sX..WjX<sj.<fBX.RB.Z8?XR??.R&sX4s?Z3UDXMsD!M>}yes}.MR!Xys!.yZ.XXs..e9.Gjs<.j6ZXBsZ?BSZZBsR.?+SX?zK.sRMXD?M.D.BZ}se.}7e.!sy!!Ey6MeX..gjX.yj.<RBXZsDyZ-?XRs?}RksXLsB.B<DXMsD.Mn}Xey}._Q}Xys!.yF.XXs.sX&.exZ<.jZZXjnZ.BWRX?sjR?p*Xss0}s8MeDsMBMJeX}se.D!yX!?y.!,XX.XDB.TjX<sX?<nByZsB.M??XRs?.R<sX%ss.27ZjMsD!M(}ees}.eEDXy?!.yR.XX?..X!<Xys<jjvZyBsZ!B8Z.?sR.B04Xss_.sZMXD?M.D.iv}se.}E-*!sy!!{XX}.X..ijX<sj.<NBXZsDyZA?yRs?}R#sXJsB.B<DXM?D.MR}XeB}.vN}yys!!yL.yXs.jXV.Ze?<.j<ZXBsZ.BRRX?BR.?tXjss=.s+MMDsM.D^eXBDe.}OyX!sy.!_XX.sey.Gjy<sjD<JBeZsB.ZZ?XRs?.RRsX4ss.RZs!MsD!Mg}Mes}.ekDXye!.yR.XX?..X}<Xjs..j&ZeBsZsBmRX?sR.?M7Xsj2.s+MXDsM.DmMR}se!}KyM!sy!!4XX?MX..wjX<sj.<2BXZsDyZ ?XRs??RzsX s?}.BDXM?D.MR}Xes}.e8ssys!.y{.eXs.!X-<XDy<.jkZXB?Z.BLRX?sR.?(vXssf.sYMXD?M}D9eX}se.fXyX!sy.!IXX.sX..asR<sj.<kByZsB.ZYBDRs?.R0sXRZs.P&DXM}ZyXe.<yn<jj?.}j<<XyL!jXs..XG<BDRRZsDR.DMMysBMDs8Xj}Be}}<yes%G!DsM.DFeB<.X<<jX?<DjsZy}Z.sX?.wjX<sjZM.s<rjDMZ&BMRs?.RSsBee}}yD}jy<!Xjs.DXj.?XX<jjX<Rs?<RBXZsXn.jjs<.jAZB}.t<s.M}!.M<DsM!DZjy!eyj!BXeDTMj}se.}%yBRej}ZDjjZ<BXGs?DRj??RXsjFXsRZ=j!Rs?.RxsBee}}yD}jy<!XB?.BjM.XjD<!XZZMjs3<BZRe?jR}DRR??.RpBsZXB*RX?sRZ.?MR}Xes!jy!}ZM.D?eX}se.!e?B.<jDZDj:ZyB<RBjX<ej.<hBXZ}sBM?D<MBD}R.sXfss.%ZDXMsD.MEDDes}.en!B?Z<<j?Z!ByZsB.RD?RRejt.!BsZ.B7RBDeM}}DMj}<eX<?yB.MyX.DX!!ZjM.s?<<ZBeZjB}4RB?Z.BL<sj.<pBXZsB?ZP?XRs?.y+sXxss. 9DXMsD.RlDXes}.eH!Xys!}yn}XyB..XF<Xjs<.jRZXBs<!BJRX?sR}?G6yssm.sDMXDsM.DReX}se.}ZyX!sy.!9yM.sX..4jBRe?}PD?jH<sXesDDMjD?MX}jeX}Rj?}RyX!sM_DDes}.ew!B?Z<<j?Z!ByZsB.RD?RRejiZXBsZ.B+ZR?sR.?uAX.sS.s)MXDsM.DWeXssM.}=yX!sy.!rXy.se..BjX<sj.<NBXZBB.Z jRRs?.RCseHss!=QDXRZD.MH}Xe?}.e_!Xyy!.yb.XXs.yXF<Xjs<Z}eRDsjMjs.URDDee?KRjss^.sJMB<.y<!.X}Z.X<.sX!.ZsyZeBjZB?e.KXR<sj.<gBBRZDjd?DyRB?.RusX_ss.Sm!X<DD.M!}Xes}.ye.?BM<<jB.XXs..X_<yXs<.jOZXjB?}BpRy?sRD?{cXssZ.syMXD?M.DReX}ye.DZM!!sy}!Eyc.sX..6jX.Bj.<RBXZBB.ZR?XRe??RCsXwssjSbDyMsD!MQDC?e}.eF!XyM!.yR.XXXMBX{<Xjs.<j2ZyBs...eRX??R.?p XsBY.?Z.}DsMDDfey}se.}wyXM!y.!RXX.jX..ZjX<e<.<;ByZsj<Za?yRs?.RO?Qjes.wKDXvDD.MR}Xes<yez!yys!.yF.XXs}.Z!<XjB<.jKZXB?Z.Bu<Z?sR!?__essQ!sWMX<yM.DNeX}?e.}EyX!?y.!;XX.syR.ljX<sjZRj?FR.s<Mjs?yeD}eDDje<}XVTDXMsD.MRDZes}.e_!XjR!.yR.XXs..Xu<Xje.DjfZXBsZ?B#Ry?sR!?>Rv<ef.s,MXDyM.DReXDB.-}wyy!sy!!9XX.sX.BsjX<?j.<RBXZ?B.ZV}RRs?.RPsy*ss.z>DyZMD.Md}Xees.e%!Xys!DyC.yXs.!Xz.Y}e<.j5ZXBjZ.BRRX?sy??oNXss)!siMXDsM.RXeX}se.}myX!sy.DfZM.sX!.+jX<sj!<0jZBsB.ZR?XZ??.RRsXlss.S.<ZMsD.MmDyes}!eTDX<j!.yR.XXs..XR<XyseZjEZyBsZ!BxZZ?sZ}yBwXsjo.sBMXDsM.DSs?}se!}0yM!sy}!4yZXsX..RjX.?j.<RBXZsB.Z.!ZRs?.RC?yNss!3JDXyRD.MR}Xe?}.ew!XMsjDy-.eXs..XL<yjs!.R!ZXBBZ.BZRXBZR.?xRRssI!sFMeDsM!DEeX.Re.}RyX!By.!,XX}s.y.xjy<sj!<;j.ZsBBZj?XR??.Z}sX/?s.:RDXMXZBMK}XesDBe7!yys!ss}.XXs..yB<Xj?<.XZssBsZ!B_ZD?sR.?,RZj? .sZMXDsM.DReX}?e.}u?j!sy.!_Xe.sX..{jX}.j.<RBXZBB.ZR?XRs}yRWsyhss}5bDXMs?.?<}XeB}.e !XyB!.M&!yXs.}X7<ejs<yj9<Zy?Z.B.RX?BR.?RCXs?g.s(jjDsM.Daey}se.}uyXD!y.!ZXX.XX..ZjX.sjM<9ByZsBXZA?eRs?.R!sXd?s._ZDXMsD.R>s<es}!eo!yys!?yz!ZXy..XR<XeR<.jRZXBsZ.B.yZ?sR.?%<!ssV!s6Uey.M.DReXD<e.}AyX!ev!!OXe.sX!.qjy<sj!<>BXeDB.Z4?XRB?.R4sXYsj=qqDyMsD}M-}yes}.j?!Xy?!.yZ.XXs..X(R!js<}jrZMBsZ.Bc<X<jR.?Z^XsBO.sDMX?szMDkee}se}}5e!!syBsRXX.XX..<jX<?j.<RBXZse<Zr?XRs?.RWsX%ss.y<DXMBD.M.}XeB}.MW}<ys!!yb!RXs.}Xb<XXD<.jRZXBXZ.B7RXBBRy?5:essUDs9MXDsR.D?eX}je.}^yX!Xy.!ue..sX}.Oje<sjD<_BX<jB.ZR?XRB?.RRsXJs.?p:DXMsD!Mu}XessMeF!Xys!.y}.XXs..jeZ!?}R??!R}BBje<?j!<RByZ?e!XDl.syMXDsM.}ej?<MX<.B?s<yjXf?BBZDB}RBjX<Mj.<TBXZ}!yyXs.eMDDejsXR5s.;/DXM}ZeXj.sjM.MXZ.}ys!eyY.XXs.ZDsRDsMRD}?RRsBC?ssRX?MR.?PWXs}jy}!ye!yyXR?eXD<e.}/yX!}?nZMj.Z<syRjB.Z.sMRsBX<RB.ZQ?XR}!BM!D!eD}eyM}RyXD.M!}Xes}.yeR<jj<Dj!.Xy...X0<Xj}ejsMxM}ei?s?MjsZM<D!MJsB7.s_MXDsM.DU.!Bse.}XyX!sy..esMRMB<Z.s.R<?DR!?}:<syZZ?XRs?.R sX.sR<.IDXaZD.M0}Xe}Ryje<<XvZjB?<}B<ZXXZ<Xjs<.jAZXBsZ.BhRe?sR.?n%XssU.X?<XDsMXDKeX}seZZ?jB<yj?<BBD<rX..MjX<sj.Ze}sJDssMB!sMDDXM?D}XR}ZyM!eyZD.M}}Xes}.yeZ.BM<sByZDXs.XX(<Xjs<ZDX=DsR:es!N..RR.?sTXssJ.Dee.!<yj!jXj!{jM}ZyX!sy.!vXXsT!<sYjX.Dj.<VBXZ}!XCjDeMB}MMBD!y.}<e?!jyg!}Xj}ees}ZRM.RD.s.DZseXs.XXu<Xjs<ZD<RRsZuMsZMDsRR.BI Xssw.DejM.My<!.j..<XD.!X}<<sM<XBDZXBe.pXZ<sj.<SBBM.DjCZsDM<?.R?sXkss.Me.!y}!?y!!}B!.MX.!XyM!.y%.XX}ryB}Z.?<4jsBZXBXZ.BKRX?}Ms}jM?ssqjsoMXDsMZ<<yD!sy..ZjD!Bj<?M!?yM<Z!ZDMDDj.<DBXZsB.Re!BeMDseB}ee<s}h&DXMsD.M>}XysZ<ei}Dys!.yl.Bs!ZMB.MBsMRssB)es<tXBYZ??sR.?p*B..e?}sy!!<Xe<!y..DXR<MXK!seZ!9XX.sXZJ??BRy?eR?DZP<sXy?DeMD}yMRseD?XRTB!<?je.yRBjes}?e3!Xys!Z?<ZDjRZZXH.Bjs<.jfZBD!7?ssMeDZyBD!M!}Dee!MeR!XM.DDeX}se.!ej?<<jeEDBjZjX}.7jX<sj.<*BXRse<Z%?XRs?.RZRycss.zY?XsMD.MZ}Xes}.M<!XeB!My#!PXs}}X5<Xjs<.jeZXBBZ.B.RX?BR.j/Z<ssSDs{MXDsEDDAMes!e.}!yX}Zy.!9XX.seV.PjM<sj?<YBeZsX.<<?XRX?.RQsXRjs.RZX}MsDBMQs0es}.eA!XD!!.y..XXe..XZ<Xje!.jgZeBs<7BORy?sR!?8R4<e9.s+MXs.M.DReX}X?B}^yX!se!!OXy.sXBX^jX<jj..RBXZ?B.ZT?XRX.BRFsXqs?!c0DyMsDBDP}XeX}.MR!Xy?!.y=.XXXMBX^<Xjs.!j#ZyBsZs!}RX?sR.BZHXs?m.smXRDsM.Doey}se.}CFX?ey.!<XX}.X.!DjX}s}}<>jmZsX&ZWj!Rsj.ResX9ys._FDXWjD.bZDses}jeJ}Rys!.yA.XyZ..X!<XjM<.jZZXXsZjB)ZZ?sR}?lRQssR}?!MXDMM.D.eX}se.s/e<!syj!&y<.se<.dXesZj.<sBX.jB.Zk?XZBjsR#?!bss}(IDXMss}^j}XMZ}.MV!Xys!.y0!RXs.jXF.}js<}jCZXj<Z.B}RX?eR.?DIXBsv}sp=ZDsMBD_M!}seB}.yX!yy.DeXX.?X..=jX<X}B<QBXZsyZZ9?yRsj.jesXCMs.;!DXhjD.mZj}es}ye-s.ys!.y=.X}!..XD<XXR<.jZZXBe..BtZ<?s<X?_%yssd!sNJgZeM.D9eX?(e.}RyX!XsB!9XX.sMZ.tjy<sy.?<BXZMB.Z!?X.f?.<h<B)ssjvCs<MssDM6De<Z}.e?!XMs!.yW.XXseRXW.<js<yjtZeBsZBRXRX?yR.XR8Xs?6.sDMXDXBBDreX}sR!}^yy!sy.jBXX.MX..(jX<?j..;}<ZsBjZ&X!Rs?BRasXBys.8!DXMMD.M(}XMBX3e)}<ys}By4.XXs..!R<XXP<.jGZXBsZ.X/ZD?sRX?:R.ssRescRX?ZM.DseXDhe.}<yX}By!!4y}.ses.bjX<sj.<jBX<nB.ZB?XRs?.RP?D9ssjAPDXMsD}MLsXeX}.es!XyM!.MB.XesXyXH.!js<?j_!!BsZBjBRXBRR.Xy Xs?*.sRMXDXBBD/eX}sZR}:yy!sy.M!XX!RX..}jX<sj.<VX_ZsBXZ8?eRs?}RP?eXMs.2?DXZ<D.MY}XesD^e/}}ys!!y,.XXs}.XD<XXZ<.jBZXXeZ.jZ<D?sRM?0<Dss0.s6zks?M.D?eXMse.}RyX}B<V!uy?.sy?.LjX<sy.jBBX<!B.Zy?X<D?.RN?XCs?ZunDeMsD.M+}XC.}.eM!Xy?!.yU.Xes!.X4.jjs.<j6.BBsZ.B!RXBDR.?MlXssv.BtJZDs9<D#Mj}sMp}_yX}My.}aXX.?X..)jX!sRD<IjXZsj.ZljBRsj.X?sXRss.R,DX-.D.MU}yesDZep}Xys!}yQ}Xe...Xe<XX}<.jeZXBsZBBnZj?sR}?O3Xssd.?}MXssM.DReX}se.sfe_!se.!nyX.seZ.wjX!Rj..kBX<sB.Zu?X<s<XRJ?XIs?.>3ssMsD.RM}XM?}.eR!Xys!.MK.eXs!!XU.yjs!Zj>.XjMZ.jRRXB?R.?XlXssRRszHjDsa!D-ee}s7.DXyX}Dy.!MXX!}X..)Xe<sX.<EBeZsB.Z#?XRX?.ZRsX_?s.SaDXRsyDM%DyesD!e(DBys!.es.Xy?..yR<Xjs<.yA<BBs<!BuZy?sZf?h:X?!0.?ZMXD?M.D^eXssM,}Uee!se}!^eB.se.!<jX.Bj..ZBX<.B.ZWj!RsB.R=?eNss}Hd?XMjD.b/}XMs}.ee!XysMRy,!?Xs!.XN<ejs!.}eZXj}Z.BDRX??R.?0RessR<sHMXDsMBDreX}?e.DJyX!jy.!8XX}sXs.IXX<sX.<WjjZsj.Z??XZD?.ZZsXRss.Rus=Mss<Mcsees}}e0DXe}!.e+.XXy..e?<Xjej.j/<XBs?ZBTRy?sR.?cR><ez.sHMXe}M.DReX}X?B}+yX!s.<!HXy.sX.e!jX.sj.<}BXZsB.<Y!<RsB<RtjRfs?.(_?X-eD.3x}XM!}.MR!XysDoyw!XXs.!XU.Xjs..X<ZXjDZ.BjRXBsR.?5R<ssR.sVMyDsM.DJ+XsRe.DuyX}sy.}sXX.eXM.YXX<sZX<LByZsB!ZiB^Xe?.RYsXs/s.{RDXMXZBMP}Xese.eU!yys}}ZX.Xys..XD<Xjs<.y DRBs<.BFZX?s<<?xRe?<z.?RMXB<M.DAeXDB;%}4ee!sMj!dXX.sy}!sjX.jj.!RBXZsB.ZoBMRsB.R(?Mdss}a^sZMMD.oT}X}?}.eR!Xy?!.y.7ZXs..X;jyjs<!jCZXX.Z.j_RXBsR.?>4X?sjjsiNjDsMBDtMX}sR.ejyX}Dy.}.XX}RX..mXe<sXZ<%BeZsj.Zn?X<0?.ZRsX8ss.VhDXRsDDM_DyesD!ef}?ysD.eX.Xy?..yR<Xy<<.y-<.Bs<!BpZy?sRX?ARe?Z2.?<MX?!M.DIeX}ss?}tM_!sy}!2XX.se.}ZjX.yj.<!BX!RB.ZvB}RsBBRv?B,ss.-rDXMBD.(D}XMD}.e;!Xys}<yl}.Xs!.Xn<Xjs<.j.ZXj?Z.jsRX??R.?.R(ssiysV<MDsM!DLeXZye.}>yX!?y.!mXX.eX..GjX<sjB<tBXZsBZl}D<MDDXM?sXRRs.uzDXM}<By!!!XD.ejM.RjX!.y!.XXs..jeMB?<3jsBZXjZZ.BiRX?}Xy}ee<DYyj!?e}!<yXDOMD}se.}LyBR!BM<B?ZZB?jZM?DZ3?y<_jjZsB.Z ?By.D<M.}}X.}<es}!eZZyXe.jXB<ee(!Xys!.y5?mXs..XU<X?R<.j9ZXBsZ.B#RX?e<.?S(Xss%ssgMyDsM!DhM,Ree.}QyX!Xy.!RXX.ss?.+jX<sj!<CBXZsB.M??XRs?.RRsX-ss.53!!MsD!MN}ees}.e,!XeX!.y&.XXB..XZ<Xjej.j3ZXBsZeB=Ry?sR.?gR;<ec.s MXsZM.DReX}X?B}tyX!syM!-Xy.sX.b!jX<sj.<RBXZsB.ZfD!Rs?!R9sM:ss.;nsZDsD.MR}Xzj}.eR!Xys!.y.vZXs..XC!Mjs<!jLZXsRZ.BRRX?jR.?SkXBssysHMyDsM!D_M-}seBDDyX!?y.}<XX.?X..RjX<X}B<:BXZsjDZp?yRs?sX}sX{ss.Z<DXM?D.Mh.!es}!eU!Mys!.yG}X}j..XR<Xj?<.j.ZXXs<!BERy?sR!?IRZssR}XBMXDjM.D<eX}se.}fD?!sy!!#XM.sX}.uXZ!sj.<RBX.<B.ZR?XR??.R..Z&ss.ow?DMsD!MID_?e}.e>!XMj!.yR.XXsRyXT<yjs<sj>ZXBsZ.B!RX?BR.?c Xssw.s WjDsMDDaeM}se.}aMX}Dy.!<XX.jX...jX!sj}<TBMZsBDZc?MRsj.Z?sXWjs.4<DXMBD.MAsses}!er!Mys!!yr!;yy..Xd<XMj<.jRZXBsMyB^Ry?sR??EVXssSBBpMXD?M.?DeX}?e.}RyX!XsB!#XX.sej.+jy<sjse}BXZsB.}<?XR??.ZZes/ss!3%DyMsD.MG}X.e}.eZ!Xye!.yq.Xes.!Xl<ejs<}jw<RBsZ.BeRX?BR.?<)Xss_.s%CjDsM!DTeX}seD}-e(}Xy.!lXXs?X..RjX<ssy<QjZZsB}Z>?XRs?BZ<sXtys.<RDXM?D.M}}XeXRBew!Xyss!y7.yXs.sD}<Xjs<.MRZXB?Z.X6DM?sRB?lRRsspss3GZMsM.D}eXB?e.}RyX!sy.!.sZ.sX..lMy<sj!<(XXsjB.Z}?XRy?.R.sXZs<Z&ksZMsDBMoDZesD}ZB!Xe(!.y<.XXs..XCy?js<BjQ<.BsZ}BoZZjsR.?}aXX<,.sRMXD?M.D.BZ}se.}ARD!sy!!VyiMeX..pjXD?j.<RBXZsDyZoBZRs?sRHsXdss.ZjDXMMD.M{}Xes}.ESD7ys!XyY!RXs.sXT!XyR<.jsZXj3Z.B<RXjs<%?TR.ss7Xs(MeDsM.DZeX}ee.}syX!?y.!}?..sX!.Ce?<sj!<OBeZsBsy}?XRs?.<ysX/?s.^0.RMsD.M-}yes}.en!Mys!.yx.Xy!..XL<Xj}MD?!RD?RMM!sYDsZMeD!M,ZM .s!MXDsM.}eBD.XXM.<yX}}y.!4XX.}sMZ??DZSD<R.?ZR<seeBsjMe}MRTsXgss.+Rs!MsD.MpsXD}}.eR!Xys!.y<.XyB!XX:<ejs<}j{ZXBs..jyRX?BR.?Z-XsjW.B>RRDsM}Daee}se!}OeZ}ey.!RXX!:X..RjX<Bj.<.}ZZsB.ZrB.Rs?!RdsXD.s.gRDXMsD.Mp}XesRQea!yys!.yJ.XXs..s!<Xjs<.jRZXBsZ.BDRX?sR.?HRRssI.s%MB<XXj!<XD}Be.}wyX!sy.!>jXsDX..}jX<sj.Ze?ZMMs<Css!Rs?BRdsX(ssZeZ}Re!.Mys}XeX}.e_!Xy}<yjjZ.Xs.MX4<Xjs<Z}y/D?ZeBsZM<sDeMDsM!ssR:sTMXDsMZZBXj!RXB.Zj<.D?sZDBMZ<X..HjX<sj!!!BXZsB.Z}RXRs?.RnsM0ss!uhDXMsDsB}}Xes}.e<!Xy?!.y.IZXs..XU.tjs<!j,ZX}yZ.BpRX??R.?HWXBsjZsiMyDsM.D3MN}se.ZXyX!?y.!ZXX.BX..8jy<sj.<5ByZsB.ZaBeZZ?.RRsX5js.JcDXMsDBMn}ees}.e9!XysD.e}.XXB..XZ<Xje<.jV<MBsZ}BwRM?sR.?(IX?eG.sRMXDsM.D<eX}X?B}7yX!sM}!2Xy.se.B<jX<ej.<!BXZ?B..b<eRs?BR9?Zcsss4aDXRRD.M}}XeB}.eZ!XMs!sy_!ZXs.BXf.Rjs.}X.ZXj7Z.BZRX?sR.?:Z}ss{ys/MXDsM.DneX}?e.}}yX}Ry.!ZXX.eX!.AXZ<sXj<fByZsB.ZwBAXe?.RNsXRMs.SRDXMXZBMJ}Xess!eV!yysD.<<.XXe..X!<XjM<.y&!RBsZBBVZZ?sRs?_zX?s8.s}MXDBM.DZeXssej}ueZ!syB!fyR.sy}.BjX.gj.<ZBXZsB.Z4BeRs?yRQsX ss.*7DX>sD.M}}XMR}.eZ!Xye}yy(!ZXs}!XY<yjs<.j7<w!eZ.BCRXj?R.?R;XsXjBs&MXDsR}D:ey}se.ysyX!yy.!ZXX.sX..}s.<sj!<cj?ZsB!Zr?eRs?sX}sX/ss.,yDXM?D.M^<Res}.e(!yys!.yP!<Xs..XE<ejs<.j7ZXBsZ.R-!X?sRB?2cXssDDM.}eeR}ZyDee}se.}oyX!sy.!VcX.BX..2jX<sj.<,?X}DB.Zw?XRs?.Rm?R0ss.4UM{!?y}!XyRes}!e#!Xys!ZyR.XXs..Xa<Xjs<.j_ZXBsZ.BZZZ?sR.?TFXesL.sZMXDsM.DLeX}seX}:yM!sy!!HXX.sX..ejX<Xj.<RBXZsB.Z#BjRs?DR(seass}LODXMjD.MZ}Xes}.e<!Xys!!yw.XXs.!XQ<Xjs<!e<ZXBsZ.BEM!?sR!?_LXssz.s9MXRyM.DZeX}se.}_yX!ses!NXy.sX}.Vje<syBj.BXZ?B.ZX?XR??.R}sX9X<B96DXMssiMO}yes}.j?!Xy?!.yR.XXs..XOeRjs<}j&ZXBsZ.B#ZZX?R.?<_Xssk.sRMXDBM.D*Zj}se.}HyX!sy.!0XXaDX..#jX<Bj.<*BXZs.jZU?yRs?DR#sybsssj}DXMsD.ZR}Xe?}.eW<!ys!!yb.XXs..Xx<X!y<.jZZXBsZ.B&RX?sZs?E&yssC}s,MeDsRBMyeX}?e.DZyX!?y.!ZXX.XDB.kjX<sX}<EByZsBsy}?XRs?..RsXr?s.&4<MMsD!MH}Xes}.e2}BZR!.y..XM?..XR<Xj?<.j.eZBsZ.Bx.y?sR!?UYX}Rc.sRMXDjM.DbeX}s6D}9ye!sy.!{XX.sy}.ZjX<jj.<.BXZsB.<ZjWRs?sRd?SIss.mwDXMXD.MR}XeX}.eZ!XMe}(yA.yXsD!X(<yjs<jju<W!eZ.BlRXX?R.?RfX?B.es^MyDsM?DdeX}sM}BByX!By.!<XX.sX..KDM<sjD<bBXZsB.Z_Be}Z?.R.sXKXs.UmDXMXBeMC}ees?.eW!yys!.D!.XXe..XR<Xjs<.j)!}BsZjB0Z;?sR.?:vX?Dv.ssMXDXM.DqeX}sM?}Ye!!syD!dXX.sX.!ZjX.Zj.<aBXZsB.ZY?eRs?MR{?REss.(kDXRZD.MX}Xey}.el!Xys}Dy/!!Xs!QX/<ejs<..BZXjaZ.BsRXBRR.?Ks!ssLysxNRDsM.DHeX}?e.}syX}uy.!?XX}syR.{X.<sjX<:ByZsB.<}?XRM?.RDsXROs.TJsyMsD!MWDZes}je%}=yX!.yZ.Xe?..XR<XjsBXj(ZyBsZ}BIRX?sR.QsuXssn.sZMXDsM.DgjR}se.}Cyy!sy.!AXM.sX..wjX<yj.<#BXZ}!M/.sDMj?.RysX=ss.Me<Myy!My?.DB=.MXB.}jy<sDD.Xy}..X%<Xj}MM??wD?Je<s.&Zs<Me!BMj}eyMs5MXDsM.DRM!}se.}GMXe}y.!RXX.sX..<jX.BXX<zBeZsB!Z-?XRsj.R<sXlBs.GZDXMjD.RkDXes}}ez!eys!}yi!Ze...XR<XXE<.jRZXBBZ.B.yZ?sR.?tR.ss:!s)MXe.M.DReX}?e.}_yX!ss3!9Xy.sX..HjX<sj.M!BXZsB.ZR?XRs?.RRsX ss.N&sZMsD.MJ}BXe<yjD<ejB!!y2.XXs.jXY<Xjs<}jFZXBsZ.B{RXBm!.?mRRss#.s+MB.ZXM!ey}}sMR}ayX!syZR.jR<ZB<RX?jRRsjRBsjqyssZ(B!Rs?.R>sBXZ}Mes!<eZ!<y!!Ces}BeI!Xys!Z?BZjjZZ}?j<XX?<.j)ZXB}eyDjn;DZysD!M}}DeL!My!.Mye.MyR.Xe.}syX!sy..e?!Z<BeM?BRZ*sM<uBXZsB.Z)B}Rs?.RisX<ys.(UDXMsD.MN}XfsDseu!Xys!.y+!<Xs!}XB<XjB<.j}ZXBsZ.BNZ}?sRD?o%XssnDs(ZX?ZM.D<eX}ye.}<yX!syX!ty3.sX!.9jX<sX..yBXZjB.ZZ?XRX?..VyZ:ssD(uszMsD!ML}XsM}.e_!Xyj!.yR.XXsa?Xz<Xjs<!j3ZXBsZ!B}RX?sR.BZ}sssq!suMyDsM.DiMZ??e.}ZyX!sy.!RXX.BX..VDj<sj.<FBXZsB.Zn?X!D?.R)sXJss.%(DXMsBCMq}yes}}eu!yys!.?!.XXs..XR<Xjs<.jZZXBsZ.B9ZR?sR.?lwBDZyj}?yyDsMBD3eX}seZ.?XZZMXR<.Xy.sX..9Xz<sj.<vBXZMB.Z8?XR}!BeDD.e<}seBDeMsD.MU}Xes}.XT?jys!?yV.XXs.ZBBR<BRR!jN<RBsZ.B0RBs!ej}MM}ss+.sCMXDs).DleX}sM}DByX!sy.!<XX.sX.}zXR<sj.<EBXZsBsZrBeRy?.RRsXABs.t DXMssOM2}Xes}}eL!yys!.e}.XXs..Xx<Xjs<.j}<BBsZ.BKZj?sR!?ibXssos<}MXDsM.DMeX}?e.}mj!!sy.!PXX.sX..%yXXRj.<CBXZsB.ZR?XReB<R,sXus?O^ DyMsD!M:D#?e}.eH!Xe.!.yR.XXXMBXV<Xjs.<jYZyBsZ.D?RX?sR.?R;XssG.sSy!DsM!DqeX}se.}+yXs.y.!UXX.BX..RjX<sD?<EBXZsB!Zi?XRs?!ResX;ss.Y,!!MsD!Mk}Xes}.eK}ZMs!.yR.XXX..XR<Xj?<.j.eZBsZ.B2ZI?sR!? R&<e{.s8MXs!M.DReX}sjy}kyy!sy!!hXX.sXBy<jX<sj.<yBXZ?B.ZR?XRX.BRrsXps?R5^DyMss}.X}Xe?}.eR!Xys!.MGBMXs.!XV<yjs<}jK<Zy?Z.BZRX?sR.?RTXsBu.s+<jDsM.DOeX}se.}gyXRDy.!4XX.BX..3jX<se,<VByZsB}ZQ?yRs?.y!sXQss.-RDXMsD.MB}Xes}.e^}}ys!.yo.BsRZZ?DZ.sMLy?BkD?_Z.B.RX?sR.see?D<e<sARJDsM.DIeBZXjj.<jDRZj<<?jZZB?jZMD}RD?yRBs<oXDyMj?XRy?.R0sXr}!ye!}2yXD.MM}Xes}.yeRsjD<sBBYsBDZXB?Z}DRRZsMmesZZ}BpRX?sR.?(vXeR..sRMXsRM.DKeX}}BZ.jjMZMjs<!BjZZX.!<jX<sj.Zes!v}DjqsD<MRDeejD.jM!eyB!DyZZyy!!/XX}.e}!Xys!.Xe<ZBRRjBZRejX<.j-ZXBBZ.BNRX?sRX?%^XssbZ<ByD}Rye!syR!De.}.yX!sy..eB?<<B<.;jX<sj.<Oj<ZsB.Z;?XZ??.RKsXgss.zQDXMss.Mo}yes}!eY!Xys!.y}.XXs..X4<Xj?<.yL<XBsZ.B;RX?sR}?aZX?<5.s3MXDsM.DReX}sMy}tyX!sy}!xXy.sX..DjX<sj.<RBXZsB.ZZ?XRs?.RE?D2ss._3DBjZ!<y?.!Xy.sX.<DjR<ey=!MXs..X(<B?RRZsDR.DMMysBMDsoXj}Be}}<ye<?eR!XysDOeX}se.}8e<!sy.!5XX!?X..djX<sj.<6BXZsBeZ_?yRs?!RTsX&ss.Y}DXMsD.Ma}Xe?}.V4}<ys!.yO.XXs.}XH!Xjj<.jNZXBsZ.BRRX?sZy?(PXssg}s#MyDsM.sDeX}se.}RyX!sy.!}XX.sX..tX<<sj.<lBBM.s<Mjs?M<DXRb?}kss.d7DBjR!ZXD!.jM<yXB<DXG!.e..XXs..jeM}?DRy?}YeDMR<!BMjsRMe}DMl}RyM.Bej!eXMD+M!}se.}2yBR}jM<<B<ZXB?RM?}<syx<9BXZsBZyesDMj}jM.DReD!ejB!jeR!ByZ.<yDRejM.!XZZjj.Z!B<NeBMZZ?<<.j!ZXBsZ.?eyDDXMMD<+Xss3.stMXshM.DqeX}sMj}wyX!sy.!GXX.se..DjX<sj.<PBXZBB..%BMRs?.REsX sssz;seHRD.MR}Xee}.e_!XMs}}y+.yXs.!Xu.Rjs!.XBZXB?Z.BRRX??R.BrRsss^.s#MMDsM!DGeXZye.}:yX!?y.!qXX.BX..=jX<sjM<_BXZsBZyBDjoR}yM!DmeX!My?}}MsD?Mx}Xes}Zj?.RjX<syl.XXs..X3.<js<.jEZXj?Z.B:RX?sR.?LdXssR.s&MyDsM!DKeX}se.D?yX!sy.!IXX.?X.}Oy?<sj.<nBXZsB}ZqjX<g?.RHsXEss.>RDXMss<Mk}Xes}}e:!yys!.y?.XXs..XR<Xjs<.jR}?BsZ.B8ZZRsR.?0%XsjE.sRMXDsM.D.BZ}se.}PyM!sy!!=yHMeX..ijX<Xj.<RBXZs}?Z7?XRs?!R&sX*ss.y?DXM?D.Ma}Xes}.eOM}ys!!y{.yXs..XN.Zys<.jRZXjRZ.BRRX??R.?.XZssh.sf_!DsM!D M2Ree.}%yXsZy.!RXX.s?y.Sjy<sj.<)BXZsB.jB?XR??.RRsXwss.ZoF!MsD!M^}yes}seJ}ZyM!.yR.XyD..XR<Xj?<.j.eZBsZ.BGZj?sR!?2RT<ei.sLMXsXM.DReXDB.+}9yy!sye!nXX.sXBDRjX<Bj.<<BXZ?B.ZZ?XRs!<RLsX+ss.WGDXMsD.ZM}Xes}.ez!Xys!.ycDsXs.!Xp<ejs<!j0ZXsRZ.BRRX?sR.?CiXss?es0MyDsM!DYeX}sn.X<yX!?y.!RXX.BX..}<X<sj!<0XBZsB!Zf?XRs?sX}sX_ss.ReDXM?D.,ZXses}!ep}}ys!.yu!ZM?..XZ<Xjs<.jRZXBBZ.BQyj?sR.?tHXssk.s#MXjDM.D8eX}se.}0yX!sL6!gXy.sX}.Cjy<sj.^?BXZ?B.Z%?XRs?.R&Z}gss!CODyMsD.MksX.j}.eR!Xy?!.y?.XXeX.Xz<yjs!XjAZyBsZ.BvZn.eR.?)WXj2F.sRMXsB!pDuey}see}HyX!syBsRXX.BX..RjX<?j.<ZBXZs}<ZV?XRs?.R+sXkss.<MDXMsD.Mz}Xes}.eLssys!!yA.eXs.!Xp<X?R<.jRZXBsZ.B:RXjs?<?YOyssU.sz/<DsR.y<eX}?e.}ryX!?y.!}eX.sX!.VeB<sj!< ByZsBsy}?XRs?.<esXQ?s.o.<ZMsD.MNBses}!e9DX<j!.yR.XXs..XR<XyseZjfZyBsZ!B+ZR?sZ}yBWXsjK.ssMXDsM.DPs?}se!}/yM!sy}!2yZ}sX..RjX}yj.<RBXZ?B.Z.!ZRs?.RzXRwss!lhs-BeD.M(}XZ.}.eR!XMsjDy,.yXs..Xx<yjs!.R<ZXB?Z.BRRXBIR.Xm!Zssb!siMMDsMBD9MeX.e.}RyX}Zy.!5XX.eM!._je<sj}<3ByZsB!ZN?X!D?.R(sXdss.LkDXMsBqMW}yes}}eP!yys!.?!.XXs..XR<Xjs<.j}ZXBsZ.BnZY?sR.?5dB.Dey<DMXDyM.D>eX}}Bs<DjM<<y.!}XX.sX.<eBZgM?<Rs?!ZsBeZS?XRs?ZX?}ByM}XyD!!eZ.Mys}XM.}.e&!Xy}RRBj<}sRZZ?MRe?ZRXsjR+BsZ?BFRX?sRZ!BMR}ye}s*MXDsM.DR/D}se.}keej.y.!RXX.jX..hjX!sRD<FBeZsB.ZIB_Rs?B?&sXrBs.PBDXM?D.M4}XeXRBe2!Xys!eyJ.yXs}.Z<<XjB<.j5ZXBXZ.XLXB?sR}?N^ess+?spMXsXM.DZeX}Be.}ZyX!e!.!oXe.sXe.+jy<sj.<ojCyeB.ZA?XZZ?.RRsX=X<Bx^DXMsDMMG}yes}..B!XyB!.ym.XXs..XlX<js<!j+ZeBsZDBJZm.eR.?WrXB#%.sRMX?sBZDQMZ}se?}tyy!se}?BXX!&X..}jX<sj.<N.?ZsBBZWB.Rs?}R:?Zsss.{}DXRYD.MR}Xes}.e.RZys!.yv}.Xs.!X{<X?R<.j}ZXBsZ.B RXjsDD?_R<ssi?sOMeDsM.{BeX}ee.}}yX!My.!}.X.sXB.Oy.<sj!<OBXZsBsy}?XRs?.ZssX*?s.S9M.MsD?ML}ees}.en}ZBg!.yR.Xy!..XR<XjB<.j.eZBsZ.B%Z??sR!?pxX.y{.s&MXD?M.DQeXDRe.}KyX!syX!qXX.sXZMM??RX??RssD*ZB.Z.?XRs?.Se.MjM.B,fs.MsD.MK}ByQ<MXD.DjD<XBj.XyZ..XT<Xj}ZR?!R.s?gys}M<DReM?lRZss%.stMB!eXy.DXe.Be.}?yX!sy..e?sZ<BZRM?!RBsMR?BX<!B.ZW?XR}}ReD}jMZ.Qe!}.jR!ZXM.eXZ}.eM!Xys!.Xe^sBDZs?BMs?DRX??R}}R*ZDMMeDZR.?joXssV.DejM.My<!.BM.yje.jje<<y.!_XX.sX.!ejX<sj.<4RBZsB.Z*?XRs?.RPBXRZs.Y&DXMsD.Ms}XMBDseu!eys!yy2.XXs..XD<Xjs<.jZZXBBZ.jZZ??sR!?-RRss0.sT7e?<M.DZeX}je.}4yX!sy}!9XM.sX..5jX<sj.D/BXZ?B.Z<?XRB?.R}BX+ss!85sDMsD!Mk}yes}s?}!Xys!.yj.XX?..X.MZjs<.jp.?BsZ!BdZZjsR.?Z8X?}4.sRMXD?M.D.BZ}se.}JeB!sy!!byzMeX..bjX!!j.<RBXZs:eZ)?MRs?}R3sXas?}w}DXMXD.M.}Xes}.i#D?ys!syv!CXs.jXL.eX.<.j}ZXBeZ.BvRX?sZy?_R^sshBsVMeDsm}D.eX}ye.}.yX!sy.D0yR.sX?.uXR<sjj<ijeZMB.ZD?XRB?.RFsX8sZRFAsRMsDjMF}eesD}?)!Xye!.y..XXs..e:..js<BjW<ZBsZjBOZe?BR.?s>Xs?=.s,MXDsMDD7MZ}seX}QyX!sy.!MXX.jX..&jX<?j..5}<ZsB}Z3?yRs?DR;sXXys.r,DXM?D.M=}XessZeR!Xys}}uj.XXs..Me<Xjs<.j}.sBsZ.BA.j?sR!?8uXssVs<}MXDsM.?MeX}?e.}u.}!sy.!YXX.sX..:jXHDj.<RBXZsB.ZA?XRs?eR3sXnss.iCDyMs?.!<}Xes}.eg!Xfy!.eZr}Xs.!XcDDjs<.jT<eXuZ.BZRXy}R.?^cXse<!sQMMDsMXD=ey}se!}HyX?Dy.!gXX.?X..njX<s!y<:BeZsB}Zi?yRsB}RDsXSBs.<DDXMsD.WZDDes}De)}Xys!.yp}Xye..X<<Xjj<.jMZXjB<DBzZW?s}<?mIXssZ.?sMXDXM.D.eXDXe.DZM<!sy?!TyX.sX..>yX?jj.<!BXZyB.!??XZByXRG?ZQs?.T#DXMs?.Mj}Xee}.e}!Xee!.yk!jXs.jX/<Xjs<.jI<ejeZ.BsRXy<R.?*+X?BTys^-!DsKjDSeX}sM}DDyX}Zy.s!XX.sX...jy<sjX<+XXZsB!Z8?Xjy?.RXsX(ys.okDXMs?!MPD?es}Men!Xys!.es.Xy...XZ<XjB<.j%..BsZjBIZD?sZ+?,oX?<u.sDMXs.M.DjeX}Xes}te.!see!=Xy.sX.!XjX.pj.<sBXZsB.Z}XyRs?XR_?B%ss!AQsZMsD.ZM}Xes}.eZ!Xys!.y_sjXs..X_.ljs<.jQZXeDZ.BuRXB4R.?7vXss.<sSMXDsMDDEeX}se.?MyX!sy.!DXX.sX..QMj<sj.<%ByZsB.Z-?X?!?.R?sXRts.ElDXMssjMGD}es}.eo!Xys!.ys.XyR..XZ<XjB<.jhZeBsZ.B#Z!?sR.?Y=XsB#.s_MXDBM.D:eX}ses}4yX!sy.!JXX.sXs!xjX<sj..yByZ?B.<ZMsRs?.R3?yIss.G;?XD<D.Mi}Xes}.R!!XeB}eyq.XXs}DX/<Xjs.}XRZXBsZ.jRRX?sR.j3Ress=.sxMXDs<<D3Mes.e.}iyX!By.!EXX.sy!.3jX<sj!<9BXZsj}Z}?XRs?.<jsX5ss.RZysMsD.Mfsees}.etsZ}!!.yz.X2<..XR<Xej<.j.eZBsZ.BV!D?sR!?KKX.yF.sYMXD?M.D^eXDB.>}0yX!seR!(XX.se.MjjX<sj.<UBX.EB.<ZjRRs?}RqsyQss.NzDXMBD.M9}XeB}.eZ!XeB}=yE.yXs!RXL<Xjs!.XBZXB?Z.BRRXj_R.BZZssscDsm.!DsM.DbeXDse.}RyX!jy.!ZXX!BXB.hje<sXR<uBXZsX.<<?XRB?.RZsXZ5s.RZsBMsDsMQsBes}.eE!Xe?!.yZ.XXX..XZ<XXB<?j_ZMBs<RB=RX?s<.B.mXsj&.s<MX?VM.sZMX}se?}LMR!sy.!FXXe!X..<jX<yj.<ZBX<Bm,Z BERsBRRWsXusB.?MDXMXD.M.}X&o}.MZ}.ys!Bya!RXs..X-<XXe<.j.ZXBeZ.BZRXjsZy?*RRss+.s^<MDsA}D!eX}ee.BZyX!sy.D eo.sXB.(XZ<sM?<Jje<sB.ZD?X.!?.RJsXRBeFkus.MssRMd}Xess.B?!XeQ!.ys.Xy}..Xm.Xjs<Bjf<.BsZ}BW.X?MR.?}hXX?:.?yMXBsM?D6MZ}sR<}CZ?!se}!sXX.MX.sZjX<sj.!mjZZsBjZ_B<Rsy?R5?eRXs.{sDXtZD.M_}Xes0?e8}!ys!ByI.XXs...X<XjM<.j?ZXBBZ.jZZ<?sRX?L!ysso.s5RXsRM.DseXDve.B!yX}BeR!gy!.sM?.gjX<sX}.jBX<ZB.!j?XRs?.ZZ?yCssM/^jDMsD.MGDeJ!}.eX!Xu7!.y>.XXseRXv..js.ljHZeBs<.j?RX?MR.?}IX?3w.?ZR?DsMXD_<y}se.}UMX}!y.!sXX!kX.s!jX.BXM<lj!ZsyMZu?XRsB}Z?sXRZs.<jDXMsD.QZs.es}Me{}Mys!.yA!ey!..XX<XjM<.j+ZXBsXRB/Z.?sZx?(TessR.yjMXDMM.j5eXD5e.DZM.!syX!4R9.sX..>yX.}j.<sBX<rB.<j?XZBBeRq?!JsB!SIDXMss}My}XMZ}.aR!Xys!.eZ.yXs.MXE!yjs<.jTZXjjZ.BsRXB<R.?ZaX?sjjs#A<DsMsDSM.}sR.BjyX!My.D.XXs<X.DOy.<sjj<ayZZsMRZ:BeZM?.RssX.Bs.:/DXRssjM5D.es}Xe:BRys}}eB.XyR..(e<Xjs<.ju<MBsZeB=Z<?sR.?v2XB4>.ssMXsZM.DZeXDB.h}%e!!sZ!!VXX.se..ejX.Rj.<?BX}yB.<Zj.Rs?eR2XR_ss.z9seMMD.Mj}XZ<}.eC!XeB}Dyx!sXsD?X*<Xjs.}XDZXj!Z.yORX?sR.?6Z}ss ys#+?DsM}DVMXD.e.}syX!ey.!?XX!BZ8.;X!<s !<7BXZsX.Ze?XZR?.R?sX.ys.RZsRMsDeMlBDes}.e2}eyX!.yj.X_<..XI<XXB<Xjk<sBs!MB0RX?sZ}?<7X?!f.B_MXDsM.DdMX}sey}^e?!sy}!KyX!HX..sjXDsj.<?BX<BBjZKB!RsysR5sXCsB.&?DXdRD.M?}X5<}.MZDDys!eyasDXs..XO.eXR<.jjZXyZZ.B_RXBBZe?:RsssRjs5MXDsM.D<eXDRe.}XyX!By.}byD.sXX._X6<sjy<3yX}eB.Zs?X<Z?.ZMsX<sXB4Ts.MsX.M_BsesD}eD!XeR!.R..XXs..en!Zjs<yj2<!Bs}?B,ZeBAR.?BlXjy#.srMXsB+XD_MD}sR?}lyX!se}!}XX!.X.D!jX<sj.<(ByZsByZ,BsRs?}R4?XR<s.wsDX<:D.M?}XRsBBeW}.ysDvy_??Xs!}y!<XXR<.j?ZXBsZ.X6Zj?sRy?{R!ss<Bs&RXsXM.D?eXDRe.sDyX}sy!!#y..sMB.SX!<sy..XBX<RB.Z.?X.X?.<O?Rvssy5&s!Mss}M9DZR?}.ej!Xyy!.yR.XXB..XIDjjs<.j><<BsZ.B4RXyDR.?llX?La.sPMXDs?jDSM!}seM}{yy!syBsRXX!RX.!/jX<?j.<RBXZse<Z%?XRs?DRHsXOssB<RDXuZD.My}Xe?}.eR!Xys?<y6.XXs..XN<Xjs<.DyZXj<Z.B{RX?sR.?{RRssR#sQMXDsM.DhMZ??e.}yyX!sy.!RXX.BX..AMj<sj.<rByZsB.Z;?X!D?.RLsXR<s.>TDXMeB!MxDBes}}ev!yys!Dyg.XtD..Xq<Xjy<.j4ZXBs}<BpRX?sRM?>iXssL.jMMXDsM.DyeX}se.}}Cy!se<!Wye.sX!.(jy<sj.}MBXZsB.Zj?XRs?.<vZM&s?.E4DXMsBeMfsXMR}.Mh!Xes!.eZ.XXeD!Xl.ejs.!jNZyBsZDBLRXyDR.?(TX?.w.s_MXDs<<DSeX}se?}lyX!sy.sMXX.sX..ejX<sj.<lDyZsj.Z*BeRs?!RksXZ.s.RADXMsD.M.}XRs}}eF}XysD?y)}jXsD.y!<XXs<.MBZXXDZ.yiZM?sZ.?kRsssZ<sHZXsZM.sGeXBMe.DMyX}BeD!Gyy.syy.LjX<sy.?<BX<?B.<R?XZ<?.Rd}Zks?}-wDXMsDsMi?XM}}.MZ!XRe!.Ry.XMs!mX8.ejs}Zj5<.Bs!.BBRXBBR.jXEXj?u.j8AXDsf}DCR!}s%<}%yXDZy.}<XX!jX..LjX<sX<</X2ZsB.Zk?XRs?.DXsXRys.v;DXMsD.RAfMesDBef}2ysssy(}Xys..y}<XXe<.XZZXBe!!B;<.?sZ<?tUyss_!snMXjDM.DSeXDye.}VyX!s<j!#eZ.syX.Qjy<sy.<XBX<eB.Z.?X}.?.<VsMAs?BhN?ZMss}M+DZR?}.Ms!Xe.!.yR.XX?..XJDjjs<.j+.RBsZ.B5RX<MR.B}%XBKc.sRMXDeZ!D,4Z}sMD}myy!sy!!CXXsDX..(jX.sj.<JBXZey!Zxj<Rs?eRtsyasssKPDX<DD.M=}XeB}.et!Xys?<yH.XXs!}X9<Xjs<.eMZXBsZ.jRRX?sR.?-.jss:.saCRDsM.D0MZ??e.DsyX}Xy.!RXX.?X..KMj<sj.<+BeZsB.ZdjXjj?.Z?sX6?s.<ZDXRssXM*s!esDyeU}eys!BfR.Xe<..Xj<Xj?<.jDZXBs}<BYRX?sZ??&iXssH.jMMXDsM.s}eX}se.}IRj!sy.!VyR.sX..FjXDDj.<-BX<jB.Z#?XRsy<R^sX)s?j3/DXMsD.ZM}Xes}.M.!Xys!.yfsjXs..XU<Xjs<.jKZXMXZ.j?RXj<R.?R_XssRysqR!Ds)yD7eX}se.}RyXDZy.!8XX.sX..}ey<sXM<GjNZsB!Z/?yRs?..MsXNss.RBDXMsD.MZX!ess7eL}Zys!.y%!ZM?..yy<XXR<.jRZXByZ.Bt!j?sR.?NZ!ssz.s&MXjDM.DfeXs.e.}fyX!sR<!=XX.sye.vjX<sj.}MBXZsB.Z9?XRs?.R:Xj3ss.qIs!MsD.M_DZR?}.Me!XyM!.yR.XXe..XuDjjs<.j9.!BsZ.BqRXyDR.?f-XB<V.s6MXDs<<DteX}se?}WyX!sy.sMXX.sX.!XjX<sj.<,ejZsB.Z5j}Rs?.RnsX.Ds.i-DX5RD.Mv}XMB<.e{DBys?Mym.XXs.BMR<Xy}<.jRZXB?Z.BZRX?s!<?q_XssRysCMXDsM.BMeX}se.DXyX!sy.Du!!.se<.vXR<sMX<3jZ<jB.<M?XRj?!RRsX_?s.Y.<ZMsD.MQ}Me?}!e9}Wse!.y{.XXe.!XR<Xjsy?j7.jBs.ZBCRX?s<.M!PXBsx.s!MXXmM.DKM<}sA<}nye!sy!!oeXBjX.!MjX<yj.}yBX.sXXZ-jjRsj<RV?e0ss.kjDXR?D.be}Xes}.e_}!ysD<y-}yXs.!X8!XjX<.XMZXj;Z.B<RXjsRD?aZjssZ<s_5eDsMBBReXs?e.}<yX!?y.!eXX.sJ<.0jX<sjX<SBXZsB.!M?XRs?.RBsX4ss.0_jjMsD.M7DBes}.eL!XRD!.yx.XyR..Xk<XjsD<j,ZXBs<<BNRX?sR.XMPXss_.sXMXDsM.DcZj}se.}_yX!sy.!=XXsDX..QjX<yj.<WBXZse<ZN?XRsBDREsXoss.<MDXMsD.lZ}Xes}.er?jys!.yA}>Xs..X <XMD<.jgZXX=Z.BbRX?s!<?E&XssZRs_MXDsM.BMeX}se.}DyX!sy.!)Z?.se<.Eyy<sj!<CBXZeB.Z*?XRs?.RfsXms.?_LDXMsD!M=}Xes';WsVIcwcUtsZcCEXev='Py:X>G&cCY}U*8sh>X{cscUYCcG>8hss*sYCGs>5p&88}8XCGG8sUyC:GXyhXX(c**YUcch*ycUYUUChG>:XhhC>Y&>y>Xyc8*}UCc5*:G*Y*UYh&>XXkhY>UsGyGX:cs*UUYcy*XY8Y8U}hc>>Xyh}>UY&y&XXch**U}c:*>:sUUyC>G}:XhC*h8y}G&}XYyGY}UsGYy8hYhU*hY>&XXh*>sXCXY:&Gh>py*XYG&YXXUhsXc8>}yYs}}GU}Y&yCX*8c8s&cXsyY:&sCU}CsGCs>%C}:&cC)TUsX8*&*csG*:XUg*&GcXX>*8c}*c}>s:Gs}WXC8&T:hXy*g8GUyXXGch:hYC:GYyY:h8CY>}:XCy&s:U&cU>C:UhG*&};GCcG>YVs88UYXsGGh8^>C8YC:>Xsx*Yh}8Xsy}XXU8CsGhXXhY8h}:UU>*y8yc}c**YyGhXYU*8:cUXc>G8sU:*UG&:}shU*YCUyXUyXBhsX&sY&GC:}hs*CG>cCy:8chbc}GAys8*ss**YX:NX&*c}XU*>C>CsYU*YGG}cXh8Zy}ccyX9>G:y}X*c&:&Yh:*YCYYh>C?>y:}CCyGy:}sUUCYc&8XYv8sdYYU&C}>hysh}chY}Xs>G*s8Y&Gch>8s sschGUc>hh2:8-c0X}yssXh*C&G*GUhCUY8s}Xcy>U*ss>C8>YGcss*>88&c&8d*8:YhcUY>:X::h>Y&Gy&s>:jc8&U:Xc>8h&*XYLG*XX_>Uh8Y}cX:Gy:XhYc&YGGX:shc8h}>c:>**hss}*CcGj.y*G8s&C:C>Gscss*tChGc:8hcY*YccyXC*G8UUXCU>s:Xhyc*Y::XHyys}sc:XXGCy8sU*G>CGsRc*X8y&}XsGcsys&U&>*yYhGvs*Ycv>y%**UsCU*CyGw:*Uy*ccWX&)c8s}*csXYGX:y}**UY8cXhS<h*8}CcyGYyss**&>Y&C:&0y*}cUXhGCs:}:UU&ycz>X8:*8}c&shUyysY*yC>yM:&*hCUYYXF4&yh}Y}U>hy>syU88&&&XG6>8UYXUcG:GYs:UYcYY&&}:hhs8}GhcGyss>U&C>GC:&scOy*hG}cY>U:yYsU8cUG&yhuc**Y}c>hcy&8>}hcC:Ys8b&Y9G6c}Bh.}8YUYc*>*:&hhc}C*&}XyUs8&}GCG>CyCh:*U>s:l!Xhs8CYh:*>:y*sXc,C&&T:cU>*}}:c}X8y:s;&UCyy:he.8Y8&y::>cJ*8}U>Xc>8h&U:*VGY:8>&8_}GccXUJCs>h8UCGCG*hUU}s:}>c&>}y>}^*>Gs:XX**&*Y&c:CX}yC8h&*C:yXshuCYXYC&G0}sy}&Uh>Y:pyss8c*Yy&8shyX}sUGXsyG8GsUY>G-Gsh>8>}Tc>XcA>sCU>CXG}y>Xy{G*}YYcGh}yGUY*?>YG>svh}*CGU&Yh}8&shcYGyy8hyUGYYGsccXX8:8>&XCC>8yUhGcCCsXchX yYC&sCcyXyGU>c*>Y:GXs*sY*&s&*hUyCs*UyCVG*syhc}e&GXcvU8h}U&YCXGy8*hU*8}X:lXhh88C}yCY>sy*h&cYYCG&Xyh}}U&hCCy:8:h*Yy>8&>X&u*CYUXX>X8yUs:&hchX&y1sYC>}>cChc:yU>}hCYGI88hX*U}X&&XU_YY>}}XUyYX&*&C}>Uc/XG6X88&-c&yh8UsYC:G&&hh}h8*U&>XyO8:&UCCGG>:&sXqS8>YY&C>>*Y8hCC>s:Ghc*)Y&Gy&UXY*>sXUGCUAC:csG*RCYcyX&V>8s&yCVXsyYs:YXGcczh}U}**cYCy>8y8hGUsC>GCX&8f*U}G&*hYShscUhC:ws:>*8CYYc:s/>y8}cc8Gyy:8hUU8>Cs:h=>5XYyUGGkGcsgUcccY>&C:8h*8CG8cXy*sGUcCCG>:8sGhh*8GCcc>YyhY*UUcYG>y8{G*}YCc:hGy>8:}8c&:csUW>Cs>s&Xt8*X*sccc.y8y:UCCYGhG&h**8YsY}>Kyysy8sC>GG:*::*CYCc:&&y>s>8Ych>h:yy8*XY>&C&ykc8Y}C}GG5:yyCUsCh&+G*7Y8C*hcG>GysyX*yCsC&:*h*8&*}c&>cX8s:8hC}Cy:chC*8*G&UX*y:NY}hC,G>>8hX*XYYYyXc<C8C8GcU>UyhyY*:UU&YX}:s8>}>cYc::4shsGCUG*X+:Y*h}{cX&8y}s}sRC&Gc:}:>8y}XYcX8-8s>8UCCGX>sh>*GYsY:XhZ8_G}}}cG:>Ysh*DYGC8XX3>8}8ycc>Cy*yGUUCU&yGYhh8=}eY8>XyXscsyCYCX:Yh}*h*c&8XsyGiUUYCYcs:Yh}hyY8&}&>y4888cc8>s:cyU*YYyCsXY1}Vy}ccC>}>Ghy*3UCG8G}1Gh*}:cX>C>Js&UcC8C>:}hU*h*C&sXsy>b*U:CXGXG9h&*&Y}Y>X8X&s>U>}Y>h:yhys8YX&>X}Xy8c}ccYcG::shsCCsGh:h:*8:}Xc*c_yUsssXCYGU:}:c8XYsY}>&y&i8UCC}C;:G::***>&}XUyyaCU&CGcU:YhYssY>&>X8X:8C}Cc}c&:yyC*&YcCUXy-:8X*hcG>&y&yX*yY:C&X>.XhYYhc;>&X8sCUYU=Gs:h:X*YYU&}&cL88sU>}UGy:Xh>shY*&8&:388h8GC:G>>Cs8s}Y>C*X:OX8Y8+cs>8>Xhy*yU&G*:*MGh}}?cg>:XssYsIC&G&:*:>*}YU&U&CMs8hU>}*G:::h>hZY&&cXUX>8}}UCycCyssh*cU*&cXC:h8U}Y}:>CyYs*s&YX&GGYhh8<}GY8>CyUytU8ChCX:8sU8G8t}}cyhsy>ssUG>:GCX:hYC&Y*c>>*ZhYUUyG}y&:>U}Yy}}X*p>*sYUccY2ysyhssCh>8cyg*yXY*cXXXGUy8sh*XC8yYX88cY*UG>yyXyX}yUXYyGCsGhUC*&CCy;UsXs_c8G}yhXCh>YC&U:>XYyGYcUUG&G8s&U8c8YXX*hCO&Yhc>>UyY8h}*C*&:XyH:*hC8}}cs>Xy:sscXCCX:XY*:*8GYcX>y8>s:cX>h&Ch:*&Y>&C:sy:s>}C*ycUyUy8}88:Yc&GXh*:8CCyX8>UsyUC8yC8X:hG*:YsUc>XyXs&UYc>Yy&G:}hY8GG}c2yYs&}sCXG::}s:h**}GGc>>&y*YYUCc&Gyy}^:*cYG&hh:yy*h}}cX:>sCOyCU>U&yXUj:Ch}Gc8GGyCs8UU>&G*s8*UsCcCX*h8::scUGChy::C8yC8YUX:(C:yUyCy>Gy:sstc*GY&X&hXy)s>}YcCG>8YshYC&XX>hh8>Y/}}cCLX::h>*}>c&&:>hh*CUHcG>Xy8}<Uhc8GC:y8:Y&}hXYhYBhsYU1X8GX:U4X*&G:&Cyy*88Ucy>C&ysUU8YGG&:XhhyC}&cUcCyC8GhYY>YU:>hUUU8C}*cy> y*}yUc&f:Ch8*sYscy:Y>XyyY*UUC8&XszhhU8YC&y>YRs8*U&XYGCy&hyU}&U:h>C8:Y:}8Gy>U:UhGUUY8&XX}f}YG}CXC>*:MsGU>YwyG:U8>YCUyX}d***sYU8C:Gy:8U:*Y}YcXXYyUsyUCCCzU:}UG8yGC&GSsicYsUcXGGCy*h**sY*&Ys*#c}CU:CG>X8}sCCyYC:::**GYYU:XU488&sXU8C>yyXYhU*8}y&Uhcy*sUUhC,<*:yh8chY*c3XG#>s5&GCY:>:&UyC}}X:*hs*c8C}&XYGGhQ*yccC::*s}*:8s}Xcy>U*ssy*:C&GX:sU>*}}>&UhCyGsY}sc8GY8sh>Y8Y8XlXGy8sY}UXhG&syU}8XG*:shc*C8*UIcG>>:k}GUU&>&&hyhhY>}GcXhs::U8Cs>>>hh&Uc8}Yh&8>c*}s0CYCGy*Xc8:8RCC&hXXy:*X&hc8y:yhhc*hY:&cXG*_s>chGLW&yyUYcYY*&y:hNYC*}:>U>>:sUsc>ch:>schU8X}U&s>XyyY**eGU:*s:s8YCGGcCX84UsG&CY:>G:0sYY}Y>c>XsT>s&}*CXGX8ss*C>Y*:XX8rysyUXCy>s8yh&cUG*:yX>Fp8>&GcsMcyh}YUX>CGG:hh&CXYYcy>Y<*sy}hX}GshY*}CECUX>hXy&8U}YCXK&y**G8:CG&%:YQ:8}U:cG>}yC}X*c&:XXsYh>YYG*ch>>y:s*&hCG:sXUss*YY:&y>G8NsGcCc8&GXyhXCcYs:Yn:yU}>c&Xhy-sys&YGY5&}XyUs8U}hc>>Xyh}>*C&X&Gh#*Ys:&U>>9&y&8}*Xcs:h:CU>*}}>&UhC_ssC}hX*G::*hXC_Y&cTXc*>8}U>cUZCyshCUh>*&:X*=XYp}&>h!UyY}hCYG*XOh:UhYscXXsMss>}fU&Y_Gcs>hhCsYUXyy>y&s}}hcsG}8hFXYs}8C^lhQUsGUYXC>shcUU8>G8:}hhyC8c}CXX>C:>}&*XYcG*:UecC*}U>U>c8sh:}YY>>8:hsC8sC8XyXh8>Uc*jcYG>y8*s8S&sccXNy>8>CGcs:G:?h}*y>s&UXhW>8X}hX>>U:UhGUUY8&XX}N}C8}>Xc>G8}h>UCYC&}XCiGCC}*&G>9mYUCUXC8G>syhs8:Yc&&>:*c8sC&>:GyXyhU*y}X&Y>TySYU}C>yG%s/h>*CC8G*XCU8s:&Ucsyss:hUC>G&::hcy=Y}&}:U>Cy*syU7C*yyXG8n8hU,CXnX:Xh&c&Y&&YX}h}*sYX&:Xs*Xs8C:>XycXJUYCU>U&CX*/y8Z}*Xy>chbU>*8G&:CsCqG8YYs&8>Y*ssUC8CGy:X}h**s}:&*hCy8s**lCyb8::hsC4}>G8OXy*}GcYc>>X:yUCY8cG>&>GhYU:UyG8bUysUyUUGX:4:h=h8YYhCy>cyssscY>UGC+yOYYyY*:C>U hsh*yChG*8hhGCs&:cUO>8&Y&}*C&>8sXUXCGG&GUq**C8cUcCy>c:Ysh*&Y&:yhXy>}YU&XYph:CUyCX>X&&:}z}8*}}cch}:>Y*U:C*GXsYUYCUY*&}hGyhU>CG>yy}XXU**XGccXXCr&sZ&XC8::8C}Y*&&&:}>X**Y8&s:h>::XscU>ChyG:UrG**GY&h>YyZY8U}CsGX::hsCX}8>:hYyyYC*vC:G>:Ch:csY>X*>}*8}XU*>Gyc8cs**C>}&s:c*8s&&h>:Xso8hyUy&:GshG8}U:CXC:X&shssY}>CGUsshCYaG8&*>*y&8*UsC>GU:UU&CCYGXs>&*s8Y&GCC>*:*hs**YYy*X:*UYhUC>yyX8XsY*XC}:Fh.*:YX}Y>Y>U8Y}h*CGy:XsXh8*UG&cGh88Yh:cU>s:}hUUh8C&yX:hXyC88}UCGMC:c*cCU}>:8hsUh8C&hCC:Ghsh&}hY}X*::*:8sYcX8G&8hUy}s>syU:}U8CsGhX=>*uG}U*>>8:yy*sU8>C8XX>*8G}C}>cXyYX:UUC*C}GUXsy:Yyc:CUy>sG}hCyGCcyhU*UYG&CX&G:QUUy*}GX:c::hy8}YXXYG:8U}s}}cYyhXC*yYXYA&y>>yCYccCYyy}sUUGCCY}:ChG8ys}c>>>yG8hUaCy&>&&BCSTYC}}>}>Gyhs&cXCY&X:}Uc8}YscsG_yssU&sCcysRXhG8U}Cch:ss}8ycyC8>&s*QGCs&dG8h}vcsy}CXs:y:yUeUhG:XX%G*YY3}*G&GXs88:}:cyy*hX*s8y}sXKyy8c*YUc>GyXsUU*YhYh:sX88M}sc}>c6shX8c8/&XX*:k*UUcYCXU>&s&My}sYGX)>G4C*sUy&GX&y:h*YCcY:}y*s:}>Ch>hyCyh*:chG*:&+*s:*hGs:*:&h*}:YYGc:ys&?cCsG&XGy&vXUeUs>GXUl**88X&8Gryc8}*>U:X}ycshs>cU&}&:h*y:8C&y&yX:+s*Y}>YX:&sYA8}YG*:8:8yU8}U8>GXyh:shYXY*cU>GQ>YsC:>&G}h8sy}}}G>y:s*CU>Ya&cXcy>hs*y&U:ch:ss88cCGy:CZhsUYUGs>CyC*Y}:C&c}u:yG}hcU>&ycyX**8}}>X:FY*U8&ciG*&:h&h8YmYhG:>Csh8*&C&:XXhYU}}UG8GYhXs}Y:Y8XcX:::U&Y*C8>Ysss}*cCc>8:>8>Uy}yCY&y:)hyYs}*>zX}2&*UC*C>yYsh8pYyc8cXy}sG*cYC>X>Gh}8&}cG:>>yG!c*{&8&X:>s&U&CcY&yUXh8UYcU:X(ychUh&YCGX:Gh8sy8*}&G}y:kcs}C8>hyhyyhhC>Gs:Y>}8c}:}h>>Ghs&}s*>&&G0)Cdhs:CYCYy8Z&}YCDCG>UyUs:ChChGGX*hy8:UUG>XUI*8XYY}Y&&:Uh*h:C&GhX&yq*X8y&*c}y**YUsc}>U>cs8UCU}G>Gm>&*cUYC}GUXcs:s>CYYC>Uh8hYYscc>yX::cU>c&C*yU:Xq&Y}}8cYGy*h}aChGC>:h}UC*U}XXyy8hC*>C}C:X::>s}}ccvXyh8)>YYcH>&>Xhshc}U>8X>y8ssU}cCC&:C:C8GCgC:::yC8hY}cXc}>UhhUc}*Ch>:hU8hC}}>c*EYh>*GYUC}X8sX8}*s}&XX>C*h}oY&>:N8hh8N}&&Cyh>Xy>*%c:>}-C::hXY}Cs>YXs*}UUC}>8y&s&*&C}cXXs:2sG}&}*>shUhT**Y8&syY:8UGUy&}cChsh&88chGFGsmdkp}cG:>>Qp8yUcUcCXX>:}8yY8Y&XyXy*&CscGXXXEs6*cUCc>:GhGwUY:cC>Yy:hUhyY8>,X}XGhCC>Y}:YEG8&Y**:cGGhxUsC}XGX&&g<*Xs:CYcUyGT&Uh}Xc>>UyUhCU8}GXhX*sy*:}XG>:&:Y*:*hYG:*:*s*U8C&Y>X&ecqc8CGhX&hU8:}CcY>G:Xg*U:CYC{>I):*cYiU:CXX&xCUX*s>*XYhysX8*c)G:>Y88UU}>G&>yXGL&CU&&X-XCsGUsY}>GXcyX8YCXGU:*%hy:sCU*YyX8yyO3Y8c>&CyUy&8>CXG8:yyUhU*GCU&8XX7}8}&GcX.CyG}Yc}Go:Ghc*&YU&hX>T:yyhyUUCy&X:Yo-8fGU:8>yyG8}}YCGa}:GUC8l&U:hh*8:}8&Uc}G}:>s}**Y:&YXY*>8:&}C:V*:}}s*y>8&XssytYZU:X&>p8CsUc}C8yo::-7*cG>&}hh8Xs&cychyc:hUY8c>h&yXh#&YXU:>y>UseU>**G:&YhCgUY}}>X*G}8Us>*:CYy&>t*L8*&&cVh*Jss*UX>9&>sshCY;}C:h?Xi8}yU8>cGhsYh*CUYG:yXXyy8C&GCYy,syss*CCh:GhGm>s>}sc>G&y*hX*X>s&Xh>BcY&U>XC>:8csCU&>yG*Ky*CYU&h:c>*yy8hUYX*Gh:XQX8G}Xc<hXy8YG}UCG>*8Yh>YCY&:ChhUhsXcsX}G&8sUYChG3y8h8*hY8c3>>hsyCs&cYYGyChG*8Yc&8XyycsX}UC>X8&::chG*hG:c&yy*8sYcy>YyYs*U8CGG:X:hh8Y}CccXXG&y}h}**Y}&cs}y>Y>}YX&>>8*s8c:C>&::YU&8G&>cc0&ypY*}sC*GXs=hhCUGh&Yh8yh}XU&XY>U:Yh4c8YX:U>Y*8sU&*>2GX8shXC>Yc:&Xt*Cs&Gsc/>syG}:UC>8:yX>Uh8&&G&h=cyy}YUX>CyY:&hs8&YY:G>CS*s*UsC*GY8*hUcsY>&sXG*:sG}YCYGU:Yh&cY}XyUXyMU8:&Uc&G&:=s&*CCs&GXG*Fs:&&c RCyU}}UU>YG}:CUX*scXXc_c8CYYUsCXGy:U}s8yYGcG>cyGs:&GC>Dcy8hcUs>U&&M}RCY}cyXyGGhd}**CGX:ChC*YYX&T>nxhs&UyCc>yGU:YU*8CGUXU7}88}XCY>syshO}h8>YY&c>y*>sc}UCUG8:UhCcUYyy8XXRUsX}&X:GGyYhY*UYY&&sYVCYX}}XG>X8Ussc8YzyhX8UsY:U{XJ>G8&sccCCUy}XCU9*:}?&ch>yXYhcXC&yy:C}UU8YU&:shyYY8UUXhG8syh:ccCY&c:sUUsG&&X}>U8Cs&csCh:M:}*:suGC&}>CrhY*UY>cG_:shGC:YC:*>X*&8CU&c8)}:3UC*YG}&>h*y}Y:}>C:>Y8&7lCyG:GhXY0_C8U%c>G>:&h>*y>>G}ss.GYb}cX&G>**8sU*CXy7:hUs8y&w&}hh8X88cychyc:yUY8cGUcYh}*ssy&*c}y::GU>UsG&&ohGhs8*}XXW>h8}shCNYy:::**>8G&XXc>y8GsX&hCyGh:&UX8:&ych4X:yYY}UCYG(88hXCUYG:}hU.Cs:}Y>:>8:8hcU8Yh&GX*F*Yc}GX8>s8hh:CyYh:OXyhhC}}G>}yys:UCcDYGG}:CS:CG}C&*>*yss*UYX*GU8sh>*sYG::X8sy8hcy>CwC:**cCXYh:cd&8:}c&}Xcy&s8UYCYG8yCX:JaYX}hX:/hsCUCCy>U:hh8*sY&Gcc*>y{hsY&*Yj:UscTXCU&&Xc,**sYUcCGwyss8U*c*Yh&X>XyGsXUvXX>Y8GsU*XYUGss}%88yUyCXGyys}yUc>UGYs8D:YXY8XGXh8chGc&chG8:>Uy8UGU&Y_yy:}X*yXY>U:YhJc8Y}:UX**}YsUyX*>}s:hGC>Yc:&XYU**s}*cXDoy&}UchYfy8X>*X8&&GcC^cyy}&c}C>yCX}Us8y&DcXm:yG}yc:chGY:B}88nY>c>>&y>sy&>c}dsXQU-*c>}G*X}uyCs}>X*G}8ssCCTC}yhhXk&YyUXXc>C8YsXcUYYy}ss%*C*}sX:>G8>scc&CYyGsYhXCcYG:yXXyy8C&GC:yX:>UGUhGc&}s8hh88}>XyGU8*}8U}Y>GUh>hh8h}Y&hGyycssUs>Y&UshhYYy}:XX>&8:sXUyX*Gch**:Yc&:::>c9*8}U>XcG}yshs8ZYs&UssK>Yo}&CN>c8>shYXYy:Xh}U}8scYXGGy8*UCCXGXy*sY*cYh&hX}y:*}s>U:>G&ys>*yYY&XXUh8sXUXCM>C::8}hh*>Y:&*shyX}s&}C&yyssUYChGyysh*8X}G&8>Xhh::s&*&YC&&XXU&8G&Icc#:yc}CUUXsGt:shGC:}yX/>s8:8*cy>G&XsXhCCY}cyhXyIh8&&XC:yy::UXU8G::&XY*>s&&}c>m*:}}sUC>8:yX>Uh8&&G&hmc:G}YUX>CyY:&hs8&YY:G>C,*s*UsC*GY8*h:csY>&sXG*:sG}YCYGU:Yh&cYChyUXy!U8:&CC:>&:&hC*&YXy&X}8X*s}C&hnG8G}ccC>YG&X)hcYhch>cX}ys*GU>&::8X:sGUX}Yc&>>y/Uy*RcsyGyh8C8>cX>Gy*yCUU&*cYyih&h8*NYCGyXCh*8&UC>c>Yy8s:UyC8y::C8yC8&XX*kh8h}GcXC:&::*h:8>Y}cy>y**YsU:C&>Uy}h&cUY}:Y>y8*}!&8>Xys8*sU*UYGGUX80X8}}}XGGy8UsGc}CcyUXcU8*U&X&8u:QUsYU#X8GXscpXC8}G:*-<yCYs}*XC>}:Cshc*}N:}X>*^8:Uicce>:C}hC2C8&c:s*>Y>}XCX>8yXhGUUY:&:s8hUYXUyX:>XyyY*UUG*:Xhc*:C:}c&*X}y>YcU}csGsX_hs*U>s&>hpx&sr}cX>GXhXhGCXG}y}Xs8YYGUyXYyGsGUXc*>Y:Yhh*}Y}&s:}>>y:}G*y>>:yhy*GYUG8>yyX8*}YC:X}Gh:>h:**>hcX)s*}s&&s>Yyss}UycsG*X>h*87}GGhC:>&:&hC*&YXy&:**gs:&:cq.C:&}ccUCGyYXUUh*YGs:hX*y>s*}hXUGs::7:8>}:&hh: CY>}}C>>U8ChUUhYhcyXhl*Ch}GXy>c:ysCCyC*&*X&h*8s}>cU>U8&hCc*C&yU:*h}CG}>>GQ*8*Uy&UYJGG:Xh8C1}X&c>cyYscU>Xc>88Ysh*YY2y8X*8*8s&*>XvX:c*:csY}::h*8y}y&GX:yGsCUGCY>:G*:}U88YG*XY0ssX}UcGGU:Uh&*YY&G:ccX*4}s>&cC}>s:s6(*sYUysX>*-8&}sC&>Y8GhCU*Y*&sX*LYC*}:X&>>8Cs&c:C>&::YU&s1&>&sh}l*s}UyXsG>sYU8*cGU&Y%ykU}1cycsGCyh}**hYXcX>GyXsp&XC898yU}h8yGGcXh>*C8:&&c>_*:}}Uc*CY&X:}*u8}YscsGkyssU&sY::U:&<1*cG8:8hh8rs>UCc8>*:C}8*8&*&ChhhXs}UEc&XAAhhs*h>}&}XsU88&&8&9Gyv&8cU*Yy&}X&8X8G}Y&sX8yYYsUYCG:ss}h}*Y}Y&*X*y&shcXC}GssGh>8>Ys&>>&q*sXUXXsy/:}ss*s}{&sXUUs*sCGGhXC8XsY*XC}:irXWG8YYs&8>Y*ss*C8G::8:hVX*CYccXhCyXUccsGcGY:8h:*yY8::>*sy}cCyCXGcy*sU*c>*&y_U8X}U}8Cy>&yGhyc&C8&8Xch88h}Gc*>**hhYU&>}&Ch-*XY>&GXy>GyY8s}8CYgsXy*8*cG}&C^e*8hycG>&ycXcU>UcGsGUhc*cYC&UX*yh:yhGU}CY&Gs}4s}Y&8>Y>c8s8>}*&8X8y>8UUhcYXy>t:(s}UBY:GC:hhhC}G*&*aXh88h*:c8&>::ss8XG&:C>X8ssG&s>G{GyUhGU*G:&&X}hh*s}}:h>&:&h3U&YCGsXG/GCCYsX:>Y8Cs:ccCCG&syhcCX}C&8XUyGYCUUchGhXyhh**>hcXhyjcsy}CG_GYh>h&C>Y8X&Xy/U8:Ghc*GzyGs>*^>G&>hX UYG}T>CGL8G}scUY>y8:cUh8&&y&s(Gh*sc*yGh&>K>8}}:GYX*Xsy:8c}&C:_cyshs*CCsczX&.888&Bc8B}8*h5*>CYGCX>UY88&cc}y}y&}8}>Ch&YAc%*}*C:>}5dyU}&UH>>yss}*:CYG8&chU8Y}yc*>wyXsUUXY&Yy:Ga%*C}UUXccGc:Yhc*>>h&&hX**},c:X&3Y::UUU&YuGchh?y8GY}&Y>G*}8sCYYy&tX>hGY*Ysc:XcR&s:&ccU:&s}}U*CY*&yX9_*Yy}CCCG:yCh}*HYc&cs}h8Y>&&c}>syXs:Us>X&8j:7YCh&y>>>&y}8h}sC}lh:G*s8GGU:8y y:s&}Uc}G&8Uh&Y}GhX}X*yO8G}>CmtG:h*>C.Yc::Xq*CYs&}>yy28}}*cUG&GXhY*YYy&:XGG>scsYU8C:Gy:8U:8&cycXhsd*}>cU>UycshUsCc&}&*>KbG8>UiXG>Uh>UxCyGc:*hGhU8*&ccGT8sGUGc8>sXyX!hsYy}8>CyY88}c*XCCG&X2UX*8YU:sGLsGU&}8>>&(:GhX*8GNcXXcycsYUcC>icy8UXC}&&&yXYyy8>&wC>yhs>UhUh&X:cOXhs8CYh>c>:y}h:UGC}GCsU1c}:cXXYbC88Uyc>Y_GG:Xh8C^}X&c>cyYscU>Xh&yh&*cCUGGGsX*!XYC}&X*aUsGU>C&Ga:yXCm*YX}yXc0&8h}hCy>Uy*hhh}8>YU>X>U^hsh*yChG*8hhCChCCGCy}hhs*UcG*GXs:hACC}H:Um587}XcGX*xs88h_C:Gvc:hY*XYsYU>Xyy8Y}}cUGsGYXXh}}:}>cCX8W*sC&8CY:*XX***s}:&cX&y:Yc}sCsGCys91*&Y8&8hoL/Y}U&X8Gy:Gs}UYYGy}XY8c8&}>Xc>s:/h&cXYcysX}hh*8}c:}>ssYsCc&>C:U:}hCCU}c>:yX8c}yU8C:Gp:}}88nY>c>>&y>sy&UX*:yy*h&U8&G&QX}Ky}Y}8>8>Ys-*GY8&s&8:y8}8YCGXX>s8YsXccGyy8hGU*Y_Y}:s4*8>}hcX>&Ghs}UhCC&U&&h}y&Y8UyCG>}yYhGc}Y,XYsh*_8G}hCX;::&*yc8Gc:::U*:Y&Gsc}h8y:sscqC&:h:C*:YXYsXGy}h:*X*:c&:h:s8}CCYh:s>&8BsC&hc*G&y8}}*8Yycy>Xyy8s&yccysyYhXU}&:&>XCh8**}C:8>ys*}XUYGbG}yXrh}sC^GcGXh&}X}8>GyGyU*>Y}&VGh-C88Y8cK>y&chcU*c*YY&8X:Sy88&:cC:y:C*y*XYcG*:UKcC*}XCX>8yXhGUUY:&:sG+h**&4XcBC8Y}GUhCX&XXG<X8r}sX:,X8>h>c>CyyCy>hy*YYy>h>Gh>Uh&UXUfC88UXC&Gc:Ch>!y8U}::h>*:1sGU>YTyG:*^*8&Y*cs>>yUsU&sY:GGsYUU*h}X&CXcyXYC}sGc&&XY*C*}Ys&XX:)sYXUXG:&yX>*X*GYYGs:8{YCsUy>8G*:hUs*,Y>GY:CI>CYYU>CGcyh}}Us>*Gh:UhhY<Y}CXy:y>sC}8c*GC88hXY*}X:YhU-hsX}CccGX8Ch8Yc}&cYXX_8sy&7C}yhs>U-U}>&GUXcUY8&}}&hXsy}YhUsGsGCsUU8}H}:c&XUD}s&&UCh:C:chGCCYhXhyN8cYsU}ch>8:c}}*s&Y:GX>*cYYUh>h6&:h,:ch&:G8XGV88W}GcXu&y8U8CsG>y*XCh8*U}G:C>GyY8s}8CYBs:>*8*XG}:*mh9s8*&ccUVYyUhY*#>8&&h8s*8XUGC&X&lh8C*UG2&yhCr:UUUcG&:ChhhUYs>UGYss*:Cs&&XyX&8hU>cC>cyXscU}8&YU&Y>X*&8*CGCyyCyXhyUcYycyy:s&8G&UcY_shys**&C8y}Xs8Y8:cYc>>*:>scU*C}y8X>8>}G&YXX>hy>s:U*Xh&XhshyCUG8>IXUyG8*C>Cs>&XGs}YU}:XUX&yv8cchcUGG:Y}CUs&c:*hCy<Y&&Cc>GK8:h:}hC}:XshUUs>&UCCgG<}UU*:CGyYsU*s*Y}X&}y:iY8>c8cC:Y:XU&CC&U&c>yyGY>}&GXyCs>h*C:G>&uX*Us8U}hc>>Xyh}>U}&XG8hj*:}G}>c:+Gy*}cUG>8:Xsh*GCscX>>QC8:ssUXCyGU8shU*hY>&XXh*>8UCXCGyAysU&C8GCX)hc8}8*U+cG>>:1}G*G&>&&hyhhYccQXYy>8CUUU8YyG&:G?yC&Y*>GG>y&}XcG>YG}scUYC8},&*>e8ys>UzC>&&hGh>*:GG&>H*88}y&UCc>*y}h>ccC8G>X>hC}Y}YX&,CsUs&}8CcGyT:R:Ch&y>>XhycshU:CcGGsChcYhc7:cG48ch>cyC8G::Hh}c8YXG}X}hs}hU&X*vshys**>Y*GhX>6:YG}>>*y8:&88CGCyysX}hh*8}c:}>#Acsc}UG*&XsYUUY#G*XcX>8C}sc:chGc:hh:*cYG:CXc8hUaUYcuyYy>Uy*8Y:&zX}U88XY}c}Xsshh&c*>s:Xsh*}*c&U>yEGy:8YUXc8:s:sUUC8ce&U>Gf*U>UXCyy>:UU&*sG*X:hs8>Y8C:GXyCsyh8*:Yk&}s8BX*}UY&syh:c8hU}CycR:Gh&*h}Yc-h8ycsGcCChy}X:*VYc&:XY-ys&Ucc*>G&y:&h>*sGy&c:s0s8:CXCU>XyssG*GCYG}XXK88>&ycU>Y8*hXcsY&:>h**&Ys&G>}yUs)}Y*GC}GCX:UG*UY:&*X&scsh}cC:>Y:Xs8UsYccyXC*GsC}:cY>&hchAYcY:&*XX*68&Uiccyh:csU*UY8&UXCUU*8cCcX>8y>U*UsY:Gc:&r:CcYscs>Cjsh=U&C8G8s%hh*cGUc:qyyY}X}8>:G&:}shUsY}yh>Y8ssGcsCKG>yYsC*>>YcX-CQy}CUWc>G>:&h>*y>>G&sshhY&CG&*>syh*h}Ccy&>sYh}YyCo&c>Yy}*}}X&*Ghs>UG8YYc:s:>h*U8C8&>:Uah*YCyYC:>>Y*&*Ycy&8/8:G}*C9C}yhhxh88cYs:U>Cy*syUqC*yy:COC8:YCc}>gycsc&}C&y>::hXCUY&:8>>**sAU>cY>C:>}Y*n}O&}Xjy:8C}hchn::ysYc8G>:Gh&*:8&}}&hXsy}YhU*>8&:shhXYy}Y&*B>ys}&Us>C>ss}hyC*YC:s>88E8Cc:CG:X:GhYUsC8&Yss_>}8cy>8G}y*ss*:C*:Gh}8&8NG*cy>8*hsYUc>:GCjF*CC&}UcEXsyCYUUGCXOs:>**Y:G:ccX*i}s>&cC>:&:sUXY:GYX.j=**}:&s>*yUsysUU*GyX>X}8Cs?&G>>aUsYUccsGG:3hY*}YXY8&sOXs&syUYYyG>s4h}*CGX&YyX8X}}&CC8G::+h}c8}H&>>M)&8XUcX>>sy*}cU8&G:*sUy38G}Xc8aZy!Uh*c>*:Uh:*8YC&GX8jcs?}8c}C>GGs}*88CcycsXU*csU}sGcyUhcsh8EY>&yX*888CU:cY:y:}*GC&Gs:*lchs}U&*>yy*:chy*CCs&:scu*8U}hciycy:s}*:CGyyXG8LYy&YXcy:<YU&cc>*:c::h**XG?&&>FvcY>}}C:G}y8}Y*XYyy*X:8}}*c>XyG&yUsY*X>&&<:sUYYscC>Y>:*shXUCC&&msXks}:YsXGXykss&}s&*&:yy8*CCGC:Gh}8,}Xc>>Gyys&UUY&ChX}>Yy*}U}&csG&yY}GUC&>cX>&8G8:cYCC#*88}s*sG8GCX:hYC&Y*c>>*1hYUUGCXvs:>**YcG:ccX*O}s>&cC&:&:sUXYXG&XYX>p*s>}cXX>Yh:UXCY&XGsXChhC*}:c*>X8Ds&*+Ccy>:}8X**&XX}yGyEs}UyGYGG:h!XC:YC>yJG8:hy&Cc8GY8UhG*XG&&>Ds8s8y&*CC>8yUhGcCCUGGX.*Y**YU>*>cK*sccsGGG:Jyh*8>}*&hhUy}8CUXc*:8:Cs8*CGhX&XXs:88Uccs:&:yhU*:&}&*>S9G8>UiXG>Gh><:C&CY:&h8U88}}scX>:ys}XUY& &:X&hU*}}&:UG=sCs}UsCXG::sUX*}}}c>X}y*s:UYCY0*XcU&C8Gs:hhUy}8*}sC:>*8Ch8**}k&ys81:8s&Mc&G_yc}>U}Y>GUsCy#8:}>cC>:*shX*:Y&GcsXhC8>G&c Xs*Ys8Cc>Y:yss}h8>YY&c>y*>sCCXC}yXs8U*cUYy&UX:Uh8GcscsXs:cs:YyYUXG:shG8CYY>C>cyG}_*G&ZXFhG*GYhGcc*>yShsY&*C&G>8h*yYc&>>yyyyYY&UUCI>s:C}U*GYXysf!8X}ccsG<GC8Gh}UhC8&cs}2>8:G8C:y8syUGC}>X&C:8hU8GGCc:>.*U}8C:GX:UX>Uy8&YU&Y>X*&s9}sXYyUhI*>YU&UcXhVyG8}}CC:.Gyhs8cCY8XCh*8y}XGsCX>Cy&h0cXC8GUs&*CY8cRCCyC:DY8*:CcGG:hU:**Y}:8>>H:88}>YX>CyY*}YUY8GUX&h88c}yc:Fh:UhxUsYCyUXh8}sy&}>yy*ycsh*cC}y&X}8G*sYGcGXYsCsXU8C>:*:chh8cY}:&>Xyc8*}UCcr*X,*U*>CUc}:hyy*hUCcX:>:&s>*8CC:>X**&88&*C>k8s>UMU}Cy&y:G*:YX}Rc}>y*ss>U*Y>GcsXkb8>YY&C>>*Ys8CCCy>CXcs*YUY8cyX&.Gsy&&YS:G:csG* Cc&c:Uh*}U}h&8G&8hU&UX&>cyV>+C*&}h&}yU:C8UU&c8Gc:yh:}yY*c&X8*}sdUCYDGX8hhY*cG:ccy38&}*cCXCG8::h%*}>8&cXG*e}:cc>U&:h:h}ccY*&y:h.YC*}hcX>hyGs:*&>XG8:UU&8Uc>X}y78UY**yC&G>:sUy*s}:&cX&y:YcU*>GGDh&%AY}YXG}>Yhs}8}YGyGXyys*UXYXGc:C8c8UYYCXFUs:8hYeC}X6X>h:8*Y&>c>yncs:}YCX>8ys*88&cycCgy8CUX}sGcGcyc{ UU&}&shY+c*sU8c:y:y*sX*XCc:>vcyq}UU:XUy:s8sCYyYyGyX}hG}>}s>C>y9Chc}*Cs>*X&hL}y}X&y>U/G}yUY>XG}sY!:C}&y:8Xchs8s}:Xhyx:U*&*8G&:8_CqX}*}*&*GGyoUh*XCyG*:Xy:*cYC>Y>U{Ys>}UCU>h:%sh*}Yy&UXGj&UGUsGY&2sY*kYUY&XhXhhhsC}XG:G&y>shU&}GG}:U8*s:Y*ccXsyss:UX&:&Ud&t8Y&&8>C>Xs*s*}*YGG3hh-X*yY*&XG:tc8CCYCU>Y:>sU*UCh&d:hZ}8y}UcG>&hGhsYY}R:Y K8U8&chchXh:CsXY:Y&:y:hh&sGY}X}>>OUsU}h>*:h:czC**YYc>yGy7s}UyGYGU:hh>*XYh:>>Y8:8Yc>cCy&:&UC*GG}&:SU5c*8}C&h>hyXs>YGYcGGX,hcs&YU&*yU:>Uh*&>h:&Ryh*}G}G&G>s,YUCU*c}GGy*)U*HYy>:>CO:88}>C>>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&Y:cV:*YUC&8XsshsY}hC}GyXyhG*&cGcsyY:^}YC+GUG&hhhhUh}C&Xy:y*U&}hc&&Gy}*Y*y&8&h:8kC*h}hcX>>hXhcUGYh:chshU}*}:>*GnkshCU:&XGY:Xhs*GYh&YX}sYh:C8Y>y8h>*h*}cXcXXXy*8cC&Y/:}:Xs}8YCs&Ghh=hU:UUXhG&y>hsUCG>&U:YyXYUc:&hN*88s&YXY::XX8*cY*G*cGyU8hUUUcYy&Gs>h}}X}UX>X}*}8hUUX8G&h*hCC*&XXs>:0a8U}>GG>*yGhXUY&C&XX8J>}*UGG-Gcs!UcY:C8X&X&h&8hY}>YGXs8s&}8Y*Gy:C8Xs:}&&>>siC}>U*>&G8s*lGC8&>X0X&*h}%*GG>G:hCU*YCY>&s>:*y8cCWCCyyyUs:U*C&GsX}U*8GcUcc_Us:U8*ychG}:X8>*UY>c:XCscs:U*CXyAX>*h8&GhX&yyq*UGUGcGGsyY*C8y&*&G:*;*8jchC}G>:Uhy*G>}&hXsy:8Xc}cG>8:GsCc>Yy&G:}hY8GG}chbCyXUY*XG8G&y8k**ycp&*y>y&8>}hc&G&y}sUY}YsG*>&*s}G}:GX>8hXhcUGYhGY3}l>*}}G&*>&ybsyY)YYX>XU*>YUc&cyy}y}8}*Xcs:8XyU**}YyCmXG8G8h}&C&>}sc*}8X&scGhs8GUm}UG>G>y>h8UC&ccy_UZ>*UU}&hGybhhYUX&>&&:>ps*C&>c*D&y8}**G>8:>h!h}*y}y&G3:8XssCYY)yYhD*U*&&h&h:hyC8XC:C&>>yhs&8GC}GUk*Ks**}c&s>sy:sXU:C8G>:shC*YcCCyy*:X}*CXGsGYr:^:*:}U&&yGyY8cU:cY&Cy8ssYh}GGhX}uysy}Gc&:G:s*Y8=GYX)NUR&}h}h&hGCyX*:*&C>Gh:&yG*}YU>*>sw*sc}sCsG::Xh:*8Y>&sXCvYUC*yG*&Xs**XYsYY>:>:=:sU}&GGGYs>h:UY}CG8h8-c*s}sc:Ohh:s8*cCsyUXy%Ysy}>XT>}yC}X*C&XXXhC*8}=G}ch>>y:s*&hC&&wX>UX8&c:XC2U8>U:C^XUGH:*}s*CY&:yjX8Y}G*XGXGU8Ch8*:Ye&}s8#}8s}Xc:>s8XhCCyC*X:X*8&*hY&CGX}sYsGC8Ch>8:Csh*hYX&>yXyc8GUh>cysyU***&&*cq:syC8:CXc8>XyssGUhCYG}eYy:}8U>X8y>shs}YXYXGXX*hc}&U6>}>X/}hY}sY0>sXCh:}X}G&X>8vc}XU}cC&:s}*yUsGUc&yyyC}ycCGX>shchcUc}2GUb}y>}s}c&sG8y:*yU8&G&c:G-1*c}c&UX*sUsh}8Ycyhh&hX}>Ys>>>C)&hb}}GUGGyUh&U8Yc&yX:sys}CGC*yGs**c*:&U&U:Uy>*hcsC:98yUs:8yC&:&XShc8cYUXCyU:>Uh*&>h:&5yh*}G}G&G>sxYUCU*c}GGy*tU*KYy>:hYyG8X}scGGGyYs}YY}:X8>>*8}>chc}:X:XsX**CcX&>#8}8XY}CYXs:B8s*CC:XXXGhX88YcXX>U8Gs*cUY>y*hXUh*YY3cJX>8y}:U8GCGhsCUhY}YGXsXshssc}:GyG(ysUy*CC&&y:Cyc**Y8>syh:y8hU}CyGU:Gh&YX}hc>>:y*Yh*XGs&Gss*G}9YUcX>UHsY}UsGYG:yYhYU8&*&c>y?CU?}CCY>8y}hGY&Yy&UX:8}8*UDcG>>:1}G*}GX&c4>2C*&}y&CGc;*88CsCC>s:Yhb8pY>&Gy>y8UCUh>Cyhh}hGYsYsGs>cA:UyUGcX>syG3>UYC}XUX8hU8&Y8c8>yy:syU*CXG8:chC}cU^>UG:8UU:C8CCXyXyhy8}YG>>>ssCsy}CYc>*hU2BYh}yGhX}6ysy}Gc&:G:Ysc8yGYX9:88ssycsC:>;:}s>YGYCGGX;hc8yYU&*yU:>Uh*&>h:&_yh*}G}G&G>sVYUC*:G*GGy*bU*x}:&o>}5>}AUccGGhscUsUUGCcXJsyGYscGG2>Uh>h>U>Y8GCzcWy88GhC:>&:&hC*&YXy&:*_&*8cG&8>sy:8hU}GUG&XKhcYhY}c:>}f8YYU&C}>hysh}ch}>:8XC8ssCC:cU>:Xys&YGYyXYXUhY8>YUcUXhy;Uh*XCy&UhX*}*ccCc:yCy*8}*>cs:h:Ysh*}Yy&UXGo&UGUsGY&lsY*AYUY&XhXhhhsC}XG:G*h&shU&}GG}X*h}s>Ys>hGybhhYUX>h&&:>vsY&&8&}/c::U8*>>8:>hhh}}X}X&X>*;cU&*_G}GXy}0YUs&8&YyyyX8y}*cXGXycsCYcYUGY>X*U}:YhG=>}h h>U:Y*G&1cFy*c}:&Y>Xe88sC8Y&XyXC*yYCcX&sycyc8c*=cU:}:sUY*cCsc8X:8:8*}XCX>cs>*c8(&Uc:hU8:}8}CGyGyyyh}UG&>&C:&Ky*CUc&*X8ss}G*ychG}:y4y*GY&>G>ssYhHcYG.:U:&*h*hChcCXXs:s*C&ch>&XGs}**C}c>:s8hsyYhCY>X8hhcCyYC:c>m*CYh&UcGX*y*stc8>s&Yz>TUY>&U>&>ys}s}}}YX>sh8h**}G8c>X:L88>*XcC>Yh}*U*8CU&&:8zc8y}:XhGU:Ess*C>U&h0}yyY}cy>*>cyhhcU}>&&}FGhs*G}G&YyCyXs8U>G*GcXyhCCGYUcGX**Y8hUYC<x8:XhU8XY&::X*5}YGU}GX:Gs}UhC*>*cyX&_>8s&ycU>Y8>hYY>&>:Yhs*}CUU+cG>Xy8}+U}CCyXhG*YY*cX>G>8*}shU>C:G*8hh&8m}>:XX}s:}ccC>>:yhm}U*NY*ysXCJ&YyU&>hyGs}UcccY*&y:heYC*}Yc8>:yys8c:Y&Xy:}hys{YGccXGys8YC}C*>}XXssC}}::*>X8:s}cX>}y&:%sc*cCU:ChYvXs>}CcGGIhys**&C8XGXcpU83YhcU2n:G}sUYGh&YeXh**XU:&cy&y:U}U*c}GGy*h**OYy>->>%:s*c>>U>ChYhXYYY8GU>GhhU,}}cz>Uy:s*U&CcX&Xh8}sy&}>yy*yc*O*2C-&Y:>8X8c&:cwXc:&8UcUCG>*:*h=C8c2cYy>yU}>cUG&Gyh}h}U}}XGsd8ycUy}}cy&;yGhcUGYhGYl}4**}U>&sE}::}**XG:&UhX*}Y&}{&c>cjU}CcYY>:hX&UhY&cy&*yGyG8GUscY:CX:***GC*cUX%8h8UCXCG>XyssG*GCYG}zYn8*UUGX8y>yy*:U*&:&&:>bs*CcYcXXYy>8UUGchG=hhEC}X}}XXm}sGs3CYCY>YX:s8Y*}S:UXY+(sh}>>>>syGhGUYG&XY>:88s>&8>>yhy}*X*XCX&*:c8&spc}cXX}:Y8s*Tcs&C::8X8GYXc8Xc8XsUcGC*yUX>U*YXGh&YXfy48>cy>:G8hChhCCGhX}XG8s8sYsCc>:hyhUYGCsGG>>hY}C}>>*>s(*sc}sCsG::X8:8&Y>cs5&888}CUCG:U:hs88cYy>:X*2:88}>cs>CyY*C*J}y&GX:78}s}YCX>}h:s8*GY8&zs*lY88}:cy>88:h&YyC}Gy>!hG8cYGcsXYs}s*}}YX>ss}O:C*}XX:>}8X}}c&Ck>c:csUCCGY&&>)LcY>}}C:G}y8}Y*XYy:>XUhY8>YUC}Xhy(#:Y:CUG::*h&YX}hc>>:y*Yh*XGs&Gss*G}OYUcX>UdsY}UsGYG:yYhYU8&*&c>y2CUd}UCG>*8Ysh*cYh&:ss?C8&&yC&:yhyU&CUGUyCX8i:84}}:8>cyG}?*GGhX9hG*}Y}Gcc*>y2hsY&*CU>Y:>sU8}Ch&fyyyX8y}*cXGXycsCUcYUGYX>hU8GYhcO>yhgsU*XYUGss}-c8U}p&h>U83h>ChCC>hXshX8X}c&*XUycY*UcGU&}:ss*8GY-:*>Xzys}cX>}>cs>NYYCY}&sXXk:8s&XC8::s&*:UsYC&*sUqy}}UyXU>Gt*s&U1CC&>s&y{}GU:XG%*scsU}YC>>8hsh*Us}8&:yy#*s&}8X}GL:}hycsY>&*>>FcYX}8cU-&sCU*Yy&&&hs*yy8&}>cs9yyCh:*&>G&Y1>*Y}#&&>>yX*8s:Us>FG}:CUX8CcXXcq*8}YYUsCXGy:U}s*UYh&>XX7hY>}}GX>*yXW:Uc&&G8%}{XY}YhXsyXsss}*>YCycXU8&*h&c&8h8y:ssc?C8&y:&hG8yG&&*yG6U8GUs>YG:yU*}*sC*cGX sy8}Cyc*G&y8*GU8Ys&::h6}}U}&C.>cshhy*GC}GYXGU}80cYc:XY:C88Uhc8GC:y8:8>Y:&8X&8:s}c>CUy}:>UUY:Gs&>h8*s8CUYc8>}:G*&*yYU&:p}JG88UGcC4>:yhGU}CY&Gs}zT}Y}:&YGCE8sh}8CCGyv:R>*:Y8&&):y}}>UU>}G>sU*:CsY>:8hsLUsG}*XY>h:Yh^c8YX&8X>*y8cUycCaGyUhX*UCsy}X>g:C8U:>UyysGU>cXYCG8:UqGCC}:cOhU:(UYCUGV:XhYU:8cY*&}>>*csy}hX}y*sh*XY*&*c>hyy&8U}YCXW&:XhcU*CU&cs*yy}Y}8&U>&)8h*UyC:XXXGhX*sYGcGXY0}8YU>cUGGyhh1Yh}C>X>}8X}}CGCb:Y:YsY8:C8X*><hs8Y}rCh>>yG*&**C&&y:C+C**Y8>*GGh+hcCpGcX::88&8&Y&chX}sYs8}UC&>8X*hy*:cXcGXX;s8GUGcY>}yYh>UUYGGhXF8hsCCXC}yXs}*G*F&Y&Y:Yy:*8c*CkXsyYs3*hC>GGo&0C*&}y&C>CA*88C*YGXiXc*=Ycc:&8y&y&8&Uhc}:Y:8UC*&C8c*Xy8y8U}:C:>&sX*&*h&}cyh}8y}*}cGrG6ybhYU>&X&8_cO5*cU&&U>83UhG}h&a&::?w}*>&ZcCx:yY}C*y>Y:#s*h&U8Y8&yhs*hs}CGC*yGs**c*:&U&U:Uy>*hcsC:>nyUs:8yC&GcOCo}*C}X&}>}.s8h}sCYG :}h>*Gc>&h>cyhs:&sCCG&sy)&Yh&GXCAs*cs*UychGY8*hX*8}y:_>G8h}XcJ>&M&yUhccYYX&yhY*s}}c*C>iy:&sUUYYXy&:8bc8UG}cyyY8sUXcUGG:Xs:hc8XGG&hX8*Cs8*CGCy888_:*cYG&hh:yy*h}}cy&oyGs&YcYYGcX:hY8YY8&sX8yC8hUYCXG>kX_*}c}sXc7ssYs>C8C8>8X&hy}gYCcYX8E}sGC&CyGU::*}*YYc::>yyXsY&&CG>XyssG8>CYG}>:gc8G}hX:G&hyhCCyGCXX:s,&8s}y:8Gys*sG}*C*GRhhh}8>YU>XXUy*sz}8CC:Y:>hs*G&8&C>QyC8U&cC&>>yhs&8GC}GUk*Es**}c&s>sy:sXU:C8G>:shC*YcCCyy*:X}*CXGsGYf:_:*:}U&&yGy(s}UyXsG>:shGC:YCc2>CSUYcU&c>>hy&HGU}CUX*Xsh*8cYscs>:yXs:U8C>Gs:ChY}CUy>*GX8*UXCsCYX:X:h:8UY&>G>YFcs:}YYC>8ys*h*YCh&}Xyyy8G}&GGGshYBtCY&_XUX&8h8hYhCC>Xh:h&U>ChG&>Gh}*Uc*c&X*yc8sUsC:GX%:jU}&}8X&18sCsXC*C*>*XGh%Yh}X&yX*JXh:}ccC:Y:UsY*>CU&U:h F*h}}cy>UyGs&YGYsXY>z*Y}rcUc&yhyh8h*CCXX:X&h>*hY&CGX}dUU*c8Ch>8:Csh*hYX&>yXy*UcUs>cyshYh>Y8Y8G8>&ZyU(U>c:>8y>!XUCCYX}X*h}8GY*c*>Fyy}hUUC:G*:&8G8scYCS)YstUUU&GhGhyh4C*Xc:c&X>,h8&*Gc}>Uh*h&U*YcGsXs<:8XC:c8Gcys}U*yYU&:sheG88UGcC+>yss*ccY*XGhU*hY*G8C:>cyGshc:Ch&X:Chc8XGCc8Z&T*}CU*>}&yhUhhU8YCGh>sIX8>}Xcs>G:GsYU}&U&>:U!G*hcsCc:::YU:CY&>Gh3COC*CUy&*yU:GUhUCch&s:XhC}GU>cCX&:58}c&C8>UXGU8Y>Yy:sGXs:scC&>}:&::h*8S>h&G+sy&Yh}Ycr>}y>s**C>}&}3YO*YYc#>U>h/8sCUy&:Gc::kc*&cGcV>}yyYs*:G8&>s8*>YhY}>X>XMXs*}cG&G}yChXU}}YGs:hs,8}}_cU>:::s&Uc&&&h0}yyY}cy>*>chlh.U/YYG>RX9c*G}i&cG&bU8*C8Ch>8:Csh*hYX&>XX+s8G}hcY>}hYb:Y8}>:8L>8h8}CXCX>X:*scY&Y}GCXXh}sYYs&h:_::slUUC:&::&hc*&}y&C>:K*88C*YGX1Xc*DYcc:&8y&y&8&Uhc}:YXX*8*&C8c*XysTsCC>C&>>yhs&*&C}GUk}/s**U&XsyGy:*X*Y&X&c:G<h*Yc}C5X}yG8*U&CkGyOOEY}>}UX>+Us&syC}C}>}XXssY8}y:*X}iyhB}G>G>hy&h&U}GcX}XG/8sG}CX>>sy*}cCYG*Xy>Y8YsyGsCX>Cy&hKcXC}&>XCUc*sc&X*y>8CUGC>XhG>XTU:**Y}:Gdc8U}C*cGcGh8* y*&Y>&shy3U8Y&*CX>yy*sX8:CcGC>}8}8XY}c>Xs8UhcU*C}&>sceU}&}8X&I8sCsXUUYXG&s:M&}yY}&y>yBGU>}hCYG2hChA8yYG&:X88s8YUXc}:::>hCU8C*&Cs8y:}}U>>s>c/sh8U:Y>G:X*h&}c}Y&cGy9U}cUh>Y&jshoCYo&cXXX8m>s>}C>Gy&Xy**8XG*XX+s;YU:U:c:GUy&*G*YCc&::YyC*8Ys>hGG-hs}UyYyGG:&8G8scYCt^YsbUUU&GhGhyh{C*Xc:c&X>1h8&*Gc}>Uh*hsU*YcGsXs+:8X}:c8>>yssCUY&CcyM*yXY*cX>s>Yh:h:U:YUG&MGbYY>}:&YGCd8}8UccsGs::Uh}:}U>&>88&}8CCCX:*:*s*8GYBXh>X*s8*}XY:>cschyUCYCG*hY8*sGC-CcyOsc*:U8&&&&:&Hh*}cYc8oCy&88**Cy:y:Uh:8:Y&XXy&yhU}*y>}:yh*hc}-}i&?>Yu>UXUc>:GbycT&UUGU&G:*{*8/&8Go>C:Ys8U}YGX&XyrU8:c}cG>8:GsCc>Yy&G:}hY8GG}chyc:yUUU>cU&}yh9yUh}Y&Xy>y&8>UscCy>:*U&*8G*cGh88>}.}}cyGyyGU:CXYsXY> *Y}gcUc&yhyh8h*CCXX:X&h>*hY&CGX}jUU**:c*Gcyshs*:YX>:>Us&s8c&>8:C:X****C*cGX28hsX}yc*>XX:scUC&Y&U:Y0>*U}U&h>p+hs}UyCUGG:&8G8scYCD^Ys7UUU&GhGhyhmC*Xc:c&,yph8&*Gc}y}:>sU*UCh:*mhyCUXU}>Xy}hGh+YYYYGY>:h8}*UfXU>YyahhU>G>Gs:GaG*Y&&>YG:s8h>c8G>:h:}8X8XYXc*Xcs&s}cGCX>}XYssCsYCGhXh?X}jCXC*:c:sUcCs&Y&>O838*8U&cy:a:>}hU8C>cX:C*C8:YYcYX88}U8UCY:GYs&h*8&Y8:}>1y}sy&sC>G*X>hcCXY8&Uh&8C}*c8G&Gh8*By*&Y>&shyJU8Y&>CY::h>UYC8&KyU>vjG8X}8X,>}yC}X*C&y:chU*sCY}scX>yyUYsUUChG>:XhhC>}YX:Xh8>8*c&c8yC:h*Y*8CU&&:8y*8y}:GX>8yXssUGYGGY:}8Ys:c8C>e8s>UhU}&X&X:XM**cc&c}XCyX8}*Ycs>h{)M:*nYU&:>:7&8c}&Cy>C::s*U8&*cGyjyc}BccG:>8h&h&U&YhG}SYyX}8}&&8G*yy*_Us&>&&:>hh*&}&&}XUs}ss}*Y&yshGh:}XYh>X>c,Gsh}YG}G&y}hGU*Y&&QXys^sYC>CUy>sU*&*y&}&}:}yX*sc8Cy+*y}sy8+CG:G:hh&8&Y}Xcy}:XUs*G>s:G,,hU}>}>&>>8NCUc*yGUG>yUH}UhY&XWXcsXs*c-Cc>G:hsYCGY8:cXs*8s&&s>GyyyUs:*:C&:Xh>*G*scUcynU:G}hC>>>&c(X*c}XYhcY>8**s:CUYXy*::U:*c}X:G>Cs>s}c>>U:&:}sC*XC*X8X>h8sG}yGn>U:Gs*Y>Y8XCXh*CYhc}cGysys8s*cC:XyXU8G*sYGC>XYyU8Y*Xc8:sX.ss8CY::s>&8.scc&ChycssU}*kGY:}>Gsasccn>c::y8*&*&C&&h:}8Y88YUc&X8:*syU:&X&G:Xhs*G}G&YX}BYs>}UCG>h:b*h*}}:c}X8*Ys&U}ch>s:}}h*&G8c&dsy:8/}Uc:&yy&scYCY}GCXXh}8}Ys&hXsyYs.U}C>GGN>38}C}hXCbhs}sGCsCs>sXch:}y}GXMXszGh>}Y>YGXy}h}UsGUXs>cs:sYc:>Y:>yh*C*CCCcy:*8U8hY8cCXh:ssXU>&G&c:Gu3*c}c&UX*sUh>ChY&yhh&8y**cGcGXGys8YCCC*yc:Gs*8UYAX9X}Lysy}G>::G:s*Y8JGYXHKUo&}h}h&hGCyX*:Us&&Gh:&-&*}cYCXy8yh88UYCyGUXGDYCCYs>c>y8c}sc}C>>U:Gsh*c}X:G>}s>s*cc>CGYych:UU&}&GXhF&}sU:cV>Uy:ByU&CcXC>R8Csyc*CXk*sXUsUY&:&:::jU*&cGcYXcy:8Y*Cc8>sy8hCUhYh&XX>sGsc}GC5>c:ysUU*&Uc>mhy&Yhc&Gy>*hGhGUGYsGY^Cyy}*}G&*>*yWUhU}Y>GUsChs8&}scyh8ycsGc(G::&h&8.}:}}:c>*yy8hUYX*Gh:Xhh*GY:c&hXl88U&&>Cy*h.dCYC}Sy8>:Dc8G}hX:Gy(hs}Uy}5GG:&8c8YYcc:XYyY88}s>*GCyhhY*Xc:&}>U_h8*UcGCGX:8h>Y*YU&Yh*yX8y}*cX&:ycsC8}&}&*:}LG**}&cp>y8sh}UhC8&cs}as}YUxXYynsUs&UsY&GYsGoY}>Y8&>>>gCUcU:C*GXhUj&8(}c&8>y*&sUU}Cs>hh&hy*Y}y&>havh*8}C&hGsyXs>YGYcGGX2hc8cYU&*Q}y&88UcCyX%:U5G**GY&h>YyMY8UXCU&X:&U:**Y}:GSc8U}UCcCsdUXVhG*XY8:bXcyysG&>CY:XscU>C8>}GhXUU88c}GX;GGss*;CG>G&}:hh88cG}c>>:8}U<CUG8&Gs:-c**Y}c>hcy}8sU}Cz>8Xy}s*CY&:y>&8h}G&GC}>hy8hcc}YYGcX:hYsCY8&syh:y8hU}Cy&y:Gh&*G}7&c>yxU8*CUY>:hX&UhY&cy&*yGyG8GUscY:C:euy*GY:&8.s,YsX}}G:G&y>shU&}GG}:U8*s:Y*ccXsyss:UX&:&UM&w8Y&&8>C>Xs*s*}*YGGwhh4}8>}Ucy>G*}shUsY:GXh}hG*8}G&Ch>yX8y}*cX&:ycsCYYYUGYX>hU8UYhczXhy}syUUCGG&dGfs}YU5XYy2sUs&ChCh>hXChX}:Y8ccXs*UsyUYYyG>s h}*CGXX&yXsXsU&CC8G::+h}c8Y*G}XGh*sU}Hcy:::>s:U8C>&>:ChY*C}X&}>>ms8hCsYcX:XY*:YYc>&hyCyC8C*yc*:U:&hs8&YY:GXh58YCc}G&Gh8*+y*&Y>&shyRCs:U&XG>*h>U}C*G&XyQ>U88:}sX=>}yC}XCC}XXXXUUC88}:cF>}*8s*}}CG>*XUh *yc:c>X:j88>U>cC>YyChXU}Y>Gs:h8sscC:CYy:sY*>Uh&C&C:Cyy**cUcXG>yCsG*e&yG*X&h8}G}>c:VGy*8}UGc*&U:!hy}:cXcGXXJs8G}hcY>}scgX*CY&cQhXycU:UY>:yYh>sh*cYh&:ssy:}8}&&8>8yy*0UUYGG*f>h*88}y&s>Ys}sGUhC&:s:Y)y8YY*:C>:yq}XU}cCGXy}5YUsCh>-yyyX8y}*cX>8ycsCCG}y&&X>xsYyUGGZGcs_UcY:C8&GX8g?C*UM>U>>vUsU}hGsGYXXh}}:Y8ccXs*UsyUUC:fh:Ghh*&GX&Y>Xl}Yc}8CGG8:S}**&Y>yhny8G}GchCCtG:}shU8Ycy}XcvU8TYhcU/Jy&UhUCch&s:XFG*XYs&c<Xy}8CUX>}:yysUU*C}jcCXU*cs>UCc8>*:C}88:&}c>Hs.c*sU8c:G>y:h*U&&c&Y:cyy*U&cchVY:K}h*CGE:chXh8*>}>&CvG8&hyC*YXy*hX*s*Yc:c:X:yU8&CGCY>c::sY8CC8GsRhyy*h}}cyGyyGs&YGYsXY>3*Y}_cUc&yhyh8h*CCXX:X&h>*hY&CGX}gUU*U&c*Gcyshs*:YX>:>Us&s8c&>8:C:X****C*cGX?8hsX}yc*>XX:scUC&Y&X:Yr>*U}U&h>)shhCYXY}:Xh}8G8NcYcYXY::88C*YB>s:Yh38hY>&Gy&yC8&UycCGCy*s8U*}bGsXY{t8}}>cG>&hGhsYY}N:Ywi8U8&chchXh:CsXY:YyGhs}VY*c}:&YGC288s*&CUGYXXU&8}cGc*IG8*UcU:C}&::GUy8Gcl&YXJyt8>CXcsGCyh*c*:Y*&Xh%S&sm}cX>>}:>sUcCCs&C:hU*8:}*cXN#y&ss*&CYyG:hh8CC&}X*)8sCU}*:Xh&>:Yhc8yG>&sX**cs*CcGcy*ss*&cs}X&CX&yRYX}8cU.&sCUUC}&&&hs*yy8&}>csNyyUsYc>YYX:7>*YY*&8:UGbyGsXU8>{G}:CUX8CUX>XlC8U}Y&}ChG>::h*ch}:&&>:VC8GUYX&GTys}YCUGs:h0Uy:ChU>cY>c:y}>UsC*yhX&h>*hY&CGX}TUU*C8C&>8:chyCs}}&hX8ycY}UsGY&WsY*KYUY&&s>&EYYGUYG>>8y>h>UC&c&:X*BX}U}XC>>CyGhQYyC*&&:88G8c}UcbXhyU}ZUcG8GYXXncC&}U>GiY8&}h&*CyG88hhY*cG:XGyws:s}&cC*GyyhhYc*Y&&>shy>}hc>XXGCy8sU*G>C&:XxUUYhUU>UGX8lhGU}CC&:sGhh*8GCcc>YyhY*UUcYG>yUS}UhY2cCX8uUsG&CC*:c:sUcCs&Y&>X*y>8c&XCc::yUs:*:C&XGX%g}8ycYc>>*:>sccXC}X::Uh:syY&cCX&y:8}c&C8>U:cU8Y>Yy:s>Ys>sUc>>U:&:y*}*}C}cX:s888CU:cYo&y*h>**ChyUX}*G8XY}CYXs8ssC}hChGXhp8X8*cccs=c8sUYU>G8G8y83&*ycp&U>G0*YY}hCcGh::}s*CY&:y>&:yUyc:>cic:*hyUhYYy*XX_8sy&accyhs&U>CyG8:}sCh88YGUcG>X*shX*sGs:XsXgC*8YUcGhCyc8GUTcc&&yUs*Y8}XG8XChh8h}Xc>:X:**c*sGc:skYQ>}8}8&8G&yy*EUCYYG8:}NG}&}ycU>:s}ss}*Cc>sX8h:*Xc>c&X>Zh8&U&c}>Uy}hGU*Y&&OXys3sYC>CUy>sU*&*y&}&}:}yX*sc8cGG&y}sc*:&XGsXChh}c}:c}G:yG}y*BcsGY:6Rh*>YG>&>*z&sy}CCC>*y8**8Gcicc^k8cU:}8G&G&y&hhU}&Y&>XsNGY:}CC:>Y8&s**&C8y}>N7}sy}ccUV4:Gh>*CCYX5:UtX8UYs:}>cyUs7}hCUy,:c*8*Y}Xcch&yUUGcY>&yh8*hy*8>h&YXc*:}GCmG:G}8ch**yCh&Ys*l&8>GhC>yhs>}X*CC8GUXGUC8:}w:UQh:UUU*X>i&G:}hC8:GG&hX8*CscUYChK*:UsY*>CUc}:hl,sC}8cUGG8Ch*YcYs:chs8Y8>}*C>>c8XhcY:CUG:X:h&}G}7c}>ysYs>U*Y>GcsXh}}:YU&:Gy7&sC}&C:>}s&h8UUYc:8w>wyYsUYG>GUs>UUY&YyX}X}h}sXYs>8>C::sYc&C*&>X*hhCU}}XG>X^}hY}s>sGCyhhh*X&Z>X>*scsscc>s:Y:>*8*8C8c&XysV8UUGc*FYyhhc*hY:ysXC7&YyU&Yy:ys:UcccY*&y:h;YC*}Xc8Gy8IscChG&:>hy*8Y}GC&8>Y*UsGUXXs&XXs*sYXGXcCX8NUsG&CCc>G:%sc8&CUG*_8yX*8}C&h>hyXs>YXY*XcXs*cYscYc>y8y888*&CyX1:C5Y*8Y}cGy&yysUU:G}Gsy*hcUs}8&:XXs>s&}>ch>&:&s}UUC}&G:*!&8L}yGjGYh>hUC>GUX&Xy8}8}Y}CXXss8sG*&C}GcX:8X*s}C&hycy:s}*:CGyyX7ss*YY4chX>kGU&U*c&GyyChCU*C8X*>Gsisccg>c::y8*&*&C&&h:}8Y8>}scGe:yCh:UY>&G*X&h8C}}Ec}>y*ss>U*Y>GcsXh8*UG&XC2U8sUcCCYmT8X:hc*GYh::XhyX8C}cCX5CX:*c*(Ccc&:UqU8h}>cX>h8>shYX}:&&:>yX*C&>cUXY:C}UC:chy*>y8(8:}&&UX}y&YUUhG}ysh}h&8O}>:XXYs:shcXc8>>yssC*pY*ys>:88s>&8>>yh:XsyU*CGX&X>h&8hY}>Y>>yssGc:CC&9XChUCc}>cCX8D*sC&8Y::}:ss**cCsc8X:qXU>U&c>>hy&h&U}CUG}XGh*8&}#cy:2:Y*>*UG>:Um&5y}}}}&}GX,sU8*y>*G}:yy6*G&G&hX&y&8}ccG}&XhsVGCs&G>vXUs>s>}>C8>ChcwyYUY>GU>}hhsyYhCY>Xh>h&U>YsGCh>KU*YUXXUy:oh}**c&:&Yh:*Y}>Yh>C>C4Chy}*GUGhy8hCUh}s&XX>VX8s}GCG>Yy}*U*>CU&G:h8sscC:CYy:sY*>Uh&C&C:Cyy**cUchX8yC8h*sCXG>:Xhs*G}G&YX}sUs8}UC&>8:chy*:cyc}yGy*}Gc*GcG:hUhUUU}>GhVsy:8l}Uc:&yy&scYCYsGCXXh}8}Ys&hys:c*:*YG::Ye>hh}C}C&CGy-*UUUhc8GCyh(s*XY>>G>c_Gs)}cCc>Uy*sU*&C8&cXy;:Uy}*C&>88}hj*}YyysX>S*s>}cXX>8yU}&CCGU:Yo&8Cs6G8C:>cyGshc:C*G}sG*cYYc1CcycyhY**yC&G>:sUy8>YCc>X}qcsU&CC:Gx8U_k8U&UXD-X8:Y:Ucc*>}:>}c*&GyGh:&yG*}&}c>XUyU8hc*GhGcXCh**Y}>>G>Qy}syCYC8>U:&s88*Yy&:yXS88X}scGGGyYs}YY}:X8>>*8}>chc}:X:XsX**CcX&X}hC8XY}CYXsDh*l*:CZGU:: :*&Yc&&>ygCs:}*c8:*XG898c&SXcy:!8U&U&c&Ghy}*Y*8CU&&:8y*8y}:GXdh:&hC*s>U&}:CWX*}}}&sXh8*Uh*C&X&}hX*}}G}t>Y>YQYh:}8G*&vyshY*e}h&>XG=>8h}&C&>}yU***sC*&c:sZC8:}XG:GUh&h8C&G8XCXX8*8*Y*CG>SshhXUyC*GX>:hc*CcYcXXYy>8UUUchGnhhpC}X}}XX^}sGseCYCY>YX:s8Y*}SGsXYvush}>cG:&:Cs&*yCC&C:*h8**}c&s>Cy:sXY:YUX&X8*&Y8cCcXy*y*8**GC;:h:sh*Cc}&&>Xh<&hG}}cU&X:Ch&8,GXccy:yY}:cYG>>h:chh*:>sc:j8I&*8}8cy:=yUhGU*&>&hXYy.8&}}:hG>:XhcUCGhG}X:a}*8GYcCFXyy8C*cc*y*:&s8*8Yy:syy3*s&}8X}G3:C T*X>h&&:*{c*s}sc:>Xh>h&U>ChG&>Gh}*Uc}CXys:G}sCG&IGU?>u>*>}8&CycyU8YU>cU&}yhhu}yG8&UX:y:8&*CGCy*s&*Y8:&8c>h88>}h}}GXGXyXh*Uc&&&::C.X*}}}&sXhheh:U2CUG:>yh&*cc&chy}:y}}CyG*GcAS;T*u}Y&>yXyc8GUAcc&&yUs*Y8YcG8XChh8h}Xc>:X:**c*sGc:suYA>}8}8&8G&yy*V*>C:G8:>yX*CYY&C>XW}s}}schX;:Yh=*}Y>>X>*scsscc>s:Y:>*8*8C8c&XysQs>}:c8>>XXsCUY&}&>:}0G**}*cz>yhehYY>YU:>hU8&8yc}c}X}:X8sC8Yyy*:}hysdYGXGXhp&s&}}>c:}:Ghh*&GX&Y>XW}Yc}8CGG8:I}**&Y>yh)y8X}cchGyGY8&hU*(Cs&CsUdG8XGs>7y:sC*_*c>>&Y:sh*8&GYcX>y**hyC*G*:yhX*>CX}C&8XUyGYCUUchGU:yss8:>h&YXc*:}>c&>U:>:U}C*8Y:&eX}U88}}scX>:ys}XUCGy&GhXhYYG}MXc>s8Yh:C}Cs>*:css88Y:&Xy>y&8>}hc&G&y}sUY}}XXs>G*s}GC-cU:>:>s>*8CCXcXUhY8>YUC}XhyR*y*XCyG*:XJX*cYC>cG,sUh:cUG::8:C8y8yYyc}XGs>8sCCCy>CXcs**sC*&&XVsysX}ycU>GsyhCU&Yo:Chhh*YYU>>hG&8hU&YyC*XGXGhG8sYY>C>*r}sG}*YUGd:y8:8>Y:&8X>y>8C}YGC&yh*gXC*&XXsXYs:s:}:CU>&hGsh*U>8c X>y>s&U>Cy^>:XsyU*CXc::chC8y}Uc:hh:XUs*G>s:GgihU}>}>&>>8?CUcUyGUG>yUB}Uh&scXy::yh>CXchGY:8}**:&UX<h**>8G&XcCG>8&sCYGC*GGXHhY}C}>csG:8yscY5G>:ysYhCCCY8cYhUy:U}}hc}GGys*88Gcy&UXy8C8GC>Cs:C::sCYqC*XUX}3CYXU&G::X:G}CU}YCGhs*yy}*c*c>-y:&sUUYYXy&X&hX88Yc>C>swCh:}*GUGcy8*>*yc:cGy:J8sc}sG&Gy:Uh:Y}YG&hX&8sscC:CYy:sY*>Uh&C&C:Cyy**cUC>yhyC8hUhCXX::}_U*hY*ccyCyXs8U>G*&G.EhY*A}r&>yXyssCUhCGGY8s/X8:}&&cjs=YsyUYc*SC:**c*3Cc&c:U8}8G}hc&#XyYhy*YC*yCX:gwCUU7CUyUsTU:C>>:&c:*h}8>Gc&s>Cy*YUUCG}yhh>U*Yc&Y:XXCy>Y&UgcsSY:slYYYGsXV4c*rsG}}cCG:8Gh>U:C8G>>XhC*YYCc*X}yG8*U*CLGy::8X**YX&8Xcs&8sUhCXG<:U***c}y&Cyp^h88&CCc>G:esc8&CUG*>>-Y8cUyX>GChXh}CXG}XGX?2Cs_}X:hGXsssc}sCsG:7yh*8&Y8>GX8yss:}hC}:U:&(_*c&h&}>:y}88&YCC>&:ysC8cC*G8:*y{*s}YcBG0y>sGU&&c&t:cJy*Uc}cG>hy&}XUYYXG}sch88G}8c0h*y&s>&hY>:hhh*>Y&&C:&>UyI8sUCXUGG:X}s8X&*X:1>8cY>UYcs>*:&}Y*CC&&y:Cyc**Y8>sG9wssYUlYjG>:Gh>*hY&cmX}OUU}*XGs&Gss*G}(YU>>>>5>s8}CGcGhyYh>UUYUGhX^sysX}yc*>XX:scUC&ccR+Uy:YUc:>8>ChyhyUyY}GGi>6C*&}y&CGcb*88CsY>>s:Yhf81Y>&Gy>y8UCUh>Cyhh}hGYsYsGs>co:UyUGcX>syG_>UYC}XUX8hU8&Y8c8>yy:syU*CXG8:chC}cU1>UG:8UU:C8CCXyXyhy8}YG>>>*#&sy}CCC>*y8*s8OCs&YX/yh8>}GG>G8hChhCCGhX}XG8s8sYsCc>:hyhGUXCsGG>>hY*}cUXc>G-*s*U<}:X:h&*6}X}*>c>s8c}sCYC>:8:8s88&Yy>K>Cp:88}>C>>CyY*}**C}&G:*yU8b}yGT>U:XhUUs>}&cXU73*h}UXl>8shhy}hC}Gy:UhG*&cGc>>:*8s*UsY>yy:sUX8CY8&U>G*Cs*CcCsycss*Y*>Y*c>Xc*Xs:}ecU>:Xys&Uc&C&C2Cyy}*}G&*>*y3UhU}Y>GUbXhs8CYh:*>:y}h:UG>yGsX:hc*&}::c>:s&8h}&C&>}hYhU*hY>&XXh*>sCCXCG>X:Xsc*yYU&hssZ>}8}UX8y>s.s}UyCUGG:8dYCU}h>}Gy88}sUhc8GC:y8D*U}G&*y>yC8&UycC&cy*s8Ys}GXsXYyX8}&cc8Gcys}U*yYU&:sh3G88UGcCV>yss*ccY*XGlc**Y8cy:sGXyCs&*p>XG8:UU&8Uc&>&fU8*}s&8Y:Gc:GhhC:Y*&}hGy}UGcY>}y*8UFS*GYX&8hTx}8C&X>Gy&s}*G**>Y&sXX;y8UGscGXUy&88U8CyG:,XNG*XYs&GG> Y8}CYC>G*X>hcCX}Hc>XYRCs>&YCs:&::h*8j>h&&ps8:YhcCXG>}:&}C*:YfyUh88U}U}GXuGGy}sC*:>GGh:8UCY}UC>C>:*8h:UcCGGhs:=yUhY}&yGjmG8&CcC8>c::sY*YC8GsJ8y&UyUC>yyChXssYcYcGc>ZhU}}}Gc8GGyC}>*XCyG*:Xy:*cYC>Y>UmYs>}UCU>h:Osh*}Yy&UXG3&UGUsGY&4sY*aYUY&XhXhhhsC}XG:>8:csscUYy&Y>y#>Ya}}cCkXy}*XYXG}yCX8O:8v}}:8>cyG}_Uc})XKhy*&C&}UcAXsyCYUUsC:Gs:>hy8GG:&*X}*G8*CX>*DY:shX*yYUys>X888&Y8C*>y:Xsy*UCG:yXCh&sE&CXhX*8Yh>ChY&yhh&8y**cGcGXGys8YCCC<&y:Gh:*8&s&Y>X_}U:Uych2}:YhU8y>s&8:UI&*8U*cy>::}shU8Ycy}Xs8Ysq&Y>ayUy&ss*&CYyGXY8>*8Y>c>XCscs:U*CX:UX&lK8cY8cyh&yUs}Usch:&:yhY8yY>:O>G8h8CYhCs>X:GsX*8Cc:XX}hCs:&}>yXs8Uh&YyYC:yhC8X*sccccXc:?8UC}CGGh:&UX*Y}ycYX**Cscc:Ce>cX&sUCUYGG*X*d?Y8CWCY:>:UU>CU&&&yf}D}*}UX&sy8yCh:UY>&G*X&h8C}}7c}>y*ss>UsCGy::CH/8CYU:c>>yC88}*CC^8:>UU8>&*&C>:y&YGUGG>yCsGUUcUYL&*ssJC8&&s>X&yhyh>c&YU&w:sWCCU}:c*GS*hh:CsGG:YhB*8YcGc&*>C*}s>U:X8yhh8hhCy}&&UXYyXY&UGcX>syGe>UYC}XUX8hU8&Y8c8>yy:syU*CXG8:chC}cUH>UG:8UU:C8CCXyXyhy8}YG>>X*y8sy}sCY:}:Ghh*&&s&}y:MU8:*yc&:G:h*Y*UCY&>:UAU*h}_>hGXyys8CXG}GcHCyN}C}*&}>&_sUh*cchG}:yhU*GY&>GX8yss:}hC}:U:&<K*c&h&}>:y}88&YCC>&:ysC8cC*G8bsy3*s}YcOG6y>sGU>ChG&Xlh}*Uc}CXys:G}sCG&RGUI>H>*>}8&Cycy:s*UX>?G&X0hcC>Y}c>XU*C8sU&CsGy88hc*GGIX:4X8XU5C:C}pc:*hyUhYYy*X&?>ChU>>hyhs>U>CU>&&UX;hs8CGUc:>*:(YhUyGs:Xh}*(Ys&c:cX*yCY}U>C:#8sh*aYH&8c&hXyC88}UCGJC:GhYUsC8&YssyX}U}hX}>C-hhsUXGXG8:>Q>*C&G>CGys*hXc*GX:s:Y8:8:Y:cUX&sGsYc>C:>YXCs8C8YcGsXsr:YhC:CU:&:8U&C8&C&XV*)***UGc-yh:X}sU*CXc::c*c8yYCcCX*8YU**G&1&chK*c}:Y8>&>&S&sh}}GY&Xh8h&U8}*&y>X1ysU}GG&GCy&O!U}G&&shCuhYsUcXhy&s:s*UXYXGch>*Gs3cUC:4Us:U8UC&y&y:yM}*Gc>cCX&yy8C*cc*>8y*hcUsYs&:XXs>s&}>ch>&:Is}UU&}cX4syGYscGG4>Uh>h>U>Y8GCLcNU*Y}>&UG}Dhse}hC}GyXyhG*&ccc7Xcyy8UC}YX:sXGUsYGcI&Uy>y>8>U8cC:c:UsY*>CUc}:hW-UyUccy>*yXhXUcCCXc:hy?8>}yc*y8yCh:UY&y&XXch**U}c:*Gy8}s!CUCh>8:Csh8sYX&>yG=h8GU%ccGcyUs*YU}>Xh>&*h}&Cyc*:G:GsG*sCYXC>:8*8GY*CU>Hshs&YXYGGX:shG8GYY&}yYy88U*G>8:>:y8:*cc:c&X>ys8CCYcs>Y:>sU*GCh&,(hyCUXU}>Xy}hGheYYYYGY>:h8}*U5XU>Yy{hhU>G>Gs:GHG*Y&&>YG:s8h>c8G>:h:}8X8XYXc*Xcs&hSC}CX>}XYss8DCscCX:sXsG}XC8>csXhUCGY*:U>>**}X&hcY>J:ts>CyG:&8zCThYC&h>}>Gssss}sYcG:OygG*XYs&GG>3Y8}CUYy>U:&s8*8Yy&:yyy}UGU*>Gy*hch:YUYUGU>>hh}sU:cB>Uy:#yU&CcXCXshC8XY}c}Xs7hUs*c&:&Yh:*Y}>Yh>C>CfChy}*GUGhy8hCUh}s&XX>sGsc}GC)>c:csUU*&U&X>>jC8GU3Gy>*:&s8YGY=&C>kjXCh}*C5>Gy>hwcGY}X:X&*y*hY&CGX}8}s>}UCU>hs**h8CcXc}xX8}UGU GYGYyYk:U8&*c+hU^Y8uUhc>y>yssG*GCY:&.Yy:}8U>X8y>shs}YXYXGXX*hc}&}}XG>X+}hY}s>sGCyhhh*X&x>X>*scsscc>s:Y:>*8*8C8c&Xys-s}C>c8>>XXsC*}CCc::*888hY8Cc>y88hGchY&:GXs*&Y8&YcXX}y}8scU>*&c;:/YY:&Y>>XhsCsC}CYy>*hUhhU8YCGh>s<X8>}Xcs>G:GsYU}&U&8:Um&*8}ccy>:hyh}YGY*:Gh*8c8:cUcUXU:>8hCsY:Gm:Uh:syY&&cX&yy8CUCc*>8hshcUsYC&:yyy}UGU*>Gy*hch:YUYUGU>>hh}sU:c;>Uy:IyU&CcXCXshC8XY}c}XsphUsUYYXG}sch88G}8cAh*yU8YU>cU&}yhhK}yGCc>X:u88>U>cC>YhChX*8Y>:yXcyy8C&GcUGX:Ussc}Y>&:s8y:}8c8>:yXsU}>*YCsG*X&UY8X}y:*ns8hUCCsGs&&sXuC*8YUcGhCy:s(&UYZ:UhU*LYy&G::>c.*8}U>XcG}ysh}*gC8cyss#C8&&yC&yhsGU&Ch>c&*Xyhh8YG*cY>8y:syU8>:&&,yh}*yU_&G>GyY8s}8CY+sXCU**&&hcCh*yX8yU}cGyy:YUX*}GYcyh}8yY8}c&s>sy:}hC(GyG}mcpDYcUjXUyv8Hs8*yC&GGXyU&**cGXYyGyysUUhXs&:h8j>CsY>:>XYyGYc}8G&>hs&U8YCY*G}>Xhs}hU*&h>}yX*:U8YcGsH&hs8h}XcT>Us*sc*yCCXZ:hh8CC}c&G>+<ch&}Uc*&>:Yhc8yG>cCyXy}}Xc}GGGk:Cxn*X>hcX)s4c*s}sc::yy*h&U8&GcaX}yy8c}UX1GG:>hCUY&SGUXXTU*sG}c>>:*8s*}}CG>*XUh<*y}Y&sX*y&YYU8GCGhsCUhY}YG&8>G,CY>UCGX>*yXhXUc&&&yXU+:}}}Gch>&8XsY*yYYG*sCm:8qGUX8oh8hh8C8YGy:Xch**}}>:cX*yCY}U8Cy&yXXly*sGycS:s_Y8nUhc>>GyshCUh>*&:X}y:8G&ycsG:ycs&*:>c&chG0s}&}:c*Gt*hh:CsG:yhhCUG*}}&:C>:y YUcsGU&R8hr>*YYccyh>%s8*c>>*:Ghch8c*}y&&X>VsYy}CC:G&8Gh}Y>G*:*h&8XY*G8c:>s8qs}UC>X:G>X8X8YGCc8>:yZs}&8C*>}:Gs*8UYa&yy:;*8:}8c>G>yCsYYC}yX*>X**}XcscY::::s:*UC&XG:8Bs8:Yhc}yUy&h!UcGh&X:yh**XU:&cXCsYsU}YC>>U:Ush*bGhcXXy-*8X}8cc>ChcxeYU}::UO:888CCyCy>y:}sGY>C*&8Xyhs8Yc}cG>hy&UsUYYy&Y:*UC8cYGcQXc:&8U}*G8Gcy8hCUhYh&XX>sXs*CcCsycss*Y*>&8&8:8y&8yC)cUGGy*}YUhYc&hX:Us8C}&XyyGhyh&cGY}Gh:8DcC}}Y&c>:=YhC}8cs:hXysh*}YycyXGw&YhUfccGyyU*}8X&scGhs8GUR}UG>G>y>h8UC&c&:X}y:8G&ycU>Y8>hc8>&>:Gh}U}8h}>c:>**hh:U&Y:GC:GjYC&}(&shYy*UcC)X8&::chG*hG:cy:hp}8y*acG>&hchYUcY:GYXYh8*sY8CyXhy}syUUCGG&:c8&8hc}Cy2}syU*Uc&.&S:p^Y*>cX&U>*y?88UCGYG>:shGY8}:>yX}jysy}GG>GshCh}UCY8G*X&y_s>&XcY:::GU:CYGGGh:&o2*}}:csvi:GUh*cG::XX>h:*8Y&>G>zy}syCYC8>U:&s88*Yy&:yXyUUXUsCCGh:GhYcs}Xc:>&kc}s}YCyGYy*}C*C&c&I:cpc*Uc}C>ys:u8s*XC:G*X&x}CYYh>C>U8C}hcUCG>*:&hO*C}>:&>UsGs8cC>YG}yChXU*&U&&>?4c}hUXcy>*yXM:UcCCXY>y8Y8>}scGt:yCh:UY>&G*X&h8C}}1c}>y*ss>UsCGy::C%:*YG&&*>>y*8h&UCGGX8swXYs&sXX2>8}YGU}ch>8:c}}*>Y:y8hh8Z}&cs>hGc8>hYUsC*&&sY0&8}Yh&s>}*hh>c8Y>:s:}->8CGc&sy&8}}cC;X8G::sU/*}YC:X_&sX8*&cC*GyyhhYc*Y&&>shg&shch>fyC8Gh}UhC8&cs}2y8U}h:s>ss8U:CG>h:}h&U&*U}c:Y>XyyY*csY*:*:&Uy8&YU&Y>X*&sG}Xcs>GX>sYU}&U&8:U4&*8}8cy>:yys*UXC8Gc:C8csIcUC:DUs:U8UC&y&y:yw}*Gc>&*>8yy8sUYG}GG:hh&Ys}C>:XU6:hy}&GGG8hYhUUYY>GUXUhh8jchCX>y:UUXC}CcXCXs8C8*Y}C>XsshhG}hC}Gy:UhG*&cGcsyY:j}YCbGUG&hhhhUh}C&Xy:W}sU}hc*GchChX*8Y>X*Xcvhsc}}X&GGyXssUG}>GY:}8U88YUc&X8y8syU:CyG*:Xh8*cYC>cGRsUh:cUG::8:C8y8yYyc}XGs>8hUYC_%8:XhU8XY&::X*p}YGcYGX:Gyh}}*hY>&:X*Uh8Y}cXhy>X:*:U*>c&*Xyhh8YG*cX>8:y}5UGGh:Gh&*yYU&h:CX8yYYUUGCXQs:GfsYs&G:X>CT88UUGXCG::k}U*}CC&X:}yY*sYhCc>*y}h>ccYUX&X8*&Y8cCcX>U:Xs&c:Y&Xy:}hy8yYG>>XhyYsgCCC!&y:Gh:*8&s&Y>XD}U:U*G&>hy&mGU}Y*G}>>hs}hUy&hGYyX}h*cGy&ChcySYC&hXU>GM*s*US>8ysXY8>8U&>XUy&yyU}U}c}&Xys*8*G}&&}Xcy:UX}sCC>hhch:*}}:&Ghy_U8Y&>CX>yy*sX8:CcGC>a3G8X}8XKG>shh&chG&Xy:*d>8*Yh:U>hs}sX}}C}>sh8hC8:YY>yX*y&88&}C4GCX,hXchYs:YXchss8}:>:>*yXhXUcG>Xc>R8Us:&U>:y8yC*y*yCy&}:G8>*h}Ycrh8yXs8U>>yGcXyhCCGYUcX>UBsY}UYccG:yY!CU8CsXhhUy:s>U}XcG&y>shU&Y&G}:U*C}U}&Cv>c8>s}*:Y}G8sYZ&8}Yh&s>}*hhXCsCc>sX8h:8>Y:cUX&8:s}c>CUy}X:UUY:Gs&C:h^h8Xcm>y>s:Cshc*Y:&*XX*^8&ULccb>y}h>UU>CGsXChhC*}:c}G:yG}yUUCYy>h&*hYcc>>&>s*UhAUGCXG8seh}*CGXX&=G8YUGCGC8?}:hh>*:Y*yhXY/cY:UcGOy&shUscCY8&:XTx}C8}ccG10s:UUC&&lX:X}Uc8*}y&h>Y**s&U>Xh:yh}*&}ycycYh&yUsQ}sCC5U:GhXcs}XXs :8U}>&>CY>sy*h&cYY*&mX*W:*hUXXb>}yC}X*C}XXXhC8yY*G}ch>>y:s*&hCs>*:css88Y:&Xy>y&8>}hc&G&y}sUCYYsG*Xchs8C}:cX::y}hUUhC*&c.CzX88}>>*G{4ssYUmYhG>:G8&8CY&cyXCyC8*}8G{GcyshC*:cyc*>&y8sXUcX*&yXg4>*G&*&cXhyc8}&&CG>XyssG8>CYG}vUV8*U}&&8>8yys:CGC*GX:8hc}&}ycU>:*hsGU8YGGCs>hs**Gcc*yc8UU>c8X8&::chG*hG:&Y>XycY&U}GGy}ssUcYG&XysXX#hYy}UcY(>:YT>Y>GYX:_ UUs4}GcX>882sh}8CC>hXshX*>cG:*>C;&sy}CCC>*y8***>}G&YX&yyU:}8Cc>sh&hC**Yy&LX**y8cC!cY>9:hs>YXC}XcXO*c**&U>IyUychy*G>>&C3Xh*Y>Y}:}XhyUY8U}CsGX::hsCXYY>:XC,:sUc&ch>ChchUUY}:G82s,c}s}YCX>}h:s}*UChG*Xc8C8X}8c>y*ycsh*cC}y&XXic**YUcch*y:UUU>cU&}yh*s*Gc:&U_:Dc}&cUG&G::*!,ch}XXsXc*h8G&Gc}G&8ChG*YCsG8XYUs8>c8cXX8:&UyU}CXX:X&h>88YC>Y>:sYs>UsCG:8:Cu:*YG&&*>&z8Y}URCC&n:X}h*YYc::>cs:}&ch>cAC:8h:*aY}y8XciGYpc:>}y}hL*:*}>c&*Xyhh8YG*cX>8:y}V*nGh:Gh**yY*&h:CX8yYYUUGCX)sXXHsYs&XX*OG*Gs}}hc8Gc8}hc*UYIGhXU*9sG&sC:yh:XsyU*CXc::chC}Y}X&Y>>kUsU}hCx:hXC8X8}&XX}yGy2UYUYcY&:y8**80Cs&YX_yh8>}GG&GCy&hyUCYCG*:8h*8cYscC>:yX*:*U&&&8h&*8}C}X>*>*B*hGUkGh&YnXh**XU:&cy&yUU}U*c}GGy*h**(Yy>)>>6:s*c>>U>ChYh*YYY8GU>GhhUvUXc.>Uy:s*U&CcX&Xh8}sy&}>yy*yc*6*fC^&Y:>8X88ccc#Xc:&8UU8cU&GyhUU8:Y,c}S:8Y8&cXCs:YXqUYYv&U&&Khbh*hUCcX::y*hCc}Y8&y>yyXsy}sXy>c:ysCYBCC&Y:8h}8Gc&cy>Uy:U}Usc*Gcys?8*:YX>>Xsg>8h}&C&>}yU*}*:}X&cX>ihUQ}UCG>*h>sh*cYh&:ss78*U}&&8G*yys:YXC8GX:shG8GYY&}yYy>ssUG>:GCXZWC*UGcc&X>mh8&*Gc}>Uh*hsU*YcGsXsT:8X}:c8>>yssCUY&Ccy(*yXY*cX>s>Yh:h:U:YUG&<GzY*c}:&YGCJ88sChYscy?5TY}>}UX>5Us&syC}C}>}XXssY8}yGhX}5yhJ}Gc&:c:ysc*:CY&Y:8hs}8U&GyGCsyUCYXCsXcXchcs+YU>}>sp*sc}sY8G::X8>8&Y>&hX&y&8}}Uc}GGy*h&*/Yy>g>Ys>sUc>>U:&:y*}*}C}cX:s88syYhc}>yXWsGU&CG&a:cAc*UY*>8>h<8sC}hCYGX:>8X8*cccsDc8sUYU>G8G8y8{&*ycvc>X:_88>*XcC>YyChXU}Y}Gs:hsNs:},cU>:y*s&Uc&&&ha}yyY}cy>*>chlhJUEYYG>(Xgc*G}r&cG&xU8*C8Ch>8:Csh*hYX&>XXZs8G}hcY>}hYh>*sYG::XCy:8Y&&c*G>:*shcUYG&XssyX}sc:>Uy*8>hYUsC*&&sY-X8yG*Xh7sswUsCsY&yXXCh8*U}G:C>:y,YU*tGU:Uhe*YYCG:ccX*_}s>&ccsGC:*}U*:&}X93y**}YcUXX>C:>}&*gCsyYXsyY}Y&hXsy 8DhGU}CC&:sGm:8&YU&}>&*UsCC}CX>}XYssY8YhcXXC<csX&Cc8:c: sc*yCUX}X*y?8G}>C6QG:h*>*>G>:*sUMC8*}yc(>*8yssYIYh&X:y9X*G&ycCX&yC}Cchc*y*:hs88*Yy:sGXs:8sUCC*7U:y*}ChGU&>hyi&s:&>CX>yXvUXUsCcXCXChC8XY*>U>&:iscChYy&G:}hY8GG}ccyYyY8YCRc8G}:CUX8TGGc}Xh28sc&}CY>cX&sUY*Y*:y>Gsp8Y}!Cv>>hXss*&Ys&ys8yy}*UXX*yXsssY*XC}X::}bU*hY*ccyCyXs8U>G*GsX:hc*&}::c>*s>sC}&Cy>CXcs*U8&scH:s<Y8uUgc>>Gy>shU&YxG}:U8}sXcsCGQssG*^UU&>&>:>?8*CccCyyUy>8U*}ch&yyh+Y*Xc>c&X>ys8Cc>C*y&:8U*8GG8X>anM}8yUycGy:sXhsYY}a:Y#d8U8&chchXh:CsXY:Y&G>:hh&sGY}&UX}yG8*U*CJGyM:hU*:Y*&&yGysUY*_>Y:)hUh&YhYhGh>CQXU:U&c>>hy&LGU}CUG}XGh*8*}qcy::yUs:U*C&XGXs8Ys!&Y>0yUy&UhUhch&C:X8:8&Y>&hX&:G8}}UG*&:y*hcUsYs&:XXs:sUC&C8y&s8*C*X&*&*:*yG8#chCX>yy*sX8:CcGCJY;U*Y}>&U>UZhsx}hC}Gy:UhG*&cGcsyY:5}YC+GUG&hhhhUh}C&Xy:y&}y}hc&&Gy}U}*>CU&U:h**}h}cCC>*yYh>YGYL&}Xy8Y8>}*C>>c8XhF*>CYGCX>UY8sc&c}XCyX8}*Ycs>hu( :*+YU&:>:m&8c}&Cy>C::s*U8&*cGyNyc}0ccG:>8h&h&U&YhG}.YyX}8}&&8G*yyhXUyYUGG6&_C*&U!&}V&ys}CUh>s&csh*&Y:Y*&X>XTc}>cGY2:UX:UUY:&8&Cyyyy8yU}cG:>:Cs&*yCCcc:*h8**}c&s>sy:sXY>C8G>:shC}cUg>UG:8UU:C8CCXyXyhy8}YG>>>Ce&sy}CYc>*y8s**cCs&sX:#XU>}8c>>syC*c8g&Uc:hU8:}8}CGyGyyyh}UG&>&C:&Ty*CUc&*X8ssh>}sCYG{X<h>*Gc>c8yCyh}CchG}GGhshsUs}c&:yyyG8X}scG&>yYs}YUY8GUX&h888}yc:>yy*sXU8CcGC=cyQ}UU:XUy:s8sCYyYyGyX}hG}>}CXX>yeChc}*>*G&y8h8*yGs>yX*y&88&}CtGCXxhXchYY&ch:ycU%cc>&y}8Ch8*:YE&}s89**}}G&*GUyzsyUNCUG:X:h&*ccCc}XCyX8}U>cs>hhshY8y}Y&*hCyGsY}sc8GY8sLXC*}_X8>yhh8}}yY7>Gy&*c*yCc&::YwY*8Ys>8G&hyhCCyGCXX:s8c8cYcC5XUs}ss}*Cc>sX8h:*Xc>&sX>dh8&U&c}>Uh}^XYs}G:skGs18UC>C>>>:8sCYcYUGYX>hUs}Yhc):y:XsyU*CX&X:chC*c}U&Y>>TUsG}hCQGyb fY}>}UX>nUs&syC}C}>}XXssY8}yGhX}LyhZ}Gc&:c:Ysc*:CY&Y:8hs*8}C&h>YyXs>YXY*XcXs*cYscYc>y8y888*&CyXRX}8>*8Y>CXXCscs*CUC8>U:&s8*8Yy&:yyyG8XU8>Gy*yY*}*8&}&s:*y&8QCyC>>yy*sXU8CcGC!cyj}UU:XUy:s8sCYyYyGyX}hG}>}s>C>ySChc}*Cs>*X&hZC*}X&y>U8X}}}c>>Ghh}dyC}&yX*Xcsxs/}FCY>>hXs8*Y>U&sX:y:s>U:ch3:yCh:UY&yG*X&h8C}}{c}>y*ss>U*Y>GcsXh8*UG&cUy>s&}UC>GXI8X:hc*GYh::XcyXYGUCc*G*:sh**Y>*&:X*/X}U}&csG&yY}GUhC8yCh}8XYhcCCyhs:XsCU&Y_yX:}1>8CGcc}y&88U>cCGX:X8hh>8iG:&*X}*Gs}CG>Y::h:}U8%YG&XX8*v88Uyc&>G:y}&*UG>&Ch&h*}c}Xc8Gy8_hXChGX:ihYU&*U}c:Y>XyyY*csG*:*X:Uy8&YU&Y>X*&s(}sXYy}hchsc8}:&cXGwhY:Uy&h>}yy1EUGC&XcXyhc8:YYcYX84sU8*&&y&Chy*C}XYs>c>cmchn}UG}GG:83G*CG>cXhse*8X*:ccyc:ysC*CC*:Y_*yGU,Uc>lych:s8Y&Y&G&Xhh}}Y}>cs>G8:sC*%YCGUscSy*hG}c8y}8hYs*XCCG&X#UX*8YUXX<C:&U&U*XU&l:GhX*8Gp&c>yyGY>}YGXyCssUGYyGhy*XyQ8Ch}Ycc%:s&N:Y:YCycX*Ty*h}Y:*GysUs>}UY}>hhsrX}:}>&:>*o&8UCCC}>CX:U}Y:CsX8X*9}Y8}cGGyCs:hs*XYy&UssfC8&&YCy:y::sV*}G::Y:&*X8h}>c:>**hhXCsCc>s:sh:}yY*c>>*MhYUU}cC&:s}*XUs&hc:xh^}s>}UXC>s:&hs*yY&&>hcIh}8U2&sGCsZUcU>Gy&8X:mZ8}G8Cyy*yG8*U*Cg:h:}_:8}Y8:Y>C%&hKcCGy>*h8i#Y8YCc:XY*&8YU}cs>U:&*c*:Y*&XfUAhY}}C&hGsyXUXU8C>&>:C*G}CUy>*GX8*UXCsCYX:X:h:8UY&>GX8yss:}hC}:U:&M6*c&h&}>:y}88&YCs:C:ysC8cC*XU>A8hsyYhCY>XyC*G*cCG&hhc*h*Uc}cY>c8}s>Y:GGyhXUNt*s}C:U>GyX}&UsGsGhy8%cCh&&&X6,y*sy}hCYK*X<*U*>CU&U:h8s8YUyCY>*8ChcUGYh:c4IhU}*}h>*>c:ysCcGCU&XXUhs8X}yX>>*s}s8}UYGy8h>hyCs}}&hX8ycY}UsGYG:yYhYU8&*&cXhyc8}&&CG>X:8UGCsCYX}X88}8G}hc&fXyYhXU}>cG8XG,88+G*cUXYy>8U*}chGz_y?X*yY*&X>XNc8C}cC:>Y:Xs8Us&8c&yyyC}ycCGX>shchcUc}VGUv}aG8h}&XX>Y:Xs}ccC8&c:sUU*s}hcX><yUU*UcYyGCHz,:8&YU&}>&*UshC}CX>}XYss*s}:&cX&y:Yc*y>G>hhCDyCGY*G}>XhsY}U:X*GXs:h}CXG}:&Xuhc8cYUXCQY8}sXYVCY:iXY*>YYGYc&>}-h8sU}XhGGhs*:YsY}c>>C*csUC&C8ycy8}8*:Ys:xX&8h8C&h>&:y:GsX**CcXC>GhC8XY*>U>&:)scChCc&C:*hY8>cGcQ>}yyUYU>C*&>:cUX8q}>&YXCy>YYUs>cGUsYshY}Y&cW>>*Xs&C:>&yXs*}YUsY}y*X&F>Chcy>hyh:G}>*YCsG*X&UY8X}y:*E8s}hyc{YGG}:Cj:CG}>&:X8/>hX}CcY:}:>s}*GC*&*X,6yUHUYG>GUs>UUY&YyX}X}h}sXYs>8>C:#hCUU>c&&hyhh*&UG&}d}y>8UUUchy*hhdC}X}}XX<}sGsQCYCY>YX:s8Y*YccyXC*G8UUXCU>s8}h>*:>8c/E88:YyU&cU>Y:X}&*iCs:&hUyY}Y}h:sGXyCs&*A>XG}X>lCCcY*>&xUsy}CC>G:wh:>3aC:Y*&}hG8YhGCGCUi}:hh>*:Y*yh>>8s8cYsC8>:hyh&YGYcGGXhhY*scUc8XU:G}8CGCyXt:hh8Y-Y}>CTU8GhyU&C>GssyhU*YG*c>y>yG8XU8>Gy*yYU&8:Yc&GXh*:s&Cyc}>y:ysGY>Ch&cXh_:Cs}8&UGG88U&Uy&:&GM:h88cYs:U>yyYhyU>CYGcs}r:}w}X&y>U8X}}}c>>&W:GhX*8GIc>Ah-C*h}hcX::y8hG*8Y9y*XUhYsX&U>>XhhlhXY+CU&G:*UY**}8cyXsyYU}UGChG&hsv:C8YU&:GyJ&}&UvccGcyUUCYU}>Xh>&*h}&Cyc*:G:GsG*sCYXCX)yy8G}:c8ysyYhXU}&:G8XG088QG*CyyUy>8U*}ch:sXX8:8>Y:c*X&SUUCU}cC&:s}*:Us&8&*X}*88cCG>Cy::shX*yYUysXCj&YYUyGyG:ylh}C:GYG&hX0h8>}:c*hh:XUsUccsGs::8y**}>c*Xh*Us}}CY:y}hXssYh}:XhX}y>8U&CcsG&:shy*&Y>:cXh88s)YsCCy?scs>CyY8&:XVM}C8Uy>*>GH*s*U5GhG}X:;}*8GYcCX&:n}CCyc*:8Xl*8*C}:&Yh&p*s&}8X}GM:Cbg*X>h&s:*5c*sU8c:>Xh>h&U>ChG&X&h}*UY}cGX*y&sxUy&n&Y!>=UY>&U>&>ys}s}}}YX>sh8hC8:YY:&X*y&88&}C/G}:y}s*>Ys&Gh:jCs:}YX&>*:&s8c}YL&}XyUs8>}*C>>c8Xs8UU>&:YhY*Y}CcCCNh8::scUGChy::*h}CG&CXcuhscss&UYnGG:Xh8ClY}&ChXyCUXcC>cy*8Yhs*XYy&UssVC8&&y>>yXsc;XYXYUyCX8g:82}}:8G-y>hHU&CX&cs>hs**GcX}{YsDhYCYYyTsXXhC*&}2:XX}y>sC&cc*:&s}UcC8>8&:Xs*,8}}C>RyChys}ccY*&y:hnYC*}hcX>hyGs:*&>XG8:UU&*Uc>X}h}yhs>U:C*_h:ss**cCsc8X:mXU>*XY&:G:s*Y8VGYXE=U1&}h}h&hGCyX*:U}YUGh:*5c}C}Xc8>>s*h }sCYGkXhh>*Gc&X:>fWcsc}UY8:8hyUUYs}YcX>}yHs>&YCsG8Xyh:YYY>&*>>VcYXU:c!>Uy:WyU&CcXCh>;:*Y}Y&8GhshUXc8&QGUXGh*CYYhcY>w*8sL*yCGG::8*s*Y}X&}y:y&8>}hc&&Gy}sUY*YsG*Xchs8s}:cX>:y8s>UsCCGYpCyX88U>c}>s8XhC*cYUG*WXhs8&}scyh8y*8}UGc*&U:{hy}:}>&:X87>s>}CcY>C:Xs}*>CsGhZsxYsX}}Xc>8:Gh8*x>*&YX8Z:8y}8X:Gcs/scC:C&:>X>*&8X&Cc^yY:XU8U&c8&*:y%X*y}U&Gy&yC8&*2c}y&:8sU8GG8X>Xy*ssYC>CUy>sU*&*y&}&}:}yX*sc8CyXhy}sy8bCGG&#caY*c}:&Y>Y 88sC8Y&XyXC*yYCcX&sycyc8c*xcU:}:ss**cCsc8X:FXU>U}c>>hy&h&U}CUX}>X8ssG&s>G:5yU*>*>C>&8:C8c8UYYc>XU:}8hU(&yGU:yh**X}X&cXCschtCUY:yUh:*8*CcycyXyy}8GC>Cs:C:ysC8cC*XUXX8hsyYhc}>y:ysGU&&G&Y:cyyYYca&8ysy>Us*:Ck&}:>8G*UYGcbXcyy8U}*GU&>hhA&Ch&&>yX*sGsG}GCs>YhC(:Y*YGG*>UQu8ccyCy:>:8Uy*CC&c/:}*&88YUCGm8s>sycs>hGCAG3>YG}hXY-s*sscC8Gy:8:YnX8cG&&*yGy8}&}*X*Gy:8}h*C&s&}hs8GUpU>c:>8y&*cUsCc&G:U8}8G}hc&ys:c*:*YG::Y,>hh}C}C&CGy,*UU*GGhGCyhds*XY}>GG>yC8&*0c}y&:sUC*hGscchh8&}:}C>yy:Xc*&*>&}:s6}E&saU>XX>Yh:h}CXC8G>:shC8p}*:s>cs8sYc8G>:hXXhy**YG>&X8u&s>}}GYG>:shGC:YCc:XY*&8*U>C*>h8UhG*X>scXE*8s}>cX>*kG:}shU8Ycy}X>4:C8cVXhyG:hUh*c>>&Y:sh*8&GYc*>dy*s:}hYXy^:}hCCX&&XG6ssGs*&YCsGX:yhUcsYU&hX>zX8h&>chy:yUU>Uh&G&yXUxhCsUX>8yy8sU>c>CY&Gscgy*h&cXhyC:yYs*XCCG&XzUX*}}>cChcycU&c*G>yChGUhchY>c-h:t*8}&G>c&GhGh8c}Yh&>X:R*Ch}}>s>cQsh8U:&yGC(G<XYGY}XYessYsGUhYXy::C8y*h&:&ChC)8sY&UCx:}:9s}*GGs&*X?8hsX}yc*>Gh&ssY&Yy&UX:8}sXcsCGwssG* UU&>&>:>Z8*Ccc&hGvy>syU*G8GCX:hY}y}y>GXs1Gh>}YGCG>h*hsU*Y*&3Fh UsGUYXC>shchGCcGs:}Xz*(8GUyXX>*sXh*YYc:&}:X6sU4Y&X&>G8*sh}8CCGysshU8GY*>>X*y8sy}sCY:}:Ghh*&&s&Y>yyY8*&CCX:c:<sc8&CUX}Xy8s8*&scXy:sc*:UsYC&*sUxy}}}CXU>y8ys&*:>>GY^XhY*XYsXc>G!YUCU*c}GGys*h*c&h&}>>_UUXU*GcGsscUsYYY>X8X8h8s&}yG2>U:Gs*cYCh&YXaU88jUycG>:y8UsUYYXG}V:J}*>Yh&&>&3}8UC*Cs>*:css88Y:&Xy:y8scUsC>GC88a:8y}G&&!8ECs_UCcUrc:>hCU8C*&Cs8wCYU}>X8>Csss}*>YCycX*8&Y}&cX8h8y:sscgC}GChT*C}y}}:c>*yy8hUYX*GX:8_yC6}MXhqG88}ycs>C4Cy8hYcUYG&Xss80sscsC&.X:Cs8UUYGyCXX8c8!YcC&XUs}syCsC*ys:X*:Ycc:&s>Cy*YUUyG}GCsUhyCyY&c:h>2YUX}YcX>sschGUY&C&*:}?G*schccyhy}h>UU&X&*vc.sYc&s>Y>>s8s8}8Y&GyI+hC8YY8&}>Gs&syUUC::}:}*s*cCsc8X:sy88CGCc>G:GsYYCY>&s>:*y8cCqcsyKscUXUY>YGsX}U*8G&*CG::hUhX}*YcXYyhUh*s&GcCX&yy8}ccC>Gs:G*8*G}&&}Xcy:UX}sCC>hhch:*}}:&Ghy5*U3}YcrGhy>*XU}&c&Ghch*YUcj>U>c:yhGc>C}XXXy*>*}G}&h>U*8s:C*C:>*:c*%*sY:>y>G2X8s}cGCG/hChX*8Y>X*>Gs5sccK>c::y8*&*&C&&h:}8Y8>}scG<:yCh:UY>&G*X&h8C}}fcCGDyXYhUYCcy:hG*>Y8c:>>>**YssUXCyGU8sLy*G}y&cX>yCYG}hc8rC:8mCYCGs:8(cUhs>}YccGy8>hy*GC}GYXGU}83cYc:XY:C88Uhc8GC:y8:8>Y:&8X&8:s}c>CUy}:>UUY:Gs&>h8*s8CUYc8>}:G*&*yYU&:d}i*s,}Gc>Gi8Gh}Y:Y*X&:hh&sGY}c*X}:>8sc}Y:y*XX*:8U&XX}o&yN8cUccUyCsY!>Yh}&:h#&sy8*CGCG>G:ssYYCY*G}XGh*sU}kcy::Xyf>YXY*XcXs*cYscYc>y8y888*&CyXLX>h:*8Y>CXXCkY8CUXc}G}yssh}SYY&IX}L>UXU*GcGsscUsYYY>X8X8h8s&}yGSG>y:s8U>}XGC:YhC8XY}c}Xs#h*+UYC9G}:>8X8*cccs;c8sUYU>G8G8y81&*ycBc>X:)88>*XcC>YyChXU}Y}Gs:hsl8Y}Ac}>>hXh*YcYs:chs8Y8>c8c8X8:&syYKY>G::8h>sXYC&YXCyX8}U}cs>h9BhY*fY}&>yXy*UcUs>cyshYh>Y8Y8G8>&iyU)U>c:>8y>gXUCCYX}>Lh}8GY*c*>-yy*t*UYG&*X:J&CUUechGXy>UUU&Cs&&:YUG8:}&&UX}y&YUUyG}GXy}aYUs}(GsXYd:UXUGcX>sycUX*UGG&*hUbGY*cXXh>G8s}hU*Y&G8s}zO8}}y:s>>yssGc:CC&MXChUCc}y&hh}88}8ClG*:*X>Uy8&YU&Y>X*&s+}sXYGshcUsCs&#yh>>nY8cUyX>Gy:Gs}UYYGy}Xh*C*s&}CyyU:GUhUCch&s:X!G*X}8&cyCy}8C*:c*yCX;U}8y&DcYxy8C}>}scGGGyYU&Cc}:X8>>*8}>chc}:X:XsX**CcX&X}hC8XY}CYXsfh8sUYC)&1:>hG}&}C&&>yACs:}*c8:*XG8x8c&BXcy:K8U&U&c&Ghy}*Y*8CU&&:8y*8y}:GX>8yXssUGYGGY:}8Ys:c8C>Z8s>UhU}&X&X:XH**cc&c}4GyX8}*Ycsys:Csh*hYXXFyXy*UcUs>cyshYh>Y8Y8G8>&3yUWU>c:>8y>pXUCCYX}X*h}8GY*c*>Myys_UUC:G*:&hc}&}h>}Gy8}UyC*CcXdX;hE8YY>>XX}scsJ}cCc>Uh}.:Ys}^GsXGK:8*U&C}AYyh*CU8GC:hhUwG**}&c9>C:>}&*Y&G&UhC*Y8}YCcXX*sUs&*0Cc:hXXhy**YXC:Xc)CUYUhGY&:h8A>C8&>XhX}sXsX}XC*>ch&N#Y}YXG}>YhssdYsCC>:8shGUXY8:Gh*hYY&}XcUGXy&}:U*C}yGX}yG}G&UXUHU**hyU&C>GssyhC8:}&:G>Gs>}Yc}>&:Eh }8*:Ys:NX}_CYXc&>&yCXG*G*8>}&hX>L:8*GhcsX*yc8s*8C:GXt>hs*>Yh&&>&W}8UC}YX:sXGUsYGc^&Uy>y>8>U8cC:c:UsY*>CUc}:hr?*h}}cyGyyGs&YcYdGcXyhU}}UX>sGG8sUGY!CUX>X>h>88YC>c>UEYs>}UY}>h:l8yC8YU&:>:1&hCCC>*y&hY4:Y8}>:8t>8h8}CXCX>X:*scY&Y:GCXXh}8}Ys&h:5::s^UUC:cy:&hc}&}h>}Gy8}UyC*CcXTX3hn8YY>>X>cOGsk}cY&>Uy**8*cC8&C:hxh8X}>GXG*hchsCcGsXYX>8888Y8C&>yhRh>U:C8G>>XhC*Y&GXcy}:XUs*G>s:GpBhU}>}>&>>8MCUcUUcYG>yU1}UhY_>yXUwy8*}XCX>cyC*cUh}l&>XyW*}8}CC:>YhyhX*cC*GUXcU*sycYc8XUy&88**CyG:;XlY*XYs&G>G1Y8}CYY::8X>U8Y>&h&}yXyX8XU*cc:&:}sC*XC}cY:shhU=U:c+>Uy:h:U&CcG&XyhC8:Y*&8y*:G*+*cG1:c+:h8}&}&&&>h^}UYU8>CG&y82**y&y&UX:y:8&cXG&Ghh}iyC}&yX*Xcs_sV}=CY>>hXh8YcY;Gc>&hU88YUCGXh8Uh:U^Y}::hYh&YX}s>YGW8YUDCUC&:h:hsh8CYX>:>&w>8h}&YG>}yU***&C*&c:s(s8:}XG:GUh&h8C&G8XCXX8*8*Y*CG>OshssU*>c&&XC3sCU}}&C>XQ}hY}sch&c:*h}8>GccUy&y8}&c8GCGX:UnX*&G:c&yyT}8yUycG:>yhhY*3&C&<>y!G8:}8>s>Y:Xs}Y:C8&GX83wC*}Yc8>:yys8c:Yc:hXXhy**YXC:Xc_CUYUhcYG>yUhUUhYtXh>CsXs}cX>}:G:T*Y*YCYc::88*s1YscY>k:hs>UG&&&C:&!y*C}C&*X83*sc}sCCG::X8:8Uc&c8f&88UCUXG*G*y*jG* &hcXhsR*8X*:ccyc:ysC*CC*:Yp*yGUSUc>Tych:s8Y&Y&G&Xhh}}YUX>8>&38h*UyYXGyXUhGYy}C&&GR8C}h}*>Y&>hh/&Ch&&>yX*sGsG}GCs>YhCh*U}YGG*>UvM8yC:c*>:y8s>*>CCGY<Cyy}*UXX*yXsssYY:Y:G:XUh&}G}>c:h8y*ss*>>y&KyshY*p}h&>XGy8s:U C}n8Xy**8XG*XX<s#YsyUYc*%C:**c*HCc&c:U8}8G}hc&ysyYhXU}>cG8XchsCU}ycYGyy>}zU}CCyXXC8yYC&CXshYyssXUyCU_s:Ch&Cy}&>yyy8c}cc}XCG8::h)*}>8&>Xsy:YyUyGpyGs8U:Y?GUyY:sD}C*}&c>hhs:U:Cc&y&CsGe}*hY8cch}yY8cU:cY&Cy8ssYh}sCyy2yYU>UU>>yUh&hyY}Y}G}>Xhs}8Uy&h>}yyxAUGC&GGXHhc8cYU&*y8y&88UcCyXuXY8>8U&>XUy&yyU}U}c}&Xys*88yCh&}Xy:_8G}&cGGqychcUUC*X8X&h88c}yGdGYh>hUC>GUX&Xy8}8}Y}CXXss8hy}hC}Gy>whG*&YGcdXcyc8U}*G8G&y8hc*yckcYy>yU}>cUG&Gyh}h}U}}XGsb8yy*h}}cy&.yGs&UGYxGcXchU**c8c&X8ycsyY0YYX>XU*>YUc&cyy}y}8}*Xcs:8:YoX8cG&&*yGLs8G*>cYyY:Xs}*}Cs&&>:*>sX}yc*>Gh&hC*>YCXCXX288>c*CG:9:cUHCc&:G8D&t&*&}h&}yYy88UU&c8&*:yh:}XGh&8X>y>8C*}G}yssC*U*X}>&CXGy5Uy}*C&>8hGhyUcY:GYXYh8*schCyXhy}sy86CGG&aG,s}YUQXYy.sUs&ChCh>hXChX}:}&&>XhK&hG}}cU:*:&s**cCs&sX:wXU:UUG&G8s&U8YCYXX*X*h*sG}o>hGXyys*UX}:Gc:C*>Y&cYC:y8:>}8C>GhG}TX1X*X}*&cy&y}8CUXc}&Yyssh}aY}&1XU7:s:}&cc:&:h*}8yG}Xye*%cUTUtcnGYy>*X*cCG&{:cy&*UY*>8>h)8sC}hChGX:>hX*sYG&hXY6}UY*:G8&>s8*>YhY}>X>XAXs*}cG&GG:X}s*8YhcGh:yy*h}}cy&TyGs&*sYX&yXUUss:c8C>)8s>UhU}Y:&}:8UY88cCcyXCyC8*CUC&&i:c*h*c}C&*XYy>UGUaC}GyhYh>**}>&chXy:8R}Uc:&yy&scYC}cc}jYy:}8U>X8y>shs}YXYXGXX*hc}&}}&C>Xi}hY}sch>s:YhD82Y>&Gy&Oh8&U(c}:YX:*88>G8X>jhK}UXUXcXG*yc*&*}CC&X:}yY*sYh&s>YyohpU>CGX&:hh&8kY}>YG:s8h>c8G>:h:}8X8XYXc*Xcs&s}}CCX>}XYssUhCs&YXry^8>}GG&>hy&h0U}&Yc:78y>Y8c>>h>}hXhXUXY*Gc!&v}*C}X&}GYFs8h}sCYGaX-h>*Gc&&hX&y58}CYY::8X>U8Y>&h&}yXyX8XU*cc:&::h*8?>h&GOs#c*sU8c:y:y*sX*XCcGhXUU88*Y}cGXsshhyU8YyXy:*e&*8cGcsyY:M}YCaGUG&hhhhUh}C&Xy:y&8>}hc&&Gy}sUY*GC&&:8 88y*XGXycsy*>UhYY&ms8(X8UUXc&7:y*s}cGY}cGoG*UYU&s:*Gyy&s>Us>yGCX:F&CG}:>>4*s)}&C:Gy18::hsC_Y}&ChXyCUycC>Cyh8Yhs*XYy&Uss;U8h}>cX>h8>hsYXC*GX>:hc}&}Cc*>yy%s*cyC&Xt:Yh/*}Y>>X>GyY8s}8CYHs:U*88}G8XGh>yysG}}cYGG8}K>YY}C&*:}yY*s&}CyXh:sUyCCCG:GXCh&8CY}XcG*sUsc*yYGy>:}8XYC&>&8h}lhsU&8C*>}:*U**cY{>y>soy8*}GG>>h:YhqYCY}&sXX(:8s&XC8:::hs:CYC&&XXyU*s&GsCX>Cy&h;cXY:G_X:h>}GU::}>ssYs:}YCY>8h*hc*h}c&}h&y}UGU*>Gy*hch:**YXXUXXy>8C}GC9:yy*h&U8&G&Y:cp:*YUC&8XsshsY}hC}GyXyhG*&cG&8>sy:8hU}GUG&X=hcYhY}c:>}Q8YYUCc&GyyCncU*C8XsXChs8Y}OCV>>yG*>UhYY&Ns8_X88}>Xy>c:ysCcGCU&G:*UY*h}Yc/h8yXsU*XC&y::*h}CG}}>XEYsgUq&UYvGG:Xh8CwY}&ChXyCUyCX>Cyshy}}*hY>&:X*Uh8Y}cX:y>s}U}Y:YUyCX83:8J}}:8>cyG}MC:GC:Yw5_YC&}UcnXsyCYUUGCX+she*&YY&h>5>C*Gs}}hc8Gc8}hYUcY:GY>Ch8*schCyXhy}sy*yCGG&h>Et*c}y&Uy}yGs8*GCCy>XylG*}YYcGh}ysUYU:cY&Cy8hhU8}&&yh8yGYhU&>GG8s&U8CYYXG}X}hsYU&*cYGXy}}cU8YG&8X0U*8Y}8c:>yy8}:**&yG}:yy#*G}GcYXsJ8sY&sCY:8X*I0Us}8&:hsy&}LUc>&&>scUsC}YM:Yh}yh}sU)C>>YyCh>cYY8XCh*8C8>}sC:xyyc*w*8GyGU::h**&Ysc}h*:AUU*:>U::h8fyUhY}&Xy>y:8>U8cC:c::h**XGd&&>r7cY>}}C:G}y8}Y*XYyy*>y8*} c&>>N::cs*U}Y>ycXyhhC}}hC}y}8hUGC:>y&&:UhY8XG&cYX8yY8h}*YIW8:chGCr&:XC7C::U:U}XcG*:ysh*Y>*&XX8yyY=UG>hyXsZUYc&CU&csYnX8yG*Xsy*s*h>cyY&GU:YVXC&}-&shYyshYCY>s0sXXhC*&}B:X>:QB8U}:Yy>&yc*C*}CC&X:}x}*sYh&s>Yy<s}U>CGX>X88C8h&CXhy}yGUsUscs&c::8y**}>c*Xh*Us}}CCX>}XYssUhcac&XnBU8:U:c&>ch&hhY}}y:}.y8*8cCoC,>j:Ys>YXCs&C:hU*8:}}C:>G8ysUUY>>&YJ>8>YUGYcs>XyysU&sCCG&sy*XsycycYh&yUsZ}sCCjU:sh:*sY>&y>G*:8*}}XGG}XG*GC*>}&hX>Z:8*GhcY>c8}hy}hC}Gy>mhG*&cc>C>}4CsX}}C>>syhU*8CY8&U>G*Cs*CcCsycss*Y*>Y*c>Xc*XscC:cU>:::s&YGY(&}Xy8Y8yU:c&>XysUhU}Y>GU?XBc*G}f&cG&+U8*C8Ch>8:Csh*hYX&>XXWs8G}hcY>}hYK:Y8}>:81>8h8}CXCX>X:*scY&}y&U>:0C8*&yC&GG:Ys}YyC*&>X*hhCU}GcXe&y88UU&c8&*:yh:}Xc>c&X>wh8&Ulc}>UsCe>*YYccyh>yCUXU}>Xy}hGh(*C}7&XshyX}s}c&s>sy:*yU*Y&G8LG1b8}}y:s>>y*h>Uc>X&::VhU*:Uy&&XcsCs}}CCX>}:}ssUhCs&YX^M}8>}GG>G8hChhCCGhX}XG8s8sYsCc>:hys**&C8y}X,#}8yGsc>>syG}:UGY&G}:cR:}XYscCXhscsU}YC>>UX}sh*wcycXXy!*8XUXcc>Chc_:**}X&YX8*:scU&C}>Uh:s8*GY8&is*_X88UyXTGGshUXC/GYy&:UtcCY}Xcyh*8sU*C*Y>yyX&hU*Y}X:&>oasYYUsYY:Yss}s8XYC&&>)*Xs:}wcU>:Xys&Uc&C&}:CgX*}}}&sXhxssYUZC}G>:G8>88cCchoC8hU}UGGsGsys%c*:cy&*>>y*8h&UC}>C:Xs}8YCsGhy{y&8d}Uc:G:y&scY&YhX}>y*}}yc*cc:p:OsB*YC>XX:s4C*hG*c:>}::sGcyCUGYs>9Y}>c>XUhYyssXUyCUrs:Ch&Cy&XCyyyyYY&UUC2>s:C}U*sY:&sX>SysG&:c*>}8Gh}8G&G:*s}-h8>}:c*hhyYscc}Yy>h:}hys YG&&ycsCs}}CCX>}:>ssUhG*cCX8AUsG&CC*:c:sUcCs&Y&>X*y>8c&XCc::yUs:*:C&XGXa=}8ycYcyG:y&sXUsGhG}X>hU}X}c&G>/uch&}Uc*:8:hs8*CCh&hXXe>8X}scG>hyYs}YY}:X8>>*8}>chc}:X:XsX**CcX&>y2Us:}Cc*My:&hG*YC}Xy:*d>8*Yh:U>GyX}&U8cUG&y8w**yY:>Xy>y&8>}hc&GTy}sUCC}>&YXcyyY>UCGXG}sXU}YGYd&C>.1XChUX>s>c/sssU:&yG*X&h8}G} c}>y*ss>U*Y>GcsX,:*pYU&:GyA&8cCCC}>C:Xs}*}CsGh:s_Y8Q}}c>>Gh>h8YCYh:Chh8}8GcscsXs:cs:YyC*&&:8U}8,}}cyhsy>ssUG>:GCX:hYC&Y*c>>*%hYUUCC*Gy:Sh*CyYC:h>CsZ8*U&C}.Y:Y*CC*GY:hshW>sB&:c*>}s:UYYXYcyYXsDX8y}U:s>GyhhXc:YGXyhY*sYX&s>3h})hsU&8CcGGs=*:s<cucXhGy}8h}8CcJ}:Ysc*:CYcC:8hs}hUy&h>}yyhyUGC&GGX hc8yYU&*yU:>Uh*&>h:&;yh*}G}G&G>sfYUCU6YyGG::h8YsYYcXX}s:8sC&ch>&XGs}YY}XX8Xhh88CYhch>Xy>*X*cCG&yhc*s*Uc*C>y*:i8sU}C:XXXUhX*sYG&hXYS}UYUyY:G&:XhsYhY}c>XUsX8sU&CsGy88h>Y*YGG*>UTW}hUYGXGGyXssUGYGGY:}8Y88YUcc!8s>syY:Y}X:X&h>8(YC>YGy#Ys>}UCG>h:H*h*}}>&UhCZssC}hX*G::*hXCpY&cqXc*>8}U:C}>88YhX*y>*cyi*8*}ycC>>+X:Cs8UUYGyCX: wCUUO>YBhs&U>cyY&GU:YOXC&}o&shYysUYCY>s:GheUp8GY}&C>:*GsC}*CC>syUhhc*Y&&>shy>}8cX>}yc8Gh}UhC8&cs}By*c}:&Y>Yd88sChYy>h:}hys7YG&&yGj8ssU:chG}hUh&8gYcXh>yyG8}}YCGS}:hUC**&Y&8:Uv&*8U*cy>:hXs8UXCsGGXGhY*}cYC:y8:>}8C>GhG}?XQX*X}*&cy&y}8CUXc}&Yyssh}/Y}&1XUS:s:}&cc:&:h*}8yG}Xyw*ncU7U<cRGYy>*X*cCG&3:cy&*UY*>8>h+8sC}hChGX:>hX8cYGc_Xcyy8U}*c8:*XG8z8c&+Xcy:Q8U&U&c&Ghy}*Y*8CU&&:8y*8y}:GXGGyXssUGYGGY:}hY8>YUcGXhyRUh*C&X&}hX*}}G}/>Y>Y4Yh:}8G*&&=^hY*Z}h&>yXyCUcUYccG:yYhYU8CsX8>yhhsYcy>C>Gh&hYY&Y}GC>:h*}8U_&8>CQhsYUXC>XXX*8c8s&cXsyYy>U8U8c8&&:y8_8}c>&8X>:X8CU}cC&:y*UC*hC8cchh8&8XceCU:&:8U&C8&C&X)*I***UGcgyhyYhGccY}GsXsyb8s}U:s>>yssGC8YC&:XYhh8XGCc8>*:rsyCCCXGUXXh&C:YhcXXCQcsX&CC8y&:}*c*UCY&>:Uy}*h}tGy>Uyys*UXYXGc:C8csIcUC:)Us:U8UC&y&y:yu}*Gc>cCX&yy8C*cc*>8hshCUsYY&n>7H>8GC>C8:C:hUCCh&}&GSsKs*sUcc::y:GsXUsCGc>:Yh}}U}8&U>&38s8UyC:GyXGhX*sYG&hXYF}8UC}YX:sXGUsYGct&Uy>y>8>U8cC:c:UsY*>CUc}:hRmUyUXcy>*yXhXUcCCGcX:hY8XY8&sy8:&*y*CGy:CnXhs}c}c&cG--UU}*>GsGcys_8*:cyc&yGyc8GUFccGcyUs*YUYhG8>c*h}&}XG>Gch>hCU&}WG}pU!s*U}&&8>cyys:YyY}XGX**GY*ccc:yUyU8U*>ch:sXC8:*UY:CyX&yC8&*Fc}y&:8sU8GG8X>Xy*ssYC>CUy>sU*&*y&}&}:}yX*sc8ccGX8GhCU*Y*&sX*5YC*}:c*>XsUs&*KCcy>:}z:8}Y8:Y>XyyY**yG*:*hy*CYXGXcCX8kUsG&CCU>h:UhyUs}:yhXYWcY:UcG:y&s8UUcCY8&:Xg{}C8}}cs>Xy:sscXYXX+:*I&8}GYcsyC8*}YC:XhG>XfU:**Y}:G>}sX}}&YCsGX:yhUcsYC&&hs8GhyCyCYH&:UhFUsYCyUX:i*sIGhchyss&UCCHG*:hsch*8CG}c>>:*8}h*8G8&Gs:1c**Y}c>hcy&8>}hc&&Gy}sUY*Y&G*Xchs8s}:cX:::U*&*8G&:8xCoX}*}*&*GGynUhUcYCG*:Yj>}G}_c}>ysYs8}UC&>8X*hy*:cXcGXX4s8GUGcY>}yYh>UUYGGhXV8hsCCXC}yXs}*G*,&Y&Y:Yy:*8c*c>GGyYs&*y&:G8Xchs}&}ycYGyy>}gUhc8GCyh?s*XY>>GXh.GsD}cCc>Uy**U8>&hc&hh8&Uy}*GGGGyGhsUY&C&XX8n>Yy}cchGcy}}&*+CsyYh*8csNG8C:>cyGshc:C*G}sGu}}GcGX}h}yhs>U:C*nh:&{!8>GX&Cy:8c}sc>>h::8UhA**>s&CX&*y}&*yGyGY8&hU*4Cs&CsU(U}}}X&}GY9shd}sYXG:ssZG*X}CXGp*5Y}&*yG*&Xs**XYsYY>:>:_:sU}&GG>8:sh:UhY}XUX&y-8cchCC:Xy*sX*XCcX&:s(h8X}ucUy*ychyUC&xGUXXgU*sG}c}yYy:8Y*Cc8Ghy8):*yG8c>X:yc}>cUcCyGXo*U8:GUX:i8/CUyUycyG}yG*>UhYY&Ws8_X8UUXc&1::y8hU}Cyc_:Gh&}c}Y&c>:vYsY}8cs>8:Csh*YYX&>yXy*UcUs>cyshYh>Y8Y8G8>&,yUM}UCG>*8Ysh*YYay8XXk88>&yc>GGyYs&*y&:G8Xchs}&}Cc*>yyxs*cyYGXM:YhF8hY>>X>GyY8s}8CYxsXC*8*hC8&C:hrh8X}>GXGcyGhsCcGsGUg*yY}*U!&sGcy:*X8<CXGs:Ghh*YY}>YG>yshGUUChy>XY,C8*Y8>>XhycshU:XsGU:hh>*XYh:>>ssX8*}XY:>ch&hC**Yy&LX**ysGC9C:>5yUs:*:C&GcS&E}*CUcX}yy;sUh*&Gh&X:yy%*Gc&c8X&yy8CU:c*>8h*hc8yYC:GXUyG8*&YchGc:hh:csYC&&hyy&}hcG>*y&8ch**yCh&Ys*5Y88}:cy>88:hcChYYXX:*hXs:YccYXc:y8UccCs>*X&UsYGY::h>}sGs*cG>*:c::*U*UCUc>:h8ss:}EcU>:Xys&Uc&C&s:CLX*}}}&sXhsshcY:YY::hY8>*hcCcCXC:y8*CUCh>8:Csh8sYX&>yGyU8GUJccGcyUs*YU}>Xh>&*h}&Cyc*:G:GsG*sCYXCX*h}8GY*CU>gyy*:*>C:G8:>K>*CYY&C>XK}s>}sch:sXc8:8Y&:XYy>RhUCUCcC&yy**U*hC8&C:hys8X}>GGGUyGhxUcYcGU:*8Us>chC&.hs&*yU*&G&G:G2s*YcCc*X}yG8**UC_Gy!:Z>*:Y8&>>>=C8Y}CCX>}:>ssUh&sccy:yY}:cYG>>hhChCUC}yG*bU h*8}C&hGsyXs>YGYUGGXvhc8cYU&*yUy&ss*&CYyG:hh8CC&}>y_UsChy&sYXGC:&zkCX}Tc>XYACs>&YYX:C:ysC8cC*XUX8yy8&}GCy{&yU*G*cCGc>hc*h*Uc}c*GDyGs>*x>G&:->B&*>UX&C7cyyUYU8cU&}yh8?8(cv&hX88388CC>UyGXyh&*>Ys:yXU5YY*UyG::>:&s>8XG&:8:}*csX}Cc&Gf8XhcY:CUG:X:h&}G}Y&cG&8YU:}8GsGshshY8XY}:cX8yGs8URCGGXs&hUYs&scr:sy8}^ccc>yy:8h:*,Y}y8>y8*8GY*c*>%shhXUy}e:Xh*hc}C}C>C>Xy8s>cyCcGhXch}C&}XccX*9Usc&*Yy:Y:8UC*&C8c*Xy8y8U}:C:>&sX*&*h&}cyh}8y}*}cG GiylhYU>&X&81crg*cU&&U>8VUhG}h&N&::6o}*>&FcCD:yY}C*y>Y:Is*h&U8Y8&yhs*hs}CGC*yGs**c*:&U&U:Uy>*hcsC:>KyUs:8yC&Gc:&/y*C}C&*X8sshS}sCYG,:}h>*Gc>c8yCyh}CchG}GGhshsUs}c&:yyyG8X}scG&>yYs}UYY>GUXUhh8<Cyc}>yyUsGY>Y8XCXh*CYhc}cGysys8s*cC:XyXGhX*sYGC>XYV}UU*ycUG&y8h8*yY:>y>}sGs*cG>*:c::*U*UCUc>:h8ss:}=cU>:Xys&Uc&C&}:CxX*}}}&sXhSssYU9C}G>:G8>88cCchSC8hU}UGGsGsysBc*:cycGVdxs8G*>cYyY:Xs}*}Cs:UosiYsX}}Xc>8:csscUYy&UX:Uh8G}hc&nXyYhy*YC*yCX:4tCU&8>Gyes8U8*G>:&c:*h}8>GccyXh*}}*CXGG:*h*T>Cy}&&UXYyXY&UmcsSY:s*YYYGsXGH&*tsG}}cCG:8GshU8>C:}Jy81}CUy:sGXyCs&*v>X&&:}Z&**YYc8h}y>s:&8>h:&hC*h8&GXcCX8HUsG&CCGGYyss8*Y>scXh*yX}8}YCXGc8&s8YGGY:&hhU*8y}8:h>Yyc}:CG&+X::*Uc8*}y&h>Y**s&U>XhG&hh*hY&G>cYXsm*s&&YCXGy8*hXY*&*Xyhyy&8U}YCXK&:Ys8*YChG*>?U88c}GXZyGXO*/U}>G&}:hh88cG}chyYy:8Y*Cc8Ghy82c*yc:c>X:y*8&c:C}y>:UU}8XGUX:hs9C*h}hcXyjsyh*YcYs:chs8Y8>c8c8X8:&syY_CC&Y:8h}8Gc&cy>Uy:U}UYCcy:XyzX8YG&cGXX7s8G*>cY>}X:hc*GYh::>&sysCcy>C:Xysh&*sYyy8>y8*8GY*c*>Dshs}*>CUXXXsdC8h}GcYhs:Xh:*&Cc:s:YRy8YY*:C>:y,YUU}C*&:8hhsU*YcGs>8g:8XUUCE>s:C}U*h&}cyh}8y}*}cchGcy}}&*}&GGs:G_G*YcCcX>8y>U*UcYyGCsGhU8X}U&sh}yY}>U:cY&Cy8U8*cCs&sX:*hU:UUG&G8s&U8YCYXX*X*h*sG}/>h>}:>sUcCCs&&XsOyC8}ccGnayc*3CX>>&Y:sh*8&GYcsyCyy8C*cc*:UXX*h8yCh&}Xyyy8G}&GGGYycvyCY&0G8zsy>}sU:c?G}y>*G*UCG&7:c)y*UY*>UG>shh&chG&Xy:*8G8GYGcsXYsCsXUUYXG&s:;yUhY}&yG;IG8&CcCY>c::sY*YC8Gs:8)C*h}YcX>>hXh*YcYs:chs8Y8>c8c8X8:&syYpCU&G:*UY*h}Yc9h8yXs8U>>yG>XGhY*&}y>:X8yc8sC&CCG*:yhJ**Gyc&hhN}UNU>c:>8y>bXUCCYGCXXh}8}Ys&h:vyYs.U}C>XXX*8c8s&cXsyYy>U8U8c8&&:y8-8}c>&8X>:X8CCcCX:U:8sU*&C8&8Xyn:UyUGcXG8sGU*UY&}&>w}fs**U&c0:yyUsyU*CXG8:chC}cUl>UG:8UU:C8CCXyXyhy8}YG>>>C8Xsy}CYc>*s*h&U8Y8&yhssys}CGC*yGs**c*:&U&U:Uy>*hcsCC::yUs:8yC&&C:&yN*}cUc8XU:G8hcUYXy8X>*X8*&>XUDcyy8CUCc*yYs}NG}{}cX+^cs:88C&C&>&:hs}YYY8GUX&h8s*}yc::X:GsXUsCG&G:Yh}*Y}>&U>Gphs0ChYCXXX}*XY}cGcuyYyY8Y*:c8:*XNss*YYlchX>IGU&U*c&GyyChCU*C8X*>GsQscck>c::y8*&*&C&&h:}8Y88YUc&X8:*syU:&X&G:Xhs*G}G&YX}1Ys>}UCG>h:Q*h8}}>cU>yyGY}UhCs&::X*}*GY8cGXC*>syUGc}>Y:G}}*hGC&h?YvG8hUXX:>YhyUGC:GUyC:8JYCU}GcXhssyU*CsCCyXXCh8*U}G:C>:y^YUU:GU:Uh:U58GY}&C>:*G8h}8XC>hhC*CC8>8c:XcxG8h&:CG>Y:GsUUCY*yYXXxyC*cyC*y*y&}y*&CUGYXXU&8UcG&sXG:>8YUUcY&Xy8*s8HCscCX:*ss&c^Ccy&:hUcCsG}&>:UWU*h&*X8GChXh}CXG}XGXm8Y8YYYC:X8s*s>*GCYG&Xy8:*8}c&sy&yGsX&sC8GhXGU:8yCh&}Xy:H8G}&CsGX:yhUcs}:X8>>*8}>chc}G::}s8cYY8XCXyhC8CY*>U>&:IscChY}&>XU<y8GG}ch>s::sXC}CGG8XGhCC>Ys&*hcy&sCUsXUG}yChXU}}YGs:hyc8*}}C>{c:U*&*8G&:84C X8UUXc&7::&*yU}Cy&y:G8>*h}Yc3yCyXs8U>>yGc:hEc*}G&cGq5rs8G*>cYyY:Xs}*}Cs:U?sycU:UY>:yYh>shYCYCGC>yh*}U}&CF>c8>s}*:Y}G8sYpX8yG*cXy*8h}#*GC}GCX:UG8}c>&8X>:X8CCcCh:U:8sU*&C8&8Xy_:UyUGcXG8sGU*UY&}cmr}.s**U&c7:y:csyU*CXG8:chC}cU#>UG:8UU:C8CCXyXyhy8}YG>>XhycshU:XsG8yUh&U8}*&yX:sXsG}Xcs>G:GsYU}CY&>:UQG*h}V>hGChXh}CXG}XGX!8Y8YYYC:X8s*sc*yCCyG:U_G**GY&h>YyoY8UXC8G>syhc*h}c&}h&yXsc}*cUGc8*ryC}Y}:*>y*s8:cfccy:y}*XUhYY&8s*oX}U&hX*yG8:sc*X>GGh:8UC*hc&X8h*:ys&U>Csyy:UhYC>YU>:9C*Cs8U:CqG}88h*U}YGG*>Ufa8yC:CC>:y8s>*>CCGYZCyy}*UXX*yXsssYY:Y:G:XUh&}G}EcCGkyXYh*>GsGcys+8*:cyc:yGyc8GUtccGcyUs*YUYhG8>c*h}&}XG>GXh>hCU&}OG}aUo}*U}&&8>cyys:YyY}XGX**GY*ccc:yUyU8U*>ch:s:YOX*}Gc&8>Gy8sg&*C&G>8h*:Y8YC:X>CV88UUGXCG::u}UCs}UXUXG*(sG}}cCG:8GhCU*YCGs:UehC*}&c>hhy&UhCG>X&C:8hU8GGCc8ycy(8c*&cU:}:X*s8QCscCX:sy88UcCUT}:w*Y8yGYXFh*I:Y:}cCXfGysUG*s&U>>X*hGsZC:&C5Cy>}s*ychG}:X*p*8}c&sy&wsshUXCfGUh*hc8yYC>!>}s>88}>YX>C:*UYU8&*cGhYy#*sUCc:Ms:&Up*cG&&hhc*sY}}>&U>U1h}*c8>sGc<>hcY>}sXC=8*8sbC*G.:*:C!:8&GG&Uy>y*}G}UXUGA:*}s*y&8&Xh88>}hUXcy>*yG*&*}C&Gs:}8Y8>}scGy8:&*y*CGy:C5Xhs}c}c&cGoAUU}*GCh&&:*F=CG}}cY>8vsUGUwCC& :X}h8>&s&c:sy88:Cyc}:G:csG*hCYXCX>Lss:&ycc:{:CU4CcGXGYsYhs8}G*cGd*:G*:YUYX>*Xc8YUhGh&U_GyC8&Uyc}yc:>hs*G&8&C>:_YY&}*C>G*yh}U*}GG&X:}yY*s&scCXhyhsXC,&X&*Ic+sYc&s>Y>>s8s8}8Y&Gy1 hU8GY*:YXhyYsb&8CXG8:>Uy*c}y&ChG1UsXUUcsA}:>h:c8}:XU_88:}}cXX>GYyss**&>Y&XXyU*syc*>!ycs&}:*cC*G}X>Uc*s}Cc*hUyUU}CnGCy*hY*XCXYCc>h&yI8s&Y>U:Xs**U8:>hc>XYkcsy&>CyGGy}sY*G>}&hhCkhY}}s>U>h_8sC}hYsGX:>8G8cYGcaXcyc8U}*GU&>hhm&Ch&&>yX*sGsG}GCs>YhCi:Y*YGG*>U5%s:}nC}>>s{hcUGYh:chshUYCUX>sGG8sUGY,CUX>X>h>88YC>c>U#Ys>}UY}>h:W8y*UYy&*XXyX8c}CGc&lhU<:CU&:X8XCsysy}yC}>Gh>hCCXYyGC>ch*Y*}&&8>8yy}sYyY}XGX**GY*ccc:yUyU8U*>ch:sX:hl*UY:CyX&HcUCU}cCGXy}h}UsChGsXYnB8}}>cG:>:8*C*hGC:hJ}(G}s}s&sGcy:*y*Y&GGs:GIG*YcCc8y*ys8**>C3G}X>bCCcY8>&>*8&}8cYCX>}:>ss*&}::>>>sXs&c&>cGCy&hyU}&Y&>Xs4G}8Uy&h>}yyx.UGC&XcX}8cszcUC:DUs:U8UC&y&y:ym}*Gc>csyCyy8C*cc*Gsy*z&*_G*cXXyyU}Xc}ccy>yshh*XYr&Ud*7csy}CG=GCy:s8U>Y>GC:Y8}8*Y}cGX*:UspUy&uGCXYh8*}}G>&>yyUs:C}CGG8XGhCC>}c&yX*WXsX}ccC:Y:UsY*>CUc}:h)l}h}}C>>U8Css*&Ys&ys84c8G&gCG:3hKUGC*GsycX*_y*h}Y:*>Xy8hycKYM:hhG*GYy&UX*hCW8sY&UCGGX8s!X8s&sXX4U8&YGU}ch>8:c}}*YCc&::YyC*8Ys>hGyQhs}UyYyGG:&hG8YYcc:XYyX88}sch:sXc8:8Y&:XYy>4hUCUCcC&yy**U*hC8&C:hys8X}>cX>syGhGUYC}XUX8hU8&Y8cc>yy:*y*}&G&*hG**}c}:>U>U(Uh>}hGs&::VhU*:Uy&&XcsCs:}CCX>}:}ssUh&sccy:yY}:cYG>>hhChCUC}yG*!Uoh*8}C&hGsyXs>YGYcGGXdhc8cYU&*XUyh88UCchGY:Xh>*Gc>c8yCyh}CchG}GGhshsUs}c&:yyyG8X}scG&>yYs}UYY>GUXUhh8kCyCX>yy*sXU8CcGC3cyk}UU:XUy:s8sCYyYyGyX}hG}>Ysc}h*yhsX*XYG&XXMUX*Y}X&}y:t}sU}hc*GchChX*8Y>X*>Gs 8Y}LC5>>hXsU**Y?G8XC8Y8>}scGy8yCh9*CCUycXU8&*hY&c&X}sYs>UsCGy::Ce:*YG&&*>&58Y}U0CC&x:X}h*YYc::.>8*}}C>G>G*8Yhs*XYy&Uss)C8&&yC&:ysGU8CY>c&*Xyhh8YG*c&>>*hUyCYG:cyfy^YC&}UcuXsyCYUUsC:Gs:>hy8GG:&*X}*G}cch>*&chchhc*}y&&X>0sYy}sC:>cy&h:ccY*X>XCh&8yYCCcX*(8Us*tcsGY:/i-*>YGXXXh=&sz}}GY&:h8#>C8&>XhX}sXsX}XC*>ch&%dY}YXG}>YhssAYsCC>:hXhGUXY8GchXdUYG}*XUG>8*UXchCYGSX#h>Yy&:c8yCyh}CchG}GGhshsUs}c&:yyyG8X}scG&>yYs}YUY8GUX&h888}yc:yGy*sXU8CcX&Xh8}sy&}>yy*yc*<*nCK&Y:>8X8cYGcLXc:&8U}*G8Gcy8hCUhYh&XX>sXs*CcCsycss*Y*>&8&8:8y&8yC_C>>:y8s>8XCCGYf}T>*}}G&*>*yRsyYqYYX>XU*>YUc&cyy}y}8}*Xcs:8Xysh*}YyCmXGK&UcUYccG:yYhYU8CsG8XChh8Y}Xc>:X:**c*sGc:svY!>}8}8&8G&yy*B*>C:G8:>yX*CYY>}RUy88UU&c8G8:yh:}yYYc}XsiUs&CcC:G*:X*U*hC8&C:hys8X}>GGGcyGhIUcYcGU:**G8&Y8cc>yh{hU*GY*&:X&UUsL}hCX>>sUs&UsY&GYsGi>*:Y8&>GXRC8YC}C*>}:Gs***Y6&yh}iU8:}*c&:G:3h}*y>s&>X*y>8c&XC:>/yUs:8yC&Gc:&dy*C}C&*X8sshD}sCYGD:}h>*Gc>&h>YylY8UXCU&X:&U:**Y}:Gbc8h}hCcGcGh8*Wy*&Y>&shy/U8Y&>>&ysss*&*8>}&hX>m:8*Ghc&G5:>}XUC&::&hX*YCYYsc}h*y&s>&hC>:hsh*&C>}Y&sX*y&YYUQC}Gs88O:Y*&yXchs8}}}&Gc}G&8Ch:*k>U:8^U{:ChU>cY>c:y}>*X>sG*:Xy:*c&ccyXCyC8*cYG*&G_RacY3&c>:X8s&s&}&Ch>}hYhy8:Y&&XXs8h8}U>cU:X:csG*xCcc&:Uh*}8UX&8>CZhshUXC>XX:UR*86Y8cCyYy>ssUGG8GCXVnC*UGcc&X>Hh8&*Gc}>Uh*/:U*YcGsXs?:8XC:c8Gcys}U*yYU&:sh^G88UGcCb>:yhGU}CY&Gs}mhYC}X>YGXs8s&}8Y*Gy(th*}>}&&>XhI&s&}}cU:}:ss*8&GsXGX:sX88CXCc>G:hsYY}Y>G}XGh*8&}Mcy:O:Y*>*UG>:UB&_y}}}}&}GXisU8*y>*G}:yyM*G&G&hX&y&8}ccG}&Xhs;GCs&G>_XUs>s>}>C8>Chc.yYUY>GU>}hhsyYhCY>Xh>h&U>YsGCh>V*Y&}8X*GG88U>CpC}GyXyhGY:&XcsyY:,}YC<GUG&hhhhUh}C&Xy:y&8>}hc&&Gy}sUY*}:G*Xchs8s}:cX:::U*&*8G&:8?C X}*}*&*GGyVUh*Y&XG*:Xy:*cc&c:y}y*8}UGc*G*:_hy}q}>&:>*8>}U}CGYGXhYh8UU}GGhy2)}8v}Uc:>*y&scY&YhX}>y*}}yc*cc:f:os.*YC>XXXc*:8uYcC&XU8UsG}*C*GVs88H8Yc>cUM>8UU&UyG}G}y}2XUs&8ccyy2}8y*AcGGcyGhhUY&}&*:}y>*s&}C:F*:XU:*UGX:}h&d!*c}c&U3C8Ys&*zCcy>:}t:8}Y8:Y>XyyY**yY*:*hy*YY}GXcCX8DUsG&CCGGYyss8*Y>scXh*y9}8Uy&h>}yydbUGC&XcXyhc8:YYcYX8#sU8*&&y&Chy*C}XYs>c>cOchn}UG}Gsy*hcUs}8&:XXs>8s}>ch>&:&s}UU&}cXnsyGYscGGW>Uh>h>U>Y8GCAc4U*Y}>&UG}?hs7YyYXGy:*hX8XYc&CXcyU8YU>cUGGyhhV*ycjcYy>yU}>cUG&Gyh}h}U}}XGs+8yy*h}}cy&ayGs&YcYYGcX:hY8YY8&sX8yC8hUYCXG>9Xv*}c}sXcgssYs>C8C8>8X&hy}_}}>>X8V>hX}CGcG*hUh8UUY&G8X8Ly8:CyCG>X:8UGC*CYX}X88}8sY*C&>9hyh>UyC*GX:8hc*CccCpyU::}UC:G8GCBy#y*y}}&Gy>ysUCUycC&cy*hsU*}&&2h*yX8yUU>Xy}ycU>*h&}cyh}8y}*}cGSGSyrhYU>&XG8XYUU8s}:C:G>::shc:CC&::Y8y**}>c*Xh*Us}}CCX>}XYssUhcB&hh8y&8:}8c>G>yCsYCYY*&CX**8s>&*>h>}:>sUcCCs&C:hU*8:}*cXSEy&h9Uc>>G}X>hUCCYscCXh**s:U*CXy0:&hs8&YY:GXhN8YCU8GC:msh}88:Yc&GXh*:8*}}XGG}hX*WC}>}&hX>+:8*GhcY>c8:hcY%GU:8scI*8yYhcYh*y&s>&hGG:}_18I8CGGc}Xh,8sc&}C>G:88*XY&&scGh:yc8*}}C><c:yshc}YhXCz:8XChU>cY>c:y}>*yYGG}:YzGC}}h>c>U%Ys>}UY}>h:;8y8XYy&*XXyX8c}CccG:yYhXU8CsX8>&sysCcy>C:Xys*c*cCccS:U8}8s&YccXs:8s:C:C*GXXXhcY>ccCAyU::}UC:G8GC4yQy*y}}&Gy>yC}XUycC&cy*U**&C8&8Xy*sUyU}GGG*sGU*YcY:XUXUhUs>Yh>sG:88sUU:}yG&h&<J*c}c&UuCsUh>ChY&yhh&8y**cGcGXGys8YCCC*yc:Gs*8UYwXiX}Dysy}G>::G:s*Y8vGYX^/UE&}h}h&hGCyX*:**&&Gh:&yG*}}*&}G>xsUh*ych&Y:XUh8c&ycC9c:D}Cch>UGGy*h**KG8:s>Ys>sUc>>U:&:y*}*}C}cX:s88syYhc}>yXksGU&CG&6:c#c*UY*>8>hZ8sC}hCYGX:>8X*s}&cs>y*8scUG>F:&hG*h}y}Y:&>UyR8sUCXUG::*i<chY&XsIX8C}Hc8>hjcy*hCc}Y>&:s88X}>c*CG!::cs*U}Y>ycX>KC*8Y*cCh8:V}U*>>8&yhsh}8>}C:cXss&}}ccG(A8::hsCOY}&ChX8&UX}*XcG*:ysh*Y>*&&X>Uh8&cs>hyX8>hYUsC*&&sY3CYX}y&CGcK*}*U&c8G8:yUs}y}}>G>*8G}*CcC::U:UsU8>ChXsXYyysY}*XCGcyGh2Uc}&GU:*888hY8cCXhyhsXU>CXGs:Ghh*YY}>YG:s8h>c8G>:h:}8X8XYXc*Xcs&syUUC:rh:Gh88GYC:>Xsm*YccUGG:c:y}*8yY&&>Xs*y8U}YX>>UX>*>CU>Y&sXXRy8UGsC:y8y&88U8CyXk:UoX8UYs:}>}sYs:}YYC>8:hs88:Yy:8>>e:scc>>U>CsGn?YU}::U#:888CCyCy>y:}sGY>Ch&YXOU88X}UCX>&8:hGYyC}GyXyhG}>}s>C>}wCh(}*C&&gX>UX*Yc:cC+:8Y}G}hc&G5y}h:*sGNcG4hyc}:cXC>>:y8s&YGY;&}Xy8Y88YUc&X8:*syU:&X&U2XK*}c}sXcossYs>C8C8>8X&hy} YUcGX**Y8hUYC3F8:Xh8*>Gy&>>G=Y8&UyG:>8:cssY&Y}GCXXh}sYYs&h:W:&s4UUC:&::&hc}&Ysch>XyMsUC*Cc&y:C8.*U}XcUXs*}sY}cC:>YXCs8Us&hcG:hr}8yUycG>&hGh<*}YyysX>fs8G&:cCGL:CsUccYyGhs}8J}XcYC:hh:>sYUcYyy>:sh*Cc}*>cycsxUX&8Y:Gc:GhhC:YYcX>c*&8UCG>}yUsc*:Ch>s&XXh*y8U}YX>y}ss)GYGY8y}XhH>8:}*:h>&:Sh>cXCCX:h&*XYYGY&s>}**s&U>>*:XXh*h*cG>cYXsn*s&&YC*Gm:*h:Uh}X:4X}WCYX}CYX:Xsc}C*8Y:&1X}U88c}GX >hQ8sC}hYsGX:>Q*8yYhcYh*:WUU*:>U::h8hC8!}C&UhcyUU&}hc&G&y}*Y*>Ys&GH89Gs&}}ccG:hXss*CChXcXUhY8>YUC}XhyH*y*cCyG*:XKX*cYC>cG0sUh:cUG::8:C8y8yYyc}XGs>shUYY0G&:}}h8>}XccXC8h8}U:C}>88YhX*y>*&U:Y%>*UU}&h>t:Cs8UUYGyCX*8c8s&cXsyYy>s**>CcyXXc8:*UY:c:X&sGsxU}Cy:Y:>hs*GG:&C>:-YY&}YC}>syUh&YcY:&*XX8U88Uyc&>G:y}&8n&GGs:Gy>*YcCc}>syXs:Us>X&^7:N>*:Uy&&>&y}8h}sC}+h:>*s8_Csc8H(8C8>CXC:GjsXhMYUGs:C>>bY8cUyX>>sy*}h*>&c&C:&yGYC&h&*oY:Gs}UCY:yGXY8>*8Y>c>XCscs:U}Y:GGsy9nUs}8XLFYR>UGUGGGG!:}hycsY>&*>>,c8*}}X8G:hXh&U>}X:&h8h}YcUXcC>&:4}X*c&:GU::e:*&cGcb>C:0sX&hCs>*XUUsYcY:>X>XsX8sUCchj*yh9/*>Yy&*H8xCs:}YGy>*:>h*Uh>U&:X*yfCh}>>sy:8hUGcGC}&&sCL:8^&CXhGUsUsXctYGG}:CE:CG}C&*>CNs8UUhX*G&:>}h*>}hXhuX*>sY}sc*G&8YhX*y>*&U:YS>*UU}&h>d:Cs8UUYGyCX*8c8s&cXsyYy>s**>CcyXXc8:*UY:c:X&sGszU}Cy:Y:yV:*&YX&skhv}s>}UGXGcyGhDUc}&GU:*88sXY8cCXhyhsXU>&X&*ec_sYc&s>Y>>s8s8}8Y&Gyaa0U8G}*c:>&*UheUhYXG>hUh&*s}&&YhG0h88&CCc>G:bsc8&CUG*>>TY8cUyX>GChXh}CXG}XGX3iCsg}X:hGXsssc}sCsG:Myh*8&Y8>G>1y}sy&sC>Gs:GU:*C}:&Yh&!*s>U*ch%U:Ch**yYJ&*hyy&}sU:c;>Uy:wyU&CcXCX}hC8XY}c}Xsih8sUYCTG}:>hG}>}8>C>h8C}hC}CG:s:sss8cY:>y>G8_8s}GY>>YsYhXU}Y}GshU8sscC:CYy:sY*>Uh&C&C:Cyy**cUch.}yC8h*sCX:X:8h>8>YCXGyC:yU**X>*:XhshY}:}:&:>Ui&UGUY>>G:yY!CU8G8&c:sbs8:&hG:GUh&h8C&G8XCXX8*8*Y*CG>ishhYYXC*GX>:hc8YYcCyXUs*ss}*Y&G{s*l>Cs}GX>>88G}*cCC:>Y:Ys8C}GUc&yyyC}ycCGX>shchcUc}qGU5}Bs**}c&sG8y:sXU:C8G>X>hC*Yc}c*X}yG8*U&CZGyLplY}>}UX>.Us&syC}C}>}XXssY8}yGhX}!yh%}Gc&>G:nsc*cCUG*z8{&*8}ccy:2yUhGU*>YGhXYM;C8}XcUGXy&}:U*C}yGX}8XYs&*:}>hy>s:U*XhGY:cU:YY&G>yyXyUYCU8C:Ge:}}8*cYG:;tc8XhyCyCY_&:UhIUsYCyUX}hC8XY}CYXs^h8sUYCB&q:>hG}&Yh&&>e7}UYU>C*&>:cUX*}}>cChcn8U&}hc&&Gy}U}*>CU&U:h+csX&GC>>:y8s&YcYY&GXY8Y8>}scGy8yCh:UY>&G*X>q**hGUcC>*yysHU*>y&UF.hY*6}h&>yXyGsY}sc8GY8shUY8YhG8>*qysyUGc}>Y:G}}Uh&Y&U:YyCYUcX&hysy8sUcsCUX&hY*X8h}>c:>**hsYUc>}Ghx:,X*yUIXXS}rc}>*!CGGX:8UT8>&h&C:h=h8XC:c8GG:8h%c*YUGY>C*U}>YhGeGMh=sU*GC*yY:hHc8h}:cc>G8Cs8CsYy>hXs*yYCYGX:>syXsyUUXs&:h8h&U8Y8&yyBiUsXUUcso}:Ysc8&GYX::88s8scscYGXy}}cU8YcGssUFy8YUyc>n1y}sCcXYCXy2X*8Y*GYcs>XyysU&sCCG&sy*CYXU:>:>}*cs*UychGY8*hh*XYh&GX:y&YX}8cU?&s8U*YcYsyU>avG8X}8XL>hT8sC}hYsGX:>8G8cYGcQXcyc8U}*GUGXX>hC*G}/>yX*y&88CGCcGU:Esh*UG%c}rhuC*hUscXGX:cs*UUYcy*Xc8Us}}s&*GUyE}**>>s&Gh>y:YG&*XC>:lYsY}8>}yU>^*h8y}G&}XYyGY}UsGYy8hYhG*h}X::XCsyssc:c*>Xy8scUhYUy8>y8*sX&*>Xys::sZUUC>XGXXhG8sYY>C>Xy8s>cyYc&yXChs8:Gcc*>Uyhs?CcC:G}X:hGCyYsc:XcQ&s:&cCU:&yhs&8GC}&}XsIX8:}sXX>sh:%y*GCX&*:c*X8U&Gc*nU:X}*CX>hGY:zA,*>&yX:Gcs&sCU*CyGO:*Uy8UcnX>ygT*s&U}XY>hhChhCYYXG}X>hs8&U:X>GshX_KCXG}XGXYhc8:YU>*>}-*hUU GhG}X>hUCCYscCXh**s:U}Y:GGsyhU*YG>XUrUsXs*&YCsGX:yhUcsY8GUX&h8s*}yc::X:GsXUsCG&G:Yh}YY}8&U>&#8scUyC:Xy:*3>8*Yh:U>}xCsX}}YY>syhss8:Y1&UX:y:8&}ccC:Y:UsY*>CU&G:hJ;}h}}C>>U8Css*CChy*X:q*8X&Mc&G.yc}>U}Y:&}:8UY8X}y:*Gys*U&CX>y&&:UhY8XG&c1Xs*YUyCyG}:}X:}h8>YY&c>y*>8s}*Xcyhss*C*h>*cyX&4>8s&yCS,UyYso*hC>:>:shG8GYYX&yYy>s**>CcyX:8hUC&}U>&y&sy}s&*YyG&:>hsCy}>&C>>H}8cUUXCG::/}UYX&XX*>X*1sG}}cCG:8Gh:*&CUG}X&UUsWcCc*X}yG8**UC^Gy:5hU*:}:&&XcsCsy}CC:>*hUF>Yh}&:hH&sy8*CGCG>G:ssYYCY*G}XGh*sU}Zcy>7yUs:*:C&GcvC)y*C}:&*yU:>Uh*&>h:&qyh*}G}G&G>stYUCU*c}GGy*.U*6Yy>:>C{:88}>C>>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&Y:c#:*YUC&8Xsshhy}hC}GyXyhG*&YGcrXcyy8U}*GU&>hh2&Ch&&>yX*sGsG}GCs>YhCh*CcYGG*>UKu}v}}cyGyyGU:YGYsXY>A*Y}rcUc&yhyh8h*CCXX:X&h>*hY&CGX}EUU*Usc*Gcyshs*:YX>:>Us&s8c&>8:C:X****C*cGXx8hsYCXc*>XX:sc*YCccy:U8*8sY*C&>58*h>csYG:>X8*GY*&Cc:XYyY88c}>UGGX&h}*c}:>XXsyC8hCcCYG8::hy*8G:ccEhyXYs}*cX&:ycUc*yCC&C:**Y}*UGGaGcsHUcY:C8X&X&h&8hY}>Y>8dUs&}8Y*Gy::8X8GYX&sXGyG8Y}}GY&:h8J>C8&>XhX}sXsX}XC*>ch&rMY}YXG}>YhssVYsCC>:hXhGUXY8GchXNUYG}*XUG>8*UXchCYG6X7h>Yy&:c8yCyh}CchG}GGhshsUs}c&:yyyG8X}scG&>yYs}YU}yGUX&h888}yc::y:}*G**GG:*{cK:}U}U&UG>dhUs*:CvGU::yy*&Yc>C>}kCsX}}C}>syhss*YYD&}X>MGU>U8GCGhsCUhY}YGXsXshssc}:GyGGs(ssUG}>GYhY.X*}}}&s^UsshcY:YY::hY8>*hcCcCXC:y8*CUChy}:Csh8sYXXXX8=>s>}C>G:CXXh88>Y}&shXyCscUUc*:Xysh&*sYyy8X}7s8X}:cswX:C*Q*>>hG8:>yX*C&Cc:XYyY88c}G8&&#yVCYy&C>XXsscsc}cYv>Uh}hsU*YcGs>8n:8XC>C&>>yhs&*&C}GUz}yX}sUGXsyGhjsUY>Y>G>X8hC}cUy>U>>gUh}}hYy>hXYhX}>}&&>>sNC}>U*>&G8s*IGC8&>X9X}fysy}G>:yX:s*Y8IGYX4kU,&}h}h&hGCyX*:*&C>Gh:&yG*}YU>*G:E*sc}sCsG::X8:8Uc&c8l&88UCUXG*G*y*xG*/&hcXXy%*8X*:cc>ChYhUUYY>GUXUhh8lYhc}>yyUsGU&&G&sWYyiYYc/>U>&shsh}hYCGX9:2&YyYh&&GGQ}}}U>cUGUyhU*Yh}C>X>}8X}}CGCS:Y:YsY8:C8X*>n*U8Y}gCh>>s>ssUGYGGYh&8Y8>}scGF:yCh:UY>&G*X>o**hGUcG>X*shXCsGs:Yh*U>8YYs&*>&*YsXUyX*&yh**&YYGyc&XUQYsX&&CXGcy*sU*c>*cy_YA8YC}&&8G*yyUyUUC:&::&*X}&}h>}Gy8}UyC*CcXRXfhl8YY>>X>c8:sd}cY&>UsUhGU*Y*&%h8s%sYC>CUy>sU*&*y&}&}:}yX*sc8Cyu*y}sy82CG:G:hh&8&Y}Xcy}:XUs*G>s:Gu4hU}>}>&>>8?CUc*yGUG>yUK}Uh}yGh>YQXU>U&c>GsyCU>**G&&8h*yGY8c>>_>}yyhyUGG::XXs8YsE&Y>IyUy&UhUhch&C:X8:8&Y>&hX&:G8}}Uc}GGy*h**RYy>:>>j:88}>cs>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&Y:cd:*YUC&8Xst8sC}hChGX:>8G8cYGcWXcyy8U}*GU&>hhQ&Ch&&>yX*sGsG}GCs>YhCh*U}YGG*>UKj8yC:CC>:y8s>*>CCGYdC)X8UUXc&V::y8hU}Cyck:Gh&}c}Y&c>:iYsY}8csyc:Csh*YYX>:X8yc8s&UCyGYXyh>CTY}&ChX8U}}C:G>G*8Yhs*XYy&Ussyy8GUycc>>:C}GUhC8yCX88&}:c>:8G:ycsGUh>:GhXXhC*c}X:C>88&s8CcCXG8XyU5*c&hXX5t8YY&}UCcSY:Xhyc*YXX}Wy*wsG}}cCG:8GshU8GG:* &8C8:G8C:>cyGshc:YGGYXGhU*C}*:Y>XyyY*UXG}:2s10G*}YCc:hGy>8:}8c>&XyCsYY}Y*G}XGh*8*}4cy>nyUs:U*C&Gc0&?h}}UyX}yys*scYzYWG XYh>}XYUc*>?.8sCCYC>Gs:G*88ccy&}Xy:^8GC>C*:C:}sC*XC}&}:shh}sU:c9G}s:UYU&&c&8.c7U*YUX&8ys:>8sUYCVG}:>hG}>}8>C>h8C}hC}CG:s:sss8cY:>y>*y&s8UXCcr*Xy2!8>YGX*Xc,hsc}}X&GGyXssUG}>GY:}8U88YUc&X8y8syU:CyG*:Xh8*cYC>cG0sUh:cUG::8:C8y8yYyc}XGs>8hUYC.98:XhU8XY&::X*<}YGcCGG:Gyh}}*hY>&:X*Uh8s&YccXs:8s:C:C*GXXXhcY>ccC%yU::}UC:G8GCNy;y*y}}&Gy>VhscUhC:xs:Ch&CyYCCyyy8GY&UUC/>s:C}U*sY:&sX>nysG&:c*>}8GUYYXCsyYXsdX8y}U:s>Cy&}y*OY:&CsGQ>*:Y8&>GXkC8Y*yC&G>:sUy8Gcdcc928cU:}8CGG8:m}*8%&U&>:U#U*hcscYGXy}*:U}YUGh:*=c}C}Xc8>>s*h&Y)CYG#Xhh>8&Y>csXCsYsU}YYX>8sYfyCU}:Xy>}8:}YcGch>&:&s}CcGCcXQsyGYscGGv>Uh>h>U>Y8GCqcy:8*UXcY>88:hc*&Y}GU;:h88G}8cTh*:yUUU>cU&}yhQyUh}Y&Xy>y&8>UscCy>:*U&*8G*cGh88>}n}}cyGyyGU:CXYsXY>x*Y}1cUc&yhyh8h*CCXX::82c*sGUcy>Uy:YhUGChG&sXhY8XY}:cX}yU8h}*Cc:C:Xh8*>&*c4:s_Y8qUhc>>Gh&hCU&YyGCXCh**8Y*ccXsyCs:UX&:&UF&g8Y&&8>C>Xs*s*}*YGG^hhBX*yY*&XG:6c8C}cC:>Y:Ys8Us&hcy:hr}8y}UcG>&hGhsYY}d:YDp8U8&chchXh:CsXY:Y&G>:hh&sGY}&Uy*ys8*UccsGs::hX*:Y8&>XsZC8YCCYy:*XXU*YX&s&Yy:y:8:UUc&:G:Ysc*:CYcC:8hs}hUG&h>}yyhyUGC&XGXs8YsV&Y>!yUy&UhUhch&C:X8:8&Y>&hX&:G8}}UG*Gsy*hcUsYs&:XXK:88}>cs>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&Y:cq:*YUC&8Xsshhy}hC}GyXyhG*&YGcHXcyy8U}*GU&>hh.&Ch&&>yX*sGsG}GCs>YhChc*GGC&h:83C*hUscX>>X&*&*CC&&y:Cq:**Y8X}G&yUsY*X>&&}7Gu*YG&*>c>:y}h:UG>y&GFzhY*g})&>yXNssC}hGc&::*_X*YY8::>cy&s}}UG:>8:Gh8*z>*&U:Y >*UU}&h>.hyhXUyC*GXXXhc*CYcc:XYyX88}sG8&&TynCYy&C>XXsscsc}cYu>Uh}hsU*YcGs>8W:8X}:c8>>:>sCUY&}&*:} G**}&cm>yhqhYY>YU:>hU8&8yc}c}X}:X8sC8Yy>h:}hys2YG&&ycyY8cU:cYGYy8ssU8YCGhXYoX8>CXC*:c:sUcCs&Y&>^8Z8*8U&cy:H:>s:U8C>cX:ChY}}UN&}>Gt*s*UMCyXWXY8>8U&>XUy&yyU}U}c}&Xys*88yCh&}Xy:u8G}&GcGYych:UYYYG8:sh88CYhcY>Xy>*X**&c&shc*s}Y}>>8>8<8h&Uy&g&>::h8*>UX&CXYs}s*}}CG>*:*h/*yYm&UX:;*8&}cG&Ghh}-yC}&yX*Xcs.sV}OCY>>hXh:*pGX&}:C X*}UY&sXhXy*y*XCyG*:Xh8*cYCXGGyy&s>Us>y&G#;icY%&c>:X8yGs8UdX*&VhUh>UUYUGh_soYsX}}G:>8:csscUYy&UX:Uh8G}hc&WXyYhy*YC*yCX:gJCUcXX8y*:X}N*GC}GCX:UG*hY8:C>8sCUCC:GGWsXXhC*&}#:XX8%UY&UUG&:&ha*yc*}y&&X>msYyU>cCG>y}sc*U>C&:XFUUs-UU>UyGsC}y*&CUGYXXU&8X}c&*XUycY**yGYG8yUh&U8}*&yX:sXsG}Xcs>G:GsYU}CY&>:UeG*h}H>hGChXh}CXG}XGXx8Y8YYYC:X8s*hRcUCYG<Xhh>Y>Ys&G>G4Y}&CYY::8X>U8Y>&h&}yXyX8XU*cc:&:}UG*XC}cY:s*s8CYhch>Xse*X**&c&shc*s}Y}>>8>8I8h&Uy&O&>shh8*>UX&CICy:8YUYc8y}h8p&}y}CXy+CsX8sCcCc>cXQsUY}}>XsXchss8}:C>>::*s&YcYYGc>yhUYc}hXYGt8hhCCqGc:X:8h>8>YCXG7&:yU**X>*:XhshY}:}:&:>Up&UGU>C:K8:*hs8>Gyc):spY82Uhc>>G:8h:*WY}y8>y8*sX&*>XysyYhy*YC*yCX*8c8EYcccXUs}sGUhC&:s:&0c*UYCcXy>{hsYUzGCG}:shX*:Ys:XXYs:8U}:Yy>&:&h}UhCs&}shyYY8UGGFGY88h>U:C8G&h:aY*c}:XYyTe8}}cUC>XyXC*y**&GX}h}ycsUULchGUsI4>Yh&XXhXUyGsY&Ccs:c:SUCUs>s&XXh*ysGC5Ccybsc*:*&C>Gh:C8Ys&YYC:X8s*sc*yCCXOXURG8*}:c&hU:jsh*XC>:U:&hs8&YY:G>:y&8U}}C&?U:y*}*XC}cY:sess:}cc&G:8cwyCGY8XC>y*G8*Y}cGXs8}hy}hC}:yhChGY:&X&*yY:u}YU>>8::s:hh8XYC&c>X*Cs*Cc>U:c:Xh88yGM&&uhIC}9}&X&>U:c}Y*8&C&hhC*h}}}s&*>cyI*y*sCy&}:G8>*h}YcdyCyXs8U>>yGc:h%c*}G&&U>c*Ys*UKY+&:XJh8CaYhG8XChhss}Xc>>8:csscUYy&UX:Uh8G}8CG>C8>ssU*>c&*=c8c}:&s:8G:ycsGUh>:G*:}UGY8&Y>>>8*}shU>C:G*8hhY*cG}&C:hys8XCXC&>>yhs&*NC}GUhCy>8Y}cCy7>:C*X*}GX:}xGHK8CUWcXhh:XUsUccsGs::8y**}&&8yGy/sC*0CXzh:*;_*GY>cMhGy}}X}s>GGYh&h}UCYXG}>Yhs*hC/C&>9yUs:*:C&GcM&Kh}}UyX}yys*scY!YkG7XYh>}X}c&G>5_ch&}Uc*:8:hs8*CCh&hXXp>8X}scG>hyYs}YY}:X8>>*8}>chc}:X:XsX**CcX&X}hC8XY}CYXs!h*%*h}:XyX}8G8*&GX*ycy:UUUUcU&>yh*s8:G8&UX::y8&c&Cv>c:csUCC&Uc>phy&Yhc&Gy>*hGhGUGYsGY5C1*Yc}G&*GUyNUFU}Cy&y:G*:}G}s>YG?8YU<CUC&:h:hsh8CYX>:>&8y8h}&YG>}s}h>UUYUGhh*8hsCCXC}yXs}*G*N&Y&Y:Yy:*8c*C&:^yYsz*hC>XX:h8c8YYcCyXUysU8Uhc8&csh*c*Xc:cyXh8:s}C}>8ycXXhC*&}g:XX8eUYs}8G&GcyGhhCcGsGUhCy>8Y}cCy->:C*XU*CX&X:c8&8y}YCy>>8Msh}8YcyhhChX}>Ys>>XhyYsj&8CXGUXXh&*UYY:*XUs:sG}XC8yGs*sYC&}:&cXGahY:U&Gy>}yyhyUG&>GhXcwh8:Gsc8XU:G}8C&CyX::*8:*8}c&shUyysUU:XhGG:8(G*CG>&sX**cs*CcG_:X8*Wy*&Y>&shyy>8CU>c}>c:U}C*:Y+yUjX*s}*UXXbGGy}sC*:>G&>::h8*>UX&CXYFCsX}}C}>syh8o*YY+&}X>sX8UU*CI>8:C*Y*>Ys&GE8lhsX}CccGX8Ch8YGYYGcX:hYsCY8&syh:G8hU}Cy&y:Gh&}G}s>YG;8YUWCUC&:h:hsh8CYX>:>&d>8h}&YG>}yU***sC*&c:sJs8:}Xc:>8y>ssUCCYXC>y8*sX&*>XysyY*:*:C:&U:&8G8Y&>c:XY:C88c8Cc>s:sh:Chc:cUy&y8}&c8GCGXh*h*U*}G&tfhyYUX}*cX&:ychYUc}yGUhcxs**U&XsyGy:}h*}&G&*hG**}c}:>U>U+Uh>}hGs&::ghU*:Uy&&XcsCs:}CCX>}:}ssUh&sccy:yY}:cYG>>hhChCUC}yG*!Uih*8}C&hGsyXs>YGChGGX%hc8cYU&*yU:>Uh*&>h:&0yh*}G}G&G>s3YUCU*c}GGy*?U*bYy>:>>b:88}>C>>CyY*C8XY8c>X}=sYXUCCcGUy**XUsY&&sXyU88}}scX>:ys}X*C&L&>::h8*>UX&CXYs}h%}}CG>*:*h_*yc_cYy>yU}>cUG&Gyh}h}U}}XGsb8yy*h}}cy&2yGs&YcYYGcX:hY8YY8&sX8yC8hUYCXG>dXH*}c}sXc.ssYs>C8C8>8X&hy}V}>:hX8b>hX}C>CG:yYhYU8G}X8>&sysCcy>C:Xys*c*cCccW:U8}s>csccXs:8s:*>C:&*:&*:8YYcCy/Yso88c}YGXWXc*QYcc:&8y&y&8&Uhc}:Y:8sU*&C8c*Xy+:UX}8cX>syGhGUYC}XY>:88s>&8>>yhy}*X*XCX&*:c8&8}YCcXX}:Y8s}h&{G}:;hU*:}:&&Xcs&shC}Yyy}hy***ccJcBXbyY8>CXCc>G:#sc8&CUG*K8)h*8}C&h>hyXs>YXCs&C:hU*8:}*cX5Ty&hZUc>>G}X>hUCCYscCXh**s:U}Y:GGsyhU*YG>cYy:s+}8&YCsGX:yhUcsYC&&hy8}}}C:G:G}8ch**yCh&Ys*p&8>Gh>CyGhAhcc>YYGs:*t&CY}Xcyh*sG}hC8G8&Gs:/c**Y}c>hcy&8>}hc&&Gy}sUY*GC&h>yycY>UXcy>*yXhXUcCC:G#C,X8UUXc&Z:y*s}cGG8:hO>p8C}}hc>>:y*Yh*:C&&::ChG8YG&c3Xs*YU:c8GC&y8sgX*CY&cohXy:8F}Uc:&yy&scYCY}GCXXh}8}Ys&hz8::sNUUC:G*:&hc}&Ysch>XyxsUC*Cc&y:C8(8:}&&UX}y&YUUyG}GXy}<YUs&8&h>X C8cUXXCG*hchYUcY:GUd}K&spU>XX>Yh:sUC:GY:G:UUU8)}*:s>c8shcY>&8&GysmY}UYyXy>88cs}}CCX>*sYh&8(YcXh>}y>sUUyCGr}:hhs8:YXX}XGw8sG}CX>Gy:Gs}UYYGy}X-8Y8:YYCCX8s*ss*:CcG&X:Uc8Uc&cCX&yy8}CYCGGhXXU:*Ccy&}ry8C}>}}X}>h:U}8*&G8c&yXs*s>Y8CC:}y-Uf**G&&Y:cI:*U&CcG>hy&UsUYYXG}sch88cYs:U>yyYhyU>>VG}:CUXY*&U>>>U*Cs8U:C%G}88hc*GGBXY1>8hUyUYX&GU:uss*C>U&sX:Ss8>}yCG-:y*s}cGGs:*k&+8C}}hc>>:y*YhU*Y{GG:>L)CGY}>:XsyCs*&UYV:}ssUUY:Gy&&>:*>8s}*XcG*hGUUcU}d&GXX68Y2}G>h>CihhsUXYGGX:8hcYX}UXG>*8Us>c*GXyh:Yhr80Y>Xyw:y8UCUh>Cyhh}hGYsYsGs>cI:Uy}*C>G*yh}U*GYXysfoys}sU&XXGCy8sU*G>C&c:G0%*cU&&UX*s8h**hGsGYXy!Y**GC&h>Yy8Y*U:GUG>yU }UhGh&YX?y/8>}*CC^}:Ysc*:CUX*Xsz}8scscYGXy}*:*U&&&8h&*8}C}X>*>*z*hGUMGhG}X>hUCCYscCXh**s:U*CXy^:XK>*CYGc%yyZ*s&}8GGG>::UG**C}&G:*yU8V}yG::Xy*sXU8Cc:>>rtG8X}8X2G>shh&chG&Xy:*M>8*Yh:U>hs}sX}}C}>sh8hC8:YY>y>*y&s8UXCcL*XyAN8>YGX*Xc hsc}}X&G!ysUy*CC&&y:Cyc**Y8>syhyC8hUYCX:RX*5y*h}Y:*G7sUh:cUG::8:CZ 8CYU:c>Us&8h}&C&>}hYh>*sYGX8XCy:8Y&&c*G>:*shcUYG&XssyX}scY>>_X:Cs8UUYGyCXUhh8U}y&sG:*hsYUc>::Uh}8y8}Gcc*>yrhsY&*CYG8::hy*8G:&hyy0}8y*acG:>:&h}UhCs&}shyY}sU8YKyhyUhG*Y>CGsBc**YC&icyhhy>hQc:Ch&X:Chc8XGC&sycAs8cU:cU:}:&wW8>GXccy:8&}X&Ucs0}yhhUc8Y}&sXXL:8s&XCc::yUs:*UC&XGXctU8qYhcU-!yUUh*&ch:&:X8:8>}C&8X*yCY8UXG*&Xy**>*j&h&sX**cs:C&GcGY8*ss**YX:xX&sOU0U/XGG}yhs8*c>}c>:c7:*Uc*c}X*ycs%ChYCGyhChG}&UX>&>yyUs:C}CGGh:&*s*Y}X&}y:!}sU}hc*GchChX*8Y>X*XUJYY>UXCGGU8ChcUGYjGc>&hU**U>cY>c:y}>*C&X&}hX*}}G}%cCG yXYh*XGsGcyshs*:cy&*>&R8UG*ZC}&y:chUCN}Gc>>C7YUz}UCXGUys}}*cYU&R:hOUY!}8>h>CihhsUX&:&>XCh8**}C:8>Cs*hU*sG8GYXXocC&Y*>G,}8&Ys}hX8G::sUQ*8}y&&XGyyY&}*GG>*yGhMUY&C&>Xsy:YyUGGOy>sy}YU*>CG8XYUU8C}*cy>-y*}yUc&pGY:L7Y*>cXcG>YIs88UYXs&Ch8h&U8&>&yy=y:s&}Uc}G&8UhhY}YXG}=:hs}8}*c}MG:h*>YGYcy}:*+}8yGsC:yssssscXYCG8:U_GCC}X&G>sqYU}*cc}&Xys*8*CChX&XXs>s:C>chGY: *C*XY8&>3*5csy}CGu>U:Gs*cYCh&YXJU88X}8c>;yycsh*cC}y&XbhsCY}s>YyG88Ys*XCCG&XnUX*8YU:&yW8}UGUsXU&w:GhX*8GE&}XC*X}8cCG:GU8Ch8*:Y?&}s8-**}}G&*GUyrsyY:Y>G::8h>8>YC&YN*yX8}U>cs:8:CHq8CYU:c>>yC88}*CCL8::UU8:G8&XhhyC}y}s>X>sh>h3*}Ysy8>X8*}b&8>X5XyCh>c&YkGsh&*s}ccYC:hs:XsCU&YkyX:}u>8CGc&}y&8U}hcCG>:G8hh>8LG:&*X}*GsU*GGGyY8}hh*>Y:&*shi>}s}c&sG8y:*y*Y&Gc>>c8&8:}*CEhhyGUsCX>hyc:CU&*U}c:YXUsC8h}CCX>*hUhc8y}G:>X}sX}cc>X*>U8Uh^**>scX<89:*8}Ccy:^ys*>**C>:U:C8c8XcUCXXUsX8hCsC8GUs&hh}Gc&cChU_8sUU:XhG&hh*h*cG>cYXs,*s&&YC*>&::s}YUYcGUXchh}sUCc;ycy>*G*U&G&zX}my}Y}>cs>Gs8sC*:CYXy:YQ}*sYUc&ycy:s*UXGUGGhhhCUh}s&X>GLX88}c>XGUsGh*CUY>:*SX*h8Y}pCK>>syU:*8&C&hhC*h}}}G>s>s2shcU:&yGYX}hs*U}&>c>:y*sXCUC&GsX&hYCGY}>>X8p>hX}CC}>C::s*CC}v:}>y8b8Ycy>Cy>yssG*GCY:&hcy:}8U>X8y>shs}YXYXGXX*hc}&}ycU>:*hsGUhC&yX:YTX*}Gc&8>Gy8sA&*C&G>8h#>Ys&hX*/G*Gs}}hc8Gc8}hc*UYkGhXU*_sGc8CyXhy}sy8eCGG&:G_d*c}c&UX*s8sh}8CC>h:YhX*>cXc*ycys}ccsGYG>h8h8U8}&&yy3y>8:}8c>&XyCsYY}}NG}XGh*8*}^cy:=:Y*>*UG>:UZ&ay}}}}&}GXTsU8*ychG}:yyD*GY&>c>YRcs:}YCY>8yss8*CCh&YXXa>UXU*GcGsscUsYYY>X8X8h8s&}yGxG>8hs8U>}XGChCF:*Y}Y&8^}s8h&YyYC:yhC8X*sccccXc:#8UC}CsyY:css88Y:X:X*%XsX}c>>:cXl*U8:GUX:q8HCUyUycyG}yG*>*CGX&y:Cyc**&*c&X8y8sycs&y&}#G+*YG&*>c>:sUsU}UY>>hhs(C}:YU&:Gy3&sC}&Y2>}hUh8UU}GGhhUyXY8U>>XG*s>UUCcYyGCXCh*YY&}cc>h:cs}c&YGGX:shGs>YY&}yU:y8UU&c8G8:yh:}yY*c&X8*}s-U}Cy%s:>h*8>Yc:XX82UY&chGy:Ghchhc*}y&&X>JsYy}UcYL>s8UsYXY*yYXs,X8y}U:sGyyGhyUcC>&CsGhh*8GCc8yCsXUG&8Y:Gc:GhhC:YhcXXCZcsX&CC8y&:}*c*UCY&>:Uy}*h}vGy>Uyys*UXYXGc:C8csFcUC:qUs:U8UC&y&y:yS}*Gc>cCX&yy8C*cc*>8hshCUsYY&#>ZZ>8GC>C8:C:hUCCh&}&GHs_s*sUcc::y:GsXUsCGc>:Yh}}U}8&U>&k8s8UyC:GyXGhX*sYG&hXY?}8UC}YX:sXGUsYGc<&Uy>y>8>U8cC:c:UsY*>CUc}:hL{UyUXcy>*yXhXUcCCGcX:hY8XY8&sy8:&*y*CGy:C0Xhs}c}c&cG+MUU}*>GsGcysM8*:cyc&yGyc8GU9ccGcyUs*YUYhG8>c*h}&}XG>Gch>hCU&}LG}qUws*U}&&8>cyys:YyY}XGX**GY*ccc:yUyU8U*>ch:sXC8:*UY:CyX&yC8&*pc}y&:8sU8GG8X>Xy*ssYC>CUy>sU*&*y&}&}:}yX*sc8ccGX8GhCU*Y*&sX*<YC*}:c*>XsUsX*>CCGGXR8y**}&&8yGyY8cU:cY&Cy8ssYhYs:*>G0y8*}XCX>cyCUC*UYc&Uh*yXYUcsCYGX:}hV*>>Y&sX8yy8:cYc>>*:>sccXY:G_:Uh:syY&&cyCyc}GUsc}GGy*h**4YyXy>>yDs>cGC*y>hch:**YX:^X&.ss&}YXGG::&sUU}Y&yU>Z8C8*Y}cGX*:Us(Uy&:&>::h8*>}>&CXY.CsX}}C>>syh*s8cc:cY!:8YU>}hGCGCyCEyU*&U&h:8wC*hUscX>>hGshUGY GcXchU**cUC>yh:&}hC&&yG*wGFG*G}s&YyCy*8}UGc*&U:Lhy}:}>&:X8N>s>}CcY>C:Xs}*>CsGhAsycU:UY>:yYh>shYCYCGC>yh*}U}h&8>C3hhsUXC>XGXchG8-YcccXUT*8UU&c8Gc:yh:}y}}>G>*8G}*CcC::U:UsU8>ChXs>:9_8U}:Yy>&yc*C*}CC&X:}0}*sYh&s>Yyfs}U>CGX>X88C8h&CXhy}yGUsUscs&c::8y8UcG&sXG:>8YUUcY&Xy8*s8)CscCX:*ssG}XC8yGs*sYC&}yX*>X**}XcscY::::s:*UC&XGXYhc8:YYCCX8msUhUYchG}:yny*GY&>G>Iy}sy&sC>Gs:GU:*C}:&Yh&p*s>U*chzU:GhXcs}XXst:8:}>&>CY>sy*h&cYYX&ys*yy}*c*>yyysc}X*CC8GUXGUC8:}q:UG#sUUUC;G^:Cs:Oc**Y}c>hcyy8h&}Ch:}ssUsYGGlcGX}RCs:&GCC>*:CssUUYhy*X&+>Chcy>yyYXy*y*Y>&&UXkhs8CGUc}XCyX8}*Ycs>hM.U**}YycyXG:cUccU>G:C:ofy*GY:&8Ks_YsX}}G:GyyhU:*YCc&::YyC*8YsY,:<::sHUUC:G*:&hcY>UQcG>Xy8}H*>Gh&&sh*&}yY*c>>*_hYUUhG}GXy}h}Us&8&C>:HYUyU*C&G8:Xhcc*}ycT>>KG}*}cchGcy}}&*GCXGs:Gy>*YY}>U0cyG8*U*C3c:g:*&Y#cX&s>CIhY*U:C}&::GUy*UYY:>>Ys>U>cY>Yys8Uog*GYX&8hNyX8cUXcY>&:}}c*yChy}Xhy}}}&hXhy&8yh&UUCY&Xs&bX8cY*&U>c**h&CUC>>UX}sh*h}X&CXcyXYCUXGc&&:}sC8cC*:C>k*}syc0CsyysCU>U}GX:>>Y8C8}}scX>:ys}X*c&::&4:hs8C}*:U>ys}hccUCG>*:&he*C}>:&>}sGs*cG>*:c:UsY*>C8XsX*hssc}:Gy>*:&s8c}C8&sX:hh8}cUc&G(ycUh*XCyG*:Xy:*cYC>YGC:UU}*GCh&&:*1mCG}}cY>8wsUGUlCC&D:X}h**}^&GX>yeYGUhG>>8y>SXUCYC&*XyV?8*&yc*:9:hhXUy}WGGhyEYYX}}XYGc8}Uyc8CXy*s8y:}y}XccX*<Usc&*Y+:Ush*U*c}ycGh>!}UX*g>>>syGshUYYy&8shyX}sUGXsyGhLh>U:C8G&ncnG*cU!&Uy}yGshU&>XGYXXh}CcY8ccXs*UsyUYYyG>sEh}*CGXcCyysX}CcC>U,}:hh>*:Y*yhX*yJ8G}>Cl2G:}UXU}GGG8hcbcYYUoXU>Cs*sC*:Y&yG:Y8>YC&GXshUy(s*&sCCG&sy*X}ycy&Ch&yUs3}sCCKU:GhXcs&VXsX>*:sc}*c}G>8ch&U>ChG&>Gh}*Uc*c&X*yc8sUsC:GX%:7U}&}8X&K8sCsXC*C*>*XGh0YhY}c:>}Q8YYUsGCGyyCFcU*&U&X;hyy*h}}cyGyyGs&YGYYGc>y*Y}MY8>s>>ssh:UvY}G>xGhU*G}z&c>yLU8*CUY>:hX&UhY&cy&*yGyG8GUscY:C:Xh8*>Gy&cXhyc8}&&C%>s8Ys8YcGhy8>:3c8G}hX:Gchys}Uy}!GGXy*&8&cYC:x&y88U*GchyUX:h{8}&:XYX&8X}>}8G}GYs}S>Cs&X:X>&s:}&C:csGC:*}U*y&}c:hU,yYy}&C:W>:c*X*YGX:}SG_Y*c}:&Uy*yC8**>C5:h:}O>*UcXc*ycys}ccsGYG>h8h8U8}&&yyEJUsXUUcs0}:>h:c8Gsc8J8x>Y:Ucc*>}:>}cUsYC&*sU#:}}&h>+S*sYU}cXCC&>s&tm*sGYXsyYZhY8*:CcGG:hU:8ccy&}Xy:x8GUyGc&&:}sC8:C*:C>z*}syc+CYyysCU>U}GX:>>Y8Csfc*>By*yCh:*&>GGUK>N*YGYh&&>2x}s:Us>9&XhhbGCh&&>y>G!X8s}cGCG>yCikU*&U&&>2fcY>UCGXG}sXU}YGYtXYXYhYs:Y8>*>>:GsYU&YyX::86c*sc&chy}yX8}U}cs:8:G6&*}Ycc:yX2ssC}hGcG::}4:*GGyc&y12Y8IUhc>G_h&FG*YCccy:U*c8h&YCvdh:CUWCcGXGYh:*XsCccchyU8hUUUcYy&Gs>h}}X}UX>XsJG8h}YCyG88h_:Ys}>:saGszs>}:c8>&hchXUcYhGUx}xG8h}&XXGch:hYC:GYX>:h8C8CYCCyX*sUs&*0Ccy>:}9>*UGC&s>CfhY*U:C*GXslh&*s}&&YhG-h88&CC8&ChCU8C8&:yh>><Y8cUyX>Gy:Gs}UYYGy}Xh*C8XcYcG>h:X}:*G&y:Gh:*YCCY8cYhUyGsX&s>h:shsN>CX}C&8XUyGYCU8GcGBycn&UUY8GU>GhhYUUXX8G>sXh*C>GU:cXyhC8CY*XY4}:G*/*cG^:cg:h8}&}&&&>ha}UYU>C*&>:cUX*8YU:&Hcs>sU&}ChG>::h*chY&cF>>*XsXC:>Cycs>*yC}>U&LX*Us8C}&XyyXshh&cGY}Gh:86cC}}h>Y>:bYhC}8G*GCFad:*kYU&:>:Q&8cC&C}>CX:U}YyCsXhXY8hsX}yCU>Gh&h6U&YyGCX:h**8c*c>GGyYs&*y&:G8Xchs}&}}&C>Xr}hY}schXzX:hK*UY:c:X&%c8&UycCG:y*s8Y*}G>x>c84}cC:c8:&:&s&*hC}XYXyy:8&}Xcsyhy}h>UU&XGsX&vs8yG8C:y*yG8**UC(:h:U8X8GYX&sXGyG8Y}}GYG8yU-GC8&>&yy:1*U:U&c>GsyC*Y*XCY&>:UuG*h}=>h>}:>sUcCCs&C:hU*8:}*cX/uy&ss*&CYyGX>h:*8Y>CXXC6Y}GccG}GG:hh&CXYYcXX}*c88UccszU:yhY8yY>:dX}FCYXUCGX:XhQ*3cYYs&XXy/UCs}Cc&6ysUU*Y:&:&}sc *8yYhcYh*y&s>&hY>:shh**Y8GGc}Xh=8sc&}CY>c::sY8CC8Gs;hyy*h}}cyGyyGs&UGYrGcXyhU**cUc&>s:&sYcGY:&&:Uh}8&GUCp,Y:^U}U&Y2&>sXh}}:&&XXV**Y8sU}X*G&:>}h*&&hXXhXyC88}UCG(C::h_cUGsXYX>Uhs>}YccGy8>ssU*>cGs>c8cY*G*Cy>&y>sscyY>GCX>h}*c}U:C>:yrYUU:YU:Uh:UM8GY}&C>:*G8h}8XCGcyGhJUc}&GU:*y>8Y}cCyq>:C*X*}GX:}_G208CUncXhh:XUsUccsGs::8y**}&&8yG.8ssU:chG}hUh&8bYcXh>YsX8*}XY:>c:Ysc8yCUX*Xsh*s&}dX*G>8shGC>Y8:Gh**C8:YYcYX88}}U*&&y&Chy*C}XYs>c>cxch_}UG}&G:hM&**}-:G>}yYs8}sGGGf:Cp0*X>h&YXc*:syYhc}>yXMsGU&Ys&XXy(UCsU:>8G>88U>ChC}&:X}h8CY}8>C>yvCsC}*GUG&XlhcYhY}c>XU*C8sU&CsGy88h*CcYGG*>U5z}B}}cyGyyGU:YGYsXY>/*Y}ucUc&yhyh8h*CCXX::8%c*sGUcy>Y:ys>cmC}GCh4*csXcX&8hCy8s:U)C}d8:>hs8:Gycyyx8c}}c:>syh8Yss*}>*&&X>Uh8&ch>: X:Cs8UUYGyCX88c8AYcC&XUs}h:CsYR>s:YhI8iY>&Gy>yC8&*Q>Cyhy**88X&8cy:hyY8XC>C}>>yhs&*JC}GUm}yX}sUGXsyGhSsUY>Y>G>X8hC}cYhC_>>yys*C8CC&::Y8y8UcG&sXG:>8YUUcY&Xy8UY8VCscCZR8c8>cyC*:c:sUcCs&Y&>o8W8*8U&cy:zyChYU8C}&GS&Oy8U}:>}>Gy8hGUC>>&Y1Xh**XU:&c>Y,chy}U>cGsy*0&Cs&G&:hhy}UGU*>Gy*hch:YUYUGU>>hh}s}YCX>}8cs8*cCsyUXyEU8:GhcG>hy&}XUYYy&Y:*UC8:}{:UyGs&U}*X>A&G:}hC8:GGcCX*yC8s}UChu*:&h>ch}>X8mX8X}G&GC}>hy8hcc}Yc&UX3hh8U&(C}yhyC8h*sCX&XXch**U}c:*>csUh}Usc*&U:uU*8>GscG >::}Gc*>CG:yYhYU8G}:UG-8hsyUGc}>Y:G}}*s&Y:8LY G8hUXX:>ChyhsC:C*GX:8hc*h}U:8Gys*hXc*GX:sX:h0*UY>>G>X_Gss}YGCGX:8h>CyY>cGXY5&syC:c8Gcys*&*CY*&yXb+*YyU&>s>}:>hCccCsX&h}*cY8G8c:>s81s}UC>XG}LX*XYUGCc8>:yqs}&8YvG>X?h&*X}c:>Xsv*YccCGGGv8UNu*GYX&8hHyG}h}C&hGsyXhGUXY8GchX_}*CU:X}yyms}UUGY&G}:c+:}XYscCXhscsU}YC>>UX}sh*IcycXXy(*8XUXcc>Cych:UYYXG8:s88s&CyCCyysC*XUs&c&c:cyz*Uc}CG>h:&s**x>G&}XYT8*scGc_>C:(sX&hCs>*:css88Y:&Xy>y&8>}hc&G&y}sUU}YGG*X&f^8yCvCY:>:UU>CU&&&y_}o}*}UX&sy8yCh:UY>&G*X&h8C}UAc}GyycsUc;YG&>XChY}qYUcX>UZsY}UcCUGEyhhUCT}}XhXChhss}XCXGcy*sU*c>*&cxUy}8sY*CU>,8*h>csYG:>>:*GY*&Cc:XYyY88c}>Uc)hhTy8GY}&Y>G*}ssCY>8:Y:Ghh8XG:&Cyyys}:}*cX>8ycsh*U>8cyW*yXY*cX>sG:y/sUU>&G&X:GFs*YcCcX>8y>}yUcYyGCsGhU8GY*:YXhycshU:XsGC:&UyYU&C>M>Y*&sUUIcsGC8UhG*X>scX>s8s}UcYX>GYyss**&>Y&&X}hh*s}}:h>*sshp}sCYGT:}h>*Gc>cX>y**sUU8YXyo:8U:8cY*&}>>*csUC&C8y&s8*C*XYUcXX&*:syYhc}>yXWsGU&&c&c6cy!}U}>&U>UthUsUYYXG}z:h88G}8cMh*yYs8U:CyG8s:ScYh}X&yX*DXh:}ccC:Y:XsY*>CU&U:hid}hUCGXG}sXU}YGYKXYXYhYs:Y8>*GEpssYUeYhG>:G8&8bY&cyXCyC8*}8G*&Ge7bcYl&c>:X8s&s&}&Ch>}hYh8UUY&G8>*2y8:CXCG>XyssG*GCYG}MYy:}8U>X8y>shs}YXYXGXX*hc}&U5>}>Xz}hY}sYE>sXCh:}X}G&X>8.c}XU}cC&:s}*yUsGUc&yyyC}ycCGX>shchcUc}1GUz}Os**}c&sG8y:sXU:Y&G>:hh&8&Y}&UX*s8sh}8CC>h:YhX*>cXc*ycys}ccsGYG>h8h8U8}&&yy!+}s&&CCU>h:hiy*hY*yhXGHh8&cscYGXy}}cU8YG&8X%U*8Y}8c:>yy8}:U>&y&G:yh**X}X&cXCscsYU8C:Gy:8U:8:&hcy>GL}8YUGX}GhhY<C8U&}&hAsW}}yChCC:Y:yh**cCy&Gh>yCsU&UCU>Qyys**:CYGUXh8G*h}hcYXh:yscUsCsyYXGUh*YGsc:>&DU8}U&XUGyh}b:U}YGGs28yG8YUYCUGY:&}YUhC&:8:}hY8>YU>XXhy)UhU}Y>GUh>hC*Y}YcyG>ycs8U>C&&}k3h}8}}>&}>*y:sYUY>>GUs}h>C*}>:UXhyX8C}cCXbCys*c*hCc&::Uz>*Uc:&hXsyYslCCC>GGg&n8}&}ycU>:s}h8c}G8GYXXQcC&UD>G9}8&s }cCy>U:XhhCy}G>E>c8T}cC:C>GCy8s**C>8&Xv*_***UGcjyhyss*ccC8G>XchC}Yc}>>y:8phGU}CC&:sGa}*:UyX&zU6CUY*CC*yU:Gs***Y=Cyym9UsXUUcs,}:hsc8&GUXZ:88ss8}Y>B>}yyhyUG}&XGXi?}8ycYc:XU8>sGcsGGG:NXAU}XYscCXhscsU}YC>>UX}sh*^cyc=hs0C}>UC>&G8sG*C*XY8&>hy=csy}CXG>U:Gs*cYCh&YX%U88X}8c>fyycsh*cC}y&X5hsCY}s>YJssXYs*XCCG&X?UX*8YU:&3U8CUcUsXU&7:GhX*8Gf&}XC*X}cccG:GU8Ch8*:Yr&}s86c8G&FCG:dh2UcCU>&&UXOhs8CGUcG>X*shXCsGs:GhUU>8YYs&*>&*YsXUyX*&yhU**YX&}::>c{*8}U>XcG>:Cs8U*YCy8>:*U8hc*CrXsyYsu*hC>GG:>hh*&}&&}XUs*sG}*C&Gkhh3C}X}}XX<}sGs CYCY>YX:s8Y*})GsXY#msh}>cG:&:*s&*yCC&C:*h8}*UGGBGcsKUcY:C8X&X&h&8hY}>Y>85Us&}8Y*Gy::8X8GYX&sXGyG8Y}}cYG>yUhGUhYZXh>CsXs}cX>}:G:_*Y*YCYc::88*s,YscY>d:hs>UGGy:Xq&Eh}}UyX}yys*scYSYHGnXYh>}X}c&G>iZch&}Uc*:8:cs8*CCh&hXXH>UXU*GcGsscUsYYY>X8X8h8s&}yGgG}h>s8U>}XGC cO*}U}8&U>&l8s8UyC:XyXGhX88&GX*XYs}s8C}Cs>*X&h1}y}>&yX*zX88}ccC:cXd*U8:GUX:A8BCUyUycyG}yG*>*s&C&y:Cyc**}s&*G&y)}**XCy&UhX*}*c&>cy>Y:ys>cICG&ysXQ&*}}}c*>}ycY}UTC}GyhYh>*sYG::XCy%sC}UXcGyyh}}*h&}X4_>Uhs>}YccGy8>hy*GC}GYXGU}8h&CcXyY:XU8U&c8&*:y8.**c>c&X>vh8&U&c}>Uh}hsU*}&:sSG_:UX}8GXGcyGhhUY&}&>:}tG**}&c;>yhmhYY>YU:>hU8&8yc}c}X}:X8sC8YcXy:}hysJYGccXGyh8YC}C*>}X>ssC}}yGh>Y8y}C}G>:G8hChhCCGhX}XG8s8sYsCc>:hyhUYGCsGG>>hY}C}>>*>su*sc}sCsG::X8:8&Y>cs!&888}CUCG:U:hs88cYy>:X*W:88}>cs>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&Yh>=:*YUC&8b8yc8sUsC:yh.:RU}&}8X&.8sCsXC*C*>*XGhLYh}X&yX*BXh:}ccC:Ys_h*U}YGG*X*.W8yCJCY:>:UU>CU&&&y-}4}*}UX&sy8:c*yU}Cycz:G#c*G}h&Yy}y*8}*>csy}X:U*8X&:cUvX8}}&U/ccGcyUUCCY}>Xh>&*h}&Cyc*:G:GsG*sCYXCXcuGYC}h&8>CIhhsUXC>c&(&fC*&}y&C>:b*88c}Y&GU:Y!XC&}}>G>*8G}*CcC:G}X:hGCy}G>SXY1Js^}>GX>s:CshYcY:&}>:vGYy}sC:>cy&h:ccY*X>XC*X8yYCCcX*8*s&}8C8Gyss8y8}cGc*dG8*UcU:GUGUyUL>Uh&sc:h8.U8:*yc&y&:3sc*cCU:ClUy>}hU&Xhy&hys*YGYGGGXshY}CU:>*>G{*hUUWY:GpX}h>}G}c&G>h_Y}GU8>cGss8a&Cs&GXyXUJ:s:}&>Xy>:h*}8yG}Xy-*%cU5U9cnGYy>*X*cCG&z:cy&*UY*>8>hT8sC}hChGX:>*:8cYGcJXcyy8U}*GU&>hhI&Ch&&>yX*sGsG}GCs>YhCh*U}YGG*>UkJ8yC:C>>:y8s>*>CCGY:CDX*}}>&sXhsshcY:YY::hY8>*hcCcCXC:y8*CUC}GCsXz:*BYU&:Gy<&8cUhC>G::*}h8X&scGhs8GUw}UCXGUys}}*s&Y&::YWY*8c*ccGyyC*SUUYGG*sYhh8Y}f:8>XyUhXU&>:G*:}UG8}cG>GE*8sYU*xCGGX:8U^*}YC:X>C:XUXc}>*jY:shX*yYUysXUbh8>}Xchb>:Y*yU8Yc&Us}Ty}Y&8X}yX8OsG*y>XG8:UU&*8c>XUh}yhs>U:C*Sh:YhcC:YY>:y:8X}Y&CC8G::eh}c8}{&>>ZZ&8XUcX>>sy*}cCC&G&EsUyS8G}Xc8D1yh}}UCch&s:X*X*8Y>c>XC8GUC*yG*&Xs**XYsYY>:>:p:sU}&GG>8:sh:UhY}XUX&yj8cchCX>yy*sX8:CcGCaYlU*Y}>&U>UIhs ChYCXXX}*XY}cGcpyYyY8Y*:c8:*Xc9y8CYsc:hcy*sUUhC!:c::h}8:YG:y>#*U8Y}HCh>>s>ssUGYGGYh&8Ys:c8C>a8s>UhU}&X&X:Xd**cc&cy>Uy:YhUGC8&G:CU>*sY*:c?Uscs0&UYFGG:Xh8CbYh:}XChhss}X>X>8y>h>UCGGXC>y8*sX&*>XysyY*:*:C:&U:&8G8_}CCt>X*hsYUc>h:>9I8:**Gcc*>yZhsY&*CXG8XyUN8X&hXc{>8y}hchXC>8:Y}U*GYXysXG8s}>&:Cc>*y}h>ccYyGhh:(Y*c}:&YGC=88sCh&nGY:Dh}*>&yc8>:yFs}&8Yy:*XXU*YX&s&Y>yyY8*&CC*:c:{sc*cCUX}XGwh8&csc&GcyUsC*X&>GhXYM5}CU:>*>G{*hUU{Y:GeX}h>}G}c&G>hjY}GU8>cGss84&Cs&GXyXU.:s:}&>Xy>:h*}8yG}Xyx*IcUrUAcEGYy>*XUUY*&#:8rC}Y}>cs>Gs8sC*gYCGUscb*}&Yh&&GG-}s*}}Y>>shh4yUh}Y&Xhhyc}yUC>c&lsCUhCUYGG*X*HQY8&sCY:>:UU>CU&&&yR}T}*}UX&sy8yCh:UY>&G*X&h8C}}Jc}>y*ss>UsCGy::CJm8CYU:c>>yC88}*CCn8:>*}*&}Ac>hXyCU:c&>Xy*8Yss*}>*&&X>Uhs>ch>hyG8>hYUsC*&&sYJX8yG*Xhy*s*h>cyY&GU:YSXC&}G&XXsIGh>}Yc}:U:8sU*&C8&8Xy):UyU}GGG*sGU*YcY:XUXUhUs>Yh>s>Y:yhYU*>C&:X^UUs=cU>yhh:>sYUcYyy>:U8X**YXC:XcyY8cUXcUyc:hUY8kGh&}n)8c}X}8c>G>yCUGC&YX&U>X(&Y:Uy&h>}yygdUGC&XcXYhc8:YYcYX8#sU8*&&y&Chy*C}XYs>c>c%chF}UG}GG:hh&CXYYcXX}*c88UGC8Ga8*h&*>>hc>1s8h}X&>CY>sy*h&cYYCG&XyhCscY*&8ys:i8sUYC &Z:>hG*>Yh&&>K0}8UC}YX:sXGUsYGcM&Uy>y>8>U8cC:c::h}8:YG:y>Lhs8Y}ACh>>yG*&*CC&&y:CLC**Y8>*GGhkhcCJGcX::88&8&Y&chX}sYs>UsCGy::Cb:*YG&&*>&f8Y}UJC}Gy8sh>**}>&chXy=s>}YcCG>8YhSY&Y:&*>gUhs>cs>:%hsc}GU}Y&yCX:_ZCU&8>UyU:X}+*GC}GCX:UG*hY8XGN*s&UC*3X8&::chG*hG:&Y>XycY&}UGGy}h:UcY:&&ysXX-hYy}UcY_>:Y*:CC>C&8X:K48}G8c*X}yG8**UC?Gy#:Z>*:Y8&>>>SC8YCCYy:*XXU*YX&s&Yy:y:8:UUc&:Gy8hs*:Ch&}-Ue&sK}c>h>UhXs*UX}:GcXYhc8XYU>*>sa*sCUm>*&X:yh8YX&}&c?>yhU}*y>}:yh*hc}5}K&#>Y,>UX}UC*Guy8hCYYY>&sXG888CUiCC>U8ch&U>ChG&>Gh}*Uc*csX*yc8sUsC:GXJ:BU}&}8X&18sCsXC*C*>*XGhIYhY}c>XU*C8sU&CsGy88hc*GGpcGGQsB}&&GC}>hy8hcc}YYGcX:hYsCY8&sX8:y8hU}Cy&y:Gh&*ccCc}XCyX8}U>cs>hhshY8y}Y&*hCyc8GUDcc&&yUs*UUYhG8XChh8h}Xc>>Gh&hCU&YyGCX:h**8c*CG:0:cUMCc&:G8B&i&*&}h&}yYy>ssUG>:GCX:hYC&Y*c&X8*}sIU}Cy<s:>hs*GG:&C>!yC8U&cCy>h8}hhY}&}Xyhh*BsG}}cCG:8GshU8>C&8m&*sY8G8C:>cyGshc:Yy>h:}hysZYG&&yc8Cs}}CCX>}:}ssUh&s&Y>yyY8*&CC:G%8UUsYG}*X*>>*ys&}UcYGX8&hYU8YYGh:*y_C8}ccG-A:G*BC&GGyGX}hh*8}c:}>>y:Y8U*Cs&>syp!UsYY&o>hn>8GU8C:G-:}}88y&*cXh*8X}s}YCyGYy*}C**&c&i:coc*Uc}cG>hy&UsU&YcGU:C.X}>YhcY>BsCs*}}CG>*XUhH*yc:&*X:E88>U>cC>YhCEyY*}X:*uX8s8YC:C:>::Us&YGYYGcX:hYsCY8&syh:G8hU}Cy&y:Gh&}G}s>YG=8YU3CUC&:h:hsh8CYX>:>&%>8h}&YG>}yU***sC*&c:sjs8:}Xc:>8y>ssUCCYXC>y8*sX&*>XysyY*:*:C:&U:&8G8YYcc:XY:C88}sGh&yyhh}*y}y&GX&iGs2}cCy>Uy**U8>&hc&hh8&Uy}*GGGGyGhsUY&C&*:}SG**UUce>yyWsUU:Y:G&:c8C8}YCcXX}y>8s}hGs&cd:(YY:&Y>>XhsCsC}CYy>*hUhG8yGXc&X}y}s*U}CcR}: h}*y&Yc>XsyG8U}hX>GY:Ch*U8&>GhXcvh8:Gsc8XUy&88**CyG:qXh8*XYs&G>GlY8}CYY::8X>U8Y>&h&}yXyX8XU*cc:&:}sC*XC}cY:shhUeU&cW>Uy:h:U&CcX&Xh8}sy&}>yy*yc*f*<C0&Y:>8X8cYGc!Xc:&8U}*G8Ghy8hCUhYh&XX>?X8s}Gch>Yy}*Y8:&8c>h88>}h}}GXGXyXh*Uc&&&}:C1X*}UY&sXhh1h:U%CUG:X:h&*cY&cyXCy:8*}8G*&Gb!!cY &c>:X8s&s&}&Ch>}hYh8UUY&G8>*Dy8:}yc*>X:XscUC&Y&U:Y2>*U}G&h>WshhCYXY}:Xh}8G8KcYcYXY::88C*C&&:s>/c*U}Uc8>UyCYUUyCUG:h}hG*hY&:XXYyX8}&cc8GG:8hvc*Y&&>shy>}8ch>GyU8Gh}UhC8&cs})c8U}T&h>U8ThGcsY::hXXhy**YXC:Xc=CUYUXcYG>yUhUUhY0Xh>CsXs}cX>}:G:I*Y*YCYc::88*s^YscY>m:hs>UG&&&v:&#y*C}C&*X8s*hGY-Yc:/hc8:*8c&c&X&yh8}CYC8>U:&s88*Yy&:yXyG8X}scGGGyYs}UYY8GUX&h88c}yc:>Xh:hUY&Y8:&h88C8Xc*c*X*:Gs7ChYXGy:*hXs:Yc&CyYyU8YU>cUGUyhhBUhY}&yXUOG8&CGCs:YX9UYYe&U&&Ohth*hUCcX:::**&UhC&cG:}8Y8sc8chX8yC8hUhCXG>6Xjc*G}hXc^slUU*UhG*&bysDC*:cXc&XX=s8G}hcY>}hYv:Y8}>:8E>8h8}CXCX>X:*scY&}NX}XXh}sYYsC+Xs:Cs:csYGGXX8*GY*YYX&Gys*hXc*GX:s:Y8:8:Y:cUX&sG8hUUX8&2:>n>8&}>cyh>J}s>}UGX>s:&hs*y>8&cXG*_}XcC>hGC8Gh}UhC8&cs}b88y}8cX>A:>}yUUCYy>hc*ssGcGc8h}yhs>U:C*,h:*W#*GY>cEhGyCU:}sCCG*8U fY}Gs:UD>*y8&U:X>>sy*}c**&c:UsUy68G}Xc8#Hy}sCcXG&XXZX5UCC}8c:>Wy}Y8U*c}GGy*RU*_Yy>:X*#:88}>C>>CyY*C8y&*cXh*8X}s}YG:G:y:hUU&&G&zXCy_8XGhcY>c8:hc8:&::&sc6*8yYhcYh*yXs8*y>4Gchh*&Y*&yX*ph*C88UYXUGG:X}s8X}sXs7G*XsC}8cUGG8Ch:*o>U&}:CwX*}UY&sXh:cs*U}Y>ycXU8&88&&X8yCyXsU*XC&y:X&8y*}YycyXGs>8hUYC9:C:gMy*GY:&8Fs-YsX}}G:G&y>shU&}GG}:U8*8sY*ccXsyss:UXC:G8:>hs*CYY>CGys*hXc*GX:s:Y8:8:Y:cUX&sG88UsC:>h:}*U*&}W&cphz}s:U}c8jY:Cs&*yCCcc:*h8}sU-&s>YyehBU>CGG>:hh&8FY}&Uy}:XUs*G>s:GN7hU}>}>&>>8;CUcU:C*GXseh&8eYc:>X}y:s}}8XYGX:yUYYy}*X*>>*ys&}UcYGX8&hYU8YYGh:*yRC8}ccG1t:Gf1YuGGyGX}hh*8}c:}>8sYs:}YYC>8:hs88GYy>:>>#:s}}&>:G}s>hUC}}y:U7:*s8CYhch>Xs4Uy**&c&shc*s}Y}>>8>8)8h&Uy&SGCXYh8*}}G>&>yyUs:C}Cs>*:css88Y:&XX:d88>U>cC>Yh}h*U}YGG*X&b)8yCoCY:>:UU>CU&&&y^}z}*}UX&sy8:Ch:*YCh&XsCB88*UHcyyCyXsU*XC&y:Xysh*}YyC1XGu&8GUQccGcyUs*Y8YhG8XChh8Y}Xc>:X:**c*sGc:saYj>}8}8&8G&yy*^UUYGG*sYhh8Y}K:8>Xy8s>cyC>&G:Yh&8yc:&8>cdsU&U:C*&r8hhGYsYcGs>8g:}:}*cXGXycsh*U>8&*:}AG*schCy>8:y*yU*Y&G8DGy98}Uycc>U8{hG*>YCGY5DhU8X}U&sh}yysUUhXsG>h8h&U8}*&yuy.U8:U:c&>s:}}**UCY&>:88ss%}*Ck:IyUhGU*&>GhXYV+C8}Xc8>>8ysc*yCCyG:UbG**GY&h>cyhs:&sCCG&sy*&YYcbcYh&yUsM}sCC.U:GhXcs}XX*R&8:YXUCc8>U:G}C*:YgyUW(8G}}c*C>ay:&sUUYYXy&XnhsCY}sCYyYsyU:&hY>GY:cvyC>YUcG>Y*CsCCc>*y*sY*&Y>Gq&G>y*X88}UX&GUX&*&Cs&>y*>y,&8>}sXyG2VssYU-YhG>:G8&8CY&cyXCyC8*}8>*&OyshY*QY}&>XGs>8*U8Cy>s:Y*}*GYh&&_sy_s>}YcCG>8YsUYCY*GCXXh}8}Ys&hys:+h>UYCC&>sYbY}&}Cc*>yyis*cyY&XIXhy:}y}&>G>y8C*&Uh&mGCXXhsUCY*:U>h::}:*:cc>C:XhY*fY:c&o*1&s&U/c&GCyshG*GGL&*h&b5YG}Yc8>:yys8c:CCXyXYhy**YG>>>*ydhb*:Y3G8s.h&U8&>&yXJ(U8:c}c&>ch&hy*UY::U:h51sM}CCU>s:>sUU8}yXcXyyy8U}yCX>Y:EhgcUY::y:U*X8U&:c&>}uh8sU}XhGGhsM&UsYY&:XU!:}Y}&cGG7ycUhUUC*X8>>888CU:cY:yX>UyY>YJ&}XsU8scc*>yO8yc8sUCC:G}X&UC8*cccs4c8sUYUUChG>:XhhC>Y}>X>XlXs*}cG&GG:X}s*>CU&s:hs(UycU>YSc:*hyUhYYy*>yhYsC&8>:Xhh.hh*XG:G*:X0X*cUC>c>:y}h:UG>y&&ys 8Y:&c&>yG:>srccCy>C:Cs*88&*&c>ytCUI}Yc:eUy*UGC*CYX}>:8}8G}hc&ys::s4UUC:cy:&hc}C}cXGXh8Ushc8Y>y*hhhc8CY*&Y>>sGsmU}Cy:Y:>h*8>Yc:X>1y>8Y}CC>+YyU*C**CC&X:}0}*sYh>sGg:>sYUCY>yYXY8&8C}*cy>%y*}y*&&K&h>:8y8&cGcy Ch&shYMCC&X:ssC**GUchG:8:h:}ccCGX:Yhf*:}&X*X&y&sN}&CC>s:GhGCzY*:&X)*G8Y}8c:>yy8}:UC&y&Y:yh**Gc>c*>0:fh:*7C8y0:&s8Y>Yy&%XUZ:}}}&cc:&:yhU*:GUGhXiyA8CUUcsG>yUs88y&c&y>yRU8yUXcYG!:j}U*:GyGUhXKUY:}&c}Xhmss}&hCG:sX&ss*YY:&UX:8Y8&}GCv>cshsUU*&8c>b83Cs:}YGy&>sy*>*!Y}&ss8yc}*cyX8>cxssCU:C}&&sCf*}c}sXc#ssYsUUhC>GX:hU>*}cXcXXXy*8cC&CGGX8sh>UUYsGhy.sy}UcYXcG*:ysh*Y>*cy:YyCY8c:&h:j:hhXC:C*GXXXhcsCccc:>}::sGcyY&>sX8*:YcY>>GG>yQ}cUycCGCy*T8Y*YccyXCst8Y}:XU>*sGU*UY&}c:n},G8h}&>sG:yLsUU:}yG&:c8C8c&G&hHUyh}8*>>*:h:}%>*UGC&s>&yssy&8C}Gs:Xh:*sGXcCy_y>8:}8c>&XyCsYY}Y>G}XGh*8*}Kcy:E:Y*>*UG>:U+&<y}}}}&}GXVsU8*ychG}:yy-*GY&>c>Yrcs:}YCY>8yss8*CCh&YXXv>UXU*GcGsscUsYYY>X8X8h8s&}yG)G>y:s8U>}XGC:Y8}8*Y}cGX*y*s<Uy>hGU::h**&cGcsyY:b}YC.GUG&hhhhUh}C&Xy:y*U&}hc&&Gy}h*U}}>Gslhyy*hUYcXTh:cUy*CGccQhC*hYU}G&*>*y=}8csYYX>XU*>YUc&cyy}y}8}*Xcs:8Xysh*}YyCbXGw&UcUYccG:yYhYU8CsXyXChh8Y}XG:GUh&h8C&G8XCXX8*8*Y*CG><shhXUyC*GX>:hc*CcYcXXYy>8UUUchG,hh<C}X}}XXx}sGsmCYCY>YX:s8Y*}-GsXYM=sh}>cG:&:Hs&*yCC&C:*h8}*}cCy>C8GsU*XYUGss}%>8:G8C:y8s8U&C>>X&C:8hU8GGCc:>x*UhBCUG::csZ4G*}YCc:hGyC8*UCcs>U:h}**&Y>yh>>88}cc&X>GYyss**&>Y&C:&By*CUc&*X88Y}UCsC&&c:UhC8Xc>&h>Yy1UCU}CsGX::hsCX}XXy>}s:s&}>ch>&XGs}UU&*&&:*Mc*s}sc:>Xh:hUY&Y8:&h88C8Xc*c*X*:Gs5ChY>XX:*hXs:Yc>&GAs}s*}}CG>*:*hQ*ycMc>X:yc}>cUcC:YXy*Y*8CUcw:hsHsC};cU>:y*s&Uc&&&hW}yyY}cy>*>ch;hLUdYYG>tX0cY:}?&cG&LU}UUGc*G*:KU8}v}Y>>>U8>}UC&Cy:}:}s}8XCsX8>yhh8}}yYZ>Gy&*c8&}YXC>y8*sX&*>XysyY*:*:C:&U:&8G8YYcc:XY:C88}sc8GCyhhh*XY>>GXs(G8h}YGC&yh*%XC*&XXsXYs:s:}:CU>&hGhYUcY:GY>Ch8*schcYXhy}sy*yCGG&rG2s}YU-XYyusUs&ChCh>hXChX}:}&&>Xh/&hG}}cU>}:Gs***Yg&yy:y>8:}8c>>syCsYYC}X&8>>x}8s&XCCGc:Us*YXCs&&Xs1yC8}}cs>Xy:sscXYC:yXG8:8&Y>&hX&:G8}}UG*G&y*hcUsYs&:XXs:sUC&C8y&s8*C*X&*&*:*yG8wchCY:Xy*sX8:CcX&XU8}8*Y}cGX*y*skUy&a&>::l*Y>&U&CyYy*UYU8cU&Gyh8o8XY^&UX:z*8&}cG&Ghh}iyC}&yX*Xcs.sm}^CY>>hXhcC:YxGc>&hUYU}G&*>*y.}8Y#YYX>XU*>YUc&cyy}y}8}*Xcs:8Xysh*}YyCQXGa&Uc*&YY:CXy**8XG*XXxsZYU:U:c:GUy&*G*YCc&::YyC*8Ys&8>CHhshUXC>XG:shG*hYY>CGys*hXc*GX:s:Y8:8:Y:cUX&sGsY}cC:>YXCs8Us&h&Y:h3}8yUycG>&hGhsYY}(:Yql8U8&chchXh:CsXY:Y&G>:hh&sGY}&UX}yG8*U*CbGy):i>*:Y8&>XsLC8YCCCXG8:>Uy*cYhccX}*&s2}sXYGsXY*YYy&Gyh>>?Y8cUyX>>U:GhYcCY*Xchs**YYc>>cp-yGhycXC8GUs&)U}&&sX}hU:isGUXC8y,:hs8*CChcsXXg>UG*>Yc:&yshh*XYN&Ut*5csy}CG.G>y:s8U>}XGC:YhC8*Y}cGX*y*soUyC:XXXGhX*sYG&hXYv}UYUyY:G&:XhsYhY}c>XUsX8sU&CsGy88h*U}YGG*>UdF8yC:Yy&>hXss*CChy*X:,*8X&_c&GWyc}>U}Y:&}:8UY8X}y:*yysyUUC8YGy:Xch**}}>:c>y)hY}chGy:UX:}h8>YY&c>y*>8s}*XcG*hc*cCs&Gy8>:lc8G}hX:GGyYhGUUCC&*sYHX8yG*Cyy*sXUXcyY&GU:YLXC&}XccX*/Usc&*C::U:>sU8}Chcy:hw}8X&hC&>>yhU&C8C}:cXyy:8&}Xcsyhy}h>UU&X&GXYhs*8}Y:s>GsUsc*yYGy>XY8XYc&>X8h}MhsU&8CcGGsf*X}r}c:>>Y1s8*U&XYGX:y}*8y&*X*h88GY:Ucc*>}:>}cUsYC&*sU0:}}&h>X.*scUGcXCC&>s&b1*sGYcsyY8*Y8*:CcGG:hU:8yCh&}Xy:o8G}&GcGYych:UYYYG8:sh88CYhcY>Xy>*X**&c&shc*s}Y}>>8>8f8h&Uy&EGCXYh8*}}G>&>yyUs:C}Cs>*:css88Y:&Xy>y&8>}hc&G&y}sUY}}XXs>G*s}GCNcU:>:>s>*8CCXc:hyO8>}yc*y8yCh:UY&yG*X><**hGUc}XCyX8}*Ycs>he;D:*?YU&:>:w&8c}&Cy>C::s*U8&*cGygyc}NccG:>8h&h&U&YhG}aYZ>8s}GX:>C:ThCUU>c&y:hU}Y8cCCyhs:XsCU&YOyX:8hUC&}UC&y&88YU*jCGGX:8UI*c&h&C:hys8XUGcX>hycUX*UGG&*hUx&Y*cXXh>YyxhjU>Gy:::hQc8h}::s>8tUs&}8Y*Gy::8X8GYX&sXGyG8Y}}cYG>yUhGUhYnXh>CsXs}cX>}:G:_*Y*YCYc::88*8cUycCqGyUhX*UCsy}XYhc8:YYCCX8-sUh*ychG}:y^y*GY&&G>jNcsy}Uc*:UX>*h8&GhX&yyo*UGUGcGGsyY*C*XY8&>hyZcsy}CXG>U:Gs*cYYh&Y>< &8}GhC>GX:csCChC}&:X}h8CY}&c}Xh4ss}&hC&:*:C=:8&GGc}y>8C}GcsXUG{:*}s*CY&:ym>sysC&GC}>hy8hcc}Y>&:s8y:}8c8Xsy&8XhCU8CU&GsChh8Y}8:*>XsUU.C>>8:Ch&U>*Y}G:c>yghY}UhG}y88s=X*CY&cShXy:8)}Uc:&yy&scYCY}GCXXh}8}Ys&hXsyYsvU}C>GGI>Q8}C}hXCzhs}sGCsCs>sXch:}yYYc}XsAUs&CcC:G*:X*U*hC8&C:hys8X}>GGGcyGhVUcYcGU:*8Us>chC&Rhs&*yU*&G&G:GNs*YcCcmGyyGs:U8GsGYXXh}}:Y8cG>8y1Y*UUcYG>yUA}UhY<>y>X=y8*}XCX>cyCsc*:CY&X:8hs}8U&GyGCsyUCYXCsXcXchcskYU>}>Gyhs&cXCY&yXYh*CC}:cjhU8sUY*:Xh&>:Yhc8yG>&sX**cs**cGcys8*+y*&Y>&shy+CUl}YctGhy>h&U>YdGCh>3*Y&}8X*>c88U>C{C}GyXyhGY:&XcS>C:^sX&hCs>*:css88Y:&Xy>y&8>}hc&G&y}sUU}YGG*X&zF8yCSCY:>:UU>CU&&&yS}=}*}UX&sy8yCh:UY>&G*X>J**hGUc}XCyX8}*Ycs>h5TA:*FYU&:>:+&8c}&Cy>C::s*U8&*cGy-yc}jccG:>8h&h&U&YhG}^Yp>8s}GX:>C::sYc&C*&&:8U}87}}cyhsy>s**>CcyX:8hUC&}U>&%88sYU* CGGX:8U%*c}ycGh>yCUXcC>hyGhyUhc*Yy&8shAY8c&:>cy}XX*X*U>C&8X:j48}G8c*X}yG8**UCtGyJ:*X8GYX&sXGyG8Y}}GYGyX:h&*XYsXhX}y>8UCXCGGYyss8*Y>s&YF8A&*8}8cy:w::h&UUC}&&sU3h}}}*&}>}ZssC*:Y&yG:U8>8:&>XUgcyy8CU:c*G>X%U:8&cycCR>8Gs&}>ch>Chch:**YXXUXhh88CYhCs>Xy>*G**&GG8Xs-:*h}}>U>&:ZscChC}&:X}h8CY}&c}Xh0ss}&hC}:s:css*sY:>y>Xyc8*}UCc3*X2*U*8CU&U:h)YsXUcX&>*hGhXCGG*:CX:hY8XY8cGGy8XhcY:YY:Gh&)c*G})&YyCyXs8U>G*&.yshY*q}h&>XGs&s8C&CyGU::}h*GYh&&hXjYsyUYc*lC::hEcU}vXYR:81Y0UGc}>C::}G*:Y&GU:}6&CUUIXY>>s}s&*3Y>yXX&8:Y&&XX*hY6ss}&*C&G>8h :Yh&hXGh>yY8s}*C&RY:Xhyc*YhX*g*8XYyU&cU>Y:X}&*bCs:&hU8c8sG8C:>cyGshc:CY&XXcU&8&cGX*4s8cUXCXXsGX:hUy*UYY:>1Cs:sY&CC8G::uh}c8}:X*XGh*sU}n>h>UhXhGUXCsGGXGhY*}cYc8XU:G}8C>CyX::*8:8&Y>csXCsYsX}YC>>U:Gsh*2&h&c>C)*8YU>GGGd:}hyYYY8GUX&h8s*}yc::X:GsXUsCG&G:Yh}*Y}>&U>G%hsgChYCXXX}*XY}cGc0yYyY8Y*:c8:*:>SG*YY&cyy:^8sc}sG&Gy:Yuy*>G4cG.hqC*hUscX::ys*&*CC&&y:C,C**Y8>*GBwshCC!GcG><Ghh}G}Y&cGy7UU*U&c*GcyshC*:YX>:X8yc8s&UCyGYXyh>Cu}GXhXChhss}XCG>X:8scCXYU:GX**Us>&*>XwhyYsq*2C>:yh:K8}C}hXC^hs}sGCsCs>sXch:}yY*c&X8*}s?UCYvGX8hhY*cG:X>G:s:sC&cC*GyyhhYc*}yXUX>hUs}Yh>s>}h:h>U:C8G>X>hC*YcCc*X}:>}*CXC{Xy:U8y8GYXc8XcsCs:}CCX>}:>ssUh&sccy:yY}:cYG>>hhChCUC}yG*rUN&8sU&cYSG:>s:U8C>cX:ChY}}}*&}>G;*s*U(CyXAXY8>8U&>XUy&yyU}U}c}&Xys*8*C}:&Yh&m*s&}8X}G#:}hycsY>&*>>jcYX}8cU.&s}*y8c&c&hs*yy8&}>csQy:>sC*>C}GcXUUC8:}e:Uyv8sh*C*Y>yyX&hU*Y}X:&>Xyc8*}UCc=*:y*Y*8CU&&:8y*8y}:GX>8yXssUGYGGY:}8Ys:c8C>p8s>UhU}&X&X:X+**cc&c}XCyX8}*Ycs>h2Jh}*#YU&:>:q&8cC&Ch:}XyU}Yy&*&cyjya8OUYc>:X:csG*WCcc&:Uh*}8}c&8>C.hshUXC>XXX*8c8s&cXsyYy>U8U8c8&&:y8%8>Y:&8X>:X8C}YG}G*y}hGU*Y*&3XysjsYC>CUy>sU*&*y&}&}:}yX*sc8CyXhy}sy8 CGG&kcLY*c}:&Y>Y388sC8Y&XyXC*yYCcX&sycyc8c*#cU:}:ss**cCsc8X:6XU>U&c>>hy&h&U}CUX}>X8ssG&s>G:WyU*>*>C>&8:C8c8ycUc>XU:}8h*ychGY:X8>8&Y>&sXC8>s*c&C8y*:GU8Y>&5&}Xyyy8Gc:>X>8:sh:UhY}XUX&yK8cchCyGGy}sY*G>}&h5cyy}U}>&UG}7hhy}hYYGXR>I&*>}s&C^>y*}&U8>*&Gs8*>Y=Y}&y>y%G}:cXCs:YXEUYY<&U&&%hjh*hUCcX:::&s>UhC&cG:}hU}*}s&*>c_sssU:CXX:XU8&88&&X8yCyXU*U*c*&G:o*h8XYy&*XX::8c}CGYGhyYh>UUYUGhXI8hsCCXC}yXs}*G*t&Y&Y:Yy:*8c*C(XsyYsp*hC>GGF&/C*&}y&C>Ce*88}*Cc>s:Ch:*Xc:cUy&y8}&c8GCGXh*h*U*}G&r1hyX8y}*cX&:ycsCYYYXGYX>hU8UYhc1yh:C*X*}GX:}HGw#}Y}Y&YG:08U**vcsGY:vph*>YG>&>Cj&sy}CCC>*y8**8Gcbccro8cU:}8G&G&y&hhU}&YcX,8E&*8U*cyGXyyhUUGGy&YhXm}YYU:X}yy88sc}sCsG:sh*D88}ccs>>yCY8*:Yy&G:&*8*C}IcCXU*cs>UCc8>*:C}8*:&}&s:*Ec*sU8c:>Xh>ssU>ChG&X&h}*Uc}CXys:G}sCG&MGU;>1>*>}8&CycyU8YU>cU&}yhh0}yYU&yX*?XsX}ccC:cXb*U8:GUX:?8?CUyUycyG}yG*>*CC&&y:Cyc**Y8>s>CassYUiYVG>:G8>88cCchRC8hU}UGGsGsysSc*:cycGXX{s8G*>cY>}hUh8UUY&G8X8vy8:CyC}:G:*UGC*&c&:3U6U*UU>&hys::s-UUC:cy:&hc}C}}&C>Xx}s}}sch:sXc8:8Y&:XYy>)hUCUCcC&yy**U*hC8&C:hys8X}>GGGcyGh)UcYcGU:*8Us>chC&bhs&*yU*&G&G:G5s*YcCc:y*yG8**UCB&::Th}*>cGccXG-h8YcGC8yc:sU8*&GsXGNy0U8:U:c&yXs>hy*UY:yhXGKh8&&XcYGXy}}cU8YcGssUMy8U}::h>Gy8hGUC>>Gs:*Uc8*cG>cb*8sY8*:CcGG:hU:**Y}:G>}sX}s&YCsGX:yhUcsYC&&hyy&}hccXGG}yhs8*c>}&>X:U8s:c8>S5y:&sUUYYXy&XahsCY&*CYyY:yYs*XCCG&XmUX8t}>&YXCy>YYUsG&G}sGhXU}}YGshs0C*h}hcXy1hXh*YcYs:chs8Y8>c8c8X8:&syY(Y}X>:8h>sXYCc}XC::8*C8Ch>8XchyC8}G:h>&8Gssc&>8yY:Xs}*}Cs:Uh*ycU:UY>:yYh>shYCYCGC>yh*}U}h&8>C_hhsUXC>GX:shG8GYY&}yUy88UU&c8Gc:yh:}y}}>G>*8G}*CcC::U:UsU8>ChXs>:ep8U}:Yy>&ycs&*yCC&C:*h8}s}c&s>Cy:*y*}&G&*hG**}c}:>U>U3Uh>}hGs&::rhU*:Uy&&XcsCss}CCX>}:}ssUh&sccy:yY}:cYG>>hhChCUC}yG*KU%h*8}C&hGsyXs>YGYcGGX!hc8cYU&*XUy&88UcCyG:ly(}}G}*XG{*scs:CUCU>UX>shYs}:&xXUO:hy}&cc:C:}sC*XC}&}:shh*s}Yco>}y>sGY>Ch&cXhZ:Cs}8&U>&D8h*UyC:GyXGhX*sYGcGXYf}8UC*CG>*:&h-YhY}c>XU*C8sU&CsGy88h}*sYX&:Xs*X8YC:cU>:Xys&YGYc&UXfhh8U&RC>yh:y8hU}CXX::s=C8*GUcyy}yX}}Cy>8GXsXhC8>G&&hN&yhU*YGC8>&Xy8XUYGYcGhhy:8_}Uc>yyyshCUh&c&:X*tXYD}&csG&yY}GUhC8yCX88C}Cc/:8G:ycsGUh>:G*:}UG8}UG>G3Y*}shU>C:G*8hh&8b}>:X>&s:}}cY>>yhsh}U*jY*ysXCW&YyccGyGC8Gh}UhC8&cs}uc8U}2&h>U84h}ChCC>hXshX}:}>cCX83*sC&8C::*:ss*8UGsX&X:sysXUcc*>U:c}**Y&U&8:Uy}*h&scC:S:>s:8yC&XcXc8c8&}>Xc>>shU:c*YCG8:UVGCC}:cFzXyCUYCUC8>UX}U8Y>Yy:s>}{h88UcX}GshYh:UYYYG89*yN*sU8>9yYy>*G*G&G&mX}ryCs}>c*G>ycs*U}>8&:AG8G8cYGC>ac8s8UcCY>GY:c=yC>}C>XX*vXsX}cG&G}yCncC}&XGsMh9h}h}}C>>U8CsU**YjG8XC8Y8>}scGy8yhhXUCCc&XsCB8}G}Y&c>:IYhC}8cs:hXysh*}YycyXG;&UGUsGY&2sY*mYUY&XhXhhhsC}XG:G&y>shU&}GG}:U8*8&Y*ccXsyss:UX&:&U4&n8Y&&8>C>Xs*s*}*YGGahhIX*yY*&XG:vc8CCYCU>Y:>sU*UCh&E:h%}8y}UcG>&hGhsYY}S:Y=g8U8&chchXh:CsXY:Y&G>:hh&sGY}&Uy*ys8*UccsGs::hX*:Y8&>XsEC8YCCYy:*XXU*YX&s&Yy:y:8:UUc&:G:Ysc*:CYcC:8hs}hUy&h>}yyhyUGC&GGXHhc8yYU&*yU:>Uh*&>h:& yh*}G}G&G>s1YUC*:G*GGy*.U* }:&t>}+>}_UC>:GYsClyCY&K:*X&h888}yXsOh:}*G**GG:*kc,:}U}U&UG>AhUs*c&:GU:: :*&cG&8>sy:8hU}GUG&XKhcYhY}c:>}a8YYU&C}>hysh}ch}>X*>{hs8Y}aCh>>yG*&*CC&&y:COC**Y8>*GGh5hcCFGcX::88&8&Y&chX}sYs8}UC&>8X*hy*:cX&8XXps8GUGcY>}hYL:Y8}>:8.>8h8}CXCX>X:*scY&Y}GCXXh}sYYs&h:K::sFUUC:&::&hc*&}y&C>:g*88C*YGXAXc*SYcc:&8y&y&8&Uhc}:Y:8sU*&C8c*XyO:UXUGcX>syGhGUYC}GYX>hU8GYhc^yh:C*X*}GX:}2Gv+}Y}Y&YG:n8U**BcsGY:rgh*>YG>&>CR&sy}CCC>*y8s**cCs&CX:_XU:UUG&G8s&U8YCYXX*X*h*sG}o>hGYhXs*UX}:GcXYhcsyYUXc>h8Yh!chYC:=hc*X*8Y>c>XC8G}&*yG*&Xs**XYsYY>:>:I:sU}&GGGshYh:UYYYG8q*vcsy}CXG>U:XhUUs>}&cXU=b*h}UX{GG8ssGCWC>::X:*>8y&&&sycyX8YU>cUGUyhhM}y}X&yX*IXh:}ccC:cX!*U8:GUX:v8 CUyUycyG}yG*>*CC&&y:Cyc**Y8>sG>_ssYUEY G>:G8>88cCchnC8hU}UGGsGsysHc*:cycGXXEs8G*>cY>}hUhGUUY&G8X86y8:CyC}:G:*UGC*&c&:SU1U*UU>&hys:C*:UUC:cy:&8G*8cYcUXYy>8UUUchG?hhpX*y}UXXJ}=cUC}sGCG*y}K>Us&h&G:h_}8y}UcG>&hGhsYY}e:YF=8U8&chchXh:CsXY:Y*X&:hh&sGY}cy%UyUUs*c>U&::()}*>&vccXGyh}ccscUyCsYh:YhYs:h>Y8X}C&CCy:csU*c*XY8cyh1%&}hUc>r>&8&sU*c>Y&:_C{>YC&h>}>s_*scUe&yGC:yhh*Gc>&h>Yy/UC*yG*&Xs**XYsYY>:>:l:sU}&GGGhhYh:UY}CG8X>8hssU:clG}y>U *CG:&YhCyyYYc%X*>:8U}*8y&BGsu>*C}>}rc}>s*8sXC*Y>y8:css*CY:&}>&*CsyCcCXycss*Y*8CU&&:hs_8c}{cs>>hXss*CChy*>l8Us:&U>:y8yC*y*yCy&}:G8>88cCcyXCyC8*CUC&&w:cU>*}}>&UhC9ss&UsCy(8:chGC!&Y>-y%yCYGU}ch>8:c}}*>Y:y8>:88}&&yC&>UyYhXc&Y0GssY(ssYcY>>hs:XsCU&Y2yXXj9>*YYCc>hYy&UCUycC&cy**U*8}y&&XGyyY&*ZGG&>Xc*&*:Y*c,shKG}scXXhwcyC}&UUYcyYX&a}*hYsc}hhyGUsUGcsGY::8y*8}ccUh}ysUYc8>}y::GUy*&}::>>yyG8}}YCGW}:t*Y*:CYc::88*8sU:cc>&::}c*:&&Gh:&*8*}cYcU>hy>sXUh>>&CpXh**X&U&cy&yGsX&sCY:8hs)JCXYGcXX}*csUCcGcGc8*zy*&Y>&shyyU*sUcc::X:ysX**CcX&XyhCYhY*>8G}s8sC*:CYXy:*E&*8cGcu>}yyUYU>C*&>:cUX8R}>&YXCy>YYUsG&G}yChXU}}YGs:hs;s&}JcU>:::s&Uc&&&h4}yyY}cy>*>ch_hZU YYG>MX.c*G}O&cG&VU8*C8Ch>8:Csh*hYX&>XXMs8G}hcY>}hYL:Y8}>:8p>8h8}CXCX>X:*scY&Y}:GXXh}sYYsXs>C#hshUXGzXXX*8c8s&cXsyYy>U8U8c8&&:y8_8>Gh&8X>:X8CcCC:>Y:Ys8C}&8c&yyyC}ycCGX>shchcUc}4GUB}_sYY}c&sG8y:U:U*CX&X:c*>}cUB>UG:8UU:C8CCXyXyhy8}YG>>>ssCsy}CYc>*:ss*8&YF>y>XjysU}G>yGYsXh}CY}::}my*88cYscs>:8hUA*U&&&8h&*8}C}X>*>*d*hGU?Gh&X:yh**XU:&cXC cs:}YCY>8ys*h8yCh&}XySU8G}&GGG3:}hycsY>&*>>VcYXU+C>>YyCh>cYYs:cX:8C8*Y}cGX*:UsAUy&:&C::h8*>}>&CXYsChyC*YXy*hX*s*Yc:c:X:yU8&CGCh:Y::sY8CC8X*XCsSs:}kcU>:::s&Uc&&&}:Cy:Y}cy&syhyYUh*XCy&U:G8&8{Y&cyXCy:8*}8G*&Go.,cYx&c>:X8s&s&}&Ch>}hYh8CCY&G8>*gy}y}Uc:G:y&UXY&YhX}>y*}}yc*cc:v:Nsn*YC>XXX88c8_YcC&XUy88U*GchXnX:h%8}Y>Xu>C8:sYcCYyyYhlU**&C8&8Xy*sYhU}GGG*sGU*YcY:XUXUhUs>Yh>sG:y_sUU:}yG&:c8C8sYCcXX}y}8s}hGs&c9:IYY:&Y>>XhsCsC}CYy>*hUZGYhYCGh>sHXU:}sG&GCy&hyUCYCG*:88*sTYsCCy_scs>YGChXGXYhcsyYU>*>&B*sc}sCCG::X8:8Uc&c8w&88UCUXG*G*y*bG*O&hcXhs{*8X*:ccyc:ysC*CC*:Y0*6csy}CXG>U:XhUUs>}&>X:U8s:c8>yyy8:hcU*C}&>sc{y*hG}chG}s}}hch>)&G:}hC8:GGcCX*yC8s}UCh-*:&h>ch&yXXy5ycY>UYcs>*:&}Y*CC&&y:Cyc**Y8>s{}yC8hUhCXcG,G*YYXc&&s>hyXs1UUG*GcXyhC}q}:c&XU^}s&&UY7yYXfUU*h&*cJ:sgY8-Uhc>>Gh&hCU&YyGCXCh**8c*CG:=:cULCc&:G8o&O&*&}h&}yY:XU8U&c8&*:yOX*y}U&GMyyC8&*?>Cyhy*UY8>&hc&hh8&Uy}*GGGGyGhsUY&C&*:}<G**UUce>yh:s*U:C8G>X>hC*YcCCyy*:X}*CXGsGY9:3:*:}U&&yGyY}>U:cY&Cy8U8*cCs&sX:*hU:UUG&G8s&U8YCYXX*X*h*sG}q>hGXyys*UX}:Gc:C8Y8UYYc>XUyU8hUbchG}:yhU*GY&>G>ssYhicYG5:U:&*h*hChcCXXs:s}C&ch>&:&s}YYYsX8Xhh8sG}ycUGG:Y}CUs&c&8hc*sY}}>&U>GLhsc*X>G&Gn>WcYc&CcYXcy:8UC}CGGh:&*s8:Yg&UX::y8&}cGCGUhCgyY*}X:*%X8s8YC:C:>::Us&YGYhXYX:hYsCY8chX8:csyc8Y>G:X**>YUYCXGG:y*hXUYC8y:XcJ&8}YU>:X8yGs8U;X*GY:8h:*yY8::>c8ascc:C&:X:csG*-Ccc&:Uh*}8}h&8>CphshUXC>XXX*8c8s&cXsyYy>U8U8c8&&:y8o8}c>&8X>:X8CU}cC&:y*UC*hC8cchh8&8Xc?CU:&:8U&C8&C&Xd*n***UGcayh:XsyU*CXc::chC}Y}X&Y>>1UsU}hCu:hXC8X8}&XX}yGy;UYUYcY&:y8**8/GU&YXHyh8>c>cs>G:GsYC&&Yc:r8y>Y8c>>h>}hXhXUXY*Gc0&z}*C}X&}GYks8hYdY:G,:Uh:8:Y&&cX&yy8CU:c*>8h*BG}^}cX1^cs:88C&C&>&:hs}YY}yX8X&h888}yGKGGh>h&U>Y*GCX:%*s3GhcGys:>}sCGGyGU::h**&Ysc}h*y*UUUs>syhXoss*YY:>yX*y&88CGCY>c::sY8CC8GsVhy:}hUCGXG}sXU}YGY)XYXYhYs:Y8>*G&hksYU0YhG>X&h>8sYCX>>U6YhXcUG:>hs*hY8XY}:cX8yGs8UjX*G&:>}hYY}hXh>c*>sY}sc*G&8YhJU&YyGCXCh**8csC_XsyYsS*hC>GGj>R8}C}hXC0hs}sGCsCs>sXch:}y}G&XXsHGh>}Yc}:UschGU*Y*&?G:s:}&c!GXG*hchsCcGsXYX>8888Y8C&>yh2s*U:C8G>X>hC*Yc}c*X}yG8**UC<GynvRY}>}UX>xUs&syC}C}>}XXssY8}yGhX}nyh7}Gc&:c:ysc*:CY&Y:8hs}8U&GyGCsyUCYXCsXcXchcs1YU>}>s,*sc}sY8G::Xh:*8Y>c>XC(YU}UXc}G>ys*88&cycC_y8CUX}sGcGcycudUU&}&s:*9c*sU8c:>Xh>ssU>ChG&X&h}*Uc}CXys:G}sCG&BGUm>N>*>}8&CycyU8YU>cU&}yhh7C*Gs>yX*y>s*}hXUGC:*hy*_Y*:yXcsT8Y}?Ch>>:>hCU8C*&Cs8ycYUUX>sGc8Uh:UtCUG>h-Ic*G}1XcjszU}CcYC::hX&Uh*}&XXChCyGsY}sc8GY8s4:Y8&yX8XYyXsc&&c*:GysU&U*>*&yX8UhsXcsCG+ssG*d*>C:G8:&8cs>YcCxXUs}sGUhC&:s:Y<X*}Gc&8>c0sYUUyCUG:8hhG*hY&:XXYyysY}*XCG::;}U8)&U:hqC*bsG}}cCG:8GshU8>C:Uh*8csKG8C:>cyGshc:C*G}sG=}}XcGXUps*Uh_UGCXG8sph}*CGXcCyXsX}Yc}XYGs:Xhy*U>scyXGyy8c}>CC3Gyhs8cCGU:8>Y8YsyGsCX>Cy&hpcXYb&>:YhC8>GYcsy&y}8CUXc}&Yyssh}z&ycXXyL*8XUXcc>ChcIFYU}::U3:888CCyCy>y:}sGY>YCG&XyhCscY*&8ys:j8sUYCR&0:>hGYXYh&&>lj}UY*:G8&>s8*>YhY}>X>X_Xs*}cG&G}yChXU}}YGs:hsO8}}_cU>:::s&Uc&&&hW}yyY}cy>*>ch5h4U2YYG>oXDc*G}W&cG&.U8*C8Ch>8:Csh*hYX&>XXus8G}hcY>}hYa:Y8}>:8k>8h8}CXCX>X:*scY&Y}GCXXh}sYYs&h:L::s2UUC:&::&hcYG}y&C>:w*UU*>Gh&&sh*&}yY*>G>GoGss}YGC&:h*hGU*}U&R>:!Rs}}>GGGcyGhhUYGG&8hcwsY8U&XsyGsysUU:Y:G&hX*>8hc}CyS}syU*Uc&7&A:?)Y*>cXccXGyW8c*&cU>*h8hhU8YCGhXh_X8>cccs>GyhsYYCY2cyXG_:88cscYGXy}*:*&C>Gh:&yG*}YU>*>&#*sc}sCsG::X8:8Uc&c8?&88UCUXG*G*y*BG*9&hcXXyF*8X*:cc>ChYhUUYY>GUXUhh8OYhc}>yyUsGU&&G&s6Yy^YYcr>U>&shsh}hYCGXN:0&*>Yh&&GGn}8UC*Cs>*:css*sY:&XX:+88>}scC>YhCWyY*}X:*eX8s8YC:C:>::Us&YGYYGcX:hYsCY8&syh:G8hU}Cy&y:Gh&}G}s>YGt8YUoCUC&:h:hsh8CYX>:>&4>8h}&YG>}yU***sC*&c:s1s8:}Xc:>8y>ssUCCYXC>y8*sX&*>XysyY*:*:C:&U:&8G8YYcc:XY:C88}sGh&yyhh}*y}y&GX&wGsl}cCy>Uy**U8>&hc&hh8&Uy}*GGGGyGhsUY&C&*:}IG**UUcR>yy+sUU:Y:G&:c8C8}YCcXX}y>8s}hGs&YXXJ}8{}>:Y>sy8hyU:GYG>:*!>*cGXc:X/dU8:*yc&>chCh:UCYXG}X}hs*hcsCc:::YU:CY&>GhiCKC*CUy&*yUyh88UCch&s:Xh>}G}c&G>TJcsc}Uc*>U:&s8*cYy&:yyy}UGU*>Gy*hch:YUYUGU>>hh}sU:cH>Uy:2yU&CcXCX}hC8XY}c}XsWh8sUYCZG}:>hG}>}8>C>h8C}hC}CG:s:sss8cY:>y>GeX8s}GY>>Yy}*U8yCU&&:8.88y}:GyG}hGh*CGG*XcX:8U8UYUC>Xhssh:UTCUG:>yh&*ccCc}XCyX8}U}cs>hyshY*3Y}&>XGs>s8CCChyCsh*}*G&s&s:syc8:CyCG>XyssG8>CYG}QUg8*U}&&8>8yys:UyC*GX:8hc*CccC4yU::}UC:G8GCRy_y*y}}&Gy>yC8&UycC&cy*s8U*YcGsXs(:8XC>C&>>yhs&*AC}GUR}LG8h}&XX>Y:yhYU*>C&:XFUUsbcU>Uyysy}y*&CUGYXXU&8YY8cYXhM*h_&8CcGGsD*XYCUy>y>Y*&sUUbcsGC8Uh}UCYXG}>Yhs*hYscY>l:-s>UG&&&C:&Oy*C}:&*X8s*hGYNYc:!hc8:*8c&c&X&yh8}CYC8>U:&s88*Yy&:yXyY8X}scGGGyYs}YY}:X8>>*8}>chc}:X:XsX**CcX&X}hC8XY}CYXslh*Q*:C,GU::q:*&Yc&&>yRCs:}*c8:*XG8(8c&uXcy:m8U&U&c&Ghy}*Y*8GC&&:8y*8ycycU>:::s&CX&&&hN}yyY}cy>*>chIh5U7YYG>IX7cY:}%&cG&uU}UUGc*G*:mU8}j}Y>>>U8>}UC&Cy:}:}s}8XCsX8>y**8}}yY)>GsGshU&Y&G}hc8}sXcsCG4ssG*7UU&>&>:>f8*CcccU^&y>8U*}chyh:YhD8eY>Xyy>+*s8UycsGYh}hG*hY&Xs>By>8Y}CC>,Y:s*&*}CC&X:}yY*sYhGDG&ytsUU:Y:G&:c8&8hc}Cy!}syU*Uc&D&p:_^Y*>cXccXGy08c*&cU>*h8hhU8YCGhXhaX8>}Xcs>GyhsYU}&Yc:#8y>Y8c>>h>}hXhXUXY*Gc &-}YG}X&}GYSs}sUCchGh:X*i}X}*>c>s8c}sCYC>:8:8s88&Yy>^>}s>88}>YX>C:}sC8:C*:CXhh8sc&h>&>Xs1hUY&Y8:&h88C8Xc*c*X*:GsIChYXGy:*hXs:Yc&CyYyX8YU>cUGUyhhjYh}C>X>}8X}}CGCt:Y:YsY8:C8X*XU^YY>UXcy>*yX/:UcCCctXG/X88&FC>yh:&}hC&&yG*X>B**hGUchy}yX8}U}cs:8:CS:*Ycyc*>&y8sXUcX*&yXA<>*G&*&cXhyc8}&&CXGcy*sU*c>*cyZYa8*U}&&8G*yys:YXYYGX:shG8GYY&}yY::U8*>>8:>hhh}}X}X&X>*;cU&U}cCGXy}NYUsCh>q>:o%8U}:C:>&ycs&*yCC&::*h8}*UGGTGcs!UcY:C8X&X&h&8hY}>Y>88Cs&}8Y*GyhyhU*:}:&&WXs&shC}Yyy}hy***cc=c^XfyY8>CXC8:c:+sc8&CU&8:UyG*h&UC:>=:}U:CYC&:XXs8YsT&Y>jyUy&UhUhch&C:X8:8&Y>&hX&:G8}}UG*G&y*hcUsYs&:XXs:sUC&C8y&s8*C*X&*&*:*yG8.chcs>*8ch&U>ChG&>Gh}*UUXcC>&:n}X*c&:&Yh:*Y}>Yhcc>hy:Ys*:G8G&y8h8*yc-&U>GL*U>}hCYG?88hX*8Y>:yXc6hsc}}X&G_ys}YC*GUXC>yUssX}Cc&GH8Xs8UU>&&U#&8&YUc::*Gyy&s>Us>yGCX:w&CG}G>>nUs:}&C:Gze8::hsC#Y}&ChXyChXCX>Yy}8Yhs*XYy&UssFU8h}>cX>h8>sUC:YUXXXchG85YcC&XU(*U8*Xc8GCyhhh*XY>>X>*scsscc>s:Y:>*8*8C8c&Xysds>}:c8>>XXsCUY&}&*:} G**}*c.>yyjsUU:C*G&:c8&8hc}Cy?}syU*Uc&b&b:klY*>cXccXGy48c*&cU>*h8hhU8YCGhXhnX8>}Xcs>GyhsYU}&Yc:n8y>Y8c>>h>}hXhXUXY*GcW&1}*C}X&}GYds8h}sCYGfXgh>*Gc&cCX&yy8CU:c*>8h*_G}i}cX?vcs:88C&C&>&:hs}YYY8GUX&h8s*}yc::X:GsXUsCG&G:Yh}*Y}>&U>G{hspChYCXXX}*XY}cGc7yYyY8Y*:c8:*:C89*YYichX>sXs8CcCY>c::sY*YC8Gs58yy*h}U>yyCyG*&*s&&&}:Cx>**c8CGX8yC8hUYCXG>qXhU8*}F&8>CsYs>UsCG:8Xysh*}YyCOXGl&UcUYccG:yYhYU8Cs:*XChh8Y}XG:GUh&h8C&G8XCXX8*8*Y*CG>NshhXUyC*GX>:hc*CcYcUXYy>8UUUchGEshQX*yY*&XX8=c8CCcYK:UX:UUY:&8&Cyyyy8yU}cG:>:Cs&*yCCcc:*h8**}c&s>sy:sXY>Y&G>:hh&80Y}&Uy}:XUs*G>s:Gu1hU}>}>&>>8ECUcUUcYG>yUl}UhYR>yXU2y8*}XCX>cyC*c8Q&Uc:hU8:}8}CGyGyyyh}UG&>&C:&ry*CUc&*X8sshQ}sCYGqX6h>*GY>&hX&y38}}UG}&Xhs)GCs&G>tXUs>s>}>C8>Chch&*>>h&s>xy&YXU:cf>Uy:QyU&Cc&hX>m:8*GhCXys:G}sCG&_GUXX(U*sG}csyYy:8YUYc8:*:cry*CcI&C>Yf88}UGG&Gy:Uh:Y}YG&8>G2CY>UXcy>*yXw:UcCCXYXUhY8>YUcUXhyZ}sU}CyGU:G8>88cCchIC8hU}UGGsGsyswc*:cycGXXMs8G*>cY>}hUh8UUY&G8X8 y8:cyCG>XyssGUhCYG}KYy:}8U>X8y>shs}YXYXGXX*hc}&}}&C>XE}hY}sch>s:Yh?8jY>&Gy&yC8&UycCG:y*s8Y*}G>O>c8t}cC:c8:&:&s&*hC}XYX8hU8&Y8C*>yy:*XU8CXGs:GkG*YY}>YG:s8h>c8G>:h:}8X8XYXc*Xcs&s}}CCX>}XYssUhcqc:XbiU8:U:c&>cy&hyUCY:G*:88*sGCACcy<sc*:U8&&&&:&!h*}cYcC>&8yh.*:YCyGX>h:*8Y>CXXCjYhyU&C>Gssy5G}?}cXa_cs:88UGC8Gx8*21YUY>GUXUhh}s}YCX>}h:s8*cCsyUXy9Ysy}>XM>8:ys&UGYyy&:*8G*sYGC>XYyU8YU>c8:sX(ss*YY::s>GVX8scG>*>Ys&hX*8Y>:yXcyy8C&GcUGX:Ussc}Y>&:s8*h}GcsCGN::cs*U}Y>ycXyhhC}}h>}y}8hUXcQYGG}:C9:CGYh&8hC8}}sCcY(T8X:hc*GYh::XhyX8C}cCXgCyhU&*h&c&XX8yyYWUW>hyXsJU&c&CU&csYFX8y&Y>yy}ys}g*GC}GCX:UG8CY*cCXsLUsh&*C&G>8h*yYh}y:X>CA88UUGXCGcyGhrUc}&GU:*888hY8cCXhyhsXU>CXGs:Ghh*YY}>YG:s8h>c8G>:h:}8X8XYXc*Xcs&8sUhCXG3:U***c}y&Cyg1*U>}8c>&XyC*c8y&U&8:UI&*8}8cy>:hyhGUXCh:Gh*hY}}U:>}>st*sCUo&y&Y:yh**XY8&cXCsch:U*YXGY:8U:8c}&c}XUs:88UGC8G?8*hUUYY>GU>}hh8zCyCX>yy*sX*XCcGC:c_:*Y}X&8Xss8h&YyYC:yhC8X*sccccXc:48UC}CGGh:&UX*Y}X&}hc{8sGU8Crl*:Yh8*:Yy&8h:yc}hUXcy>*yXd:UcCCXYXUhY8>YUcUXhy.8hU}CyGU:Gh&}G}s>YGO8YUaCUC&:h:hsh8CYX>:>&8y8h}&YG>}s}h>UUYUGhh*8hsCCXC}yXs}*G*1&Y&Y:Yy:*8c*CW=UyYsR*hC>:>:shG8GYYX&yY::U8*>>8:>hhh}}X}X&X>*/cU&U}>GGXy}1YUsGs&C:hJh8XcNGXG*hchsCcGsXYX>8888Y8C&>yhah>chC8G>>XhCYC}:&Y>YE8}}C8Y&XyXC*yYCcX&sycyc8c*gcU:}X>*s*cCsc8X:y>8:U*c&:c:Ysc8yCU:cXh*Ysx&hCCyVscUXU8C>&>:C*GY&Uy>*GX8*UXCsCYX:X:h:8UY&>G>Y^cs:}YYC>8yss8*CCh&hXXt>UGUccGGBychyUUC*XUX&yB8c&>c}G::}s8cYYX&yh>f:*YUC&8y8:M8sUYC0G}:>hGY:}scX>yyUYs*:G8&>s8*>YhY}c:>}F8YYU8GCGyyChCU*&U&&>OHc}h}}C>>U8Css*&Ys&ys8#c8G&d>:y}hyhCcGY}Gh:8McC}}>c:h8::U8CyGcy:Xch**}}>:c>>yC88}*CC38X:UU*h&*c#:sdY82Uhc>>Gh&h9U&YyGCXCh**8c*CG:T:cU2Cc&:G8l&k&*&}h&}yYy88UU&c8&*:yh:}XY8&XXs6GsG}Yc}:YX:*88>G8X>+hB}UXUXcXG*yc*&*}CC&X:}yY*sYhGoG:yjsUU:Y:G&:ch&8}YCcXX}y>8s}hCm:hXC8X8}&XX}yGy/UYUYcY&:y8**8)Cs&YX?yh8>}GG&GCy&hyUCYCG*:8h*8cYscC>:yX*:*U&&&8h&*8}C}X>*>*Q*hGU Gh&Y4Xh**XU:&cy&yUU}U*c}GGy*h**jYy>M>>E:s*c>>U>ChYh*YYY8GU>GhhUJUXc1>Uy:s*U&CcX&Xh8}sy&}>yy*yc*o*OC?&Y:>8X88cccRXc:&8UU8cU&GyhUU8:Y=c}<:8Y8&cXCs:YXwUYY6&U&&,hAh*hUCcX::y*hCc}Y8&y>yyXsy}sXy>c:ysCYzCU&XXUhsC}}ccU>fahsUc+YGys:Y*h8YcX&*XX::8cC&C::}:*s}*GC*&*XdbyUTU>c:G*s>UUUC&Y&X7Y{8*UUG&h:0y}s5UUC:G*:&hc}&}h>}Gy8}UyC*CcXmXKh+8YY>>X>c8:sB}cY&>UsUhGU*Y*&)h8sEsYC>CUy>sU*&*y&}&}:}yX*sc8Cc:yy}sy8dCG&c:GZh*Yc}c*X}:>8sc}Y:y*XX*:8U&XX}!&yu8cUccUyCsY)>Yh}&:hW&sy8*CGCG>G:ssYYCY*G}XGh*sU}7cy:::Cs:U8C>&>:ChY}CUy>*GX8*UXCsCYX:X:h:8UY&>G>hsYs:}YYC>8h*hC}k}:&TXUI:s:}&cc:&:}sC8:G}Xy:s8h8YchCX>y:UsGY&Y^G&XyhC8:Y*&8y*:G*i*cG):cO:h8}&}&&&>hq}UYU8>CG&y8d**y&y&UX:y:8&cXG&Ghh}+yC}&yX*XcsQsO}vCY>>hXh8YcYAGc>&hU88YUCGXhhZh:UAY}G>h^FCY:}YXCGy8YUJc*C&>8:8hyCsGh&*>&K8Y}U<CC&%:X}h*YYc::>cs;}&chXcG*:ysh*Y>*&U:Y,>*UU}&h>%hyhXUyC*GXXXhc*CYccUXYy>8UUGchG1:y8W*U}XcUXs*}s>U:>GG*y}hGU*}U&%Xys:UXUGcX>syGshUYC}:c>XmC8&UtXXGch:hYC:GYX>:hQc8h}::sG:s8s&}8C8GyI)hU8GY*>>XhyYsp&8CXG8:>Uy*c}y&ChGTUsG}*XY>h:Yh(c8YX&8X>*y8cUycC-GyUhGU*>Y&8MC*8YCUy>}>Gyhs&CsCY&X:}8:8}YscsG-yssU&sC8GGsyhc8yYC>3>:y&8U}}C&WU:&*}Cs}c&&Xc888hUXcC>c:X}C*G&cc&>Y8C8}}scX>:ys}XUC&:yshC*y}>}&c}Xh<ss}&hYY:ssYU}YhG8&*>*y&8*UsC>GU:UU&8:GY&8>y6&8GUyX&GGhGh*c}Yc&UX!hh8U&dCGyhsXh*CGG&ycX>wC*8Y*cCh8yXU*CQYY::hXU>8XcXC:/V1hshUYch&y:chs*sGYcUh*;88U&&CU:&sYF:C8G*y8>:lc8G}hX:GGyYhY*UYY&&sYyXCU}ycU>:*hh>CsY&yshGUG*Uc>X-Xs8G}U*>CyG>hXU88}GU:Ce>y8}CchXCGUyhhh8yYh&*hcEGY&c:CUy>sC*XY>GCcyhUUU*8}Uc:Icy&h&*KC&&C:s;G8G&tccvXy>s:&8C*GsX>Uy8GCsc:X:y}8h}8CcM}:N*Y*:GY:h>C8y}X&XCc>w:>s>YGGy:}>Xh88X&c>}>Gyhs&cXY&G}X}a*8}}c:}>hysh:UXXhGG:hh&C*GUGyy*yC*}}h>y>*:}hycsY8GU<yy}}G}yX8y&:hU}Us&y:&>G*&Yc}sC:VYyc}CC>Y8:&h}8G}&&}CXq**88hU8C>yY:CwC8:YCc}>(ycscc:CYyG:&h>chYsc?>&*Xsc}4C>>>:*hyUhYYy*X:8U8>&U>yG}sXUGcGYYG:X&h&}c&XX*GGyXUGcYG*GsyshC*:cXcyX88y}XC&CM:}::U}*}&*&c>yOCYGUCc*G*:sh**Y>*cy>6y>8G&yccGyyC}sc8C >syUhNU&&X&s>*yX}uUhc8:XX**C*XGhCyD>8}hXc8GG:csCUY8A}>:UXY*}}&Uh>Cy*hc*CC*}GXJshAy8h}&XU>}:}h>U}Y*&:XYqYY>}UXc>Cy&}y*nY:&CsGuY*:}&&&>syXsyUUXsG>h8h&C8&Xc*(G8cYcUUc>GCyC*YCGGsccX>*}}8}CC:>Y8&hYU8Y8&hX8p}C8U:CyGGy&}:UCY:GYshUs*8}yc}>},:}>}hC8G>sy62Us&>c8gcd>}_*:>GyUX>UsY:&C:Yh}yysG&>CsB&y*h&U8GX:ch>ZXsX}8cXGGyUh:*:>8G*h?oy*hG}chy}88h&CyG>yyX&hU*Y}X:&>Y.8s8UhC8G}88h>chYG&hX&*XsCC:C}y:sY}YUh&C:>X:*YYhUC>CyYs>UyUU>hy*hCyyYU&8:*>hyXhX*GYX&nsUhYC}&&chbC8*UcCC>*&Gsh}h*yYh&&hUE}s}U>c}G*::hY*YG>&UhcgC8&&yCVG::C}G*YC:&&:&)s8X}ycUhsy>U8U&>8:XX**GYcGccUX>yC8CCY>GysXchX*XGUXs>8s:Y8}X>U:lsy*&*&&}cYXGyG8h}GCc>8:>h>chGy&Xh:*>8y}Uc:G*sUh}ChY*::hXU8*X&YXY#}_cU_C+>G:}:Ghh*&GXc&X}y}s*U}Cce}:hhs8:YXyhXG^h8&&*XU:U:yhY8yc::y:*g}8yGsc8XUsyh}C&Cyy8h&.hYUY*Xhf&y:}&ccCs&:sYhcCC&>c8D&8}UGC&>}&Xs*}8UhY8&>hY?CsCU:cCG}:Hhc*cG:&YhGk&8>GhcsG<:&}X*cCT&>:>V*8yYhcYh*y:UUU>>U:yX}*XYGGGcYX:y&8&Cc>Xy*XGhXYNGYX*X*hs}&}:GX3h::s>C*CC:&hG7*8>&CccGc:ysc*YCh&&X&*yYX}cX>I&yXs8U>>8&ysUn8CsGhX>>&fs}:UGccysyUUU*hGYcUh**8Ys&h>:yYh>h&U&Y2G}_Uy}s8c*c*:ayss!CCC>XX:88c*h&cccyYy>ssUG>:&G:Y?Y8U}Yc&hYyss8*yC:^s:>hs*GGU:}XCu}*:}}ChyeyUhY*l>8&*:}8;sYcXckw*yUUyCc}j:*hs8>YG&&c8Gy8Cs&ccGX&*hG*Y}>cGXYG:88Y*}sC*GXsChc8c}y&c>Y,hs&U&>yGCs>hG*X>s&8XhyGY:U&&hGXyXhU*TCs&CsUey}}}XX}y<:YU:C>>>&C:ylG*Gc&X:0U:>U>CX>C:U:&vb*cG>ccXUyUs8UUCC4UX#hh8XY>:eX&y.8c&8X*:Y0Xsy}>C::::8#U8:GhcsX*s:hUC&C:ys:8*XYYU:X*y:Ms}ccCCh&Xs:hYC>Y}c>XU8y}Gc:Cy&y:Uhy8XYYc!>p*U8}&sch>88Ch8YCGUc>hsK>ChU>cY>c:y}>*cCU&UX8dU8CGUc:h8yXs8U>>y&&)H)CY=&c:cX8s&}:UQ>cy8X&*&YG&y:hXY*8Y}c&Chy}y8}}*8Yycy>Xyy8s&YccbCs>h8C&G}XG1&*}sX&*:8Xhy8s>cYCC&CX:hC8}}Icc>c8:sYcGC&G>8hhs8_}&:X>ceas>}>C*GyyhhYc*Y:XUX>*U}yU}>XyG8GhYU:Y&G&!c*XY*UGcXyc8YU*UcYyGCsGgC**}*cs>*yYY**yYq&>:GUy*c}y&Chs*8UhYCGhXc:cUXUsY*&XhALh*8cXC*y&yX}hCC}y:*hU*8YC}>XCrY:Lh>cUCYy}h&9hYC&*>cyC8*hGC)XhGy:hh&CUY}c}>>I}s*U:CYGYs>hUCcYC&&hyy2s:UCXGGYy:h&U&Ys&XXy#UCs}>>8>&88UX**GG:csc;U*>}C&CyY8G}s*cGyGcsU*s*Y}X&}hcy}8sUsY,Gs:U}s8X}:c&Xc*X8YUXc}yr8hs*}&&sX8yc*G8%}scG_::y8hCGYs:}:G*y8=&&X*GGsyUcUy>}yUX:E&C8YU:*vC:y}}csGY:}ss0cYyGy&X>ybCY8}*C*G&y*hs*>YU&Uh&.8YY}}cCgX::h>*}>c&U:>NC*CU7cG>Xy8}SU&GhGCsh*G8s&cXYhYy88&U}c}:Usc*N8YYG&Ch8sIshC>YX&:sCUYCXCYXXoc*E8:&YXhG8X:*y*XCXG8:c8C8h}:X&ACsUsGChCcyhs8Us8G}cc8h}yX}}YsY:&XpCsN}UYG&}hswcsG}*XYyU8UhU*h>s:hhY8*sUYs>G>:hX}sU>GsX:h:*}YUUc&}yy=sU8U8ch:c:X8>YCUyc/>yscs:U*CXyzXXhc8c}Ycc>>*cs*UUChGx8*h:**YX:YhCL88YCYc&XX8ssY*cCsyUX}hCYsUc>:Xs8}sYchGG&sh}*h*h&XX>>UyhYsUG>iG&XqhcC8U:c>X:8Chyc*cCy>s8N&*GYG:}Xcyy8C&sYy&>hXhG*YCsG8XYUs8>c8c*/}::}**y>h:/VX_G*G&8&Yy}:Yh*CUC8>8h>hy}:YU:h>>{>}U}C>GG}XlH>8YCGGY>CsGU*Uk&XGsy**U}G&Y&UXcZU}U}&>h>s8*h>csYX:yh:p*8!UdC:Gzy8}aU&>}:yh:*XChc:&8>c(sYUUsC:&:X>.:*hG:c*XY*8Ys}8C8Gcy8hh*GY*&*hc*Y88Uyc&>G:y}&*}&Gc>>cmc8U}O&h>U8(s&ChGX&*hG*c}:}>cCX8H*sC&8C*:}:YhcC:YUX::&y}sUYF&CXXy8h:c8}:&cXG2hY:UyGy>8s>8C**Y8>:y}sG*h}>XcGYy&}UUCYx&C:UUc8&c&XyZ:yysUU:XhGY:cU:*U&:GyXCy}sUYUc>X8XlUG**GU&Chhh*sXCU&}>Uy%h:*>GX&hX>f:8*GhcGysyc}sC>& GUXXxU*sG}cRyYy:}YC<GUG&XrhcC>}C&yX*_GU&c}YXy*sh*Y8:CUc>:8BC8ycq>&GhsCU}Uc&C:*>G*s}:cUCX>c:chY*cY>ycXU8>*h}YcE2&8&}Cc*>h:ohyU8*}}>&U_y8y}:UyYyGU:yQX*Y}<c,hUy:}y}U>XGUsG/XCcY&:YX}*C8*UvcG>>:R}G*:&:&y:hU}Ysc}>}>**hh>UYCc&ys>hs**GcXYyGyCYU*zCGGX:8U+*}YC:X>:sX}c&cC*GyyhhYc*YX&8>y*T88ch>>y>syUhCC>CG8XYUU8G}X:s>8ssUXc:YcG*:};>CcY*cCh}y8sy*yYX&y:sUy*cGUXGhs8:8*cn>8y&:GUC8&G}c:h*<&YU&hcY08sUUX*:GGcXhcxhY&}Xc8>>s*s>*GCYG&Xy8:*8}c&sy&yOs*&sYyGGXG7c8G}::G^c88}hCmGyy8s8*XC}&GXG1&8G}YcF>cyUs8}CUsYCGh6chhs<}>cy>*s8sC*:CYXy:*H>8*Yh:U>{y*Ys*yCG&GXceG8:GG&Uhh8Y}:c&Cgy>hyU}*YG*c}hsy&}J}}XhyXy8UyChGc&&hYycYUUXX}>c:ysCYWCU&G:*UY*h}cch>:*ssCU&>y&Ziy*yYYG&cU>a#ssC&UCsG::sh>*y}G::X*u}YGccGGG&8Yhs*XYy&Uss%X8h&yC>>C:Ch}*CYGyC:s*:Y*&GXY>X8cU>c8C*yhX8*y8Y&X&8v:8&sAc>G:y}:YU*8}Gsc&h8A}s>}UGX>U:*hiU8YCXYX>;s8Gc8ccGX8GhCU*Y*&sX*eYC*}XCX>8yXhGUUY:&:s8{>YXY8XG>88>sGUXXs&:s1/G*}YCc:hGy:s&}Uc}G&8UhyY}G&&8hh8X81&UcYy:scU.Cy>s:*:Y*>YGUyX*yy8}}hcUCY::hc*KYX&}XXy&yss:*:Y>&::hU:*C&y&}hU8CUX}sC&Gs:y}8*}Ys&XX:<sYX}YG:yCyGU+UsGc:*hG8Csd}>C>G&:>hyc*YXyUshh8Y>YhX>y}s}sXcCCyGh:&UXYGGGcG>Y*C}YCGCHG}:y*Y*>Ys&Ga83Cs:}YGyG*:&h8*XYcy*>yy0s>}G>*>cyhhcU}>&GUXcUY8*}SCSG::Ts8caC&y}h>U8YyYU:h4*8Gs>ccYGyYXyUU*GG}:sXC**}}c:Cyy>X:U&*sGG&:X*AX}U}&C5>c8>s}*>CUyC:s#&8s}y:8>cyG}-C&&9XkX:UG8}Yh&8>c*}s>U:X8::X8*8*hG:ccX*S}s>&cC>GCy8s**C>8&*T*yY}*}&C:_>:csU*UY8&UXCUU8:U:c*>::>s}*yYyy*ssu:8&YU&}>&*UsyC}CXycXXU88 GUc:-yy>}Qc>Ccy::YUC*UGc:CKUQhY}c>X8:):Cs***Ys&*XYU*8:cYc>>syGU8UCY:GYByh*8>}*&hhUyCs*UyC4G*sy9J}.}8>F>:y&8U}}C&xU:CUY*CGUcY^s9*YUc&Xs:yyUhccYY*&4>_y:sg}8X{>c:chyUcYYGhX&K&Yy&Xcc>Uye8hUU>-&>sshCYg}YX:XUsG8sc:CsyC:UU&*8G*&hhU*hs:&8C>yX:&U:CGGs:GHCK*Ycc>X}y8:GsY*YYU&YX&*y*s&GcC{&8Y}c*>>UG*s*UhC8YUXyGy8:}GUsGcG::*hXYUY&coXc8h8}U>cU0Cysh&*sYyy8Xc{GYOcC>s:v::}G*}ChG8XcU}8>}::8>*s8U8C>>:&c:*h}8>Gcc}Xsy}sQ}8Yy(s:Ch&Cy}MCyyy88Y&UUC%>s:C}U*QY*ys>yqGsGUcCGG:8GhYU*Y*&&:h^h*8Uy&h>yy*s&c}Yscyhyyy*:Gh&CXYHcUGC&c}:Chcs8YX&XX*Xy8c}cCe><>chCh:8:Y*&:>>K}syUyX*>}s:hGC>}::&XG*Csx&ccC>&8yhGcXYCG8:U^GCC}U&h>h:yshU*XhGGy*7G*3YYcy>YB*sy}hX}GG8*qy*&Y>&shyy>8CUCC}GC:G}CUs>}&!XCy38XGhcGX*:bsfYyYsy&:*F&*8G}ce>}yyhUcCCGGh:&UX*&}c&UXCyXU>}hCYG2hCh:*sG7cXXcycsYUcC>Hc:UUy*CGc&}X&=}YUUXX}y8yCh:UY>&&*X&088X}c:*Gy:Lh>UGG*Gc:hDc*}G&&U>c*Ys*UBYe&:XJh8Ct}>:}>y8RsX}hCXy>:*UXY&Yy&UX:Uh8G}hc&^XyYhy*YC*yC:8ZYCU}sc:G::>h:Uh>:G8yh,C*XY*c&X8sGsVU}Cy#s:>hs*GG:&C>:6YY&}*C&>8sXUcC}GU:*hC';fXnTHrJkvkLQVliQhMIq_hmfIYoLbRet={"xb>UaE_bC+lalbC,E>+ElRCd+HxR+x__>CM,QCE,+Q>UQUdddRM>l,lR","bQQEQ>UQb_lb,la+HC,a>Md+Ed>_MRExl_M>dddUH,Qd+H+H+Hdl,,xHlaHURQU,bEb+Mx_bRlxEQ,Hld_xb","E_alR>dldxR_CQHR_HM++Md+HQRabxb>HldadEQ++EHbbEHQR","ClHCU>,>a>a_Mb>bQ,C_l,_bRRUdU>RCbMU+_d>HQCdH","a_bM>QExHa_EREx_CU,ExHM>dRREHUbRaECUCH+M+QaHbalRxx_UHHdR_Q+MlalHbaa_U,M+Q>CEHEEl>laRaRxCdbHRRlQ>EH","+UQaa+lE,+UE+dx_UEQCxUMHExxUxU,xbHb>MUHdCRRE>MlaMbUbla+llM>x,HEdH_EUH_+R>>dRUxR,+Ua,HCUMxM","lERMaMaCUEad_lHH,dbQU>CEQxxM+a>R>QEMx,a+xaEHEC_ME,EdQMdHUR+HM,CCl","bHH,RxbQlb,Qd,,H_EEElRlU>Eallx>xHECbCllH>,_CdUCl_Q+axCEldQQbaUdHM_bMCb,>UbUxd+>RRdlMQHQUa,>,>l_bMbd+xH_+HU>xxHQUbxlMaRaHCa,_+Q_>ERMHxlCRMQ_b>U","C__Rdda_lCM+,_HCEM>aClEHl+_bx+E>bH_,>++R,CQCREM>axQQHQ,laQ+xx_l,ElR_CU,_d_xbdbQQ,R+UQ_>+MddRCd>dMEd","_HC_Ralxx,,>x,+_MH+ba_EQ+xRMlEM++__UdHaxH+a,ER_RUxCURRM+lHUH+xxQ>aR+a+lCbalx_+++CxRCl,CxlbRU>xd+HE>dRH_+C,>","RRxU,RCEddRa_bElR,H+xbCE_>UC++_CbH,H+l,U__ECa>>bQEx_UEdb,_dM,RCRdHdb>_UlERUMQQxdl+xx+R","_Mxl>Q,db,C_b,aR+EE,b+alx_R,xd,EQHC_CE_RCl,R,adaUbx+>bRbQUlRM_CaHxR>MERRxMd_MlQ>l_bM>>H,Ud>,M,Q,_lExUbxbb,_+bECMH+,_MHbbH",",aEHl++QxU+ld_db_QQ>Qx,E+MdRR,>aRE,aQxdMlxb,x_dMaClxdMRa,xHaCx,_Md_x+Rl,dlExCxxURba>U_MRaa+xQRCCEExdHbCbEQC_d+dRCE+x>_C+adaU,Ma,MU_lE_E,R,dRlHUddldH>Hx+bxlaxa>UxMdCx,H,Ca_MadbECab_+QQ_CdCdlblQQxQ+_EHRxHbECaHd+,RQ_lxxH>>+lR>+Q,+CMlCCl_,_E>UdaUUCxMx>,,aUEQE_MxbbUbbxa+U>UHUblaEQRM+_,UUld_bQEEadC,MllUlExREEClQdHbaQC,dbHxEEURRbbHMba_x+QbM,,R+M,_>lbECRCaCH>EEdHM,QQldxCMMx+MxQ,CdlREExRH_Qd>,QQ>lMdxHbE_+,RHRCUMl+Ql,bRCax,dQdH_CHEMMR>QU>a,MxR+_bHC_blQl>lxx,x>bxdx_QbM>QRRCdEaQ_QHRadRlxal,MCCx+xMdQa_MlCdaxEMR,CalMC>,a,HxU+a,b_aE_xU>dCdC+R_HMMdxE>a>bMaQCERb,++>C,UdUaMbUdH+HCClllMbUEQCRRUQ_QdbaMdal+Ex,ab+Q+,x+__dx+QHU,M,l>H,dMRRaC_xdUdalxHdMU,bbxRM_H,R+aQal>llRUExdxlMUClQd++Ml>xMldd>UM>xHMU_M_d_EddUbaUMaQ>_Cd_Q+M,>dUUdax+Rl,b_ME_l>d+,bCaEalCaCl++_+ddEM,lClabdRaCEaabUM,aRl+UabHb>,MCMHdE_llaaxd_,,Ca_UxlCHbCQb,>b_H>,>x+l+lQlax,QlCa,QQxaEHC,x,RCxQ,RM,ECERd,C_Uxl_MMCQUlxH+l+HQU>ECMdRQ>xQURR>>HlCRdRxQ_Mda+aaablHlU,,RxxQ+URE>QHMHQQd>xUU,_R,d_RUdxUMlExC,x+QdCxRblRHbdMbHUUxx_+l>>UC,lxdR,_bRUHaaMdQ,+b+CCQUUxE+El,lCQbCdUElEllUUl_+l+CQMdlxCEdExHMd_RCd_MQx,dRxx+xCRbM>a+,bCQEC,+QRaMxERH+,d>CClQ+E+,RCa>lMUdCHH>laRMlMHRCEQClb__CMxMdRa>lRM_Ca_CRMaxxaUMbMbUQ,a,>E+Qbx_HC>+UH+b_>RHdMM_CdEHllHM,dH>U_la_b>MlaH>+bEaU>,aQ,H_a,lQ>CRUMl_+,>aRERaCExQRRHlb_l_U+HbH__aQEadC,_+xUM+UxRRRU+d_HUMM,CMlMUM+Uxl>Mx>Rb_lHEdUMlRCCE,C+HbxUblla_Ex,RHUxH_aMl_,C>QHal+ablUbCEd>QUl,UxbRxMdMEaQ>QM_RHQMEQRxa>,HUQHxU>_QCU_Qx,bMax_xUdlU+d_,aRR++Q,bMHC+UMHdMEl>da+MUCHadlCldxU+UHxHUM,l,>CMdU_aQd_bQl_HM+ldQ>+l+MCMH>>RQ,>>axU+lxl_Rxblxa,M>a>lMMQHRUadldlEH+,dQQlxCR+dl>bbR,QCxRUaHHaxR>lHbxdQUCHExRMM+H,xRddCHx>bRMddaQ_Q+lRblE>+l,>RdR+>b_dlMRUHU>M+dHbRblal_d,CHCCU+Ml__blCMblHUlRQHE>MQaC_>bQxRHbQbMlUdRCC,xM>HQx_U,+E_bC>Qxbdx>adl>MbExQ+Ex,QxH,_+_MlQ,M+Q_a+aadRQd_CUU_a__x+HCaCH,>x+>E,aQ+lCHEadHbHRbaaxb,CC+UbE+dMElCHbxxlC>_,,C>,,_+CRECRbUCbM_RdRQ>Raax_d_,U>+_UEbbHbb+a,a_MC>,blxa_+>RalHQ,C>bxRdx>,>Mbbx+dlExxHU,dl_RbHCUMHUdC,b_Cd>EHxlRUMl,lRU>x>bdMalUCaRH,l>_a+aQHaH>xaaxdECMMRMdM>lRlC,HRdHMEdal+xH__QbR+UQEdx_>aUd>_EEQ,b+M_,RCaC>MCUlM_MdMH,HE_RalMa_+RMad_UCCxx>QdxdUblEaddxUUHERRQ,aM_UH>+QC,>_bE_+UdQllR,bRx_QU_Rx__+alU,ld,aMEl+QRClHClHQHMUb>>dUC,UCaadlQ,E+UxbCM,,QRE,_E,CECR,,Cb++_,RaEC>R+QC_,MQl_UClCHb>x_,axldxUaHallEMQa_ddaCRaU>E+EaM,bQlMMC_Qa,,E>b_RdlbQ,aCxCxMU,d>>xdQ,EMU_HRHUCa>ddHUbbRMU+HE_>MRMRbU,MH+CMMQEEU_x+dElHaECdU+lRQR_a__ME+>__bQM>C,R+EbdlRUlQl+U_bR>lEbbdQlUa_E,adUd+QQ+bHCad+HUQad>dCRRUEUEllH>dEdH_QdM,alH_RCC,UM>xMC,>U>d>_MlRHxbE__a,_xdR,CH_lEEMxQRHC,RCQaMl>_HUlHxRHMadx+blE,_H>dxQRMMlERE++,>>C+EU>bC__bxHMbCxRQbx+MaUElxRbEda>,l,MaHC>_adQQaaaRHl,,Hll+C_Mdd+Q>lCQlHdRbbMaa>EE,adllUaHxa>,_,bbxM,dCE>,CdbUaUxH_xbaCExaMR_+RxRbREa>_+baxb_bClHb_UUbMda>,H_xC+aQl>UEHddadRECxQd+QRxHd>a+,lEUCCdUMCQ>dQMCaC>+dRRCU+_lUb_RHMaRCxEEU+>RdaUMl_l",""};return(function(h,...)local t;local s;local f;local a;local l;local u;local e=24915;local n=0;local d={};while n<822 do n=n+1;while n<0x28e and e%0x1828<0xc14 do n=n+1 e=(e-235)%31509 local r=n+e if(e%0x3490)<0x1a48 then e=(e*0x2e9)%0x492f while n<0x167 and e%0x28ec<0x1476 do n=n+1 e=(e*544)%21905 local t=n+e if(e%0x4078)<0x203c then e=(e*0x4b)%0x729d local e=58857 if not d[e]then d[e]=0x1 f=string;end elseif e%2~=0 then e=(e+0x287)%0x13a0 local e=15579 if not d[e]then d[e]=0x1 u={};end else e=(e*0x111)%0xac75 n=n+1 local e=68007 if not d[e]then d[e]=0x1 l=getfenv and getfenv();end end end elseif e%2~=0 then e=(e+0x10c)%0x1095 while n<0xbc and e%0x25f6<0x12fb do n=n+1 e=(e+747)%33625 local t=n+e if(e%0xd52)<0x6a9 then e=(e*0xdc)%0x47f local e=25980 if not d[e]then d[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e*0x1d3)%0xc130 local e=11573 if not d[e]then d[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\112\74\90\66\88\68\65\83\0\6\115\116\114\105\110\103\4\99\104\97\114\114\69\114\114\112\99\110\121\0\6\115\116\114\105\110\103\3\115\117\98\111\118\90\107\98\80\65\108\0\6\115\116\114\105\110\103\4\98\121\116\101\110\119\102\118\99\74\76\89\0\5\116\97\98\108\101\6\99\111\110\99\97\116\117\72\110\109\118\113\89\83\0\5\116\97\98\108\101\6\105\110\115\101\114\116\118\79\82\85\89\114\106\105\5";end else e=(e*0x46)%0xac79 n=n+1 local e=92657 if not d[e]then d[e]=0x1 s=tonumber;end end end else e=(e*0x1fc)%0x8b92 n=n+1 while n<0x23f and e%0x4140<0x20a0 do n=n+1 e=(e*362)%43586 local a=n+e if(e%0x1c38)>0xe1c then e=(e+0x22b)%0x9a92 local e=63867 if not d[e]then d[e]=0x1 t=function(t)local e=0x01 local function d(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=f.byte(d(0x01))local e=d(e)if n=="\2"then e=u.pJZBXDAS(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(n,e)return h(8,nil,h,e,n)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][d(f.byte(d(0x01)))];end local n=d(0x08)u[n]=e end end end elseif e%2~=0 then e=(e*0x162)%0x2527 local e=2415 if not d[e]then d[e]=0x1 end else e=(e-0x26b)%0x3a39 n=n+1 local e=81756 if not d[e]then d[e]=0x1 end end end end end e=(e-388)%18359 end t(a);local e={};for n=0x0,0xff do local d=u.rErrpcny(n);e[n]=d;e[d]=n;end local function r(n)return e[n];end local f=(function(a,t)local h,d=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local f=a while true do n[0x03][u.ovZkbPAl(t,e,(function()e=h+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""d=0x000 break end end local l=#t while e<l+0x01 do n[0x02][d]=u.ovZkbPAl(t,e,(function()e=h+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 u.vORUYrji(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+f)%0x100)));f=a+f;end end return u.uHnmvqYS(n[0x01])end);t(f(90,"nJHA281uDvd&#gYadD2YHA##v2Aga9DDHvY1u&AHu{J8YddDuJaud&28Yd&AAuvHAuLggdudAaYdvAAH&YuD&28&HagDug2JY8dHH2a2uaAu#dHH#vdH22Yddu8gc2#28dYY&A2avtAvl&&v8#!2dH1gZ1&&8dJHdJ2yY82daH#81dJJ&YugH&gdD2Hvga1uqA8Yh8gguYHghHvJ8&avv#HxYAuY##uA2vYYvD1JHAvvA#JvD#82adAdY9&u8aHd#Y1DJJ#d8uJ8g2:Hd&uaHD#duAJgg&vd2HY2vDAA#8DX&#12AuY8DvHDYHdu24gdv&AaYdv&gTuu8AaDv&8#b&dJ1Aam#M2OY#AYY8&#1HydY11AAvgu1AH&&21vd#8AHggHuA2daav8A2a1DvJ&#DJd#Jv8AYYDdvuJmJ&f2gYYDuHADDAf;Ada8uadY2DA4u&J8DaD&g1Ov#2AJY#81d2H#uv2J&YduNJA&Hzd&JD#Hgg2dgADa1d18AgudJAvuDHJa1v#22Y8Da2vJg# A1<#D&2da&AHg&dg8D;Jdu28A2#22aQa&18JPd&AY#vA1uJJ&8uYH5gDvAA1&A1JHv8d:SgDDA1DYDdHHuYYDA2dgvHH#&dm2vYvDaA2?##J8YmADYAJg2D#g#DA8Y%Ad1uJHD#gud+2va8HJA2daJ#D1gJuY5vdH#gHDYHu&#8H&D8aAAgDuYA1Y#Dv2d>Fu18lgaH1#gdu2#aJ#Y2&H8d82vJ1&aAuv2AgJH&D1Jzvdgu8md&H1JV&gH2#382Ya1#vu{JD&YudJg#HuAHv&J8dHg1HRvYNDDHaJ1d1A8YZudHag2Dag?uv2&arv1AgYd##125Yv12vgYd*ADDdAJkD&H8vA#YHDHJ_#88vqPv&aDvau&Jg#JD18Ja2D/J8#vvJJH11haYJDvHggvug2Jb&uYAvadD12#g&Hb#Dv&2DYavH11_d#H81YJvv2dg2A2g&&u8DUHgDuuJFg#2YJDv#22dH2vHH#81dAJYaD22vY1D2HuYHJ6&vDYAAg#uYHAa*&12&g2vaA8YYD2#d1a2D;1#d2DJg#818JJvdY#vJ1D88#YudJug&uHH&&NsY&AD&88aYdg8DYD&H8ua!AEg8da11Hv#HD2a&&g1aY&8HaugHvH2&YgvuH1gJdzJuu2J&amvv2^JAd&8+!v&d2q4&dYYHDD8YfHYg1gHA&auuHDgJ1&dd8qHu##&H8J#gdHA&#8v1AuuHJDYYvAuYJvdD82avdY81gaAdYI&u8&HD#&1aH1#suJa8d8(HdduYHH##u88(YauD2J#J1DAH#{J1&YvJA1gYD88u>2Dv8YYJvg8!g2Hg"));t(f(32,"UhcYPTgS+zWG!2DdD1!ghYdP2cWz+DgSDPcPhTD22lGgghgzcWo2Dd!cGPPPcTS;PYch/!D!WgGWzhg+PWhgDP2+ghPTzHScPzcDhP!TGP+gzSTgPScGdY+tggGYzPScPzcDJS+T!2WhzPgYP+cDdz2+!gWgSSTdc!!*WPD2!hGP++_TP!cPFTd+2ez+SPPzP!c2hhDgWTPPc!SYPTYP>2DT2PWhzPghPcc!(T!+WTW!zhg+PhYTdz+PgSzg+TgYTPcdhcGYGP+Y+YSgP2YShhdWgPPPzSghPzYPDW!+!gWzSSgTcgYPWc+hzzW2Szg+PWxSdP!g2{PPc+SPPdYYhPdc!zWD+STPYgcDlT2h!hWzgh-MDTYP9hDc!!WTcgSTPDYL;hDY!GGPS+gYT0cdhg!+!TPPcgSTPDYIOhDY!Gzd+hgDYrYPhP2WWTPPcTS{Tccz4DdPG++dzPSzPcc!>S!WggP+zPgdTYYPhcDz!DWSgcP2cYhhMzdYGhzPcgNTTeYcqzDD2PWP+dgDPGcThz!!WdPPcgSYPTc!}TDY2PWDSPPPcWc2D+dh!TPBcPg2PhYP3++T!gW!+dgdTccgRW2E!hzTSPgzPG!T"));YWBinVBFIiVhFlU=function(e)e((-u.VYfXSjYj+(function()local t,n=u.HkKYMLoM,u.XRqvyrXl;(function(n,d,e)d(n(e,n,e and d),e(e,n,n),e(e and n,n,e))end)(function(e,d,l)if t>u.QOfBlQcP then return e end t=t+u.XRqvyrXl n=(n*u.IYZtdRqg)%u.UHWPbKDC if(n%u.QYbfeuWM)<=u.hQumjHeZ then return e(e(e and d,l,d)and l(d,d,d and l),l(d,l,e),e(e,d,d))else return e end return e end,function(l,e,d)if t>u.YuEByFhh then return d end t=t+u.XRqvyrXl n=(n-u.ZXLObIaz)%u.QjlhvkWl if(n%u.DcVJechs)<=u.PYIeLvPV then return l else return d(e(e,e,d)and l(l and d,e,d),d(e and l,l and d,e and l),l(l,e,e))end return e(e(e,d,d),d(e,l,l),d(d,l,e))end,function(d,e,l)if t>u.lCskQsVe then return l end t=t+u.XRqvyrXl n=(n-u.bqaZvcOV)%u.Su_h_ZMC if(n%u.zsQUVPol)>=u.jIpQzZWP then n=(n-u.gLdnuSwi)%u.IwtDtMfq return d(e(e and d,d,d and d),l(l,e,d)and e(e,l,e),e(d,l and e,e and l)and e(d,e,e))else return d end return l end)return n;end)()))end;UlFhViIFBVniBWY={u.TVneQaiA,u.XOtyblgJ};local e=(-u.zdIcdYlo+(function()local t,e=u.HkKYMLoM,u.XRqvyrXl;(function(d,e,n)n(n(n and e,e,e),d(e,e,e),d(n and n,d,e)and e(d,e,e))end)(function(l,n,d)if t>u.VRdyvMUw then return l end t=t+u.XRqvyrXl e=(e*u.xRfEfUv_)%u.bqhgLIFX if(e%u.YjipTIVq)<u.ZnZZpcRB then return d else return n(d(l,n and l,d),n(l,n,n and d)and n(l,d,n),d(n,n,d))end return n(l(l,d,l),n(l,d,l),d(d,d,n))end,function(d,n,l)if t>u.BRIdtDxa then return d end t=t+u.XRqvyrXl e=(e*u.lCwQOvyK)%u.YHJSWxL_ if(e%u.JGFQaCFs)<=u.IYZtdRqg then e=(e*u.xbKPDSRg)%u.tfjLYHdV return d(n(d,n,n),l(d,l,n)and d(l,n and n,n),n(d,d,l)and d(l,d,n))else return n end return d end,function(n,l,d)if t>u.vvpXgUVK then return d end t=t+u.XRqvyrXl e=(e+u.RwtZIWyT)%u.SwDYtZzc if(e%u.dbtbGYdH)<u.haTzFjHJ then e=(e+u.SkZyphez)%u.XxgJo_rb return l else return d(n(n and n,n,l),d(n,n,n)and d(l,n and d,l and d),l(d and n,d,d and n))end return d(l(l,d,n),l(l,n,n),d(l and d,d,n))end)return e;end)())local fe=(getfenv)or(function()return _ENV end);local r=u._anPttZE or u.tXcpovHe;local a=u.LjBqsmsV;local l=u.yLRIgXkJ;local j=u.XRqvyrXl;local t=u.WZchRvuh;local function te(b,...)local g=f(e,"!-CuU63IW,)g/M#OMUYWW/-.,3-W,/C+)UCWC/IuOUuW/,U4/UUW/)6MMCUgMf66#CW9#II/#GW#-gW&-3WWF/,E-COC)CuM6gIMW,6WCOMEM,/3U6)UgMMg/C#66/#g3U#W3/##,IOWCU#I/IOuuUW,#I,-,#C5)UCW)/u>gU3jO/UC/UUW//6aMU6WCu)P#U3O#/IJOUI3-W,M-O,)Cu)j-U,M-/)KCU)3/MW)U/)Mu/M-UU/WU//#OU-)WW,g-,ugU/CO#O-6MIC6u33Ii3CM,UC,,/C{)UC3/-u),gCUg3C##66e)FU##-U#g-6-#O3u#/I6OUIWO/I#6uggu6O/-3,W-/)bCU)WC/M3IUg)u//lUU/WU/MJWU-W6##e3U#W3/O+OUu,g/RnW,TWW/-;,CU,IM6)M)CWguuqgUuWCC)Ou3)MCMguu/6)M/3E#U3W#/Iv-#gWO/)-{UWW:/W#Cu,,uu,M-6/u-O/U6u//u-g)UuMM6#/)36/#U#O)3/O,WCOO33O),UO6WO=u,)CM,U-M,/CA)UC3/-UWg#U6g/U3/UUW//U##MIu##IIK-3WO#IeOUIWO)W%C9WIO#,/uU)U-)gMU5)guW,/CCg,U)MOU3/WU/MX6UMW6/OS)U#WM)O5IUOWI)MW6gMO3U#I3gOtg-u#)#uUggu#M6-r//U##-6)#u3M#CIuOu3)O,WU=#W/kfWC--,6M),MCU,)C-gUu,ggu3gOu/WWU3MU6UMO6C#u3/#g33O6I,##IgOCW,:MWOP)WI-#)--366#,g6O-I6O,IMJ-W/x,WMd-M/U)#xuIM)6M#CIu#3I6MOI3O3W6%,,)#MW#-O,3O3)Mu-guC#)gUC/6u),WuUgMu//NUUu/)MuC/.uM6/Ou3U#W3/##%Uu/O-gO)/UCO-WO#)uu3W3C-UgW-ICMuCC/g/U6/UUW//U#u)3U),)O#UI-#/IsOUI3-M//3/CI-#u-gUC6-/)UCU)WC/)#6yM3UI/;U,/WU/MT6CMWU/gu.3#WIMOmIUOWI)_W,uO)WUn-gCC/)I-U,M-,/KCu)IuuM6UC/UUW//6NMUuWUg)F#U3/#/I0OUM)I6OU3,W)5/,9-U,W-/)4-U#IC/gWuUgWu/g#6UM33,MO3C#OIg#K3)#W3/OBIC--WWG),,-MW#-T,U-W,/C;)UUU#/uDg,uWg/UD/C)6)-/3I/6W#-3r#U3W#)//OigUCUW0JgWW}/,2-C3--#H)MC-UC#gCuUgWu//JUUUWW#-463MW6/#>3U#W3/-CgUOWWUGsWUEWW)#g,,33WICM3)-/)/uggUuWg/u#6,6#3WMI63)/UU6/3)/###I>OUIWO/W8WU/OU/,C-U,W-/)yCUCWI-OVuUggu//GUUug/-uC63MW6/#f3U#W3/C/gUOW)/BjWUPWW)-C)/u3gI#,gMuMg3UM/u6XMI63WM6)#W-,OC3O#33gO,I3g6WM:/U-Q))--C,UC))MCC3-u,g-u3/UO6//UQMuU#M,3-,OU/#)6UMW6/M#6)s_WUSIIio3WW;WWtC6)ICC)gCWgW--g3u6g,u#/gCCM,6MMOUWM-6XMU6WM)/6g,OO,uICOUIWO/W1?UWWC/MT-3,W-/)zCU)WC/MUIUgWU,/LUU/WU)O/C((#)#CUUW)3)I IIgI,6-ZXU3c)W/-N,C/#UOM36IM),3O,/MU)/W6M#C3uM)-,O-3COD3#Ogu-OgWgw/W#/6)C-/)3CI6,uU)3CI)/C#g#EO33#IW-P6W,}M,--6,,C,)-C6),CMg-u6g,uM/-U6/,UM-}3u#I3gCA36#,3MO-I6O,IM{-W6z,WM--)-D3WIC-)6C,)Mu-g6,U/UUO/6U,/M6-M66,MM3-#6IIOUI-O6I,OMW-Y/,I2M,--6,,-M)-C6),CMgOu/-3C))gU6/,UMM-66uU6MuO36OqIgO-I6O,IMb-W6UW#,C#,6-,,MC-#U3WX,I=g6u,gMU-/6U,Mg6WM66,ugg#MC6u#MI-O6I,6WW-3uW,<M#O-6)=C))O3U),u6OXIUOWI/DrWU^WW/-},U-W33#-)UOII)OWMuO,IM6OW6d,#)O#IO-,,MC-XaWI)Mu--uu,gM,O/6U,/M)O#u34MM3-#63,#MI-O6I,OMW-E6,}-g,-Iu,,-M)-C6hICMg-u6g,,))#CO/,UMC/66M,gg#-36#,/gO-I66IIM-=W6 ,WMCJM--,,MC-)6C,g/3Mg6u,gMIM/6U,/M)OM66,MM3-Uu3,#M/##C3uOMW-3NW,(M,-Iu,,-M)-Wu),CM/iu6g,uM/-WUjWUMM-66M,6MCq)U#,3MO-I6u6IM6OW6f,WM3O,6-,,MC-sC-3,Iu-g6u,-WU-/6U,Cg6-M63W-,If#63,O)WMOMI,U/W)k6W,dM,,-6#WC3gOuC),CM#MUUO6uM-OU6/,UMCOgC/3UI#-36#,3MU/I66IIMc-W6CU,6--,6-,,MC-)636g/u-/uU3/gU-l-6W/M6-M66,MM3-##WU#MI-O6MIOMM#OCIuQM,--6,,-MO/C6pICMwOI-OWuM/-UMMCUMM-,uM,36#-36#,I3O-guO,IMw,W# ,WM65)U-,OgC-)6W3,)-gg6u,gMU-/6U,MU6##u,Wug3-C-3,#MI-OMg,()WOUU,0-),W6U)IC))WC#),CMg-UUg,,g_J6uM36Ug#uOM,6M#-36#,3MO-I6O,IM=W,C-3/,--,6-,MMCWgu3WgUuug/IW/gUWp6U,/M6-#U33#)3WMC6u#MI-O6I,OMW-e6W,=M,--6,,-M)-3-),CMg-u6g,I,L-6CM(6/M-66M,6M#-IUM36IO-I6O,IMy-W61,WM--,6-,,MC-)6C,#M3Mg6u,gMU-//63MU6-M66,MMI7#/63MII-O6I,OMW-^6W,PM,--6,,-M)-C6),CMO-I-g,uM/-U6/,UMM-66M,3/#W6CMu3MO-I6O,IMm-W6x,WM--,6-,,MC-)6C,)Mu-g/UH/)UOMu6IM)6WM/U3/I3-#63,#MI-O6I,OMW-R6W,KM,--6,,-M/,33OII-%Uu6##WM/-IW-U,3-6UC/uU)/g,#CL)UCW)/uzgUW-O/UdM-UW//6}MCUU6W3gu6C)OI,Q,3MWMUggIUWW--,T-U,W-)WWW6U3/Og7UUgWu//oUC/33-gO36MI3#MC6uMu3g9IW3#uI/>CWUaMW/-},U-3#U,)IC,O)/u6gUuWg/u#,-/g-,OUM36WM/3o#U3W#/WWuUI)O/W1 UWW&/,r-UMW-/)3CU)WC/Cu)WC))6C#)g/W6-M 6UMW6)I;gq/IC/OCIUOWI/j_WURW,U6q,3-W,/Cp)UCW)/3,OUuW/UUp/UUW/)3U6))G)M6,#)6/#/IgOUIWO/I#-,)B-3,Mu0g6uIgCuggWC/gOuUgWu/-,,g_)g6u#))-))CC,/Mu#MUu3#LUMI#SbWUlWW/-h,UU/M/CC)UCW)/uDgUuWg/Ub/UU///6ZMUggUU/-633WO-IcOUIWO)g/,,I,Og,N-,,W-/)7CCgUuMg)UOgWUu/FUU/WU)/#OOIgW#Cu###)3/OmIUOWI/>=MqUWW/-U,U-W,/,U-M,W--u=/?uWg/UP/C#I)CF,36U6OOo,IOg,gU6,O3IWO/WHYUWWm/)U6U,WC6)PCU)WC)/MU/MU6,Mg63MO6/CC66MW6/OCO+#W3/O_g,OWI/iSW)o)W/-},U-/,/C-)UC,)/uUMWuWg/Uz/WUW/M6iMWI/M/3p#U,W#/I-OUIWU-WxXUWWQ/,;-U,W-/)WCU),C/gBuUgWu//a6g/WU/Mc6UMW6M#EWU6,3/OGIUOWI/C-WU-)Cu-p,6-W#uC4)UCWg#uCgUu)g/W6/UUW//63O-6WMO3S#U3W#MIfO6IWO/)OJUWWj/,--U,W-/)936)WC#gcu3gWuM/=63MWU/MC6UC66/#t3UO)I#OcIIOWggS.WUwW)/-/,U-g,/Cu)U63)/UC//uW/;UVM/UW//6ROU3?M/3U#U3/#/WoOUW)1OWr=,WWUg,B-U,Wu/--CU)MC/g6uUviu/MC6P/W6CMe,uMW6/#AWUO/3/O3IUO#I/C_WU2W,,-y,g-W,/Co)UCWg#u3gUUNg/WI/UUW//3C##6W#63 ju3W#/Iv}3WRO/W)hU),</,L-U,/CO)(C/)WUMg2u6gWu/uOUUMUU/M66UMW6/#tII#WI,O&IOOWI/HnWU-UW/-/,U-),/CC)UCWg/uKgguW/IURMjUW//6gMU6OM/3/#UIu#/IU,UIWoUWJ-OWWtM,Q-Uun-/)WCUgcC/gsuUg#6,/pU//W6UM866MW3C#23U-I3/OqIUO)I/mYWU%Wgg-;,U-W)rC{)UCW)/6OgUuWg/UW/UUW//6:=u6WM/3J#I3W#/I&OU)IO/W0EUWOj/,E-U,WUg)sCU)WCMg%uUgWu/O-UUM-U/MW6UMW6/#PI3#WI3OHIUOWI/G9WU-OW/-,,U-),/CC)UCWgIuJgUuW/6Ur/UUW//3gMU6WM/3C#U3W#/IH%CIWO/WG4UWWj/,L-W)#-/)*CUO,CMg-uU/)MI/7UU/WW3MS6UMWI/OI3U#W3/OvIU-,I/-C,,lWW/-%#U-W,/C8g3u))/ufgUICg/Uo/U3W/#6yMU6WM/3ACC3WO#WUOUIWO/,UZUWWQ/,BCC,W-/){C6)WC/gmU3/)u//oUUO,U/M96U#)OI#{3U#WI#O;IUOWI/63WU8,W/-H,U-W,/C+ggCW)#uSgUuWg/UE/U6g//6uMU6WM/3<#UI)OIILOWIWj3W>0UWW-#,O-U,M-/#ICU)WC//C6-gWUC/x3u/WU/M933Mg6/#I3UD,3/OvIUO/)u;TW,rWM6-H,6-W)#gg)Uu-)/uIgUuWg/3oQWUWM66cMM6WC332#U3g#/I)OUWJO/Ws>UWWC6,>-M,W-#)DC3)WC/g/uUg)u//WUUM-U/M_3MMW36#k33#WIUOwIU-CI/JCWU--W/-W,U-/u/CT),CW#Muwg6uW/#66/UUM//I-MU6WM/IC#M3WOCIhQ-IWO/Wh-3,/j/,I-Ug,-/)0CU)/u>gdu,gW,3/kU6/W3/3O6U#-6/#W3U%,3/-cguOWW3o&WWLW)W-4,U-M,/C/)Uu4)/u_gUuW//UcM-UWMU6hMU6WM/3)#UIC#/IMOUI)O/WF-6WW*O,n-M,WC3)HUUgOC/g,uUg/u/M/UU/W66M56OMW3U#13U#W3/3OIUQUI/BWWULWW/-h-3-W)6CXg1CW)#u^MUUgg/U)/U6b//I-MU6W#_3:#I3WO6IaO#IW.XCprUWMZ/MM-U,,-/)3U-)Wu-g{uWgWuM/iUW/WU/OO6UMW6/#-3U#W3/OJ)uOWI/DaWUTWW/-x,UUI,/C*)UCg)/uJgUuW#gUq/UUW/#6_MU6W###/#U3##/,COUIWO/W3=,WW-C,:II,W-M)FC6)WuVMUuUgWu/CuUU/,U/MUIWMW6/#X/g#W3MOcW3,uI/k3WUC)W/-&,U-WuhCx))CW)Mu1g3uW/CUC/UU#//gWMU6,M/3-#U3/-JI+OUIW3UWF%6WW-#Cg-U,#-/g#CU)WC/g:gugWUu/JU,/WU/MV33IU6/#W3UC-3/O9IU5),,rwWM.W)M-;,U-W)#u/)UuC)/3ugUuWg/6CM6UWMI6oCC6WM/31O3WU#/I/OUW6O/WbAUWW-g,.-g,WCW)aC3)WC//MuU/Au//6UU/WU/#COBMW36#J,3#W3/OeW3-CI/>)WUU3W/-m,UC))/Cp)OCW/CukgUuW/#UW/U6U//W6MU6WM/ICOM3WO,ISULIWO/WbvU,I*/,W-U)6-/)CCU)WUWghuMgWU-/}UU/W6#3/6U#C6/#W3U#W3/DCIIOWWI+1/6PWW/-L)3C),/C/)U3,)/u+gUU)g#UtM-UWOu6EMU6W##IM#UI3#/,WOUIWO/W4-3WW-6,XCC,W-#)BCU)MC/g)uUgMu//0UUM)3-MS6OMWW-#E3U#WI#Z6IU:UI/-3WUGWW/CC),-W),C_g)CW)/u</3M)g/U#/UWV//6hMU3)#-30Ou3WO,IDOUIWO/W6XU,Ca/,O-U,)-/)BC6)WuIgdu3gWu//4UU/MU/M/6UMM6/#L3UO)IgOSW-OW,,_kWUAW,#C6,UC3,/3O)UCW)/UCUMuW/gU8#WUW//6H#33uM/Ip#Ugu#/IvOUW)w3Wv-6WWug,K-U,W-/g/CUgUC//-uUg)u//R6//W6,Ml6,MW6/#YI3#)3/O#IUuWI/QyWU-),O-m)u-WM,CH)UCWg#U6gUUWg/Iu/UUW//3C#,6W#M3^OM3W#/I;J3O#O/,C%UgOL/,<-U,Wu3)Hu-)Wu#gHu3gWu//,UUMuU/MM6UM,6/OCI,#WIWOD))OWI/esWUutW/-M,U-M,/C&)Uu)gCuQ/CuWOIUq/UUWM#66MU3IM/WU#U3W#/WCO,IW>/WvuIWW</,QC3)a-/g-CU#gC/gLuU/)uM/}63/WW#Mm6UMW6/#C3UO63/KCIUO)I/EQ#OxW,,-o,)-W),C4g3)C)/u#gUIOg/UE/U6)MU6r#u6WOu3R#U3W#/I)OUWWO/W3{UWOw/,3u-,WC/)P/I)WCMg7u6gWU;#UUU/WU/Iu6UM,6/#UWW#W3/O(uUOWIMid,3-MW/C5,Uu,,/CT)UCWg)u:/6uW/IU7/UUWM#37MU3)M/W-#U3W#/IU.IIWJ/W8/uWWzM,d-U9u-/gUCUguC//uuUgW/M/Y6W/W6CMN3WMW3COM3UO/3/)#IUO,I/92WU}/gY-1,U-W6)Cs)6CW)/,ggUU/g/U3/UUO//67#M6WOL3xOW3WOUIPOUW-O/,6eU,u;/)u-U,WuU)(u,)WuCgjU,gWu/MWUUM/U/MC6UM)6/#ZI6#WW<O4WWOWW6.JWUCBW/CU,UC/,/Ce)UU#/,uj/WuWI-U4/6UW>M6zMWI/M/3R#U-M#/I-OUI/CYW*hUWW/),=-6,W-/-OCUg/C/gMuUgWu//B,,/W3-Mx3SMW6/#?3UO,3/+UIUO)I/9-WU-),/-S)W-W,#CL)UCW)/u3gUU/g/U-/UU,//6.M#6WM/3R#63W#/IwOUI)O/,U?U,/X/,:-U,)CI)%u,)WC#g8uUgWu/-pUUMMU/M-6UM,6/#UAU#WI/O{-gOWIMrd)UI/W/-#,UC3,/U-)UCWCgux/UuW/-UY/UUWM##/MU3,M/,/#U3W#/WCOMIW+#WHuIWW&/,;C3)W-/guCUMgC/g:uU/)Uu/e6W/W6PM&6UMW3##)3UOM3/O3IUOWI/ykWMYW,/-%),-W,#C?)UUs)/uWgUUWg/U7/UUWOU6E#U6W#-3J#U3WO#WMOUW,O//,jUWWR/)CCW,WC#) UM)WC/g8U3gMu/MuUUH6U/Mx6U#)3J#7IW#W,3O9IUOWW#j)WU-MW/--,U-W,/Clg#CWg/u=/,uWg#U;/U/I//6,MU3WM/3w#U3W6IIPaUIW_CW=r/WW-C#I-U,O-/I6CU),C//;uUg/3q/ZUU/WC-Mc66MW6/Ug3UOW3/O3IUOOI/bZ#O<W,u-T)U-W)UCt)U,u)/UrgUu#g/U,/UU#Cu64M/6Wg/3_#63WO/IrOW,/O/WydU3W*/,--U,W,g)&uU)Wu-gcuUgWU#/IUUM,U/Mg6UMW6/OCI,#WI#On)WOWI/ii,3l#W/Cu,U66,/C{)Uu)/6u_/WuW#IU*/UUWM#36MU3MM/3##U3W#/Ij:gIWi/Ww-,WW #,Q-Ug--/)WCU)#C//{uU/)6-/R6U/W3MM{6UMW6/##3UO,3/OgIUOWI/-CW#TW,#-Qg6-W,/CG)Wu))/U8gUCWg/U-/U6)3I6K#W6WOO3v#U3WOCWMOUWMO/WuSUW,*/,I-U,WUg)vCU)WuUg>uUgWu/#OUU/WU/Mg6UMW6/#5,u#W3/OYWIOWI/8AWUuIW/-A,U-O,/Cl)UCWMguVgUuW/)U./UUW//IOMU6WM/3M#U3W#/IbCuIWO/WD-.WWB/,i-U#3-/gUCU))C/g-uUgW6-/&6I/WU/MY6UMW3wWB3UOW3/MUIUO,I/C3-)BW,)-zWO-W,MCy#gCWgX6UgUuWg/ug/UU,//6w6u6W#/3kO-3W#/IlZ3OMO/,-=UgWk/,B-U,WCC)&uU)WC#g1u6gWU#M,UUMWU/MC6UMW6/#LI3#WI/OsI6OWIM(;WU-#W/-+,U-,,/Cz)UCW/Uuy/UuW//Uf/UUW/#6gMU3,M/33#U3W#/ILUUIW*MWjT6WWRM,=uU:,-/g^CUguC/##uUgW/g/lUg/W6CM+3UMW3#Ou3UOW3/--IUOWI/Jn,/XW,M->,O-W,/CTg3C,)/UCgU6,g/Uo/UU/M,6o#U6W#/3-#63W#/MgOUW/O/Wg<U,gk/,=63,Wu;)%C))WU;g u)g#u/MUUU/#UMM-6U#66/#UWW#W3/OwI)O,IMc7WWC/W/-F,UCI,MC-)UCWCgu}/WuW/,Up/UUW//)6MU3MM/3/#U3W#/I1OOIW-rW.b3WWtM,EC3)W-/gUCU))C/g{uUgW6W/y6W/WUMMS66MW6/OC3U#W3/O-IUOWI/vh,W{W)H-E)W-W,/Cw)3uu)/U6gUu,g/Uc/UUW-/6s#,6WMM3D#63WO(-FOUWWO/W-_6W,_/,3u-,WC/)8C,)WCMgau3gWu/#OUU/WU/M36UMW6/#d,u#W3/ONI#OWI/}jWU66W/C-,U-g,/Cx)Uu)guu8/3uWM?Ua/UUW//3/MU3gM/36#U3W#/WC}MIW-1W?-#WWb/,EC3),-/g6CUgUC/gjuU/)UI/_6)/W3CM16UMW3#OU3UOO3/fgIUOWI/-C,,2W)U-j/g-W,/C=)Ug6)/UugU6Kg/UC/UUWM/67#W6W#-3i#U3WO#IIOUWMO/WOTUWW=/)C-#,WuC)NC,)WC/g5U3MUu/MIUUm6U/M+6U#)IW#kI/#WI6OEIUOWW#rUWUC-W/uM,U-W,/C5/OCW/Hu8/MuWg#Un/UgW//3-MU3/M/3-#UI)H-ID%3IW-MWLDUWW</,#-U)g-/g-CU)WC//Cu#gW60/J36/WU/MB6W#)6/OC3UCC3MO-IUV),-{5,)*W)M-%,U-W,/C#)UuO)/uggUuWg/6CMdUW#U6BO66WM/3J#WWU#/W3OUg-OMW-lUWWWg,+C#,WC/)lCU)WC//UuUMuu//gUU#-U/MP3cMWIW#nI6#WW-ODIU2/I/-)WUCUW/-C,U-#,#Cdg#CW#Uu-g6uWg/UK/W3///6FMU,PMM3-#U3W3gIGz#IW*,WydUWWn/g#-Ugu-/)/CU)WC/gZu/gW63/oU3/WUMMN33OC6/O)3U#)3/OoIUOWWOF5,#DWWM-^,6-W,/Cg)UCW)/u-gUuWg/UU3UUW#C6w( 6,MM3J#W;W#/WCOU).OMW-?U,))I,JC3,W3%)%CU)WuC//uU/)u/O#U6/,U/M-6UM/W(#}3U#W))O-I6OWW#,gWU-)W/Cu,U-W,/CyCuCWgOui/3uWg/Ut/U#O//3UMU3)M/3Y#U3WO6Idx,IWx-W2qUWW-#,3-U)#-//3CU)WC//CU)gW6u/a66/WU/M133Ou6/OW3UuI3/O*IUK)WWzS,MRWWO-=,U-W)#C#)UUC)/I3gUuWg/U2#OUW#-6t##6WM#3y#U)U#/WUOUI)O/WC{UWW-I,GCW,W-M)hC3)Wu#g,uU/Mu/#/UU/WU/#C6gMWIC#%I,#W3/O2IUO)I/-UWU-#W/-N,U-W)6CJgICW)/uZg3uWg#Ug/U6///6IMU6WM/3^U/3WOOI1LWIWO/W7aU,6b/)u-U,W-/)pCU)WuggQuUgWu//4UU/WU/-/6UMW6/#-3U#W3/O,IUOWI/o}WUpWW/-C,U-W,/CZg#CW)/uHgUuWg/UA/U,U//6+MU6,M/3%#U3W#/IqOUI,OMW1GUWWf#,k-U,W-/)NCU,W3gg6uUgWu/#^gC/WUMMD6UMW6M#S3UO 3/O-IUO,I/H-WU>W,3-x,6-W,/CE)UCW)/uugUu,g/U-/UU,//6J#36WM/3%#63W#/IVOUIWO/Wk8UW,+/,.-U,)-/)YCU)WC/gwCUOIU-/wUU/W3/u#6UM,6/#t3U#,3/OmWDOWIMw<W6TWWM-f,UCO,/C-)UCW)/u<gUuW/6UR/6UW/M6 M66WM/3C#U3W#/I-OUIWO/W{BUWW:/,z-W,W-/)YC3)WC/ghuUgWu/g^Wu/W6CMm6UMW6)O,IVOCW-b6I3OWI/SLWUZWW/-N,U-W),Cd)UCW))uMgCCggbu6/C3;/I6//s3#OgIO#U3W#/IJIWIWO/W0_UWWG/,*-U)--/)-CU),C/gEuUgW6w/&U3/WU#M86UMW6/OD3U#,3/O-IUO)I/Xw,MZWW/-S,3-W,#Cb))C,)/uxgUUgg/U-/UU,//6UOW6WM/3KOI3W#MI=OUgMO/W(sUWW_/,+-U))gI)0C6)WC#gTuUgWUCMMUU/)U/M&6UM,6/#u3U#W/OOVIUOWIORFWU^WW/Iu,U-W,/C-)UCW)/u}-IuWg/U&/3UW//6TMU)uM/3-#U3)#/IYOUIW;,WzEUWWw/,f-6,Wu/--CU)WC/g(uUg,u//33R/WU/Mp3IMW6M#V36#WIy-UIUOWI/-uWUw,W/-UgW-W,/C_/CCW)MuK/3UMg/UN/UUg//60MU6WWU3w#U3WOhIrOUIWO/WMQUWWH/,6-U,W-/)Su6)WCMgJu)gWu//+UUM3U/M 6UM)6/#-3UO)ICOaIUOWW^r WUYWW/-M,U-W,/C-)UC,)/u2/3uWg/Ui/6UW//6&MUOtM/3G#U3W#/IXOUI)hIW.l6WWkM,0-U,W-/OaCU),C/g-uUg,u//8,4/WU/MH66MW6/#*33#W3/O_IUOWI/k;WgRWW/-R,UI),/CE)UCW)/uBgUuW/-Ua/6UW/M6>MU6WM/IC#U3)#/ICOUIWO/W*c#WWKM,E-6,W-#)^CUg6C/gYuUg,u//ZUU/W3IMT6UMW6/#B3U#W3/A)IUOWI/ -WUfWW/-J,U-W,/C.)6CW)/u2g3uWg/UV/UUW//Uy-u6MM/34#UWW6)I{O6IWO/Wmp6WWL/)3-U,,-/)-CU),C/gPu)gWuM/yUU/WU/Mq6UMO6/#-3U#,3/O-IUOWW3GYWUyWWM-T,U-W,/C1)UCW)/uLg/uWg/UR/3UW//6QMU6WM/,lCU3WONIhOUIWO),/CC,uB#,Q-U,W-/)QCU)WC/gCuUgWu//NUU/Wg/-s6UMW6/#=3U#)3/OxIUOWI/xGWUUWW#-K,U-W,/Cr)U-W#guCgUuWg/Uf/UUWg/<O-C6WM/3^#U3/#/I6OUIWO/WfnUWW,M,%-,,WC-){CU)WuCg,uUgMu//IUU/,U/MZ6UM/Wd#_3U#WIuOzI6OWI/zUWUrMW/-0,U-W,/CE OCWg-uXg,uWg/U9/U6,//66MU6)M/3T#U3WO=IsO,IWOMWiNUWW //,-U,,-/)6CU),C//CUOgWU-/BUI/WU/MH33M)6/#33U#O3/OtIU9)WuctWgrW,U-H,U-W,/CW)UuL)/u-gUuWg/UmM6UWMU6iM/6W#k3NO33)#/I,OUIgO/WBqU,)C-,Z-#,WC-)KCU)WC//OuU/uu//6UU/)U/O3#)MW3I#KI##W3MObIIOWWnCUWUaWW/C),U-,,/C8)WCWgWuhg3uWg/UB#UMW//6MMU6,M/3C#U3W==IZjuIW8CWB(UWW9/,--U)W-/)3CU)WC/gyu#gWU,/^6U/WU#MJ6U#/6/#/3UOU3/OMIU-WWI=DWM+W,W-h,6-W/Cg3)Uuu)/6ugUu,g/UI/UU/Ow6XMU6WOO3?#63W#/IUOUWUO/WC%UWWB/g%3W,WC,)oC6)WC#gkuUg)u//OUU/#U/M:6UMW3##;IU#WICO&IUOWI/hUWU-6W/C?,U-),/C+gOCWgWuf/SuW/,UD/UUM//6,MU3-M/3/#UW#WCIhOOIWu-Wmk6WW-C,L-Wg/-/)TCUMMC/g-uUMWg}/TUg/W6uM(6gMW6/3W3UOU3/OuIUOWI/G9)-5W,W-.,g-W)WCe/Uu#)/u/gUUUg/UI/UUW#,6j#-6WMO32#U3W?/I6OUW3O/WujUW)j/,_-I,WC/)Juj)WC/gKuU/Iu/M-UUMUU/M>6UMWWI#DIC#WIMOJI3OWI/uVWU-6W/-M,UC3,/Chg/CWg,ukgMuW/,Un/U63//6#MU3CM/37#U3WO)If}uIWOOWw.UWWC/,#-U)W-/)MCU)/C/gKU,gWUg/t6u/W6/MP6U#I6/#)3UO33/OOIUO#M/_DW)%W/3-k,6-W)UC;)WU/)/uqgUICg/U-/UUWMX6e#d6WM/3&#U3W#/-uOUWUO/WV^U,CY/,EC6,WC3)YC3)WC/gL6UC/u//6UU/MU/MI6UOWM5#a3)#WICOBIgOWWPCUWUFWW/C:,U-,,/C+OHCW)/upg6uWg/Uc/UUW//6YM,3%M/3t#U3WOII%OUIWO)WWi/)6CU)/u-guC#gIuU))C/gBuUgWu//_uUpIU/M66UMW6/M#W-P)W6O#IUO#I/S<WUf3)6-/,#CMg-Cfg-CW)/umgC6U/)6MM)63#,6)O-3C#II6OC3)#/IoOUIWO/WEkU/W}/,I-U,W-/,#UJ/6UI/CUg/Wu//3UU/WU//#I-#C3IO6ICuM3/OEIU{)/OH+W3sW,7-H,U-W,/u/)UCg)/u(gUuWg/USM-UWM{6^M66WM/3(#UWu#/IuOUIgO/WUoUWWCW,2-W,W-/)JCU)WC/g)uUg/u//UUU/WU/MH3IMW3-#}3U#W3/O;IUCuI/TCWUFMW/-C,U-#M3C )3CWgWu>g6uWg/Uh/W3///6.MU3UM/3-#U3WO3I*OIIWOMWF_UWW4/)--U,g-/)CCU)WC//C/OgWuO/jUI/WU/Mf6U6I6/#U3U#,3/OeIUOW)3V{WI1WW#-_,3-W/Cg3)UCg)/6#gUu,g/UI/UU/OE6>MU6W0)3=#63W#/IUOUIgO/WNGUWW*/,oIO,W-O)dCI)WCMg_u)MUu//uUUMOU/M-6UM,6/#UWW#W3/O%WgOWIMBjWU-CW/-u,U-W,/CB)UCWgMu=gIuWg#Us/UUW//6UMU6gM/3T#U3W#/I_6OIWOOWjJIWWKM,F-U)C-/)UCU)WC/gSuUgWU>/VU,/WU/Md6UMW3COM3U##3/OPIUO,I/K-WUsWgg-?,U-W)7C<)UCW)/MugUuMg/U-/UU#//3C3O6W#-3y#,3W#/IhOUgMO/W38UWWA/,*-U,W3-)qCg)WC/g?u6gWUCMMUUM0U/MC6UM,6/#-3U#W,gOqIUOWWV:yWU5W,/,I,U-O,/C-)Uu{)/uE/#uW/-Us/gUW/#6b#33gM/33#U3/#/I;OUIWOMWD.gWWD/,n-U,W-/g)CU)OC/gIuUgWu//yU//W6UM_6,MW6/#j3UO,3/O3IU8wI/b-WU5W,d-*,)-W,/CK)UCW)/MugUu#g/U-/UUg//6Z#66W#_3Y#33W#/I OU#MO/WuFUWWy/,m-U))gI)xCI)WCOg;uUgWu/uOUU//U/M-6UMW6/#kW##W3OOQI3OWI#_A))CQW/-u,UU/,/C-)Uu=)/uUMWuWg/U%OWUW/M6=MWI/M/3i#Ug/#/I-OUIWwaWqwIWWf/,?-U,Wu/C)CU)/C/g-uUg)u//9UM/WUOMp6IMW3c#+WU 63/OUIUO,I/a3WU<W)3-+,I-W,OC&)WCW)/u/gUu/g/Uv/UUW//6T##6W#-3y#U3W#/Ix-UW,O/W3RUW,V/,C-U,WWI)pC,)Wu-gPu)gW6/u-UU/#U/M-6UM#6/#3W-#WIuOkI6OWIM:zW6:WW/uO,U-W,/CU)UCW)/ud6IuW/-Ui/)UWMu6%#3OuM/36#U3M#/IpOUIWU-WsJ)WW_/,t-U,W-/#6CU)OC/gYuUg,u//33-/W6UMm6IMW6M#L36#W3/-OIUOWI/KUWU_WW/C}-g-W)uCx)6CWgUu+gUU3g/U6/UUO//6CMU3)#u3S#)3WOcIDOUIWO/,usUWOZ/,2-U,W-/)luC)Wuug.uggWu//SUU/OU/MW6UMM6/#b3U#WIUOaI)OWWUT{W6&WW/-U,U-#,/C=)UCW)/6r/UuW/uU</6UW/#6%MU6OM/33#U3##/IIOU,W-WW^2gWWJM,L-),W-/)UCU)#C/gIuUggu//S6u/W6^M763MW6/#F3UO)3/OuIUOWI/h.WU:WMW-F,U-W,MCD)UCWgGudgUuWg/Un/UUWM*6_MU6WM/3)#U3,#/I-OUIWO/Wd-#WW2M,h-U,W-/)hCUOUC/g.uUg,u//=UU/W,WMH6UMW6M#{3U#W3/OoIUOWIMakWUVWW/-U,U-W,/CH)#CW)Muxg6uWg/UD/U3C//6-MU6WM/3.#U3WuWI9OUIWOMWaiUWW9/M/-U,W-/)-CU)WC/gNuUgWu//-UU/WU/M_6IMW6/#k3UOC3/O4IUO,I/_fWU W)3-1,U-W,/C+)UCW)/I/gUuWg/U-/UUW//6_MU6WM/3t#U3W#/IQOIIWO/W< U,C(/,{-U,,-/)TCU)WU3gRuUgWu//8UU/WU/-/6UMW6/#-3U#W3/OBIUOWI/:NW3L,W/-B,U-),/Ca)UCW)/uJ)UII/-Uz/UUW#/g#MU6,M/3J#U3,#/I Z6IWOMWR;6WWpM,^-U))-/)-CU)WC/gquUgWU-/QU6/WUMM?66MW6/O63U#W3/O-IUOWI/pPWUSWW/-_,I-W,/CK)Uu,)/uqgUu3)gU#M-63#I6)#,C-O/3)Eru-OMI#%OW3O/W^HUWWL/,NCU,W-/)nCC,UuI/W63/,u#gFUCMMUg#3u#O)IuOI3/#W3/Ol,)W#I/EwWU0MW/--,U-),/CU/WCW)/ufg,uWgMUPM3#u//6-MU6gM/3V#U3WOMIrO6IWO#W<bUWW-2gU-U,W-/)ICU),C//CU,gWuM/9U6/WU/Mk6U#,6/#-3U#)3/OiIUOW/WpeWU_WWM-x,U-W,/Cw)UCW)MuIgUuWg/Uj/UUW//6.M36WM/3m#U3W#/3_uuIWvCWF7UWWIOLUW3P-W)%ICU)MC/g?uUC/,MCCg2CMU/M-6UMW6/M#33#W3/OkIUOWI/Il/U_)W/-B,U-W,/C_)U3WMOuSgUuWg/UU/UU,//6qMU6WM/3e3u3W##IpOUIWO/WPxUgCV/,--U,)-/)CCU/#UUgmu6gWUC/PU6/W61Mi6WO/6/#:3U##3/O-IUO/)JFNWUrW,,-H,6-W,/CU)UC,)/u-gUuWg/UrUuUW/#6ZMU6WM/3%#)W6#/IuOUIWO/W-FUW)N/,cUu,W-/)pCU)WC/g;uU-gu//rUU/)U/Ma6UMWgg#r36#W3OOxI6OWW?CUWU=WW/U-,U-,,/Cc)WCW)MuEgUuWg/UR/U/I//6CMU6WM/3T#U3W-3I_O6IWO#Wo{3WWuCC3-U,,-/M-CU),C/guuUg/3_/JUU/WIMMN66MW6/3,3U#,3/ObIUOWI/_#OgHWW#-_/6-W,MCH)6CWg:6UgUuWg/I-/UU,//6yMW6WMM32#I3W#/I_OUMMO/WCAUWW8/,t-U))Cg){CI)WC#gquUgWU#/3UU//U/MC6UMW6/#{I3#W3MONIWOWI#{l))z,W/--,UU,,/C-)UCM)/uUMWuWg/U1O6UW/M6L#33MM/3-#U3,#/I5OUW)--W?r3WW-u,%-U,W-/)#CU)gC/gEuUgWu/MC37/W69M;63MW6/#<3WO,3/OCIUCWI/X-WUbW9g-7,)-W,MCi)UCW)/)CgUuOg/UU/UUW//6_M#6W#U3+#W3W#/IzOUWcO/W,yUWgr/,w-U,WCM)YC#)WC/g8uUgWu/M)UUMuU/M66UMW6/#?I)#WIWOoI,OWI/JzWU-CW/-,,UCU,/CC)UCW-IuGg/uW/UU0/MUW//)CMU3-M/36#U3W#/IdO3IWSUWxL/WW-6,yuU,M-/)WCUgaC/g3uUgWU9/bUg/W6uM56/MW6/Og3U#,3/O3IUOOI/9UCU*WW#-7g6-W,MC4)Uu,)/u-gUu)g/U>/UUWMM6;MU6WM#3Z#U3W#/g/OUIWO/W-7UWW(/,--U,W-/)>CU)WC/g3uUgWu//2)#/WU#M<6UMW6/#L3U#O3/OuIUO,I/=tWU=WW#-v,W-W,MCL)UCW)/U6gUugg/UC/UU)//6AMW6WM#3v#U3W#OIHOUW-O/W{BUW,T/,:-U,W-/)FCU))CMg4");local n=u.HkKYMLoM;u.FzqhjVDX(function()u.JHfiWeFt()n=n+u.XRqvyrXl end)local function e(d,e)if e then return n end;n=d+n;end local d,n,o=h(u.HkKYMLoM,h,e,g,u.nwfvcJLY);local function f()local d,n=u.nwfvcJLY(g,e(u.XRqvyrXl,u.WZchRvuh),e(u.FcVrC_kA,u.Pc_cLQzK)+u.yLRIgXkJ);e(u.yLRIgXkJ);return(n*u.cUTgrRwt)+d;end;local ne=true;local c=u.HkKYMLoM local function p()local e=n();local n=n();local t=u.XRqvyrXl;local l=(d(n,u.XRqvyrXl,u.uO_Ugrui)*(u.yLRIgXkJ^u.rkApcGrm))+e;local e=d(n,u.vkTZYhjM,u.XUSdXcAK);local n=((-u.XRqvyrXl)^d(n,u.rkApcGrm));if(e==u.HkKYMLoM)then if(l==c)then return n*u.HkKYMLoM;else e=u.XRqvyrXl;t=u.HkKYMLoM;end;elseif(e==u.leHkEFjR)then return(l==u.HkKYMLoM)and(n*(u.XRqvyrXl/u.HkKYMLoM))or(n*(u.HkKYMLoM/u.HkKYMLoM));end;return u.XTIlmqfE(n,e-u._fEtQgtR)*(t+(l/(2^52)));end;local _=n;local function k(n)local d;if(not n)then n=_();if(n==0)then return'';end;end;d=u.ovZkbPAl(g,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+c),#d do e=e..u.ovZkbPAl(d,n,n)end return e;end;local _=#u.TVneQaiA(s('\49.\48'))~=1 local e=n;local function te(...)return{...},u.nTDJmHqe('#',...)end local function le()local e={};local g={};local s={};local c={s,g,nil,e};local e=n()local r={}for l=1,e do local d=o();local n;if(d==3)then n=(o()~=#{});elseif(d==2)then local e=p();if _ and u.nYXffW_L(u.TVneQaiA(e),'.(\48+)$')then e=u.fjPaUTik(e);end n=e;elseif(d==0)then n=k();end;r[l]=n;end;for g=1,n()do local e=o();if(d(e,1,1)==0)then local h=d(e,2,3);local u=d(e,4,6);local e={f(),f(),nil,nil};if(h==0)then e[t]=f();e[a]=f();elseif(h==#{1})then e[t]=n();elseif(h==b[2])then e[t]=n()-(2^16)elseif(h==b[3])then e[t]=n()-(2^16)e[a]=f();end;if(d(u,1,1)==1)then e[l]=r[e[l]]end if(d(u,2,2)==1)then e[t]=r[e[t]]end if(d(u,3,3)==1)then e[a]=r[e[a]]end s[g]=e;end end;for e=1,n()do g[e-(#{1})]=le();end;c[3]=o();return c;end;local function de(d,n,e)local l=n;local l=e;return s(u.nYXffW_L(u.nYXffW_L(({u.FzqhjVDX(d)})[2],n),e))end local function c(m,g,s)local function le(...)local f,_,z,de,k,n,o,p,ee,y,b,d;local e=0;while-1<e do if 3>e then if 1<=e then if-1<=e then repeat if e~=1 then n=-41;o=-1;break;end;z=h(6,39,3,28,m);k=te de=0;until true;else n=-41;o=-1;end else f=h(6,9,1,71,m);_=h(6,20,2,40,m);end else if 5<=e then if 1<e then repeat if e>5 then e=-2;break;end;d=h(7);until true;else e=-2;end else if e~=2 then for n=46,59 do if e~=4 then p={};ee={...};break;end;y=u.nTDJmHqe('#',...)-1;b={};break;end;else y=u.nTDJmHqe('#',...)-1;b={};end end end e=e+1;end;for e=0,y do if(e>=z)then p[e-z]=ee[e+1];else d[e]=ee[e+1];end;end;local z=y-z+1 local e;local h;function dUJKLUoRcCmv()ne=false;end;local function y(...)while true do end end while ne do if n<-40 then n=n+42 end e=f[n];h=e[j];if h<86 then if 43<=h then if h>63 then if h>=75 then if h<=79 then if h>=77 then if h>77 then if h~=78 then local e=e[l]d[e]=d[e](d[e+1])else local t,u,r,h,o,a;for g=0,1 do if g==1 then t=e[l];u={};for e=1,#b do r=b[e];for e=0,#r do h=r[e];o=h[1];a=h[2];if o==d and a>=t then u[a]=o[a];h[1]=u;end;end;end;else t=e[l]d[t](d[t+1])n=n+1;e=f[n];end end end else local h,r,g,o,h,h,a,c,b,k,s,u;for h=0,6 do if 3>h then if 1<=h then if 0<=h then repeat if h~=2 then h=0;while h>-1 do if 2>=h then if 1<=h then if-3<h then repeat if 2>h then r=l;break;end;g=t;until true;else r=l;end else a=e;end else if 5<=h then if h==5 then d(u,o);else h=-2;end else if 1<=h then for e=21,89 do if 3<h then u=a[r];break;end;o=a[g];break;end;else o=a[g];end end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if h>=4 then if h<6 then if 4~=h then u=a[c];else s=k[a[b]];end else if h>=4 then for e=36,53 do if h~=7 then d[u]=s;break;end;h=-2;break;end;else d[u]=s;end end else if 2<=h then if-2~=h then repeat if h~=2 then k=d;break;end;b=t;until true;else b=t;end else if h>-2 then for n=43,94 do if 1>h then a=e;break;end;c=l;break;end;else c=l;end end end h=h+1 end n=n+1;e=f[n];until true;else h=0;while h>-1 do if h>=4 then if h<6 then if 4~=h then u=a[c];else s=k[a[b]];end else if h>=4 then for e=36,53 do if h~=7 then d[u]=s;break;end;h=-2;break;end;else d[u]=s;end end else if 2<=h then if-2~=h then repeat if h~=2 then k=d;break;end;b=t;until true;else b=t;end else if h>-2 then for n=43,94 do if 1>h then a=e;break;end;c=l;break;end;else c=l;end end end h=h+1 end n=n+1;e=f[n];end else d[e[l]]={};n=n+1;e=f[n];end else if h>4 then if h==6 then h=0;while h>-1 do if h>2 then if h>4 then if 1~=h then repeat if h<6 then d(u,o);break;end;h=-2;until true;else d(u,o);end else if h>3 then u=a[r];else o=a[g];end end else if h<=0 then a=e;else if 0<h then repeat if 1<h then g=t;break;end;r=l;until true;else g=t;end end end h=h+1 end else h=0;while h>-1 do if h<=2 then if 1<=h then if 2==h then g=t;else r=l;end else a=e;end else if h>=5 then if 4<=h then for e=43,53 do if h>5 then h=-2;break;end;d(u,o);break;end;else h=-2;end else if h<4 then o=a[g];else u=a[r];end end end h=h+1 end n=n+1;e=f[n];end else if h~=1 then for s=18,80 do if h~=3 then h=0;while h>-1 do if h>=3 then if h>=5 then if h>4 then for e=49,69 do if h>5 then h=-2;break;end;d(u,o);break;end;else d(u,o);end else if h~=4 then o=a[g];else u=a[r];end end else if h>=1 then if h~=2 then r=l;else g=t;end else a=e;end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if 3>h then if h<=0 then a=e;else if-1~=h then repeat if h>1 then g=t;break;end;r=l;until true;else r=l;end end else if 4>=h then if 1<=h then for e=39,63 do if 3<h then u=a[r];break;end;o=a[g];break;end;else u=a[r];end else if h==6 then h=-2;else d(u,o);end end end h=h+1 end n=n+1;e=f[n];break;end;else h=0;while h>-1 do if 3>h then if h<=0 then a=e;else if-1~=h then repeat if h>1 then g=t;break;end;r=l;until true;else r=l;end end else if 4>=h then if 1<=h then for e=39,63 do if 3<h then u=a[r];break;end;o=a[g];break;end;else u=a[r];end else if h==6 then h=-2;else d(u,o);end end end h=h+1 end n=n+1;e=f[n];end end end end end else if h>71 then for n=15,70 do if h<76 then local e=e[l]local l,n=k(d[e](d[e+1]))o=n+e-1 local n=0;for e=e,o do n=n+1;d[e]=l[n];end;break;end;do return end;break;end;else local e=e[l]local l,n=k(d[e](d[e+1]))o=n+e-1 local n=0;for e=e,o do n=n+1;d[e]=l[n];end;end end else if h<83 then if h>80 then if h>80 then repeat if h~=81 then local u,h;for r=0,4 do if r<=1 then if 0~=r then d[e[l]]=d[e[t]]+d[e[a]];n=n+1;e=f[n];else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else if 3<=r then if 2<r then for o=21,73 do if r~=3 then u=e[t];h=d[u]for e=u+1,e[a]do h=h..d[e];end;d[e[l]]=h;break;end;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;else u=e[t];h=d[u]for e=u+1,e[a]do h=h..d[e];end;d[e[l]]=h;end else d[e[l]]=d[e[t]]%e[a];n=n+1;e=f[n];end end end break;end;d[e[l]][d[e[t]]]=d[e[a]];until true;else d[e[l]][d[e[t]]]=d[e[a]];end else d[e[l]]();end else if 83>=h then for h=0,6 do if h<=2 then if 0>=h then d[e[l]]=s[e[t]];n=n+1;e=f[n];else if 0<=h then repeat if h<2 then d[e[l]]=g[e[t]];n=n+1;e=f[n];break;end;d[e[l]]=g[e[t]];n=n+1;e=f[n];until true;else d[e[l]]=g[e[t]];n=n+1;e=f[n];end end else if 5>h then if h>1 then repeat if 4>h then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;d[e[l]]=g[e[t]];n=n+1;e=f[n];until true;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end else if h>2 then for u=32,96 do if 5<h then d[e[l]]={};break;end;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end end end else if h==85 then local h;d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[l],e[t]do d[e]=nil;end;else local h,o;for u=0,5 do if 3>u then if u>0 then if 2>u then d[e[l]]=d[e[t]];n=n+1;e=f[n];else d[e[l]]=d[e[t]];n=n+1;e=f[n];end else h=e[l];o=d[e[t]];d[h+1]=o;d[h]=o[e[a]];n=n+1;e=f[n];end else if u>=4 then if u>4 then d[e[l]]=d[e[t]]+d[e[a]];else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end else h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];end end end end end end end else if h<=68 then if 65<h then if h<=66 then local c,u,o,k,s,r,b,g,_,h;for h=0,1 do if-1<h then repeat if 1>h then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;h=0;while h>-1 do if h>=3 then if h>=5 then if 5~=h then h=-2;else n=_;end else if 1<h then for e=23,83 do if 3~=h then _=b==g and u[r]or 1+o;break;end;b=c[k];g=c[s];break;end;else _=b==g and u[r]or 1+o;end end else if h<1 then c=d;else if h>=-3 then repeat if 1~=h then k=u[l];s=u[a];r=t;break;end;u=e;o=n;until true;else k=u[l];s=u[a];r=t;end end end h=h+1 end until true;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end else if 65<h then for u=26,69 do if 68~=h then local h;d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[l],e[t]do d[e]=nil;end;break;end;local h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];break;end;else local h;d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[l],e[t]do d[e]=nil;end;end end else if 62<=h then for u=22,97 do if h~=64 then local h;h=e[l]d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]=s[e[t]];break;end;d[e[l]]=d[e[t]][e[a]];break;end;else d[e[l]]=d[e[t]][e[a]];end end else if h>71 then if h<73 then do return d[e[l]]end else if h~=74 then local l=e[l];local n=d[e[t]];d[l+1]=n;d[l]=n[e[a]];else d[e[l]]={};end end else if h<70 then d[e[l]]={};else if h~=67 then for n=11,57 do if h<71 then s[e[t]]=d[e[l]];break;end;local e=e[l];do return r(d,e,o)end;break;end;else local e=e[l];do return r(d,e,o)end;end end end end end else if 53>h then if 48>h then if h>=45 then if 45>=h then if d[e[l]]then n=n+1;else n=e[t];end;else if 47>h then local r,o,u,g,b,c,h,a;h=0;while h>-1 do if h>=4 then if h>=6 then if 7~=h then d[c]=b;else h=-2;end else if h>4 then c=r[o];else b=g[r[u]];end end else if h>1 then if-1~=h then for e=22,53 do if h~=3 then u=t;break;end;g=d;break;end;else u=t;end else if 1~=h then r=e;else o=l;end end end h=h+1 end n=n+1;e=f[n];a=e[l]d[a](d[a+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;else local f,h,a,o,r,u;local n=0;while n>-1 do if 3<n then if n<=5 then if 1~=n then repeat if 4<n then u=f[h];break;end;r=o[f[a]];until true;else u=f[h];end else if 4<n then repeat if 7>n then d[u]=r;break;end;n=-2;until true;else n=-2;end end else if 1<n then if 1~=n then repeat if n~=3 then a=t;break;end;o=d;until true;else a=t;end else if-3~=n then repeat if n~=0 then h=l;break;end;f=e;until true;else f=e;end end end n=n+1 end end end else if h==43 then local n=e[l]d[n]=d[n](r(d,n+1,e[t]))else s[e[t]]=d[e[l]];end end else if 50>h then if 47~=h then for u=28,85 do if 48~=h then local h,o,g,a,r,u;d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];do return d[e[l]]end n=n+1;e=f[n];h=e[l];o={};for e=1,#b do g=b[e];for e=0,#g do a=g[e];r=a[1];u=a[2];if r==d and u>=h then o[u]=r[u];a[1]=o;end;end;end;n=n+1;e=f[n];n=e[t];break;end;local u,h;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]]+d[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]]%e[a];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];u=e[t];h=d[u]for e=u+1,e[a]do h=h..d[e];end;d[e[l]]=h;break;end;else local u,h;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]]+d[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]]%e[a];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];u=e[t];h=d[u]for e=u+1,e[a]do h=h..d[e];end;d[e[l]]=h;end else if h<51 then d[e[l]]();else if 52==h then g[e[t]]=d[e[l]];else local h;d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d(e[l],e[t]);end end end end else if 58<=h then if h<61 then if 59<=h then if h>55 then repeat if 60>h then local h,a,r;for u=0,2 do if 1>u then d[e[l]]=#d[e[t]];n=n+1;e=f[n];else if 2==u then h=e[l];a=d[h]r=d[h+2];if(r>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end else d(e[l],e[t]);n=n+1;e=f[n];end end end break;end;local h,g,u,a;h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];h=e[l]d[h]=d[h]()n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];h=e[l]g,u=k(d[h](r(d,h+1,e[t])))o=u+h-1 a=0;for e=h,o do a=a+1;d[e]=g[a];end;n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,o))until true;else local h,a,u;for r=0,2 do if 1>r then d[e[l]]=#d[e[t]];n=n+1;e=f[n];else if 2==r then h=e[l];a=d[h]u=d[h+2];if(u>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end else d(e[l],e[t]);n=n+1;e=f[n];end end end end else if d[e[l]]then n=n+1;else n=e[t];end;end else if h>61 then if h>=58 then for u=34,60 do if 63~=h then d[e[l]]=(e[t]~=0);break;end;local h,u;h=e[l];u=d[e[t]];d[h+1]=u;d[h]=u[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];h=e[l];u=d[e[t]];d[h+1]=u;d[h]=u[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];break;end;else local h,u;h=e[l];u=d[e[t]];d[h+1]=u;d[h]=u[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];h=e[l];u=d[e[t]];d[h+1]=u;d[h]=u[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];end else local n=e[l];do return d[n](r(d,n+1,e[t]))end;end end else if 54<h then if 55<h then if h>56 then for h=0,6 do if 2>=h then if 0<h then if 0~=h then repeat if h>1 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end else if h>4 then if 3~=h then repeat if h~=5 then d(e[l],e[t]);break;end;d[e[l]]=d[e[t]]-d[e[a]];n=n+1;e=f[n];until true;else d(e[l],e[t]);end else if h>=1 then repeat if 3~=h then d[e[l]]=#d[e[t]];n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end end end else local n=e[l]local l,e=k(d[n](r(d,n+1,e[t])))o=e+n-1 local e=0;for n=n,o do e=e+1;d[n]=l[e];end;end else local n=e[l]d[n](r(d,n+1,e[t]))end else if h<54 then d[e[l]]=#d[e[t]];else for h=0,1 do if 1==h then if not d[e[l]]then n=n+1;else n=e[t];end;else d[e[l]]=s[e[t]];n=n+1;e=f[n];end end end end end end end else if h>20 then if h<=31 then if 25>=h then if h>=23 then if h<24 then for h=0,6 do if h<=2 then if 1>h then d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];else if h>=-1 then for a=35,86 do if 2~=h then s[e[t]]=d[e[l]];n=n+1;e=f[n];break;end;d[e[l]]=s[e[t]];n=n+1;e=f[n];break;end;else d[e[l]]=s[e[t]];n=n+1;e=f[n];end end else if 5<=h then if h>2 then repeat if h~=5 then s[e[t]]=d[e[l]];break;end;d[e[l]]=(e[t]~=0);n=n+1;e=f[n];until true;else s[e[t]]=d[e[l]];end else if h~=-1 then repeat if h~=4 then d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];break;end;s[e[t]]=d[e[l]];n=n+1;e=f[n];until true;else s[e[t]]=d[e[l]];n=n+1;e=f[n];end end end end else if h==25 then local u;for h=0,6 do if 2>=h then if h<1 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];else if h>0 then repeat if 2>h then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];until true;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end else if h<=4 then if 0<=h then repeat if 4~=h then u=e[l]d[u]=d[u](d[u+1])n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];until true;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end else if h==5 then d[e[l]]=#d[e[t]];n=n+1;e=f[n];else if(d[e[l]]~=e[a])then n=n+1;else n=e[t];end;end end end end else if(d[e[l]]~=e[a])then n=n+1;else n=e[t];end;end end else if 20<=h then for f=39,90 do if h>21 then local f=d[e[a]];if not f then n=n+1;else d[e[l]]=f;n=e[t];end;break;end;local f,u,r,a,h;local n=0;while n>-1 do if 2>=n then if n<=0 then f=e;else if 1==n then u=l;else r=t;end end else if n<=4 then if n<4 then a=f[r];else h=f[u];end else if 5~=n then n=-2;else d(h,a);end end end n=n+1 end break;end;else local f=d[e[a]];if not f then n=n+1;else d[e[l]]=f;n=e[t];end;end end else if h>28 then if 29<h then if h==30 then d[e[l]]=d[e[t]]%d[e[a]];else d[e[l]]=d[e[t]]%d[e[a]];end else local o=_[e[t]];local r;local h={};r=u.HElqhauY({},{__index=function(n,e)local e=h[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=h[e]e[1][e[2]]=n;end;});for l=1,e[a]do n=n+1;local e=f[n];if e[j]==47 then h[l-1]={d,e[t]};else h[l-1]={g,e[t]};end;b[#b+1]=h;end;d[e[l]]=c(o,r,s);end else if 26<h then if 25~=h then for f=19,87 do if h~=28 then d[e[l]][e[t]]=d[e[a]];break;end;if not d[e[l]]then n=n+1;else n=e[t];end;break;end;else if not d[e[l]]then n=n+1;else n=e[t];end;end else g[e[t]]=d[e[l]];end end end else if 36<h then if 40<=h then if h<=40 then local a;for h=0,6 do if h>=3 then if h<=4 then if h>0 then repeat if 4~=h then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end else if h<6 then d(e[l],e[t]);n=n+1;e=f[n];else a=e[l]d[a]=d[a](r(d,a+1,e[t]))end end else if h<=0 then d[e[l]]=d[e[t]];n=n+1;e=f[n];else if h~=-3 then repeat if 1~=h then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end end end else if h~=38 then repeat if 41<h then local e=e[l]d[e]=d[e](d[e+1])break;end;local h;d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=d[e[t]];until true;else local h;d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=d[e[t]];end end else if h<=37 then for e=e[l],e[t]do d[e]=nil;end;else if h~=39 then local e=e[l];o=e+z-1;for n=e,o do local e=p[n-e];d[n]=e;end;else local l=e[l];local f=d[l]local h=d[l+2];if(h>0)then if(f>d[l+1])then n=e[t];else d[l+3]=f;end elseif(f<d[l+1])then n=e[t];else d[l+3]=f;end end end end else if h<=33 then if 33>h then d[e[l]]=d[e[t]]*e[a];else if(e[l]<d[e[a]])then n=n+1;else n=e[t];end;end else if 35>h then d[e[l]]=d[e[t]]-d[e[a]];else if 31<=h then repeat if 36~=h then local f=e[l];local t={};for e=1,#b do local e=b[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==d and n>=f then t[n]=l[n];e[1]=t;end;end;end;break;end;n=e[t];until true;else n=e[t];end end end end end else if 9>=h then if h>=5 then if 6>=h then if h~=5 then d[e[l]]=d[e[t]]-d[e[a]];else local l=e[l];local h=d[l+2];local f=d[l]+h;d[l]=f;if(h>0)then if(f<=d[l+1])then n=e[t];d[l+3]=f;end elseif(f>=d[l+1])then n=e[t];d[l+3]=f;end end else if h<8 then local u,s,g,b,o,h,c;for h=0,6 do if 3<=h then if 5<=h then if h~=5 then d[e[l]]=d[e[t]][d[e[a]]];else c=e[l]d[c]=d[c](r(d,c+1,e[t]))n=n+1;e=f[n];end else if 0<=h then repeat if h<4 then h=0;while h>-1 do if h<3 then if 1<=h then if 1==h then s=l;else g=t;end else u=e;end else if h<5 then if h>2 then repeat if h~=3 then o=u[s];break;end;b=u[g];until true;else o=u[s];end else if 5~=h then h=-2;else d(o,b);end end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if h<=2 then if 1>h then u=e;else if 0<=h then repeat if h<2 then s=l;break;end;g=t;until true;else g=t;end end else if h>4 then if h~=6 then d(o,b);else h=-2;end else if h~=2 then for e=22,96 do if 4>h then b=u[g];break;end;o=u[s];break;end;else o=u[s];end end end h=h+1 end n=n+1;e=f[n];until true;else h=0;while h>-1 do if h<3 then if 1<=h then if 1==h then s=l;else g=t;end else u=e;end else if h<5 then if h>2 then repeat if h~=3 then o=u[s];break;end;b=u[g];until true;else o=u[s];end else if 5~=h then h=-2;else d(o,b);end end end h=h+1 end n=n+1;e=f[n];end end else if h>0 then if-1~=h then for a=35,69 do if 2~=h then h=0;while h>-1 do if 3<=h then if h<5 then if h~=3 then o=u[s];else b=u[g];end else if 5~=h then h=-2;else d(o,b);end end else if 1>h then u=e;else if h~=-2 then repeat if h<2 then s=l;break;end;g=t;until true;else s=l;end end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if h>2 then if 5<=h then if 4~=h then repeat if 5~=h then h=-2;break;end;d(o,b);until true;else h=-2;end else if h>3 then o=u[s];else b=u[g];end end else if 1>h then u=e;else if-2<h then repeat if 2>h then s=l;break;end;g=t;until true;else g=t;end end end h=h+1 end n=n+1;e=f[n];break;end;else h=0;while h>-1 do if h>2 then if 5<=h then if 4~=h then repeat if 5~=h then h=-2;break;end;d(o,b);until true;else h=-2;end else if h>3 then o=u[s];else b=u[g];end end else if 1>h then u=e;else if-2<h then repeat if 2>h then s=l;break;end;g=t;until true;else g=t;end end end h=h+1 end n=n+1;e=f[n];end else h=0;while h>-1 do if h<3 then if 0>=h then u=e;else if h>1 then g=t;else s=l;end end else if 4>=h then if 1<h then repeat if h~=4 then b=u[g];break;end;o=u[s];until true;else b=u[g];end else if 2~=h then repeat if h~=5 then h=-2;break;end;d(o,b);until true;else d(o,b);end end end h=h+1 end n=n+1;e=f[n];end end end else if 4~=h then for a=22,59 do if h~=8 then local h,a,u;for r=0,2 do if r>=1 then if r>=-3 then repeat if r~=1 then h=e[l];a=d[h]u=d[h+2];if(u>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else h=e[l];a=d[h]u=d[h+2];if(u>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end end else d(e[l],e[t]);n=n+1;e=f[n];end end break;end;local t,r,h;for a=0,1 do if a~=-3 then for g=19,54 do if 0<a then t=e[l];h=d[t];for e=t+1,o do u.vORUYrji(h,d[e])end;break;end;t=e[l];o=t+z-1;for e=t,o do r=p[e-t];d[e]=r;end;n=n+1;e=f[n];break;end;else t=e[l];h=d[t];for e=t+1,o do u.vORUYrji(h,d[e])end;end end break;end;else local t,r,h;for a=0,1 do if a~=-3 then for g=19,54 do if 0<a then t=e[l];h=d[t];for e=t+1,o do u.vORUYrji(h,d[e])end;break;end;t=e[l];o=t+z-1;for e=t,o do r=p[e-t];d[e]=r;end;n=n+1;e=f[n];break;end;else t=e[l];h=d[t];for e=t+1,o do u.vORUYrji(h,d[e])end;end end end end end else if 1>=h then if-2~=h then for n=33,74 do if 1>h then d[e[l]]=d[e[t]]*e[a];break;end;d[e[l]]=d[e[t]]+d[e[a]];break;end;else d[e[l]]=d[e[t]]*e[a];end else if 3>h then d[e[l]]=d[e[t]]%e[a];else if h~=4 then d[e[l]]=d[e[t]]+d[e[a]];else d[e[l]]=g[e[t]];end end end end else if h<=14 then if 11<h then if 13>h then local u,o,r,g,b,h,c,k,_;for h=0,6 do if 2<h then if h>4 then if 5==h then h=0;while h>-1 do if h>2 then if 4>=h then if h<4 then g=u[r];else b=u[o];end else if h~=5 then h=-2;else d(b,g);end end else if h<1 then u=e;else if h>-1 then for e=24,97 do if 1~=h then r=t;break;end;o=l;break;end;else o=l;end end end h=h+1 end n=n+1;e=f[n];else c=e[l];k=d[c]_=d[c+2];if(_>0)then if(k>d[c+1])then n=e[t];else d[c+3]=k;end elseif(k<d[c+1])then n=e[t];else d[c+3]=k;end end else if 1<h then for a=29,85 do if 3<h then h=0;while h>-1 do if 2<h then if 4<h then if 2<=h then for e=43,93 do if 5~=h then h=-2;break;end;d(b,g);break;end;else h=-2;end else if h~=-1 then for e=26,83 do if h~=3 then b=u[o];break;end;g=u[r];break;end;else g=u[r];end end else if 1>h then u=e;else if h~=-2 then repeat if 2~=h then o=l;break;end;r=t;until true;else r=t;end end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if 2<h then if 4>=h then if-1<h then repeat if 3~=h then b=u[o];break;end;g=u[r];until true;else b=u[o];end else if 5~=h then h=-2;else d(b,g);end end else if h>=1 then if-1<h then repeat if h~=1 then r=t;break;end;o=l;until true;else o=l;end else u=e;end end h=h+1 end n=n+1;e=f[n];break;end;else h=0;while h>-1 do if 2<h then if 4<h then if 2<=h then for e=43,93 do if 5~=h then h=-2;break;end;d(b,g);break;end;else h=-2;end else if h~=-1 then for e=26,83 do if h~=3 then b=u[o];break;end;g=u[r];break;end;else g=u[r];end end else if 1>h then u=e;else if h~=-2 then repeat if 2~=h then o=l;break;end;r=t;until true;else r=t;end end end h=h+1 end n=n+1;e=f[n];end end else if 1>h then d[e[l]]=s[e[t]];n=n+1;e=f[n];else if-3<=h then repeat if h<2 then d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];break;end;d[e[l]]={};n=n+1;e=f[n];until true;else d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];end end end end else if 12~=h then for a=38,55 do if h~=14 then local e=e[l];local n=d[e];for e=e+1,o do u.vORUYrji(n,d[e])end;break;end;local h,a,r;for u=0,2 do if 1>u then d[e[l]]=#d[e[t]];n=n+1;e=f[n];else if-2<u then repeat if 2>u then d(e[l],e[t]);n=n+1;e=f[n];break;end;h=e[l];a=d[h]r=d[h+2];if(r>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end until true;else d(e[l],e[t]);n=n+1;e=f[n];end end end break;end;else local e=e[l];local n=d[e];for e=e+1,o do u.vORUYrji(n,d[e])end;end end else if 7<=h then for n=43,87 do if h~=11 then d[e[l]]=(e[t]~=0);break;end;d[e[l]]=c(_[e[t]],nil,s);break;end;else d[e[l]]=c(_[e[t]],nil,s);end end else if 17<h then if 19<=h then if 17~=h then for u=16,79 do if h<20 then local u;for h=0,3 do if 2<=h then if 1<h then for u=23,70 do if 3~=h then d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];break;end;d[e[l]][d[e[t]]]=d[e[a]];break;end;else d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];end else if h==0 then d[e[l]]=d[e[t]];n=n+1;e=f[n];else u=e[l]d[u]=d[u](d[u+1])n=n+1;e=f[n];end end end break;end;local h;for u=0,3 do if 1<u then if 3>u then h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];else if d[e[l]]then n=n+1;else n=e[t];end;end else if u>=-4 then for h=13,61 do if u~=1 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end end break;end;else local u;for h=0,3 do if 2<=h then if 1<h then for u=23,70 do if 3~=h then d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];break;end;d[e[l]][d[e[t]]]=d[e[a]];break;end;else d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];end else if h==0 then d[e[l]]=d[e[t]];n=n+1;e=f[n];else u=e[l]d[u]=d[u](d[u+1])n=n+1;e=f[n];end end end end else if not d[e[l]]then n=n+1;else n=e[t];end;end else if 16>h then do return end;else if 13<h then for u=34,56 do if h~=17 then local s,o,g,u,r,h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];do return d[e[l]]end n=n+1;e=f[n];s=e[l];o={};for e=1,#b do g=b[e];for e=0,#g do u=g[e];r=u[1];h=u[2];if r==d and h>=s then o[h]=r[h];u[1]=o;end;end;end;break;end;do return d[e[l]]end break;end;else local s,r,g,h,o,u;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];do return d[e[l]]end n=n+1;e=f[n];s=e[l];r={};for e=1,#b do g=b[e];for e=0,#g do h=g[e];o=h[1];u=h[2];if o==d and u>=s then r[u]=o[u];h[1]=r;end;end;end;end end end end end end end else if 128>=h then if 107<=h then if h>117 then if 122>=h then if h<=119 then if h>=114 then for f=16,65 do if 118<h then if(e[l]<d[e[a]])then n=n+1;else n=e[t];end;break;end;local r,g,s,f,u,o,h;local n=0;while n>-1 do if n<=2 then if 0>=n then r=l;g=t;s=a;else if 2~=n then f=e;else u=f[g];end end else if n<5 then if n>3 then h=d[u];for e=1+u,f[s]do h=h..d[e];end;else o=f[r];end else if 5<n then n=-2;else d[o]=h;end end end n=n+1 end break;end;else local r,g,o,f,u,s,h;local n=0;while n>-1 do if n<=2 then if 0>=n then r=l;g=t;o=a;else if 2~=n then f=e;else u=f[g];end end else if n<5 then if n>3 then h=d[u];for e=1+u,f[o]do h=h..d[e];end;else s=f[r];end else if 5<n then n=-2;else d[s]=h;end end end n=n+1 end end else if h>120 then if 117<h then for u=22,89 do if 121~=h then for h=0,3 do if h<2 then if h~=-1 then repeat if h<1 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end else if h>0 then for u=26,96 do if h<3 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;if not d[e[l]]then n=n+1;else n=e[t];end;break;end;else if not d[e[l]]then n=n+1;else n=e[t];end;end end end break;end;d[e[l]]=d[e[t]]+e[a];break;end;else d[e[l]]=d[e[t]]+e[a];end else local n=e[l];do return d[n](r(d,n+1,e[t]))end;end end else if 126<=h then if h>=127 then if h>=126 then repeat if 128~=h then local f,r,h,a,u,o;local n=0;while n>-1 do if 3<n then if 5<n then if n~=4 then repeat if n~=6 then n=-2;break;end;d[o]=u;until true;else n=-2;end else if 0<=n then for e=11,92 do if 5~=n then u=a[f[h]];break;end;o=f[r];break;end;else u=a[f[h]];end end else if 1>=n then if n==1 then r=l;else f=e;end else if n~=3 then h=t;else a=d;end end end n=n+1 end break;end;local u,b,r,o,g,s,h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];h=0;while h>-1 do if h>3 then if 6>h then if h~=2 then for e=20,90 do if 4<h then s=u[b];break;end;g=o[u[r]];break;end;else g=o[u[r]];end else if h>3 then for e=21,60 do if h<7 then d[s]=g;break;end;h=-2;break;end;else h=-2;end end else if 1<h then if h>=1 then for e=36,64 do if h~=3 then r=t;break;end;o=d;break;end;else r=t;end else if h~=1 then u=e;else b=l;end end end h=h+1 end n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;until true;else local u,b,r,g,o,s,h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];h=0;while h>-1 do if h>3 then if 6>h then if h~=2 then for e=20,90 do if 4<h then s=u[b];break;end;o=g[u[r]];break;end;else o=g[u[r]];end else if h>3 then for e=21,60 do if h<7 then d[s]=o;break;end;h=-2;break;end;else h=-2;end end else if 1<h then if h>=1 then for e=36,64 do if h~=3 then r=t;break;end;g=d;break;end;else r=t;end else if h~=1 then u=e;else b=l;end end end h=h+1 end n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;end else d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;end else if 124<=h then if 121<=h then repeat if 124~=h then local e=e[l];o=e+z-1;for n=e,o do local e=p[n-e];d[n]=e;end;break;end;local e=e[l]d[e]=d[e]()until true;else local e=e[l];o=e+z-1;for n=e,o do local e=p[n-e];d[n]=e;end;end else local u;for h=0,6 do if 3<=h then if 5>h then if h>2 then repeat if 3<h then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];break;end;d[e[l]]=g[e[t]];n=n+1;e=f[n];until true;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end else if h>2 then for a=42,95 do if h>5 then u=e[l]d[u](r(d,u+1,e[t]))break;end;d[e[l]]=d[e[t]];n=n+1;e=f[n];break;end;else d[e[l]]=d[e[t]];n=n+1;e=f[n];end end else if h>=1 then if h<2 then u=e[l]d[u]=d[u](r(d,u+1,e[t]))n=n+1;e=f[n];else d[e[l]]=s[e[t]];n=n+1;e=f[n];end else d[e[l]][e[t]]=d[e[a]];n=n+1;e=f[n];end end end end end end else if 111>=h then if h>=109 then if 109>=h then local h,a,u;for r=0,2 do if r>=1 then if r==1 then d(e[l],e[t]);n=n+1;e=f[n];else h=e[l];a=d[h]u=d[h+2];if(u>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end end else d[e[l]]=#d[e[t]];n=n+1;e=f[n];end end else if h>=109 then for u=17,95 do if h<111 then local r,o,g,u,s,b,h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];h=0;while h>-1 do if h<=3 then if h>1 then if 1~=h then repeat if h>2 then u=d;break;end;g=t;until true;else u=d;end else if-3<h then for n=26,81 do if 0~=h then o=l;break;end;r=e;break;end;else o=l;end end else if h<=5 then if h~=0 then repeat if h<5 then s=u[r[g]];break;end;b=r[o];until true;else s=u[r[g]];end else if h~=7 then d[b]=s;else h=-2;end end end h=h+1 end n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;break;end;local h,a,r;for u=0,2 do if 1<=u then if u==2 then h=e[l];a=d[h]r=d[h+2];if(r>0)then if(a>d[h+1])then n=e[t];else d[h+3]=a;end elseif(a<d[h+1])then n=e[t];else d[h+3]=a;end else d(e[l],e[t]);n=n+1;e=f[n];end else d[e[l]]=#d[e[t]];n=n+1;e=f[n];end end break;end;else local u,s,g,r,o,b,h;d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];h=0;while h>-1 do if h<=3 then if h>1 then if 1~=h then repeat if h>2 then r=d;break;end;g=t;until true;else r=d;end else if-3<h then for n=26,81 do if 0~=h then s=l;break;end;u=e;break;end;else s=l;end end else if h<=5 then if h~=0 then repeat if h<5 then o=r[u[g]];break;end;b=u[s];until true;else o=r[u[g]];end else if h~=7 then d[b]=o;else h=-2;end end end h=h+1 end n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;end end else if h>=103 then repeat if h~=107 then local e=e[l];do return r(d,e,o)end;break;end;d[e[l]]=d[e[t]][d[e[a]]];until true;else d[e[l]]=d[e[t]][d[e[a]]];end end else if h>=115 then if 116<=h then if h>=115 then repeat if 117~=h then d[e[l]]=d[e[t]]+e[a];break;end;local f=e[l];local t={};for e=1,#b do local e=b[e];for n=0,#e do local n=e[n];local l=n[1];local e=n[2];if l==d and e>=f then t[e]=l[e];n[1]=t;end;end;end;until true;else d[e[l]]=d[e[t]]+e[a];end else if(d[e[l]]==e[a])then n=n+1;else n=e[t];end;end else if h<113 then local n=e[l];local l=d[n];for e=n+1,e[t]do u.vORUYrji(l,d[e])end;else if 111<=h then for u=31,72 do if h<114 then d[e[l]]=d[e[t]][e[a]];break;end;local h;d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))break;end;else local h;d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))end end end end end else if 96<=h then if h<=100 then if h<98 then if 96<h then d[e[l]]=c(_[e[t]],nil,s);else if(d[e[l]]==d[e[a]])then n=n+1;else n=e[t];end;end else if 99>h then local h;d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];h=e[l];do return d[h](r(d,h+1,e[t]))end;n=n+1;e=f[n];h=e[l];do return r(d,h,o)end;n=n+1;e=f[n];do return end;else if 99==h then d[e[l]]=g[e[t]];else local a;for h=0,6 do if 2<h then if h<5 then if 4~=h then d[e[l]]=d[e[t]];n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end else if 5<h then d(e[l],e[t]);else d(e[l],e[t]);n=n+1;e=f[n];end end else if h<=0 then d(e[l],e[t]);n=n+1;e=f[n];else if 0<=h then repeat if h~=1 then a=e[l]d[a]=d[a](r(d,a+1,e[t]))n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end end end end end end else if h<104 then if h>=102 then if 99~=h then repeat if h~=102 then d[e[l]][e[t]]=d[e[a]];break;end;local e=e[l]d[e](d[e+1])until true;else d[e[l]][e[t]]=d[e[a]];end else local u;for h=0,4 do if h>=2 then if 2<h then if h>0 then repeat if 4>h then u=e[l]d[u]=d[u](r(d,u+1,e[t]))n=n+1;e=f[n];break;end;if(d[e[l]]==e[a])then n=n+1;else n=e[t];end;until true;else if(d[e[l]]==e[a])then n=n+1;else n=e[t];end;end else d(e[l],e[t]);n=n+1;e=f[n];end else if 1>h then d[e[l]]=d[e[t]];n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end end end end else if h>=105 then if h>=101 then repeat if 105<h then local h;d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];d[e[l]][d[e[t]]]=d[e[a]];n=n+1;e=f[n];do return end;break;end;local l=e[l];local f=d[l]local h=d[l+2];if(h>0)then if(f>d[l+1])then n=e[t];else d[l+3]=f;end elseif(f<d[l+1])then n=e[t];else d[l+3]=f;end until true;else local l=e[l];local f=d[l]local h=d[l+2];if(h>0)then if(f>d[l+1])then n=e[t];else d[l+3]=f;end elseif(f<d[l+1])then n=e[t];else d[l+3]=f;end end else local h,c,s,u,g,a;h=e[l];do return d[h](r(d,h+1,e[t]))end;n=n+1;e=f[n];h=e[l];do return r(d,h,o)end;n=n+1;e=f[n];h=e[l];c={};for e=1,#b do s=b[e];for e=0,#s do u=s[e];g=u[1];a=u[2];if g==d and a>=h then c[a]=g[a];u[1]=c;end;end;end;end end end else if 91<=h then if 93<=h then if 94>h then local l=e[l];local n=d[e[t]];d[l+1]=n;d[l]=n[e[a]];else if h~=90 then repeat if h~=95 then d[e[l]]=d[e[t]]%e[a];break;end;local n=e[l]d[n](r(d,n+1,e[t]))until true;else d[e[l]]=d[e[t]]%e[a];end end else if 92==h then local u,s,g,f,o,r,h;local n=0;while n>-1 do if 3>n then if 1>n then u=l;s=t;g=a;else if n>-2 then for d=47,69 do if n<2 then f=e;break;end;o=f[s];break;end;else f=e;end end else if 5>n then if 2<n then repeat if 3<n then h=d[o];for e=1+o,f[g]do h=h..d[e];end;break;end;r=f[u];until true;else r=f[u];end else if 6>n then d[r]=h;else n=-2;end end end n=n+1 end else local o,h,g,k,c,b,s,r,u;local f=0;while f>-1 do if 3>f then if 0<f then if f~=1 then k=h[l];c=h[a];b=t;else h=e;g=n;end else o=d;end else if 4<f then if f~=5 then f=-2;else n=u;end else if f>2 then repeat if 3<f then u=s==r and h[b]or 1+g;break;end;s=o[k];r=o[c];until true;else u=s==r and h[b]or 1+g;end end end f=f+1 end end end else if h>=88 then if h<89 then d[e[l]]=s[e[t]];else if h~=90 then d[e[l]]=d[e[t]]-e[a];else d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;end end else if h>85 then for u=15,89 do if h<87 then for h=0,6 do if h>=3 then if h<5 then if h~=4 then d(e[l],e[t]);n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end else if 3<h then repeat if 5<h then d(e[l],e[t]);break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end else if h>0 then if h>=-3 then repeat if 1<h then d[e[l]]={};n=n+1;e=f[n];break;end;d[e[l]]={};n=n+1;e=f[n];until true;else d[e[l]]={};n=n+1;e=f[n];end else d[e[l]]={};n=n+1;e=f[n];end end end break;end;local f=d[e[a]];if not f then n=n+1;else d[e[l]]=f;n=e[t];end;break;end;else for h=0,6 do if h>=3 then if h<5 then if h~=4 then d(e[l],e[t]);n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end else if 3<h then repeat if 5<h then d(e[l],e[t]);break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end else if h>0 then if h>=-3 then repeat if 1<h then d[e[l]]={};n=n+1;e=f[n];break;end;d[e[l]]={};n=n+1;e=f[n];until true;else d[e[l]]={};n=n+1;e=f[n];end else d[e[l]]={};n=n+1;e=f[n];end end end end end end end end else if h>=150 then if 161<=h then if h>=166 then if h>168 then if 169>=h then if(d[e[l]]~=e[a])then n=n+1;else n=e[t];end;else if 171==h then local h,u,b,s,c,k,g,o,r;local f=0;while f>-1 do if 3>f then if 1<=f then if f>=-1 then for d=25,65 do if 2>f then u=e;b=n;break;end;s=u[l];c=u[a];k=t;break;end;else u=e;b=n;end else h=d;end else if 4<f then if 3<=f then repeat if f>5 then f=-2;break;end;n=r;until true;else n=r;end else if 0<=f then repeat if f>3 then r=g==o and u[k]or 1+b;break;end;g=h[s];o=h[c];until true;else g=h[s];o=h[c];end end end f=f+1 end else n=e[t];end end else if 166>=h then local e=e[l]d[e](d[e+1])else if 164~=h then repeat if h~=168 then for h=0,6 do if h>=3 then if h>4 then if 5<h then d(e[l],e[t]);else d(e[l],e[t]);n=n+1;e=f[n];end else if h>=1 then repeat if 4~=h then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end else if 1<=h then if h>=-3 then repeat if h~=1 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]];n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end else d[e[l]]=d[e[t]];n=n+1;e=f[n];end end end break;end;local h;g[e[t]]=d[e[l]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];h=e[l]d[h](d[h+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;until true;else for h=0,6 do if h>=3 then if h>4 then if 5<h then d(e[l],e[t]);else d(e[l],e[t]);n=n+1;e=f[n];end else if h>=1 then repeat if 4~=h then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end end else if 1<=h then if h>=-3 then repeat if h~=1 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]];n=n+1;e=f[n];until true;else d(e[l],e[t]);n=n+1;e=f[n];end else d[e[l]]=d[e[t]];n=n+1;e=f[n];end end end end end end else if 163<=h then if h<=163 then d[e[l]][d[e[t]]]=d[e[a]];else if 160<h then for a=38,86 do if 165~=h then local h;d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];d(e[l],e[t]);n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=d[e[t]];break;end;local e=e[l]local l,n=k(d[e](d[e+1]))o=n+e-1 local n=0;for e=e,o do n=n+1;d[e]=l[n];end;break;end;else local e=e[l]local l,n=k(d[e](d[e+1]))o=n+e-1 local n=0;for e=e,o do n=n+1;d[e]=l[n];end;end end else if h~=160 then repeat if h>161 then local a;for h=0,6 do if 2>=h then if 1>h then d(e[l],e[t]);n=n+1;e=f[n];else if h~=2 then d(e[l],e[t]);n=n+1;e=f[n];else a=e[l]d[a]=d[a](r(d,a+1,e[t]))n=n+1;e=f[n];end end else if 5<=h then if h~=3 then repeat if h~=6 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);until true;else d(e[l],e[t]);n=n+1;e=f[n];end else if h~=-1 then for a=19,92 do if h~=4 then d[e[l]]={};n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]];n=n+1;e=f[n];break;end;else d[e[l]]=d[e[t]];n=n+1;e=f[n];end end end end break;end;local n=e[l]local l,e=k(d[n](r(d,n+1,e[t])))o=e+n-1 local e=0;for n=n,o do e=e+1;d[n]=l[e];end;until true;else local a;for h=0,6 do if 2>=h then if 1>h then d(e[l],e[t]);n=n+1;e=f[n];else if h~=2 then d(e[l],e[t]);n=n+1;e=f[n];else a=e[l]d[a]=d[a](r(d,a+1,e[t]))n=n+1;e=f[n];end end else if 5<=h then if h~=3 then repeat if h~=6 then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);until true;else d(e[l],e[t]);n=n+1;e=f[n];end else if h~=-1 then for a=19,92 do if h~=4 then d[e[l]]={};n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]];n=n+1;e=f[n];break;end;else d[e[l]]=d[e[t]];n=n+1;e=f[n];end end end end end end end else if 155>h then if h>151 then if 153<=h then if 153<h then local e=e[l]d[e]=d[e]()else local z,s,g,o,z,h,b,a,p,c,k,_,u;h=0;while h>-1 do if h>2 then if h>4 then if 5~=h then h=-2;else d(u,o);end else if 4>h then o=a[g];else u=a[s];end end else if h<1 then a=e;else if 1<h then g=t;else s=l;end end end h=h+1 end n=n+1;e=f[n];h=0;while h>-1 do if h>=3 then if h<5 then if h>0 then for e=10,81 do if 3~=h then u=a[s];break;end;o=a[g];break;end;else o=a[g];end else if h<6 then d(u,o);else h=-2;end end else if 1<=h then if-1<h then repeat if h<2 then s=l;break;end;g=t;until true;else g=t;end else a=e;end end h=h+1 end n=n+1;e=f[n];h=0;while h>-1 do if 3>h then if 1<=h then if 1~=h then g=t;else s=l;end else a=e;end else if h<5 then if 1~=h then repeat if h>3 then u=a[s];break;end;o=a[g];until true;else o=a[g];end else if 2<h then for e=30,63 do if h<6 then d(u,o);break;end;h=-2;break;end;else h=-2;end end end h=h+1 end n=n+1;e=f[n];b=e[l]d[b]=d[b](r(d,b+1,e[t]))n=n+1;e=f[n];h=0;while h>-1 do if h<4 then if 1<h then if 3==h then k=d;else c=t;end else if h>=-3 then for n=48,53 do if h~=1 then a=e;break;end;p=l;break;end;else a=e;end end else if h<6 then if h>3 then repeat if h>4 then u=a[p];break;end;_=k[a[c]];until true;else _=k[a[c]];end else if h~=4 then repeat if h~=6 then h=-2;break;end;d[u]=_;until true;else h=-2;end end end h=h+1 end n=n+1;e=f[n];h=0;while h>-1 do if 2<h then if 5<=h then if 2~=h then for e=42,57 do if 6>h then d(u,o);break;end;h=-2;break;end;else d(u,o);end else if h>-1 then repeat if 4~=h then o=a[g];break;end;u=a[s];until true;else u=a[s];end end else if 1>h then a=e;else if 0<=h then repeat if h<2 then s=l;break;end;g=t;until true;else s=l;end end end h=h+1 end n=n+1;e=f[n];h=0;while h>-1 do if 3>h then if 0>=h then a=e;else if h>-1 then for e=31,87 do if 2>h then s=l;break;end;g=t;break;end;else s=l;end end else if h<=4 then if h==3 then o=a[g];else u=a[s];end else if 4<h then for e=15,89 do if 5<h then h=-2;break;end;d(u,o);break;end;else d(u,o);end end end h=h+1 end end else for e=e[l],e[t]do d[e]=nil;end;end else if h~=148 then for u=25,74 do if h~=151 then if(d[e[l]]==e[a])then n=n+1;else n=e[t];end;break;end;for h=0,1 do if h~=-3 then for a=47,79 do if 0~=h then d[e[l]]=s[e[t]];break;end;d(e[l],e[t]);n=n+1;e=f[n];break;end;else d(e[l],e[t]);n=n+1;e=f[n];end end break;end;else for h=0,1 do if h~=-3 then for a=47,79 do if 0~=h then d[e[l]]=s[e[t]];break;end;d(e[l],e[t]);n=n+1;e=f[n];break;end;else d(e[l],e[t]);n=n+1;e=f[n];end end end end else if h<158 then if h>=156 then if h>156 then d[e[l]]=d[e[t]][d[e[a]]];else local h;for a=0,6 do if a>=3 then if 4>=a then if a>3 then d(e[l],e[t]);n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end else if a>=1 then for u=49,73 do if 5~=a then d[e[l]]=d[e[t]];break;end;h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];break;end;else h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];end end else if 1>a then d(e[l],e[t]);n=n+1;e=f[n];else if a>-2 then for h=41,53 do if 2~=a then d(e[l],e[t]);n=n+1;e=f[n];break;end;d(e[l],e[t]);n=n+1;e=f[n];break;end;else d(e[l],e[t]);n=n+1;e=f[n];end end end end end else d[e[l]]=s[e[t]];end else if h>=159 then if 155<h then for f=16,96 do if 159<h then local l=e[l];local h=d[l+2];local f=d[l]+h;d[l]=f;if(h>0)then if(f<=d[l+1])then n=e[t];d[l+3]=f;end elseif(f>=d[l+1])then n=e[t];d[l+3]=f;end break;end;d[e[l]]=d[e[t]]-e[a];break;end;else local l=e[l];local h=d[l+2];local f=d[l]+h;d[l]=f;if(h>0)then if(f<=d[l+1])then n=e[t];d[l+3]=f;end elseif(f>=d[l+1])then n=e[t];d[l+3]=f;end end else local e=e[l];local n=d[e];for e=e+1,o do u.vORUYrji(n,d[e])end;end end end end else if h>138 then if 143<h then if h>=147 then if h>=148 then if h~=147 then for a=44,73 do if h~=148 then local e=e[l]d[e]=d[e](r(d,e+1,o))break;end;local h;for a=0,1 do if a==1 then if not d[e[l]]then n=n+1;else n=e[t];end;else h=e[l]d[h]=d[h]()n=n+1;e=f[n];end end break;end;else local e=e[l]d[e]=d[e](r(d,e+1,o))end else local n=e[l];local l=d[n];for e=n+1,e[t]do u.vORUYrji(l,d[e])end;end else if h>144 then if 143<h then for u=24,86 do if h>145 then if(d[e[l]]==d[e[a]])then n=n+1;else n=e[t];end;break;end;for h=0,1 do if 0<h then if d[e[l]]then n=n+1;else n=e[t];end;else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end break;end;else if(d[e[l]]==d[e[a]])then n=n+1;else n=e[t];end;end else local h,u;h=e[l];u=d[e[t]];d[h+1]=u;d[h]=u[e[a]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]]*e[a];end end else if 140>=h then if 137~=h then for a=15,98 do if 140>h then local h,u,f,a,r;local n=0;while n>-1 do if n<3 then if 1<=n then if n>=-1 then repeat if n~=2 then u=l;break;end;f=t;until true;else f=t;end else h=e;end else if 4>=n then if 3==n then a=h[f];else r=h[u];end else if 5<n then n=-2;else d(r,a);end end end n=n+1 end break;end;for h=0,1 do if-4~=h then repeat if 1~=h then d[e[l]]=s[e[t]];n=n+1;e=f[n];break;end;if not d[e[l]]then n=n+1;else n=e[t];end;until true;else if not d[e[l]]then n=n+1;else n=e[t];end;end end break;end;else for h=0,1 do if-4~=h then repeat if 1~=h then d[e[l]]=s[e[t]];n=n+1;e=f[n];break;end;if not d[e[l]]then n=n+1;else n=e[t];end;until true;else if not d[e[l]]then n=n+1;else n=e[t];end;end end end else if h>141 then if 139<h then for r=19,98 do if 143>h then local o=_[e[t]];local r;local h={};r=u.HElqhauY({},{__index=function(n,e)local e=h[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=h[e]e[1][e[2]]=n;end;});for l=1,e[a]do n=n+1;local e=f[n];if e[j]==47 then h[l-1]={d,e[t]};else h[l-1]={g,e[t]};end;b[#b+1]=h;end;d[e[l]]=c(o,r,s);break;end;local h,u,o;for r=0,4 do if 1<r then if r>2 then if 1<r then for a=33,98 do if 4~=r then d(e[l],e[t]);n=n+1;e=f[n];break;end;h=e[l];u=d[h]o=d[h+2];if(o>0)then if(u>d[h+1])then n=e[t];else d[h+3]=u;end elseif(u<d[h+1])then n=e[t];else d[h+3]=u;end break;end;else h=e[l];u=d[h]o=d[h+2];if(o>0)then if(u>d[h+1])then n=e[t];else d[h+3]=u;end elseif(u<d[h+1])then n=e[t];else d[h+3]=u;end end else d[e[l]]=#d[e[t]];n=n+1;e=f[n];end else if r<1 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];else d(e[l],e[t]);n=n+1;e=f[n];end end end break;end;else local o=_[e[t]];local r;local h={};r=u.HElqhauY({},{__index=function(n,e)local e=h[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=h[e]e[1][e[2]]=n;end;});for l=1,e[a]do n=n+1;local e=f[n];if e[j]==47 then h[l-1]={d,e[t]};else h[l-1]={g,e[t]};end;b[#b+1]=h;end;d[e[l]]=c(o,r,s);end else local b,h,k,c,_,p,h,h,a,s,o,g,u;for h=0,6 do if 2>=h then if h<1 then b=e[l]d[b]=d[b](r(d,b+1,e[t]))n=n+1;e=f[n];else if 2~=h then h=0;while h>-1 do if 3>=h then if h<2 then if-4<=h then repeat if h<1 then a=e;break;end;k=l;until true;else a=e;end else if 1~=h then for e=35,52 do if 3~=h then c=t;break;end;_=d;break;end;else c=t;end end else if 6>h then if 1<=h then for e=47,58 do if h~=4 then u=a[k];break;end;p=_[a[c]];break;end;else u=a[k];end else if 3~=h then for e=32,87 do if 6<h then h=-2;break;end;d[u]=p;break;end;else h=-2;end end end h=h+1 end n=n+1;e=f[n];else h=0;while h>-1 do if h>2 then if 5>h then if-1~=h then repeat if 4>h then g=a[o];break;end;u=a[s];until true;else g=a[o];end else if 1~=h then for e=34,93 do if 6>h then d(u,g);break;end;h=-2;break;end;else d(u,g);end end else if 0<h then if-1~=h then repeat if 1<h then o=t;break;end;s=l;until true;else s=l;end else a=e;end end h=h+1 end n=n+1;e=f[n];end end else if 5<=h then if h>2 then repeat if h<6 then h=0;while h>-1 do if 3>h then if 1<=h then if 0<h then for e=40,79 do if 2~=h then s=l;break;end;o=t;break;end;else o=t;end else a=e;end else if h>=5 then if h<6 then d(u,g);else h=-2;end else if 0~=h then for e=40,56 do if h~=3 then u=a[s];break;end;g=a[o];break;end;else g=a[o];end end end h=h+1 end n=n+1;e=f[n];break;end;h=0;while h>-1 do if h>2 then if h<=4 then if 0<h then for e=20,62 do if h>3 then u=a[s];break;end;g=a[o];break;end;else g=a[o];end else if h~=2 then for e=22,63 do if 5<h then h=-2;break;end;d(u,g);break;end;else d(u,g);end end else if h>0 then if 2~=h then s=l;else o=t;end else a=e;end end h=h+1 end until true;else h=0;while h>-1 do if 3>h then if 1<=h then if 0<h then for e=40,79 do if 2~=h then s=l;break;end;o=t;break;end;else o=t;end else a=e;end else if h>=5 then if h<6 then d(u,g);else h=-2;end else if 0~=h then for e=40,56 do if h~=3 then u=a[s];break;end;g=a[o];break;end;else g=a[o];end end end h=h+1 end n=n+1;e=f[n];end else if 4>h then h=0;while h>-1 do if h<3 then if h<1 then a=e;else if 1~=h then o=t;else s=l;end end else if h>4 then if h>3 then repeat if 5~=h then h=-2;break;end;d(u,g);until true;else d(u,g);end else if 1<=h then for e=29,80 do if h~=3 then u=a[s];break;end;g=a[o];break;end;else u=a[s];end end end h=h+1 end n=n+1;e=f[n];else h=0;while h>-1 do if 2<h then if h>4 then if 3<=h then repeat if h~=6 then d(u,g);break;end;h=-2;until true;else h=-2;end else if h~=-1 then repeat if h>3 then u=a[s];break;end;g=a[o];until true;else u=a[s];end end else if h>0 then if-1<h then repeat if h>1 then o=t;break;end;s=l;until true;else o=t;end else a=e;end end h=h+1 end n=n+1;e=f[n];end end end end end end end else if 133>=h then if 130<h then if 132>h then local e=e[l]d[e]=d[e](r(d,e+1,o))else if 130~=h then repeat if 133>h then local h;for u=0,5 do if 2>=u then if 0<u then if u>=0 then repeat if u~=1 then d[e[l]]=g[e[t]];n=n+1;e=f[n];break;end;d[e[l]]=g[e[t]];n=n+1;e=f[n];until true;else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else if u<4 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];else if u>3 then for a=22,60 do if 4<u then if not d[e[l]]then n=n+1;else n=e[t];end;break;end;h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];break;end;else h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];end end end end break;end;local a,b,u,o,g,h,r;h=0;while h>-1 do if 2>=h then if h>0 then if h>=-3 then repeat if 2>h then b=l;break;end;u=t;until true;else u=t;end else a=e;end else if h<=4 then if-1<=h then repeat if 4~=h then o=a[u];break;end;g=a[b];until true;else o=a[u];end else if h~=6 then d(g,o);else h=-2;end end end h=h+1 end n=n+1;e=f[n];r=e[l]d[r](d[r+1])n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[l],e[t]do d[e]=nil;end;until true;else local h;for u=0,5 do if 2>=u then if 0<u then if u>=0 then repeat if u~=1 then d[e[l]]=g[e[t]];n=n+1;e=f[n];break;end;d[e[l]]=g[e[t]];n=n+1;e=f[n];until true;else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else if u<4 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];else if u>3 then for a=22,60 do if 4<u then if not d[e[l]]then n=n+1;else n=e[t];end;break;end;h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];break;end;else h=e[l]d[h]=d[h](d[h+1])n=n+1;e=f[n];end end end end end end else if h~=125 then repeat if h~=130 then local n=e[l]d[n]=d[n](r(d,n+1,e[t]))break;end;local h;for u=0,2 do if u>=1 then if u~=-1 then for h=21,80 do if u>1 then d[e[l]][d[e[t]]]=d[e[a]];break;end;d[e[l]]=d[e[t]]-e[a];n=n+1;e=f[n];break;end;else d[e[l]][d[e[t]]]=d[e[a]];end else h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];end end until true;else local h;for u=0,2 do if u>=1 then if u~=-1 then for h=21,80 do if u>1 then d[e[l]][d[e[t]]]=d[e[a]];break;end;d[e[l]]=d[e[t]]-e[a];n=n+1;e=f[n];break;end;else d[e[l]][d[e[t]]]=d[e[a]];end else h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];end end end end else if h<136 then if 130<=h then for o=17,68 do if 134<h then local h;d[e[l]][e[t]]=d[e[a]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h](r(d,h+1,e[t]))break;end;local h,a;for o=0,2 do if 1<=o then if-2~=o then for g=36,66 do if o~=2 then h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];break;end;h=e[l];a=d[h];for e=h+1,e[t]do u.vORUYrji(a,d[e])end;break;end;else h=e[l];a=d[h];for e=h+1,e[t]do u.vORUYrji(a,d[e])end;end else d(e[l],e[t]);n=n+1;e=f[n];end end break;end;else local h;d[e[l]][e[t]]=d[e[a]];n=n+1;e=f[n];h=e[l]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=f[n];d[e[l]]=s[e[t]];n=n+1;e=f[n];d[e[l]]=g[e[t]];n=n+1;e=f[n];d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];d[e[l]]=d[e[t]];n=n+1;e=f[n];h=e[l]d[h](r(d,h+1,e[t]))end else if 136<h then if 136<h then repeat if h<138 then d[e[l]]=#d[e[t]];break;end;for h=0,6 do if 3<=h then if 5>h then if h~=4 then d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];else d[e[l]]=(e[t]~=0);n=n+1;e=f[n];end else if 1<h then for u=15,88 do if h~=6 then d[e[l]]=g[e[t]];n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]][e[a]];break;end;else d[e[l]]=d[e[t]][e[a]];end end else if 1>h then d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];else if h~=1 then d[e[l]]=d[e[t]][e[a]];n=n+1;e=f[n];else d[e[l]]=d[e[t]][d[e[a]]];n=n+1;e=f[n];end end end end until true;else d[e[l]]=#d[e[t]];end else local u,r;for h=0,6 do if 2<h then if 5>h then if h>2 then for o=24,98 do if h~=4 then d[e[l]]=g[e[t]];n=n+1;e=f[n];break;end;u=e[l];r=d[e[t]];d[u+1]=r;d[u]=r[e[a]];n=n+1;e=f[n];break;end;else d[e[l]]=g[e[t]];n=n+1;e=f[n];end else if h>2 then for a=34,79 do if 6>h then d[e[l]]=d[e[t]];n=n+1;e=f[n];break;end;d[e[l]]=d[e[t]];break;end;else d[e[l]]=d[e[t]];end end else if h<1 then d[e[l]]=#d[e[t]];n=n+1;e=f[n];else if h~=2 then d[e[l]]=d[e[t]]%d[e[a]];n=n+1;e=f[n];else d[e[l]]=d[e[t]]+e[a];n=n+1;e=f[n];end end end end end end end end end end end n=1+n;end;end;return le end;local t=0xff;local h={};local f=(1);local l='';(function(n)local d=n local a=0x00 local e=0x00 d={(function(l)if a>0x29 then return l end a=a+1 e=(e+0x132d-l)%0xc return(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x68);end return true end)'QwjfT'and d[0x3](0x1c5+l))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x39);end return true end)'qbAMf'and d[0x2](l+0x6b))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x40);end return true end)'xVBXF'and d[0x1](l+0x3e4))or l end),(function(u)if a>0x1e then return u end a=a+1 e=(e+0x1226-u)%0x3e return(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x8a);end return true end)'YQJEV'and d[0x2](0x3de+u))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x3);h[f]=fe();f=f+t;end return true end)'EmEwv'and d[0x1](u+0x284))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x6f);l='\37';t={function()t()end};l=l..'\100\43';end return true end)'BOcMo'and d[0x3](u+0x3b7))or u end),(function(o)if a>0x2f then return o end a=a+1 e=(e+0xa51-o)%0x49 return(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x11);t[2]=(t[2]*(de(function()h()end,r(l))-de(t[1],r(l))))+1;h[f]={};t=t[2];f=f+t;end return true end)'LdDDP'and d[0x2](0xe5+o))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xa1);end return true end)'KiSht'and d[0x1](o+0x1d0))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xe9);l={l..'\58 a',l};h[f]=le();f=f+((not u.vAiJMOBT)and 1 or 0);l[1]='\58'..l[1];t[2]=0xff;end return true end)'QCxd_'and d[0x3](o+0x1ed))or o end)}d[0x2](0x26a5)end){};local e=c(r(h));h[2]={};h[1]=e(h[1])YWBinVBFIiVhFlU=nil;e=c(r(h))return e(...);end return te((function()local n={}local e=0x01;local d;if u.vAiJMOBT then d=u.vAiJMOBT(te)else d=''end if u.nYXffW_L(d,u.ETFwVgkS)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,d,l,t,f)local f;if n>=4 then if n<=5 then if 5~=n then local n=l;local a,h,f=t(2);do return function()local e,d,t,l=e(d,n(n,n),n(n,n)+3);n(4);return(l*a)+(t*h)+(d*f)+e;end;end;else local n=l;do return function()local e=e(d,n(n,n),n(n,n));n(1);return e;end;end;end else if 7>n then do return t[d]end;else if n==8 then do return d(n,nil,d);end else do return setmetatable({},{['__\99\97\108\108']=function(e,d,l,t,n)if n then return e[n]elseif t then return e else e[d]=l end end})end end end end else if n<2 then if n>-2 then repeat if 1>n then do return e(1),e(4,t,l,d,e),e(5,t,l,d)end;break;end;do return function(d,e,n)if n then local e=(d/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(d%(e+e)>=e)and 1 or 0;end;end;end;until true;else do return function(n,e,d)if d then local e=(n/2^(e-1))%2^((d-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if-2<n then for f=44,74 do if n~=3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,t,l,d,e),e(5,t,l,d)end;break;end;else do return e(1),e(4,t,l,d,e),e(5,t,l,d)end;end end end end),...)
+
+local Twen = game:GetService('TweenService');
+local Input = game:GetService('UserInputService');
+local TextServ = game:GetService('TextService');
+local LocalPlayer = game:GetService('Players').LocalPlayer;
+local CoreGui = (gethui and gethui()) or game:FindFirstChild('CoreGui') or LocalPlayer.PlayerGui;
+local Icons = (function()
+	local p,c = pcall(function()
+		local Http = game:HttpGetAsync('https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json');
+
+		local Decode = game:GetService('HttpService'):JSONDecode(Http);
+
+		return Decode['icon'];
+	end);
+
+	if p then return c end;
+
+	return nil;
+end)() or {};
+
+local ElBlurSource = function()
+	local GuiSystem = {}
+	local RunService = game:GetService('RunService');
+	local CurrentCamera = workspace.CurrentCamera;
+
+	function GuiSystem:Hash()
+		return string.reverse(string.gsub(game:GetService('HttpService'):GenerateGUID(false),'..',function(aa)
+			return string.reverse(aa)
+		end))
+	end
+
+	local function Hiter(planePos, planeNormal, rayOrigin, rayDirection)
+		local n = planeNormal
+		local d = rayDirection
+		local v = rayOrigin - planePos
+
+		local num = (n.x*v.x) + (n.y*v.y) + (n.z*v.z)
+		local den = (n.x*d.x) + (n.y*d.y) + (n.z*d.z)
+		local a = -num / den
+
+		return rayOrigin + (a * rayDirection), a;
+	end;
+
+	function GuiSystem.new(frame,NoAutoBackground)
+		local Part = Instance.new('Part',workspace);
+		local DepthOfField = Instance.new('DepthOfFieldEffect',game:GetService('Lighting'));
+		local SurfaceGui = Instance.new('SurfaceGui',Part);
+		local BlockMesh = Instance.new("BlockMesh");
+
+		BlockMesh.Parent = Part;
+
+		Part.Material = Enum.Material.Glass;
+		Part.Transparency = 1;
+		Part.Reflectance = 1;
+		Part.CastShadow = false;
+		Part.Anchored = true;
+		Part.CanCollide = false;
+		Part.CanQuery = false;
+		Part.CollisionGroup = GuiSystem:Hash();
+		Part.Size = Vector3.new(1, 1, 1) * 0.01;
+		Part.Color = Color3.fromRGB(0,0,0);
+
+		Twen:Create(Part,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.In),{
+			Transparency = 0.8;
+		}):Play()
+
+		DepthOfField.Enabled = true;
+		DepthOfField.FarIntensity = 1;
+		DepthOfField.FocusDistance = 0;
+		DepthOfField.InFocusRadius = 500;
+		DepthOfField.NearIntensity = 1;
+
+		SurfaceGui.AlwaysOnTop = true;
+		SurfaceGui.Adornee = Part;
+		SurfaceGui.Active = true;
+		SurfaceGui.Face = Enum.NormalId.Front;
+		SurfaceGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
+
+		DepthOfField.Name = GuiSystem:Hash();
+		Part.Name = GuiSystem:Hash();
+		SurfaceGui.Name = GuiSystem:Hash();
+
+		local C4 = {
+			Update = nil,
+			Collection = SurfaceGui,
+			Enabled = true,
+			Instances = {
+				BlockMesh = BlockMesh,
+				Part = Part,
+				DepthOfField = DepthOfField,
+				SurfaceGui = SurfaceGui,
+			},
+			Signal = nil
+		};
+
+		local Update = function()
+			if not C4.Enabled then
+				Twen:Create(Part,TweenInfo.new(1,Enum.EasingStyle.Quint),{
+					Transparency = 1;
+				}):Play()
+
+			end;
+
+			Twen:Create(Part,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.Out),{
+				Transparency = 0.8;
+			}):Play()
+
+			local corner0 = frame.AbsolutePosition;
+			local corner1 = corner0 + frame.AbsoluteSize;
+
+			local ray0 = CurrentCamera.ScreenPointToRay(CurrentCamera,corner0.X, corner0.Y, 1);
+			local ray1 = CurrentCamera.ScreenPointToRay(CurrentCamera,corner1.X, corner1.Y, 1);
+
+			local planeOrigin = CurrentCamera.CFrame.Position + CurrentCamera.CFrame.LookVector * (0.05 - CurrentCamera.NearPlaneZ);
+
+			local planeNormal = CurrentCamera.CFrame.LookVector;
+
+			local pos0 = Hiter(planeOrigin, planeNormal, ray0.Origin, ray0.Direction);
+			local pos1 = Hiter(planeOrigin, planeNormal, ray1.Origin, ray1.Direction);
+
+			pos0 = CurrentCamera.CFrame:PointToObjectSpace(pos0);
+			pos1 = CurrentCamera.CFrame:PointToObjectSpace(pos1);
+
+			local size   = pos1 - pos0;
+			local center = (pos0 + pos1) / 2;
+
+			BlockMesh.Offset = center
+			BlockMesh.Scale  = size / 0.0101;
+			Part.CFrame = CurrentCamera.CFrame;
+
+			if not NoAutoBackground then
+
+				local _,updatec = pcall(function()
+					local userSettings = UserSettings():GetService("UserGameSettings")
+					local qualityLevel = userSettings.SavedQualityLevel.Value
+
+					if qualityLevel < 8 then
+						Twen:Create(frame,TweenInfo.new(1),{
+							BackgroundTransparency = 0
+						}):Play()
+					else
+						Twen:Create(frame,TweenInfo.new(1),{
+							BackgroundTransparency = 0.4
+						}):Play()
+					end;
+				end)
+
+			end
+		end
+
+		C4.Update = Update;
+		C4.Signal = RunService.RenderStepped:Connect(Update);
+
+		pcall(function()
+			C4.Signal2 = CurrentCamera:GetPropertyChangedSignal('CFrame'):Connect(function()
+				Part.CFrame = CurrentCamera.CFrame;
+			end);
+		end)
+
+		C4.Destroy = function()
+			C4.Signal:Disconnect();
+			C4.Signal2:Disconnect();
+			C4.Update = function()
+
+			end;
+
+			Twen:Create(Part,TweenInfo.new(1),{
+				Transparency = 1
+			}):Play();
+
+			DepthOfField:Destroy();
+			Part:Destroy()
+		end;
+
+		return C4;
+	end;
+
+	return GuiSystem
+end;
+
+local ElBlurSource = ElBlurSource();
+local Config = function(data,default)
+	data = data or {};
+
+	for i,v in next,default do
+		data[i] = data[i] or v;
+	end;
+
+	return data;
+end;
+
+local Library = {};
+
+Library['.'] = '1';
+Library['FetchIcon'] = "hhhh";
+
+pcall(function()
+	Library['Icons'] = game:GetService('HttpService'):JSONDecode(game:HttpGetAsync(Library.FetchIcon))['icons'];
+end)
+
+function Library.GradientImage(E : Frame , Color)
+	local GLImage = Instance.new("ImageLabel")
+	local upd = tick();
+	local nextU , Speed , speedy , SIZ = 4 , 5 , -5 , 0.8;
+	local nextmain = UDim2.new();
+	local rng = Random.new(math.random(10,100000) + math.random(100, 1000) + math.sqrt(tick()));
+	local int = 1;
+	local TPL = 0.55;
+
+	GLImage.Name = "GLImage"
+	GLImage.Parent = E
+	GLImage.AnchorPoint = Vector2.new(0.5, 0.5)
+	GLImage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	GLImage.BackgroundTransparency = 1.000
+	GLImage.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	GLImage.BorderSizePixel = 0
+	GLImage.Position = UDim2.new(0.5, 0, 0.5, 0)
+	GLImage.Size = UDim2.new(0.800000012, 0, 0.800000012, 0)
+	GLImage.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	GLImage.ZIndex = E.ZIndex - 1;
+	GLImage.Image = "rbxassetid://867619398"
+	GLImage.ImageColor3 = Color or Color3.fromRGB(0, 195, 255)
+	GLImage.ImageTransparency = 1;
+
+	local str = 'GL_EFFECT_'..tostring(tick());
+	game:GetService('RunService'):BindToRenderStep(str,45,function()
+		if (tick() - upd) > nextU then
+			nextU = rng:NextNumber(1.1,2.5)
+			Speed = rng:NextNumber(-6,6)
+			speedy = rng:NextNumber(-6,6)
+			TPL = rng:NextNumber(0.2,0.8)
+			SIZ = rng:NextNumber(0.6,0.9);
+			upd = tick();
+			int = 1
+		else
+			speedy = speedy + rng:NextNumber(-0.1,0.1);
+			Speed = Speed + rng:NextNumber(-0.1,0.1);
+
+		end;
+
+		nextmain = nextmain:Lerp(UDim2.new(0.5 + (Speed / 24),0,0.5 + (speedy / 24),0) , .025)
+		int = int + 0.1
+
+		Twen:Create(GLImage,TweenInfo.new(1),{
+			Rotation = GLImage.Rotation + Speed,
+			Position = nextmain,
+			Size = UDim2.fromScale(SIZ,SIZ),
+			ImageTransparency = TPL
+		}):Play()
+	end)
+
+	return str
+end;
+
+function Library.new(config)
+	config = Config(config,{
+		Title = "UI Library",
+		Description = "discord.gg/BH6pE7jesa",
+		Keybind = Enum.KeyCode.LeftControl,
+		Logo = "http://www.roblox.com/asset/?id=18810965406",
+		Size = UDim2.new(0.100000001, 445, 0.100000001, 315)
+	});
+
+	local TweenInfo1 = TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut);
+	local TweenInfo2 = TweenInfo.new(0.7,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut);
+
+	local WindowTable = {};
+	local ScreenGui = Instance.new("ScreenGui")
+	local MainFrame = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local MainDropShadow = Instance.new("ImageLabel")
+	local Headers = Instance.new("Frame")
+	local Logo = Instance.new("ImageLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local Title = Instance.new("TextLabel")
+	local UIGradient = Instance.new("UIGradient")
+	local Description = Instance.new("TextLabel")
+	local UIGradient_2 = Instance.new("UIGradient")
+	local BlockFrame1 = Instance.new("Frame")
+	local UICorner_3 = Instance.new("UICorner")
+	local UIGradient_3 = Instance.new("UIGradient")
+	local BlockFrame3 = Instance.new("Frame")
+	local UICorner_4 = Instance.new("UICorner")
+	local UIGradient_4 = Instance.new("UIGradient")
+	local BlockFrame2 = Instance.new("Frame")
+	local UICorner_5 = Instance.new("UICorner")
+	local UIGradient_5 = Instance.new("UIGradient")
+	local TabButtonFrame = Instance.new("Frame")
+	local UICorner_6 = Instance.new("UICorner")
+	local TabButtons = Instance.new("ScrollingFrame")
+	local UIListLayout = Instance.new("UIListLayout")
+	local MainTabFrame = Instance.new("Frame")
+	local UICorner_7 = Instance.new("UICorner")
+	local InputFrame = Instance.new("Frame")
+
+	WindowTable.Tabs = {};
+	WindowTable.Dropdown = {};
+	WindowTable.WindowToggle = true;
+	WindowTable.Keybind = config.Keybind;
+	WindowTable.ToggleButton = nil
+	
+	local ImageButton = Instance.new("ImageButton")
+
+	ImageButton.Parent = MainFrame
+	ImageButton.AnchorPoint = Vector2.new(1, 0)
+	ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	ImageButton.BackgroundTransparency = 1.000
+	ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	ImageButton.BorderSizePixel = 0
+	ImageButton.Position = UDim2.new(0.992500007, 0, 0.00999999978, 0)
+	ImageButton.Size = UDim2.new(0.0850000009, 0, 0.0850000009, 0)
+	ImageButton.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	ImageButton.ZIndex = 50
+	ImageButton.Image = "rbxassetid://10002398990"
+	ImageButton.ImageTransparency = 1
+	
+	local HomeIcon = Instance.new("ImageLabel")
+	HomeIcon.Parent = ImageButton
+	HomeIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+	HomeIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	HomeIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	HomeIcon.BorderSizePixel = 0
+	HomeIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
+	HomeIcon.Size = UDim2.new(0.7,0,0.7,0)
+	HomeIcon.ZIndex = 49
+	HomeIcon.Image = "rbxassetid://7733993211"
+	HomeIcon.ScaleType = Enum.ScaleType.Fit
+	HomeIcon.ImageTransparency = 1;
+	HomeIcon.BackgroundTransparency = 1;
+	
+	local function Update()
+		if WindowTable.WindowToggle then
+			Twen:Create(MainFrame,TweenInfo.new(1.5,Enum.EasingStyle.Quint),{BackgroundTransparency = 0.4,Size = config.Size}):Play();
+			Twen:Create(MainDropShadow,TweenInfo1,{ImageTransparency = 0.6}):Play();
+			Twen:Create(Headers,TweenInfo1,{BackgroundTransparency = 0.5}):Play();
+			Twen:Create(Logo,TweenInfo1,{ImageTransparency = 0}):Play();
+			Twen:Create(MainFrame,TweenInfo.new(0.5,Enum.EasingStyle.Quint),{Position = UDim2.fromScale(0.5,0.5)}):Play();
+			WindowTable.ElBlurUI.Enabled = true;
+			
+			Twen:Create(BlockFrame1,TweenInfo1,{BackgroundTransparency = 0.8}):Play();
+			Twen:Create(BlockFrame2,TweenInfo1,{BackgroundTransparency = 0.8}):Play();
+			Twen:Create(BlockFrame3,TweenInfo1,{BackgroundTransparency = 0.8}):Play();
+			
+			Twen:Create(TabButtonFrame,TweenInfo1,{Position = UDim2.fromScale(0.16,0.215)}):Play();
+			Twen:Create(MainTabFrame,TweenInfo1,{Position = UDim2.fromScale(0.658,0.131)}):Play();
+			Twen:Create(Description,TweenInfo1,{Position = UDim2.fromScale(0.328,0.071)}):Play();
+
+			Twen:Create(Title,TweenInfo1,{Position = UDim2.fromScale(0.328,0.013)}):Play();
+			Twen:Create(Headers,TweenInfo1,{Position = UDim2.fromScale(0.01,0.015)}):Play();
+
+			Twen:Create(ImageButton,TweenInfo.new(0.85,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+				Position = UDim2.new(0.992500007, 0, 0.00999999978, 0),
+				Size = UDim2.new(0.0850000009, 0, 0.0850000009, 0),
+				ImageTransparency = 0.5,
+				AnchorPoint = Vector2.new(1, 0)
+			}):Play();
+			
+			Twen:Create(HomeIcon,TweenInfo.new(0.5),{
+				ImageTransparency = 1,
+			}):Play()
+
+			ImageButton.Image = "rbxassetid://10002398990"
+			
+			Twen:Create(UICorner,TweenInfo.new(1),{
+				CornerRadius = UDim.new(0, 7)
+			}):Play()
+
+		else
+			Twen:Create(MainFrame,TweenInfo.new(1,Enum.EasingStyle.Quint),{BackgroundTransparency = 1,Size = UDim2.new(0.085, 10,0.05, 0)}):Play();
+			Twen:Create(MainFrame,TweenInfo.new(0.5,Enum.EasingStyle.Quint),{Position = UDim2.new(0.5, 0,0.05, 0)}):Play();
+			Twen:Create(MainDropShadow,TweenInfo1,{ImageTransparency = 1}):Play();
+			Twen:Create(Headers,TweenInfo1,{BackgroundTransparency = 1}):Play();
+			Twen:Create(Logo,TweenInfo1,{ImageTransparency = 1}):Play();
+			Twen:Create(TabButtonFrame,TweenInfo1,{Position = UDim2.fromScale(0.16,1.1)}):Play();
+			Twen:Create(MainTabFrame,TweenInfo1,{Position = UDim2.fromScale(1.5,0.131)}):Play();
+			Twen:Create(Description,TweenInfo1,{Position = UDim2.fromScale(1.5,0.071)}):Play();
+			Twen:Create(Headers,TweenInfo1,{Position = UDim2.fromScale(0.01,-0.2)}):Play();
+
+			Twen:Create(UICorner,TweenInfo.new(1),{
+				CornerRadius = UDim.new(0.1,0)
+			}):Play()
+			
+			Twen:Create(ImageButton,TweenInfo1,{
+				Position = UDim2.new(0.5, 0, 0.5, 0),
+				Size = UDim2.new(1,0,1,0),
+				ImageTransparency = 1,
+				AnchorPoint = Vector2.new(0.5,0.5)
+			}):Play();
+			
+			Twen:Create(HomeIcon,TweenInfo.new(1),{
+				ImageTransparency = 0.5,
+			}):Play()
+			
+			
+			Twen:Create(Title,TweenInfo1,{Position = UDim2.fromScale(1,0.071)}):Play();
+
+			
+			Twen:Create(BlockFrame1,TweenInfo1,{BackgroundTransparency = 1}):Play();
+			Twen:Create(BlockFrame2,TweenInfo1,{BackgroundTransparency = 1}):Play();
+			Twen:Create(BlockFrame3,TweenInfo1,{BackgroundTransparency = 1}):Play();
+
+			WindowTable.ElBlurUI.Enabled = false;
+		end;
+
+		WindowTable.Dropdown:Close()
+		if WindowTable.ToggleButton then
+			WindowTable.ToggleButton();
+		end;
+
+		task.delay(1,WindowTable.ElBlurUI.Update)
+	end;
+
+	Twen:Create(ImageButton,TweenInfo1,{
+		ImageTransparency = 0.5
+	}):Play()
+
+	ImageButton.MouseButton1Click:Connect(function()
+		WindowTable.WindowToggle = not WindowTable.WindowToggle
+		Update()
+	end)
+
+	Input.InputBegan:Connect(function(io)
+		if io.KeyCode == WindowTable.Keybind then
+			WindowTable.WindowToggle = not WindowTable.WindowToggle
+			Update()
+		end
+	end)
+
+	ScreenGui.Parent = CoreGui;
+	ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
+	ScreenGui.ResetOnSpawn = false;
+	ScreenGui.IgnoreGuiInset = true;
+	ScreenGui.Name = "RobloxGameGui";
+
+	MainFrame.Name = "MainFrame"
+	MainFrame.Parent = ScreenGui
+	MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	MainFrame.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+	MainFrame.BackgroundTransparency = 1
+	MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MainFrame.BorderSizePixel = 0
+	MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+	MainFrame.Size = UDim2.fromOffset(config.Size.X.Offset,config.Size.Y.Offset)
+	MainFrame.Active = true;
+	MainFrame.ClipsDescendants = true;
+	
+	WindowTable.AddEffect = function(color)
+		Library.GradientImage(MainFrame,color)
+	end
+
+	Twen:Create(MainFrame,TweenInfo1,{BackgroundTransparency = 0.4,Size = config.Size}):Play();
+
+	WindowTable.ElBlurUI = ElBlurSource.new(MainFrame);
+
+	UICorner.CornerRadius = UDim.new(0, 7)
+	UICorner.Parent = MainFrame
+
+	MainDropShadow.Name = "MainDropShadow"
+	MainDropShadow.Parent = MainFrame
+	MainDropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+	MainDropShadow.BackgroundTransparency = 1.000
+	MainDropShadow.BorderSizePixel = 0
+	MainDropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+	MainDropShadow.Size = UDim2.new(1, 47, 1, 47)
+	MainDropShadow.ZIndex = 0
+	MainDropShadow.Image = "rbxassetid://6015897843"
+	MainDropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	MainDropShadow.ImageTransparency = 1
+	MainDropShadow.ScaleType = Enum.ScaleType.Slice
+	MainDropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+	MainDropShadow.Rotation = 0.0001;
+	
+	Twen:Create(MainDropShadow,TweenInfo2,{ImageTransparency = 0.6}):Play();
+
+	Headers.Name = "Headers"
+	Headers.Parent = MainFrame
+	Headers.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	Headers.BackgroundTransparency = 1
+	Headers.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Headers.BorderSizePixel = 0
+	Headers.ClipsDescendants = true
+	Headers.Position = UDim2.new(0.0100000743, 0, 0.015, 0)
+	Headers.Size = UDim2.new(0.300000012, 0, 0.178419471, 0)
+	Headers.ZIndex = 3
+	Twen:Create(Headers,TweenInfo2,{BackgroundTransparency = 0.5}):Play();
+
+	Logo.Name = "Logo"
+	Logo.Parent = Headers
+	Logo.Active = true
+	Logo.AnchorPoint = Vector2.new(0.5, 0.5)
+	Logo.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
+	Logo.BackgroundTransparency = 1.000
+	Logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Logo.BorderSizePixel = 0
+	Logo.Position = UDim2.new(0.5, 0, 0.5, 0)
+	Logo.Size = UDim2.new(0.949999988, 0, 0.949999988, 0)
+	Logo.ZIndex = 4
+	Logo.Image = config.Logo;
+	Logo.ScaleType = Enum.ScaleType.Crop
+	Logo.ImageTransparency = 1;
+
+	Twen:Create(Logo,TweenInfo2,{ImageTransparency = 0}):Play();
+
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = Headers
+	Twen:Create(UICorner_2,TweenInfo2,{CornerRadius = UDim.new(0, 4)}):Play();
+
+	Title.Name = "Title"
+	Title.Parent = MainFrame
+	Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Title.BackgroundTransparency = 1.000
+	Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Title.BorderSizePixel = 0
+	Title.Position = UDim2.new(0.327570528, 0, 0.0126646794, 0)
+	Title.Size = UDim2.new(0.671064615, 0, 0.0518743545, 0)
+	Title.Font = Enum.Font.GothamBold
+	Title.Text = config.Title
+	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Title.TextScaled = true
+	Title.TextSize = 14.000
+	Title.TextWrapped = true
+	Title.TextXAlignment = Enum.TextXAlignment.Left
+	Title.TextTransparency = 1;
+
+	Twen:Create(Title,TweenInfo2,{TextTransparency = 0}):Play();
+
+	UIGradient.Rotation = 90
+	UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.75, 0.27), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient.Parent = Title
+
+	Description.Name = "Description"
+	Description.Parent = MainFrame
+	Description.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Description.BackgroundTransparency = 1.000
+	Description.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Description.BorderSizePixel = 0
+	Description.Position = UDim2.new(0.327570528, 0, 0.0709220618, 0)
+	Description.Size = UDim2.new(0.671064615, 0, 0.0290780049, 0)
+	Description.Font = Enum.Font.GothamBold
+	Description.Text = config.Description
+	Description.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Description.TextScaled = true
+	Description.TextSize = 14.000
+	Description.TextTransparency = 1
+	Description.TextWrapped = true
+	Description.TextXAlignment = Enum.TextXAlignment.Left
+	Twen:Create(Description,TweenInfo2,{TextTransparency = 0.5}):Play();
+
+	UIGradient_2.Rotation = 90
+	UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.75, 0.27), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient_2.Parent = Description
+
+	BlockFrame1.Name = "BlockFrame1"
+	BlockFrame1.Parent = MainFrame
+	BlockFrame1.AnchorPoint = Vector2.new(0, 0.5)
+	BlockFrame1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BlockFrame1.BackgroundTransparency = 1
+	BlockFrame1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	BlockFrame1.BorderSizePixel = 0
+	BlockFrame1.Position = UDim2.new(0.317000002, 0, 0.5, 0)
+	BlockFrame1.Size = UDim2.new(0, 1, 1, 0)
+	BlockFrame1.ZIndex = 3
+	Twen:Create(BlockFrame1,TweenInfo2,{BackgroundTransparency = 0.8}):Play();
+
+	UICorner_3.CornerRadius = UDim.new(0.5, 0)
+	UICorner_3.Parent = BlockFrame1
+
+	UIGradient_3.Rotation = 90
+	UIGradient_3.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.05, 0.00), NumberSequenceKeypoint.new(0.96, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient_3.Parent = BlockFrame1
+
+	BlockFrame3.Name = "BlockFrame3"
+	BlockFrame3.Parent = MainFrame
+	BlockFrame3.AnchorPoint = Vector2.new(0, 0.5)
+	BlockFrame3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BlockFrame3.BackgroundTransparency = 1
+	BlockFrame3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	BlockFrame3.BorderSizePixel = 0
+	BlockFrame3.Position = UDim2.new(0.317000061, 0, 0.120060779, 0)
+	BlockFrame3.Size = UDim2.new(0.682999969, 0, 0, 1)
+	BlockFrame3.ZIndex = 3
+	Twen:Create(BlockFrame3,TweenInfo2,{BackgroundTransparency = 0.8}):Play();
+
+	UICorner_4.CornerRadius = UDim.new(0.5, 0)
+	UICorner_4.Parent = BlockFrame3
+
+	UIGradient_4.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.98, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient_4.Parent = BlockFrame3
+
+	BlockFrame2.Name = "BlockFrame2"
+	BlockFrame2.Parent = MainFrame
+	BlockFrame2.AnchorPoint = Vector2.new(0, 0.5)
+	BlockFrame2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BlockFrame2.BackgroundTransparency = 1
+	BlockFrame2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	BlockFrame2.BorderSizePixel = 0
+	BlockFrame2.Position = UDim2.new(-0.00100000005, 0, 0.204999998, 0)
+	BlockFrame2.Size = UDim2.new(0.318471342, 0, 0, 1)
+	BlockFrame2.ZIndex = 3
+	Twen:Create(BlockFrame2,TweenInfo2,{BackgroundTransparency = 0.8}):Play();
+
+	UICorner_5.CornerRadius = UDim.new(0.5, 0)
+	UICorner_5.Parent = BlockFrame2
+
+	UIGradient_5.Rotation = -180
+	UIGradient_5.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.98, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient_5.Parent = BlockFrame2
+
+	TabButtonFrame.Name = "TabButtonFrame"
+	TabButtonFrame.Parent = MainFrame
+	TabButtonFrame.AnchorPoint = Vector2.new(0.5, 0)
+	TabButtonFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	TabButtonFrame.BackgroundTransparency = 1
+	TabButtonFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TabButtonFrame.BorderSizePixel = 0
+	TabButtonFrame.ClipsDescendants = true
+	TabButtonFrame.Position = UDim2.new(0.159999996, 0, 0.215000004, 0)
+	TabButtonFrame.Size = UDim2.new(0.300000012, 0, 0.774999976, 0)
+	Twen:Create(TabButtonFrame,TweenInfo2,{BackgroundTransparency = 0.5}):Play();
+
+	UICorner_6.CornerRadius = UDim.new(0, 3)
+	UICorner_6.Parent = TabButtonFrame
+
+	TabButtons.Name = "TabButtons"
+	TabButtons.Parent = TabButtonFrame
+	TabButtons.Active = true
+	TabButtons.AnchorPoint = Vector2.new(0.5, 0.5)
+	TabButtons.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TabButtons.BackgroundTransparency = 1.000
+	TabButtons.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TabButtons.BorderSizePixel = 0
+	TabButtons.ClipsDescendants = false
+	TabButtons.Position = UDim2.new(0.5, 0, 0.5, 0)
+	TabButtons.Size = UDim2.new(0.970000029, 0, 0.970000029, 0)
+	TabButtons.ScrollBarThickness = 0
+	UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+		TabButtons.CanvasSize = UDim2.fromOffset(0,UIListLayout.AbsoluteContentSize.Y)
+	end)
+	UIListLayout.Parent = TabButtons
+	UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIListLayout.Padding = UDim.new(0, 3)
+
+	MainTabFrame.Name = "MainTabFrame"
+	MainTabFrame.Parent = MainFrame
+	MainTabFrame.AnchorPoint = Vector2.new(0.5, 0)
+	MainTabFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	MainTabFrame.BackgroundTransparency = 1
+	MainTabFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MainTabFrame.BorderSizePixel = 0
+	MainTabFrame.ClipsDescendants = true
+	MainTabFrame.Position = UDim2.new(0.657999992, 0, 0.130999997, 0)
+	MainTabFrame.Size = UDim2.new(0.670000017, 0, 0.860000014, 0)
+	Twen:Create(MainTabFrame,TweenInfo2,{BackgroundTransparency = 0.5}):Play();
+
+	UICorner_7.CornerRadius = UDim.new(0, 3)
+	UICorner_7.Parent = MainTabFrame
+
+	InputFrame.Name = "InputFrame"
+	InputFrame.Parent = MainFrame
+	InputFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	InputFrame.BackgroundTransparency = 1.000
+	InputFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	InputFrame.BorderSizePixel = 0
+	InputFrame.Position = UDim2.new(0, 0, 3.86494179e-08, 0)
+	InputFrame.Size = UDim2.new(1, 0, 0.121327251, 0)
+	InputFrame.ZIndex = 15;
+
+	task.spawn(function()
+		local Locked = nil;
+		local Looped = false;
+
+		local DropdownFrame = Instance.new("Frame")
+		local UICorner = Instance.new("UICorner")
+		local MiniDropShadow = Instance.new("ImageLabel")
+		local UIStroke = Instance.new("UIStroke")
+		local ValueId = Instance.new("TextLabel")
+		local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+		local ScrollingFrame = Instance.new("ScrollingFrame")
+		local UIListLayout = Instance.new("UIListLayout")
+		local Block = Instance.new("Frame")
+		local BlockFrame3 = Instance.new("Frame")
+		local UICorner_2 = Instance.new("UICorner")
+		local UIGradient = Instance.new("UIGradient")
+
+		DropdownFrame.Name = "DropdownFrame"
+		DropdownFrame.Parent = ScreenGui
+		DropdownFrame.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+		DropdownFrame.BackgroundTransparency = 0.500
+		DropdownFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		DropdownFrame.BorderSizePixel = 0
+		DropdownFrame.Position = UDim2.new(0, 289, 0, 213)
+		DropdownFrame.Size = UDim2.new(0, 150, 0, 145)
+		DropdownFrame.ZIndex = 100
+		DropdownFrame.Visible = false;
+
+		UICorner.CornerRadius = UDim.new(0, 4)
+		UICorner.Parent = DropdownFrame
+
+		MiniDropShadow.Name = "MiniDropShadow"
+		MiniDropShadow.Parent = DropdownFrame
+		MiniDropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+		MiniDropShadow.BackgroundTransparency = 1.000
+		MiniDropShadow.BorderSizePixel = 0
+		MiniDropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+		MiniDropShadow.Size = UDim2.new(1, 47, 1, 47)
+		MiniDropShadow.ZIndex = 99
+		MiniDropShadow.Image = "rbxassetid://6015897843"
+		MiniDropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+		MiniDropShadow.ImageTransparency = 0.600
+		MiniDropShadow.ScaleType = Enum.ScaleType.Slice
+		MiniDropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+
+		UIStroke.Transparency = 0.900
+		UIStroke.Color = Color3.fromRGB(255, 255, 255)
+		UIStroke.Parent = DropdownFrame
+
+		ValueId.Name = "ValueId"
+		ValueId.Parent = DropdownFrame
+		ValueId.AnchorPoint = Vector2.new(0.5, 0)
+		ValueId.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		ValueId.BackgroundTransparency = 1.000
+		ValueId.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		ValueId.BorderSizePixel = 0
+		ValueId.Position = UDim2.new(0.5, 0, 0, 0)
+		ValueId.Size = UDim2.new(0.970000029, 0, 0.5, 0)
+		ValueId.ZIndex = 101
+		ValueId.Font = Enum.Font.GothamBold
+		ValueId.Text = "NONE"
+		ValueId.TextColor3 = Color3.fromRGB(255, 255, 255)
+		ValueId.TextScaled = true
+		ValueId.TextSize = 14.000
+		ValueId.TextTransparency = 0.800
+		ValueId.TextWrapped = true
+		ValueId.TextXAlignment = Enum.TextXAlignment.Right
+
+		UIAspectRatioConstraint.Parent = ValueId
+		UIAspectRatioConstraint.AspectRatio = 15.000
+		UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+		ScrollingFrame.Parent = DropdownFrame
+		ScrollingFrame.Active = true
+		ScrollingFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+		ScrollingFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		ScrollingFrame.BackgroundTransparency = 1.000
+		ScrollingFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		ScrollingFrame.BorderSizePixel = 0
+		ScrollingFrame.Position = UDim2.new(0.5, 0, 0.555985212, 0)
+		ScrollingFrame.Size = UDim2.new(0.949999988, 0, 0.888029099, 0)
+		ScrollingFrame.ZIndex = 102
+		ScrollingFrame.BottomImage = ""
+		ScrollingFrame.ScrollBarThickness = 1
+		ScrollingFrame.TopImage = ""
+
+		UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			ScrollingFrame.CanvasSize = UDim2.fromOffset(0,UIListLayout.AbsoluteContentSize.Y)
+		end)
+
+		UIListLayout.Parent = ScrollingFrame
+		UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout.Padding = UDim.new(0, 4)
+
+		Block.Name = "Block"
+		Block.Parent = ScrollingFrame
+		Block.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Block.BackgroundTransparency = 1.000
+		Block.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Block.BorderSizePixel = 0
+
+		BlockFrame3.Name = "BlockFrame3"
+		BlockFrame3.Parent = DropdownFrame
+		BlockFrame3.AnchorPoint = Vector2.new(0, 0.5)
+		BlockFrame3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		BlockFrame3.BackgroundTransparency = 0.800
+		BlockFrame3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		BlockFrame3.BorderSizePixel = 0
+		BlockFrame3.Position = UDim2.new(0, 0, 0.0799999982, 0)
+		BlockFrame3.Size = UDim2.new(1, 0, 0, 1)
+		BlockFrame3.ZIndex = 102
+
+		UICorner_2.CornerRadius = UDim.new(0.5, 0)
+		UICorner_2.Parent = BlockFrame3
+
+		UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.03, 0.00), NumberSequenceKeypoint.new(0.98, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+		UIGradient.Parent = BlockFrame3
+
+		local GetSelector = function(title,value)
+			local Selector = Instance.new("Frame")
+			local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+			local UICorner = Instance.new("UICorner")
+			local Title = Instance.new("TextLabel")
+			local UIGradient = Instance.new("UIGradient")
+			local Frame = Instance.new("Frame")
+			local UICorner_2 = Instance.new("UICorner")
+			local UIGradient_2 = Instance.new("UIGradient")
+			local Button = Instance.new("TextButton")
+			local UIStroke = Instance.new("UIStroke")
+
+			Selector.Name = "Selector"
+			Selector.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Selector.BackgroundTransparency = 0.750
+			Selector.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Selector.BorderSizePixel = 0
+			Selector.ClipsDescendants = true
+			Selector.Size = UDim2.new(0.970000029, 0, 0.5, 0)
+			Selector.ZIndex = 103
+			Selector.Parent = ScrollingFrame
+			UIAspectRatioConstraint.Parent = Selector
+			UIAspectRatioConstraint.AspectRatio = 6.250
+			UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+			UICorner.CornerRadius = UDim.new(0, 3)
+			UICorner.Parent = Selector
+
+			Title.Name = "Title"
+			Title.Parent = Selector
+			Title.AnchorPoint = Vector2.new(0, 0.5)
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1.000
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Position = UDim2.new(0.0250000004, 0, 0.5, 0)
+			Title.Size = UDim2.new(1, 0, 0.5, 0)
+			Title.ZIndex = 104
+			Title.Font = Enum.Font.GothamBold
+			Title.Text = title
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextScaled = true
+			Title.TextSize = 14.000
+			Title.TextWrapped = true
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+
+			UIGradient.Rotation = 90
+			UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+			UIGradient.Parent = Title
+
+			Frame.Parent = Selector
+			Frame.AnchorPoint = Vector2.new(1, 0.5)
+			Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Frame.BackgroundTransparency = 0.600
+			Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Frame.BorderSizePixel = 0
+			Frame.Position = UDim2.new(1.02499998, 0, 0.5, 0)
+			Frame.Size = UDim2.new(0.0549999997, 0, 0.699999988, 0)
+			Frame.ZIndex = 104
+
+			UICorner_2.CornerRadius = UDim.new(0, 3)
+			UICorner_2.Parent = Frame
+
+			UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+			UIGradient_2.Parent = Frame
+
+			Button.Name = "Button"
+			Button.Parent = Selector
+			Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Button.BackgroundTransparency = 1.000
+			Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Button.BorderSizePixel = 0
+			Button.Size = UDim2.new(1, 0, 1, 0)
+			Button.ZIndex = 105
+			Button.Font = Enum.Font.SourceSans
+			Button.Text = ""
+			Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Button.TextSize = 14.000
+			Button.TextTransparency = 1.000
+
+			UIStroke.Transparency = 0.900
+			UIStroke.Color = Color3.fromRGB(255, 255, 255)
+			UIStroke.Parent = Selector;
+
+			local caller = function(a)
+				if a then
+					Twen:Create(Frame,TweenInfo.new(0.1),{
+						Position = UDim2.new(1.02499998, 0, 0.5, 0)
+					}):Play()
+					Twen:Create(Title,TweenInfo.new(0.1),{
+						TextTransparency = 0
+					}):Play()
+
+				else
+					Twen:Create(Frame,TweenInfo.new(0.1),{
+						Position = UDim2.new(1.12499998, 0, 0.5, 0)
+					}):Play()
+					Twen:Create(Title,TweenInfo.new(0.1),{
+						TextTransparency = 0.25
+					}):Play()
+				end
+			end;
+
+			caller(value)
+
+			return {
+				effect = caller,
+				button = Button,
+				delete = function()
+					Selector:Destroy()
+				end,
+			}
+		end;
+
+		local MouseInFrame = false;
+		local MouseInMyFrame = false;
+
+		function WindowTable.Dropdown:Setup(target_frame:Frame)
+			Locked = target_frame
+		end;
+
+		function WindowTable.Dropdown:Open(args,defauklt,callback)
+			Looped = true;
+
+			ValueId.Text = tostring(defauklt)
+			Twen:Create(DropdownFrame,TweenInfo.new(0.3),{
+				BackgroundTransparency = 0.1;
+			}):Play()
+
+			Twen:Create(MiniDropShadow,TweenInfo.new(0.3),{
+				ImageTransparency = 0.6;
+			}):Play()
+
+			Twen:Create(ValueId,TweenInfo.new(0.3),{
+				TextTransparency = 0.8;
+			}):Play()
+
+			Twen:Create(ScrollingFrame,TweenInfo.new(0.3),{
+				ScrollBarImageTransparency = 0.5;
+			}):Play()
+
+			Twen:Create(BlockFrame3,TweenInfo.new(0.3),{
+				BackgroundTransparency = 0.8;
+			}):Play()
+
+			Twen:Create(UIStroke,TweenInfo.new(0.3),{
+				Transparency = 0.9;
+			}):Play()
+
+
+			for i,v in pairs(ScrollingFrame:GetChildren()) do
+				if v ~= Block then
+					if v:IsA('Frame') then
+						v:Destroy();
+					end;
+				end;
+			end;
+
+			local list = {};
+
+			for i,v in pairs(args) do
+				local butt = GetSelector(tostring(v),v == defauklt);
+
+				butt.button.MouseButton1Click:Connect(function()
+					for i,s in ipairs(list) do
+						if s[1] == v then
+							s[2].effect(true);
+						else
+							s[2].effect(false);
+						end;
+					end;
+					ValueId.Text = tostring(v);
+					callback(v);
+				end)
+
+				table.insert(list,{v,butt})
+			end;
+		end;
+
+		function WindowTable.Dropdown:Close(args)
+			Looped = false;
+			Twen:Create(UIStroke,TweenInfo.new(0.3),{
+				Transparency = 1;
+			}):Play()
+			Twen:Create(DropdownFrame,TweenInfo.new(0.3),{
+				BackgroundTransparency = 1;
+			}):Play()
+
+			Twen:Create(MiniDropShadow,TweenInfo.new(0.3),{
+				ImageTransparency = 1;
+			}):Play()
+
+			Twen:Create(ValueId,TweenInfo.new(0.3),{
+				TextTransparency = 1;
+			}):Play()
+
+			Twen:Create(ScrollingFrame,TweenInfo.new(0.3),{
+				ScrollBarImageTransparency = 1;
+			}):Play()
+
+			Twen:Create(BlockFrame3,TweenInfo.new(0.3),{
+				BackgroundTransparency = 1;
+			}):Play()
+
+			for i,v in pairs(ScrollingFrame:GetChildren()) do
+				if v ~= Block then
+					if v:IsA('Frame') then
+						v:Destroy();
+					end;
+				end;
+			end;
+		end;
+
+		DropdownFrame.MouseEnter:Connect(function()
+			MouseInMyFrame = true
+		end)
+		DropdownFrame.MouseLeave:Connect(function()
+			MouseInMyFrame = false
+		end)
+
+		Input.InputBegan:Connect(function(keycode)
+			if keycode.UserInputType == Enum.UserInputType.MouseButton1 or keycode.UserInputType == Enum.UserInputType.Touch then
+				if not MouseInFrame and not MouseInMyFrame then
+					WindowTable.Dropdown:Close();
+				end;
+			end;
+		end)
+
+		game:GetService('RunService'):BindToRenderStep('__LIBRARY__',20,function()
+			WindowTable.Dropdown.Value = Looped
+			if Looped then
+				DropdownFrame.Visible = true;
+
+				Twen:Create(DropdownFrame,TweenInfo.new(0.15),{
+					Position = UDim2.fromOffset(Locked.AbsolutePosition.X + 5,Locked.AbsolutePosition.Y + (DropdownFrame.AbsoluteSize.Y / 1.5)),
+					Size = UDim2.fromOffset(Locked.AbsoluteSize.X,150)
+				}):Play()
+
+			else
+				if Locked then
+					DropdownFrame.Size = DropdownFrame.Size:Lerp(UDim2.fromOffset(Locked.AbsoluteSize.X,0),.2);
+					DropdownFrame.Position = DropdownFrame.Position:Lerp(UDim2.fromOffset(Locked.AbsolutePosition.X,Locked.AbsolutePosition.Y+DropdownFrame.AbsoluteSize.Y),.1);
+				else
+					DropdownFrame.Size = DropdownFrame.Size:Lerp(UDim2.fromOffset(0,0),.1);
+					DropdownFrame.Position = DropdownFrame.Position:Lerp(UDim2.fromOffset(0,0),.1);
+				end;
+
+				if DropdownFrame.Size.Y.Offset == 0 then
+					DropdownFrame.Visible = false;
+				end;
+			end;
+		end);
+	end)
+
+	function WindowTable:NewTab(cfg)
+		cfg = Config(cfg,{
+			Title = "Example",
+			Description = "Tab: "..tostring(#WindowTable.Tabs + 1),
+			Icon = "rbxassetid://7733964640"
+		});
+
+		local TabTable = {};
+		local TabButton = Instance.new("Frame")
+		local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+		local UICorner = Instance.new("UICorner")
+		local Icon = Instance.new("ImageLabel")
+		local UICorner_2 = Instance.new("UICorner")
+		local UIGradient = Instance.new("UIGradient")
+		local Title = Instance.new("TextLabel")
+		local UIGradient_2 = Instance.new("UIGradient")
+		local Description = Instance.new("TextLabel")
+		local UIGradient_3 = Instance.new("UIGradient")
+		local Frame = Instance.new("Frame")
+		local UICorner_3 = Instance.new("UICorner")
+		local UIGradient_4 = Instance.new("UIGradient")
+		local Button = Instance.new("TextButton")
+
+		TabButton.Name = "TabButton"
+		TabButton.Parent = TabButtons
+		TabButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+		TabButton.BackgroundTransparency = 1
+		TabButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		TabButton.BorderSizePixel = 0
+		TabButton.ClipsDescendants = true
+		TabButton.Size = UDim2.new(0.970000029, 0, 0.5, 0)
+		TabButton.ZIndex = 5
+		Twen:Create(TabButton,TweenInfo2,{BackgroundTransparency = 0.750}):Play();
+
+		UIAspectRatioConstraint.Parent = TabButton
+		UIAspectRatioConstraint.AspectRatio = 4.250
+		UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+		UICorner.CornerRadius = UDim.new(0, 3)
+		UICorner.Parent = TabButton
+
+		Icon.Name = "Icon"
+		Icon.Parent = TabButton
+		Icon.AnchorPoint = Vector2.new(0.5, 0.5)
+		Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Icon.BackgroundTransparency = 1.000
+		Icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Icon.BorderSizePixel = 0
+		Icon.Position = UDim2.new(0.100000001, 0, 0.5, 0)
+		Icon.Size = UDim2.new(0.600000024, 0, 0.600000024, 0)
+		Icon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+		Icon.ZIndex = 6
+		Icon.Image = Icons[cfg.Icon] or cfg.Icon
+		Icon.ImageTransparency = 1
+		Twen:Create(Icon,TweenInfo2,{ImageTransparency = 0.1}):Play();
+
+		UICorner_2.CornerRadius = UDim.new(0, 3)
+		UICorner_2.Parent = Icon
+
+		UIGradient.Rotation = 90
+		UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.75, 0.27), NumberSequenceKeypoint.new(1.00, 1.00)}
+		UIGradient.Parent = Icon
+
+		Title.Name = "Title"
+		Title.Parent = TabButton
+		Title.AnchorPoint = Vector2.new(0, 0.5)
+		Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Title.BackgroundTransparency = 1.000
+		Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Title.BorderSizePixel = 0
+		Title.Position = UDim2.new(0.200000003, 0, 0.375, 0)
+		Title.Size = UDim2.new(1, 0, 0.400000006, 0)
+		Title.Font = Enum.Font.GothamBold
+		Title.Text = cfg.Title
+		Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+		Title.TextScaled = true
+		Title.TextSize = 14.000
+		Title.TextWrapped = true
+		Title.TextXAlignment = Enum.TextXAlignment.Left
+		Title.TextTransparency = 1;
+
+		UIGradient_2.Rotation = 90
+		UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+		UIGradient_2.Parent = Title
+
+		Description.Name = "Description"
+		Description.Parent = TabButton
+		Description.AnchorPoint = Vector2.new(0, 0.5)
+		Description.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Description.BackgroundTransparency = 1.000
+		Description.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Description.BorderSizePixel = 0
+		Description.Position = UDim2.new(0.200000003, 0, 0.699999988, 0)
+		Description.Size = UDim2.new(1, 0, 0.300000012, 0)
+		Description.Font = Enum.Font.GothamBold
+		Description.Text = cfg.Description
+		Description.TextColor3 = Color3.fromRGB(255, 255, 255)
+		Description.TextScaled = true
+		Description.TextSize = 14.000
+		Description.TextTransparency = 1
+		Description.TextWrapped = true
+		Description.TextXAlignment = Enum.TextXAlignment.Left
+
+		UIGradient_3.Rotation = 90
+		UIGradient_3.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+		UIGradient_3.Parent = Description
+
+		Frame.Parent = TabButton
+		Frame.AnchorPoint = Vector2.new(1, 0.5)
+		Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Frame.BackgroundTransparency = 1
+		Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Frame.BorderSizePixel = 0
+		Frame.Position = UDim2.new(1.02499998, 0, 0.5, 0)
+		Frame.Size = UDim2.new(0.0549999997, 0, 0.699999988, 0)
+		Frame.ZIndex = 6
+		Twen:Create(Frame,TweenInfo2,{BackgroundTransparency = 0.1}):Play();
+
+		UICorner_3.CornerRadius = UDim.new(0, 3)
+		UICorner_3.Parent = Frame
+
+		UIGradient_4.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+		UIGradient_4.Parent = Frame
+
+		Button.Name = "Button"
+		Button.Parent = TabButton
+		Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Button.BackgroundTransparency = 1.000
+		Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Button.BorderSizePixel = 0
+		Button.Size = UDim2.new(1, 0, 1, 0)
+		Button.ZIndex = 15
+		Button.Font = Enum.Font.SourceSans
+		Button.Text = ""
+		Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+		Button.TextSize = 14.000
+		Button.TextTransparency = 1.000
+
+		local Init = Instance.new("Frame")
+		local LeftFrame = Instance.new("ScrollingFrame")
+		local UIListLayout = Instance.new("UIListLayout")
+		local RightFrame = Instance.new("ScrollingFrame")
+		local UIListLayout_2 = Instance.new("UIListLayout")
+
+		Init.Name = "Init"
+		Init.Parent = MainTabFrame
+		Init.AnchorPoint = Vector2.new(0.5, 0.5)
+		Init.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Init.BackgroundTransparency = 1.000
+		Init.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Init.BorderSizePixel = 0
+		Init.Position = UDim2.new(0.5, 0, 0.5, 0)
+		Init.Size = UDim2.new(0.980000019, 0, 0.980000019, 0)
+		Init.ZIndex = 4
+
+		LeftFrame.Name = "LeftFrame"
+		LeftFrame.Parent = Init
+		LeftFrame.Active = true
+		LeftFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+		LeftFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		LeftFrame.BackgroundTransparency = 1.000
+		LeftFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		LeftFrame.BorderSizePixel = 0
+		LeftFrame.ClipsDescendants = false
+		LeftFrame.Position = UDim2.new(0.25, 0, 0.5, 0)
+		LeftFrame.Size = UDim2.new(0.5, 0, 1, 0)
+		LeftFrame.ScrollBarThickness = 0
+		UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			LeftFrame.CanvasSize = UDim2.fromOffset(0,UIListLayout.AbsoluteContentSize.Y)
+		end)
+		UIListLayout.Parent = LeftFrame
+		UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout.Padding = UDim.new(0, 3)
+
+		RightFrame.Name = "RightFrame"
+		RightFrame.Parent = Init
+		RightFrame.Active = true
+		RightFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+		RightFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		RightFrame.BackgroundTransparency = 1.000
+		RightFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		RightFrame.BorderSizePixel = 0
+		RightFrame.ClipsDescendants = false
+		RightFrame.Position = UDim2.new(0.75, 0, 0.5, 0)
+		RightFrame.Size = UDim2.new(0.5, 0, 1, 0)
+		RightFrame.ScrollBarThickness = 0
+		UIListLayout_2:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			RightFrame.CanvasSize = UDim2.fromOffset(0,UIListLayout_2.AbsoluteContentSize.Y)
+		end)
+		UIListLayout_2.Parent = RightFrame
+		UIListLayout_2.HorizontalAlignment = Enum.HorizontalAlignment.Center
+		UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout_2.Padding = UDim.new(0, 3)
+
+		local onFunction = function(value)
+			if value then
+				Init.Visible = true;
+
+				Twen:Create(Icon,TweenInfo.new(0.55,Enum.EasingStyle.Quint),{
+					ImageTransparency = 0.1
+				}):Play();
+
+				Twen:Create(Title,TweenInfo.new(0.5,Enum.EasingStyle.Quint),{
+					TextTransparency = 0
+				}):Play();
+
+				Twen:Create(Description,TweenInfo.new(0.4,Enum.EasingStyle.Quint),{
+					TextTransparency = 0.500
+				}):Play();
+
+				Twen:Create(Frame,TweenInfo.new(0.55,Enum.EasingStyle.Quint),{
+					Position = UDim2.new(1.02499998, 0, 0.5, 0)
+				}):Play();
+			else
+				Init.Visible = false;
+
+				Twen:Create(Icon,TweenInfo.new(0.55,Enum.EasingStyle.Quint),{
+					ImageTransparency = 0.25
+				}):Play();
+
+				Twen:Create(Title,TweenInfo.new(0.4,Enum.EasingStyle.Quint),{
+					TextTransparency = 0.25
+				}):Play();
+
+				Twen:Create(Description,TweenInfo.new(0.5,Enum.EasingStyle.Quint),{
+					TextTransparency = 0.65
+				}):Play();
+
+				Twen:Create(Frame,TweenInfo.new(0.55,Enum.EasingStyle.Quint),{
+					Position = UDim2.new(1.1, 0, 0.4, 0)
+				}):Play();
+			end;
+		end;
+
+		if WindowTable.Tabs[1] then
+			onFunction(false);
+		else
+			onFunction(true);
+		end;
+
+		table.insert(WindowTable.Tabs,{
+			Id = Init,
+			onFunction = onFunction,
+		})
+
+		Button.MouseButton1Click:Connect(function()
+			for i,v in ipairs(WindowTable.Tabs) do
+				if v.Id == Init then
+					v.onFunction(true);
+				else
+					v.onFunction(false);
+				end;
+			end;
+		end)
+
+		function TabTable:NewSection(c_o_n_f_i_g)
+			c_o_n_f_i_g = Config(c_o_n_f_i_g,{
+				Position = "Left",
+				Title = "Section",
+				Icon = 'rbxassetid://7733964640'
+			});
+
+			local SectionTable = {};
+			local Section = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local Header = Instance.new("Frame")
+			local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+			local UICorner_2 = Instance.new("UICorner")
+			local Icon = Instance.new("ImageLabel")
+			local UICorner_3 = Instance.new("UICorner")
+			local UIGradient = Instance.new("UIGradient")
+			local BlockFrame = Instance.new("Frame")
+			local UICorner_4 = Instance.new("UICorner")
+			local UIGradient_2 = Instance.new("UIGradient")
+			local Title = Instance.new("TextLabel")
+			local UIGradient_3 = Instance.new("UIGradient")
+			local SectionAutoUI = Instance.new("UIListLayout")
+			local UIStroke = Instance.new("UIStroke")
+			local UIGradient_4 = Instance.new("UIGradient")
+
+			Section.Name = "Section"
+			Section.Parent = (c_o_n_f_i_g.Position == "Left" and LeftFrame) or RightFrame;
+			Section.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Section.BackgroundTransparency = 1
+			Section.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Section.BorderSizePixel = 0
+			Section.Size = UDim2.new(0.980000019, 0, 0, 200)
+			Section.ClipsDescendants = true;
+			Twen:Create(Section,TweenInfo1,{BackgroundTransparency = 0.75}):Play();
+
+			UICorner.CornerRadius = UDim.new(0, 3)
+			UICorner.Parent = Section
+
+			Header.Name = "Header"
+			Header.Parent = Section
+			Header.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Header.BackgroundTransparency = 0.900
+			Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Header.BorderSizePixel = 0
+			Header.Size = UDim2.new(1, 0, 0.5, 0)
+			Twen:Create(Header,TweenInfo2,{BackgroundTransparency = 0.9}):Play();
+
+			UIAspectRatioConstraint.Parent = Header
+			UIAspectRatioConstraint.AspectRatio = 8.000
+			UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+			UICorner_2.CornerRadius = UDim.new(0, 3)
+			UICorner_2.Parent = Header
+
+			Icon.Name = "Icon"
+			Icon.Parent = Header
+			Icon.AnchorPoint = Vector2.new(0.5, 0.5)
+			Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Icon.BackgroundTransparency = 1.000
+			Icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Icon.BorderSizePixel = 0
+			Icon.Position = UDim2.new(0.0649999976, 0, 0.5, 0)
+			Icon.Size = UDim2.new(0.600000024, 0, 0.600000024, 0)
+			Icon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+			Icon.ZIndex = 6
+			Icon.Image = Icons[c_o_n_f_i_g.Icon] or c_o_n_f_i_g.Icon; 
+			Icon.ImageTransparency = 1
+			Twen:Create(Icon,TweenInfo2,{ImageTransparency = 0.1}):Play();
+
+			UICorner_3.CornerRadius = UDim.new(0, 3)
+			UICorner_3.Parent = Icon
+
+			UIGradient.Rotation = 90
+			UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.75, 0.27), NumberSequenceKeypoint.new(1.00, 1.00)}
+			UIGradient.Parent = Icon
+
+			BlockFrame.Name = "BlockFrame"
+			BlockFrame.Parent = Header
+			BlockFrame.AnchorPoint = Vector2.new(0.5, 1)
+			BlockFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			BlockFrame.BackgroundTransparency = 1
+			BlockFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			BlockFrame.BorderSizePixel = 0
+			BlockFrame.Position = UDim2.new(0.5, 0, 1, 0)
+			BlockFrame.Size = UDim2.new(1, 0, 0, 1)
+			BlockFrame.ZIndex = 3
+			Twen:Create(BlockFrame,TweenInfo2,{BackgroundTransparency = 0.8}):Play();
+
+			UICorner_4.CornerRadius = UDim.new(0.5, 0)
+			UICorner_4.Parent = BlockFrame
+
+			UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.10, 0.00), NumberSequenceKeypoint.new(0.90, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+			UIGradient_2.Parent = BlockFrame
+
+			Title.Name = "Title"
+			Title.Parent = Header
+			Title.AnchorPoint = Vector2.new(0, 0.5)
+			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundTransparency = 1.000
+			Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Title.BorderSizePixel = 0
+			Title.Position = UDim2.new(0.125, 0, 0.449999988, 0)
+			Title.Size = UDim2.new(1, 0, 0.5, 0)
+			Title.Font = Enum.Font.GothamBold
+			Title.Text = c_o_n_f_i_g.Title
+			Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Title.TextScaled = true
+			Title.TextSize = 14.000
+			Title.TextWrapped = true
+			Title.TextXAlignment = Enum.TextXAlignment.Left
+			Title.TextTransparency = 1
+			Twen:Create(Title,TweenInfo2,{TextTransparency = 0}):Play();
+
+			UIGradient_3.Rotation = 90
+			UIGradient_3.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+			UIGradient_3.Parent = Title
+
+			SectionAutoUI.Name = "SectionAutoUI"
+			SectionAutoUI.Parent = Section
+			SectionAutoUI.HorizontalAlignment = Enum.HorizontalAlignment.Center
+			SectionAutoUI.SortOrder = Enum.SortOrder.LayoutOrder
+			SectionAutoUI.Padding = UDim.new(0, 3)
+
+			SectionAutoUI:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+				Twen:Create(Section,TweenInfo.new(0.1),{
+					Size = UDim2.new(0.98,0,0,math.max(SectionAutoUI.AbsoluteContentSize.Y,50) + (SectionAutoUI.Padding.Offset * 1.12));
+				}):Play()
+			end)
+
+			UIStroke.Transparency = 1
+			UIStroke.Color = Color3.fromRGB(255, 255, 255)
+			UIStroke.Parent = Section
+			Twen:Create(UIStroke,TweenInfo1,{Transparency = 0.9}):Play();
+
+			UIGradient_4.Rotation = 90
+			UIGradient_4.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.17, 1.00), NumberSequenceKeypoint.new(0.82, 1.00), NumberSequenceKeypoint.new(1.00, 0.00)}
+			UIGradient_4.Parent = UIStroke
+
+			function SectionTable:NewToggle(toggle)
+				toggle = Config(toggle,{
+					Title = "Toggle",
+					Default = false,
+					Callback = function() end;
+				});
+
+				local FunctionToggle = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local Button = Instance.new("TextButton")
+				local UIStroke = Instance.new("UIStroke")
+				local System = Instance.new("Frame")
+				local UICorner = Instance.new("UICorner")
+				local UIStroke_2 = Instance.new("UIStroke")
+				local Icon = Instance.new("Frame")
+				local UICorner_2 = Instance.new("UICorner")
+				local UICorner_3 = Instance.new("UICorner")
+
+				FunctionToggle.Name = "FunctionToggle"
+				FunctionToggle.Parent = Section
+				FunctionToggle.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionToggle.BackgroundTransparency = 1
+				FunctionToggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionToggle.BorderSizePixel = 0
+				FunctionToggle.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionToggle.ZIndex = 17
+				Twen:Create(FunctionToggle,TweenInfo1,{BackgroundTransparency = 0.8}):Play();
+
+				UIAspectRatioConstraint.Parent = FunctionToggle
+				UIAspectRatioConstraint.AspectRatio = 8.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionToggle
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.5, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.479999989, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = toggle.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 0.250
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				Button.Name = "Button"
+				Button.Parent = FunctionToggle
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 15
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+				UIStroke.Transparency = 0.950
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.Parent = FunctionToggle
+
+				System.Name = "System"
+				System.Parent = FunctionToggle
+				System.AnchorPoint = Vector2.new(1, 0.5)
+				System.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				System.BackgroundTransparency = 1.000
+				System.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				System.BorderSizePixel = 0
+				System.Position = UDim2.new(0.975000024, 0, 0.5, 0)
+				System.Size = UDim2.new(0.155000001, 0, 0.600000024, 0)
+				System.ZIndex = 18
+
+				UICorner.CornerRadius = UDim.new(0.5, 0)
+				UICorner.Parent = System
+
+				UIStroke_2.Transparency = 0.850
+				UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke_2.Parent = System
+
+				Icon.Name = "Icon"
+				Icon.Parent = System
+				Icon.AnchorPoint = Vector2.new(0.5, 0.5)
+				Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Icon.BackgroundTransparency = 0.500
+				Icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Icon.BorderSizePixel = 0
+				Icon.Position = UDim2.new(0.25, 0, 0.5, 0)
+				Icon.Size = UDim2.new(1, 0, 1, 0)
+				Icon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+				Icon.ZIndex = 17
+
+				UICorner_2.CornerRadius = UDim.new(1, 0)
+				UICorner_2.Parent = Icon
+
+				UICorner_3.CornerRadius = UDim.new(0, 2)
+				UICorner_3.Parent = FunctionToggle
+
+				local function OnChange(value)
+					if value then
+
+						Twen:Create(TextInt,TweenInfo.new(0.15,Enum.EasingStyle.Quint),{
+							TextTransparency = 0.02
+						}):Play()
+
+						Twen:Create(Icon,TweenInfo.new(0.15,Enum.EasingStyle.Quint),{
+							Position = UDim2.new(0.75, 0, 0.5, 0),
+							BackgroundTransparency = 0.4
+						}):Play()
+					else
+						Twen:Create(Icon,TweenInfo.new(0.15,Enum.EasingStyle.Quint),{
+							Position = UDim2.new(0.25, 0, 0.5, 0),
+							BackgroundTransparency = 0.500
+						}):Play()
+
+						Twen:Create(TextInt,TweenInfo.new(0.15,Enum.EasingStyle.Quint),{
+							TextTransparency = 0.25
+						}):Play()
+					end;
+				end;
+
+				OnChange(toggle.Default);
+
+				Button.MouseButton1Click:Connect(function()
+					toggle.Default = not toggle.Default;
+					OnChange(toggle.Default);
+					task.spawn(toggle.Callback,toggle.Default)
+				end)
+
+				return {
+					Value = function(newindex)
+						toggle.Default = newindex;
+						OnChange(toggle.Default);
+						task.spawn(toggle.Callback,toggle.Default)
+					end,
+					Visible = function(newindx)
+						FunctionToggle.Visible = newindx
+					end,
+				};
+			end;
+
+			function SectionTable:NewTitle(lrm)
+				local FunctionTitle = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local UICorner = Instance.new("UICorner")
+
+
+				FunctionTitle.Name = "FunctionTitle"
+				FunctionTitle.Parent = Section
+				FunctionTitle.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionTitle.BackgroundTransparency = 0.800
+				FunctionTitle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionTitle.BorderSizePixel = 0
+				FunctionTitle.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionTitle.ZIndex = 17
+
+				UIAspectRatioConstraint.Parent = FunctionTitle
+				UIAspectRatioConstraint.AspectRatio = 8.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionTitle
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.5, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.600000024, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = lrm
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 1
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+				Twen:Create(TextInt,TweenInfo1,{TextTransparency = 0.25}):Play();
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				UICorner.CornerRadius = UDim.new(0, 2)
+				UICorner.Parent = FunctionTitle
+
+				return {
+					Visible = function(newindx)
+						FunctionTitle.Visible = newindx
+					end,
+					Set = function(a)
+						TextInt.Text = a
+					end,
+				};
+			end;
+
+			function SectionTable:NewButton(cfg)
+				cfg = Config(cfg,{
+					Title = "Button",
+					Callback = function() end;
+				});
+
+				local FunctionButton = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local UICorner = Instance.new("UICorner")
+				local DropShadow = Instance.new("ImageLabel")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local Button = Instance.new("TextButton")
+				local UIStroke = Instance.new("UIStroke")
+
+				FunctionButton.Name = "FunctionButton"
+				FunctionButton.Parent = Section
+				FunctionButton.BackgroundColor3 = Color3.fromRGB(71, 71, 71)
+				FunctionButton.BackgroundTransparency = 1
+				FunctionButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionButton.BorderSizePixel = 0
+				FunctionButton.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionButton.ZIndex = 17
+				Twen:Create(FunctionButton,TweenInfo1,{
+					BackgroundTransparency = 0.750,
+					Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				}):Play();
+
+				UIAspectRatioConstraint.Parent = FunctionButton
+				UIAspectRatioConstraint.AspectRatio = 7.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				Twen:Create(UIAspectRatioConstraint,TweenInfo1,{
+					AspectRatio = 7.65
+				}):Play();
+
+				UICorner.CornerRadius = UDim.new(0, 2)
+				UICorner.Parent = FunctionButton
+
+				DropShadow.Name = "DropShadow"
+				DropShadow.Parent = FunctionButton
+				DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+				DropShadow.BackgroundTransparency = 1.000
+				DropShadow.BorderSizePixel = 0
+				DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+				DropShadow.Size = UDim2.new(1, 20, 1, 20)
+				DropShadow.ZIndex = 16
+				DropShadow.Image = "rbxassetid://6015897843"
+				DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+				DropShadow.ImageTransparency = 0.600
+				DropShadow.ScaleType = Enum.ScaleType.Slice
+				DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionButton
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.5, 0)
+				TextInt.Size = UDim2.new(1, 0, 0.479999989, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = cfg.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextWrapped = true
+				TextInt.TextTransparency = 0.25;
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				Button.Name = "Button"
+				Button.Parent = FunctionButton
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 15
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+				UIStroke.Transparency = 0.920
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+				UIStroke.Parent = FunctionButton
+
+				Button.MouseEnter:Connect(function()
+					Twen:Create(DropShadow,TweenInfo.new(0.2),{
+						ImageTransparency = 0.35
+					}):Play()
+
+					Twen:Create(TextInt,TweenInfo.new(0.2),{
+						TextTransparency = 0
+					}):Play()
+				end)
+
+				Button.MouseLeave:Connect(function()
+					Twen:Create(DropShadow,TweenInfo.new(0.2),{
+						ImageTransparency = 0.600
+					}):Play()
+
+					Twen:Create(TextInt,TweenInfo.new(0.2),{
+						TextTransparency = 0.25
+					}):Play()
+				end)
+
+				Button.MouseButton1Click:Connect(function()
+					task.spawn(cfg.Callback);
+				end)
+
+				return {
+					Visible = function(newindx)
+						FunctionButton.Visible = newindx
+					end,
+					Fire = cfg.Callback
+				};
+			end;
+
+			function SectionTable:NewKeybind(ctfx)
+				ctfx = Config(ctfx,{
+					Title = "Keybind",
+					Callback = function() end,
+					Default = Enum.KeyCode.E,
+
+				});
+
+				local BindEvent = Instance.new('BindableEvent',Section);
+				local FunctionKeybind = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local Button = Instance.new("TextButton")
+				local UIStroke = Instance.new("UIStroke")
+				local System = Instance.new("Frame")
+				local UICorner = Instance.new("UICorner")
+				local UIStroke_2 = Instance.new("UIStroke")
+				local Bindkey = Instance.new("TextLabel")
+				local UICorner_2 = Instance.new("UICorner")
+				BindEvent.Name = tostring(ctfx.Title)
+				FunctionKeybind.Name = "FunctionKeybind"
+				FunctionKeybind.Parent = Section
+				FunctionKeybind.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionKeybind.BackgroundTransparency = 0.800
+				FunctionKeybind.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionKeybind.BorderSizePixel = 0
+				FunctionKeybind.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionKeybind.ZIndex = 17
+
+				UIAspectRatioConstraint.Parent = FunctionKeybind
+				UIAspectRatioConstraint.AspectRatio = 8.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionKeybind
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.5, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.479999989, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = ctfx.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 0.250
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				Button.Name = "Button"
+				Button.Parent = FunctionKeybind
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 15
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+				UIStroke.Transparency = 0.950
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.Parent = FunctionKeybind
+
+				System.Name = "System"
+				System.Parent = FunctionKeybind
+				System.AnchorPoint = Vector2.new(1, 0.5)
+				System.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				System.BackgroundTransparency = 1.000
+				System.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				System.BorderSizePixel = 0
+				System.Position = UDim2.new(0.975000024, 0, 0.5, 0)
+				System.Size = UDim2.new(0, 50, 0.600000024, 0)
+				System.ZIndex = 18
+
+				UICorner.CornerRadius = UDim.new(0.349999994, 0)
+				UICorner.Parent = System
+
+				UIStroke_2.Transparency = 0.950
+				UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke_2.Parent = System
+
+				Bindkey.Name = "Bindkey"
+				Bindkey.Parent = System
+				Bindkey.AnchorPoint = Vector2.new(0.5, 0.5)
+				Bindkey.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Bindkey.BackgroundTransparency = 1.000
+				Bindkey.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Bindkey.BorderSizePixel = 0
+				Bindkey.Position = UDim2.new(0.5, 0, 0.5, 0)
+				Bindkey.Size = UDim2.new(1, 0, 0.649999976, 0)
+				Bindkey.Font = Enum.Font.GothamBold
+				Bindkey.Text = Input:GetStringForKeyCode(ctfx.Default) or ctfx.Default.Name;
+				Bindkey.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Bindkey.TextScaled = true
+				Bindkey.TextSize = 14.000
+				Bindkey.TextTransparency = 0.500
+				Bindkey.TextWrapped = true
+
+				UICorner_2.CornerRadius = UDim.new(0, 2)
+				UICorner_2.Parent = FunctionKeybind
+
+				local IsWIP = false;
+				local function UpdateUI(new)
+					Bindkey.Text = (typeof(new) == 'string' and new) or new.Name;
+
+					local size = TextServ:GetTextSize(Bindkey.Text,Bindkey.TextSize,Bindkey.Font,Vector2.new(math.huge,math.huge));
+
+					Twen:Create(System,TweenInfo.new(0.2),{
+						Size = UDim2.new(0, size.X + 2, 0.600000024, 0)
+					}):Play()
+				end;
+
+				UpdateUI(ctfx.Default)
+
+				Button.MouseButton1Click:Connect(function()
+					if IsWIP then return end;
+
+					IsWIP = true;
+
+
+					Twen:Create(TextInt,TweenInfo.new(0.1),{
+						TextTransparency = 0
+					}):Play();
+
+					local Signal = Input.InputBegan:Connect(function(key)
+						if key.KeyCode then
+							if key.KeyCode ~= Enum.KeyCode.Unknown then
+								BindEvent:Fire(key.KeyCode);
+							end;
+						end;
+					end)
+
+					UpdateUI('...')
+					local Bind = BindEvent.Event:Wait();
+					Twen:Create(TextInt,TweenInfo.new(0.1),{
+						TextTransparency = 0.250
+					}):Play();
+					Signal:Disconnect()
+					UpdateUI(Bind)
+
+					IsWIP = false;
+					ctfx.Callback(Bind);
+
+
+				end)
+
+				return {
+					Visible = function(newindx)
+						FunctionKeybind.Visible = newindx
+					end,
+					Value = function(lrm)
+						UpdateUI(lrm)
+
+
+						ctfx.Callback(lrm);
+					end,
+				};
+			end;
+
+			function SectionTable:NewSlider(slider)
+				slider = Config(slider,{
+					Title = "Slider",
+					Min = 0,
+					Max = 100,
+					Default = 50,
+					Callback = function()
+
+					end,
+				});
+
+				local FunctionSlider = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local UIStroke = Instance.new("UIStroke")
+				local UICorner = Instance.new("UICorner")
+				local ValueText = Instance.new("TextLabel")
+				local UIGradient_2 = Instance.new("UIGradient")
+				local MFrame = Instance.new("Frame")
+				local UICorner_2 = Instance.new("UICorner")
+				local TFrame = Instance.new("Frame")
+				local UICorner_3 = Instance.new("UICorner")
+				local UIStroke_2 = Instance.new("UIStroke")
+
+				FunctionSlider.Name = "FunctionSlider"
+				FunctionSlider.Parent = Section
+				FunctionSlider.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionSlider.BackgroundTransparency = 0.800
+				FunctionSlider.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionSlider.BorderSizePixel = 0
+				FunctionSlider.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionSlider.ZIndex = 17
+
+				UIAspectRatioConstraint.Parent = FunctionSlider
+				UIAspectRatioConstraint.AspectRatio = 6.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionSlider
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.25999999, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.379999995, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = slider.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 0.250
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				UIStroke.Transparency = 0.950
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.Parent = FunctionSlider
+
+				UICorner.CornerRadius = UDim.new(0, 2)
+				UICorner.Parent = FunctionSlider
+
+				ValueText.Name = "ValueText"
+				ValueText.Parent = FunctionSlider
+				ValueText.AnchorPoint = Vector2.new(0.5, 0.5)
+				ValueText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				ValueText.BackgroundTransparency = 1.000
+				ValueText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				ValueText.BorderSizePixel = 0
+				ValueText.Position = UDim2.new(0.5, 0, 0.25999999, 0)
+				ValueText.Size = UDim2.new(0.949999988, 0, 0.349999994, 0)
+				ValueText.ZIndex = 18
+				ValueText.Font = Enum.Font.GothamBold
+				ValueText.Text = tostring(slider.Default)..'/'..tostring(slider.Max)
+				ValueText.TextColor3 = Color3.fromRGB(255, 255, 255)
+				ValueText.TextScaled = true
+				ValueText.TextSize = 14.000
+				ValueText.TextTransparency = 0.500
+				ValueText.TextWrapped = true
+				ValueText.TextXAlignment = Enum.TextXAlignment.Right
+
+				UIGradient_2.Rotation = 90
+				UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient_2.Parent = ValueText
+
+				MFrame.Name = "MFrame"
+				MFrame.Parent = FunctionSlider
+				MFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+				MFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BackgroundTransparency = 0.800
+				MFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BorderSizePixel = 0
+				MFrame.ClipsDescendants = true
+				MFrame.Position = UDim2.new(0.5, 0, 0.75, 0)
+				MFrame.Size = UDim2.new(0.949999988, 0, 0.289999992, 0)
+				MFrame.ZIndex = 18
+
+				UICorner_2.CornerRadius = UDim.new(0, 2)
+				UICorner_2.Parent = MFrame
+
+				TFrame.Name = "TFrame"
+				TFrame.Parent = MFrame
+				TFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TFrame.BackgroundTransparency = 0.500
+				TFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TFrame.BorderSizePixel = 0
+				TFrame.Size = UDim2.new((slider.Default / slider.Max), 0, 1, 0)
+				TFrame.ZIndex = 17
+
+				UICorner_3.CornerRadius = UDim.new(0, 2)
+				UICorner_3.Parent = TFrame
+
+				UIStroke_2.Transparency = 0.975
+				UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke_2.Parent = MFrame
+
+				local Holding = false
+
+				local function update(Input)
+					local SizeScale = math.clamp((((Input.Position.X) - MFrame.AbsolutePosition.X) / MFrame.AbsoluteSize.X), 0, 1)
+					local Main = ((slider.Max - slider.Min) * SizeScale) + slider.Min;
+					local Value = math.round(Main)
+					local Size = UDim2.fromScale(SizeScale, 1)
+					ValueText.Text = tostring(Value)..'/'..tostring(slider.Max)
+					Twen:Create(TFrame,TweenInfo.new(0.1),{Size = Size}):Play()
+					slider.Callback(Value);
+				end
+
+				MFrame.InputBegan:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+						Holding = true
+						update(Input)
+						Twen:Create(TextInt,TweenInfo.new(0.1),{
+							TextTransparency = 0
+						}):Play()
+					end
+				end)
+
+				MFrame.InputEnded:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+						Holding = false
+						Twen:Create(TextInt,TweenInfo.new(0.1),{
+							TextTransparency = 0.3
+						}):Play()
+					end
+				end)
+
+				Input.InputChanged:Connect(function(Input)
+					if Holding then
+						if (Input.UserInputType==Enum.UserInputType.MouseMovement or Input.UserInputType==Enum.UserInputType.Touch)  then
+							update(Input)
+						end
+					end
+				end)
+
+				return {
+					Visible = function(newindx)
+						FunctionSlider.Visible = newindx
+					end,
+					Value = function(lrm)
+						TFrame.Size = UDim2.new((lrm / slider.Max), 0, 1, 0)
+
+						slider.Callback(lrm);
+					end,
+				};
+			end;
+
+			function SectionTable:NewDropdown(drop)
+				drop = Config(drop,{
+					Title = "Dropdown",
+					Data = {'One','Two','Three','Four'},
+					Default = 'Two',
+					Callback = function(a)
+
+					end,
+				});
+
+				local FunctionDropdown = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local UIStroke = Instance.new("UIStroke")
+				local UICorner = Instance.new("UICorner")
+				local MFrame = Instance.new("Frame")
+				local UICorner_2 = Instance.new("UICorner")
+				local UIStroke_2 = Instance.new("UIStroke")
+				local ValueText = Instance.new("TextLabel")
+				local UIGradient_2 = Instance.new("UIGradient")
+				local Button = Instance.new("TextButton")
+
+				FunctionDropdown.Name = "FunctionDropdown"
+				FunctionDropdown.Parent = Section
+				FunctionDropdown.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionDropdown.BackgroundTransparency = 0.800
+				FunctionDropdown.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionDropdown.BorderSizePixel = 0
+				FunctionDropdown.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionDropdown.ZIndex = 17
+
+				UIAspectRatioConstraint.Parent = FunctionDropdown
+				UIAspectRatioConstraint.AspectRatio = 5.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionDropdown
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.200000003, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.319999993, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = drop.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 0.250
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				UIStroke.Transparency = 0.950
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.Parent = FunctionDropdown
+
+				UICorner.CornerRadius = UDim.new(0, 2)
+				UICorner.Parent = FunctionDropdown
+
+				MFrame.Name = "MFrame"
+				MFrame.Parent = FunctionDropdown
+				MFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+				MFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BackgroundTransparency = 0.800
+				MFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BorderSizePixel = 0
+				MFrame.ClipsDescendants = true
+				MFrame.Position = UDim2.new(0.5, 0, 0.699999988, 0)
+				MFrame.Size = UDim2.new(0.949999988, 0, 0.375, 0)
+				MFrame.ZIndex = 18
+
+				UICorner_2.CornerRadius = UDim.new(0, 2)
+				UICorner_2.Parent = MFrame
+
+				UIStroke_2.Transparency = 0.975
+				UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke_2.Parent = MFrame
+
+				ValueText.Name = "ValueText"
+				ValueText.Parent = MFrame
+				ValueText.AnchorPoint = Vector2.new(0.5, 0.5)
+				ValueText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				ValueText.BackgroundTransparency = 1.000
+				ValueText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				ValueText.BorderSizePixel = 0
+				ValueText.Position = UDim2.new(0.5, 0, 0.5, 0)
+				ValueText.Size = UDim2.new(1, 0, 0.800000012, 0)
+				ValueText.ZIndex = 18
+				ValueText.Font = Enum.Font.GothamBold
+				ValueText.Text = drop.Default or "NONE"
+				ValueText.TextColor3 = Color3.fromRGB(255, 255, 255)
+				ValueText.TextScaled = true
+				ValueText.TextSize = 14.000
+				ValueText.TextTransparency = 0.500
+				ValueText.TextWrapped = true
+
+				MFrame.MouseEnter:Connect(function()
+					Twen:Create(ValueText,TweenInfo.new(0.3),{
+						TextTransparency = 0.1
+					}):Play()
+				end)
+
+				MFrame.MouseLeave:Connect(function()
+					Twen:Create(ValueText,TweenInfo.new(0.3),{
+						TextTransparency = 0.500
+					}):Play()
+				end)
+
+				UIGradient_2.Rotation = 90
+				UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient_2.Parent = ValueText
+
+				Button.Name = "Button"
+				Button.Parent = FunctionDropdown
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 25
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+				local Updater = function(value)
+					drop.Default = value;
+					ValueText.Text = tostring(value);
+					drop.Callback(value);
+				end;
+
+				Button.MouseButton1Click:Connect(function()
+					WindowTable.Dropdown:Setup(MFrame)
+
+					WindowTable.Dropdown:Open(drop.Data,drop.Default,Updater)
+				end)
+
+				return {
+					Visible = function(newindx)
+						FunctionDropdown.Visible = newindx
+					end,
+					Value = function(value)
+						ValueText.Text = tostring(value);
+						drop.Callback(value);
+					end,
+					Open = function(value)
+						WindowTable.Dropdown:Setup(MFrame)
+
+						WindowTable.Dropdown:Open(drop.Data,drop.Default,Updater)
+					end,
+
+					Close = function(value)
+						WindowTable.Dropdown:Close();
+					end,
+					Clear = function()
+						drop.Data = {}
+					end,
+					Set = function(table)
+						drop.Data = table
+					end
+				};
+			end;
+
+			function SectionTable:NewTextbox(conf)
+				conf = Config(conf,{
+					Title = "Textbox",
+					Default = '',
+					FileType = "",
+					Callback = function(a)
+
+					end,
+				})
+
+				local FunctionTextbox = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local TextInt = Instance.new("TextLabel")
+				local UIGradient = Instance.new("UIGradient")
+				local UIStroke = Instance.new("UIStroke")
+				local UICorner = Instance.new("UICorner")
+				local MFrame = Instance.new("Frame")
+				local UICorner_2 = Instance.new("UICorner")
+				local UIStroke_2 = Instance.new("UIStroke")
+				local FileType = Instance.new("TextLabel")
+				local UIGradient_2 = Instance.new("UIGradient")
+				local TextBox = Instance.new("TextBox")
+				local Button = Instance.new("TextButton")
+
+				FunctionTextbox.Name = "FunctionTextbox"
+				FunctionTextbox.Parent = Section
+				FunctionTextbox.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+				FunctionTextbox.BackgroundTransparency = 0.800
+				FunctionTextbox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FunctionTextbox.BorderSizePixel = 0
+				FunctionTextbox.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				FunctionTextbox.ZIndex = 17
+
+				UIAspectRatioConstraint.Parent = FunctionTextbox
+				UIAspectRatioConstraint.AspectRatio = 5.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				TextInt.Name = "TextInt"
+				TextInt.Parent = FunctionTextbox
+				TextInt.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextInt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.BackgroundTransparency = 1.000
+				TextInt.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextInt.BorderSizePixel = 0
+				TextInt.Position = UDim2.new(0.5, 0, 0.200000003, 0)
+				TextInt.Size = UDim2.new(0.949999988, 0, 0.319999993, 0)
+				TextInt.ZIndex = 18
+				TextInt.Font = Enum.Font.GothamBold
+				TextInt.Text = conf.Title
+				TextInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextInt.TextScaled = true
+				TextInt.TextSize = 14.000
+				TextInt.TextTransparency = 0.250
+				TextInt.TextWrapped = true
+				TextInt.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIGradient.Rotation = 90
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient.Parent = TextInt
+
+				UIStroke.Transparency = 0.950
+				UIStroke.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke.Parent = FunctionTextbox
+
+				UICorner.CornerRadius = UDim.new(0, 2)
+				UICorner.Parent = FunctionTextbox
+
+				MFrame.Name = "MFrame"
+				MFrame.Parent = FunctionTextbox
+				MFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+				MFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BackgroundTransparency = 0.800
+				MFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				MFrame.BorderSizePixel = 0
+				MFrame.ClipsDescendants = true
+				MFrame.Position = UDim2.new(0.5, 0, 0.699999988, 0)
+				MFrame.Size = UDim2.new(0.949999988, 0, 0.375, 0)
+				MFrame.ZIndex = 18
+
+				UICorner_2.CornerRadius = UDim.new(0, 2)
+				UICorner_2.Parent = MFrame
+
+				UIStroke_2.Transparency = 0.975
+				UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+				UIStroke_2.Parent = MFrame
+
+				FileType.Name = "FileType"
+				FileType.Parent = MFrame
+				FileType.AnchorPoint = Vector2.new(0.5, 0.5)
+				FileType.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				FileType.BackgroundTransparency = 1.000
+				FileType.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				FileType.BorderSizePixel = 0
+				FileType.Position = UDim2.new(0.5, 0, 0.5, 0)
+				FileType.Size = UDim2.new(0.899999976, 0, 0.800000012, 0)
+				FileType.ZIndex = 18
+				FileType.Font = Enum.Font.GothamBold
+				FileType.Text = conf.FileType
+				FileType.TextColor3 = Color3.fromRGB(255, 255, 255)
+				FileType.TextScaled = true
+				FileType.TextSize = 14.000
+				FileType.TextTransparency = 0.100
+				FileType.TextWrapped = true
+				FileType.TextXAlignment = Enum.TextXAlignment.Right
+
+				UIGradient_2.Rotation = 90
+				UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.84, 0.25), NumberSequenceKeypoint.new(1.00, 1.00)}
+				UIGradient_2.Parent = FileType
+
+				TextBox.Parent = MFrame
+				TextBox.AnchorPoint = Vector2.new(0.5, 0.5)
+				TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TextBox.BackgroundTransparency = 1.000
+				TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TextBox.BorderSizePixel = 0
+				TextBox.Position = UDim2.new(0.425999999, 0, 0.5, 0)
+				TextBox.Size = UDim2.new(0.753000021, 0, 0.800000012, 0)
+				TextBox.ZIndex = 35
+				TextBox.ClearTextOnFocus = false
+				TextBox.Font = Enum.Font.GothamBold
+				TextBox.Text = tostring(conf.Default) or "";
+				TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+				TextBox.TextScaled = true
+				TextBox.TextSize = 14.000
+				TextBox.TextTransparency = 0.600
+				TextBox.TextWrapped = true
+				TextBox.TextXAlignment = Enum.TextXAlignment.Left
+
+				Button.Name = "Button"
+				Button.Parent = FunctionTextbox
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 25
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = "";
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+
+				TextBox.FocusLost:Connect(function(press)
+					conf.Callback(TextBox.Text);
+				end)
+			end;
+
+			return SectionTable;
+		end;
+
+		return TabTable;
+	end;
+
+	local dragToggle = nil;
+	local dragSpeed = 0.1;
+	local dragStart = nil;
+	local startPos = nil;
+
+	local function updateInput(input)
+		WindowTable.ElBlurUI.Update()
+		local delta = input.Position - dragStart;
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y);
+		game:GetService('TweenService'):Create(MainFrame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end;
+
+	InputFrame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = MainFrame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false;
+				end;
+			end)
+		end;
+	end)
+
+	Input.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input);
+			end;
+		end;
+	end)
+
+	return WindowTable;
+end;
+
+Library.NewAuth = function(conf)
+	conf = Config(conf,{
+		Title = "Nothing $ KEY SYSTEM",
+		GetKey = function() return 'https://example.com' end,
+		Auth = function(key) if key == '1 or 1' then return key; end; end,
+		Freeze = false,
+	});
+
+
+	if conf.Auth then
+		if debug.info(conf.Auth,'s') == '[C]' then
+			if error then
+				error('huh');
+			end;
+
+			return;
+		end;
+	end;
+
+	if conf.GetKey then
+		if debug.info(conf.GetKey,'s') == '[C]' then
+			if error then
+				error('huh');
+			end;
+
+			return;
+		end;
+	end;
+
+	local ScreenGui = Instance.new("ScreenGui")
+	local vaid = Instance.new('BindableEvent')
+	local Auth = Instance.new("Frame")
+	local MainFrame = Instance.new("Frame")
+	local BlockFrame = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local UIGradient = Instance.new("UIGradient")
+	local UICorner_2 = Instance.new("UICorner")
+	local Button2 = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local DropShadow = Instance.new("ImageLabel")
+	local UIStroke = Instance.new("UIStroke")
+	local TextBox = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local DropShadow_2 = Instance.new("ImageLabel")
+	local UIStroke_2 = Instance.new("UIStroke")
+	local Button1 = Instance.new("TextButton")
+	local UICorner_5 = Instance.new("UICorner")
+	local DropShadow_3 = Instance.new("ImageLabel")
+	local UIStroke_3 = Instance.new("UIStroke")
+	local MainDropShadow = Instance.new("ImageLabel")
+	local Title = Instance.new("TextLabel")
+	local UIGradient_2 = Instance.new("UIGradient")
+	local UICorner_6 = Instance.new("UICorner")
+
+	ScreenGui.Parent = CoreGui
+	ScreenGui.IgnoreGuiInset = true
+	ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+	ScreenGui.Name = game:GetService('HttpService'):GenerateGUID(false)..tostring(tick())
+
+	Auth.Name = "Auth"
+	Auth.Parent = ScreenGui
+	Auth.Active = true
+	Auth.AnchorPoint = Vector2.new(0.5, 0.5)
+	Auth.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+	Auth.BackgroundTransparency = 1.000
+	Auth.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Auth.BorderSizePixel = 0
+	Auth.ClipsDescendants = true
+	Auth.Position = UDim2.new(0.5, 0, 0.5, 0)
+	Auth.Size = UDim2.new(0.100000001, 245, 0.100000001, 115)
+
+	local BlueEffect = ElBlurSource.new(MainFrame,true);
+	local cose = {Library.GradientImage(MainFrame),
+		Library.GradientImage(MainFrame,Color3.fromRGB(255, 0, 4))}
+
+	MainFrame.Name = "MainFrame"
+	MainFrame.Parent = Auth
+	MainFrame.Active = true
+	MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	MainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	MainFrame.BackgroundTransparency = 0.500
+	MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MainFrame.BorderSizePixel = 0
+	MainFrame.Position = UDim2.new(0.5, 0, -1.5, 0)
+	MainFrame.Size = UDim2.new(0.8,0,0.8,0)
+	Twen:Create(MainFrame,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+		Position = UDim2.new(0.5, 0, 0.5, 0),
+		Size = UDim2.new(1, 0, 1, 0)
+	}):Play();
+
+	BlockFrame.Name = "BlockFrame"
+	BlockFrame.Parent = MainFrame
+	BlockFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	BlockFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BlockFrame.BackgroundTransparency = 0.800
+	BlockFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	BlockFrame.BorderSizePixel = 0
+	BlockFrame.Position = UDim2.new(0.5, 0, 0.150000006, 0)
+	BlockFrame.Size = UDim2.new(1, 0, 0, 1)
+	BlockFrame.ZIndex = 3
+
+	UICorner.CornerRadius = UDim.new(0.5, 0)
+	UICorner.Parent = BlockFrame
+
+	UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 1.00), NumberSequenceKeypoint.new(0.05, 0.00), NumberSequenceKeypoint.new(0.96, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient.Parent = BlockFrame
+
+	UICorner_2.CornerRadius = UDim.new(0, 7)
+	UICorner_2.Parent = MainFrame
+
+	Button2.Name = "Button2"
+	Button2.Parent = MainFrame
+	Button2.AnchorPoint = Vector2.new(0.5, 0.5)
+	Button2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	Button2.BackgroundTransparency = 0.500
+	Button2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Button2.BorderSizePixel = 0
+	Button2.Position = UDim2.new(0.75, 0, 0.649999976, 0)
+	Button2.Size = UDim2.new(0.447547048, 0, 0.155089319, 0)
+	Button2.ZIndex = 3
+	Button2.Font = Enum.Font.GothamBold
+	Button2.Text = "ACTIVATE"
+	Button2.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Button2.TextSize = 14.000
+
+	UICorner_3.CornerRadius = UDim.new(0, 2)
+	UICorner_3.Parent = Button2
+
+	DropShadow.Name = "DropShadow"
+	DropShadow.Parent = Button2
+	DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+	DropShadow.BackgroundTransparency = 1.000
+	DropShadow.BorderSizePixel = 0
+	DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+	DropShadow.Size = UDim2.new(1, 37, 1, 37)
+	DropShadow.Image = "rbxassetid://6015897843"
+	DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	DropShadow.ImageTransparency = 0.600
+	DropShadow.ScaleType = Enum.ScaleType.Slice
+	DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+
+	UIStroke.Transparency = 1
+	UIStroke.Color = Color3.fromRGB(255, 255, 255)
+	UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+	UIStroke.Parent = Button2
+	Twen:Create(UIStroke,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+		Transparency = 0.900
+	}):Play();
+
+	TextBox.Parent = MainFrame
+	TextBox.AnchorPoint = Vector2.new(0.5, 0.5)
+	TextBox.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	TextBox.BackgroundTransparency = 0.500
+	TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TextBox.BorderSizePixel = 0
+	TextBox.Position = UDim2.new(0.5, 0, 0.300000012, 0)
+	TextBox.Size = UDim2.new(0.800000012, 0, 0.115000002, 0)
+	TextBox.ZIndex = 2
+	TextBox.ClearTextOnFocus = false
+	TextBox.Font = Enum.Font.Unknown
+	TextBox.PlaceholderText = "ENTER KEY"
+	TextBox.Text = ""
+	TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextBox.TextSize = 10.000
+	TextBox.TextTransparency = 0.250
+	TextBox.TextWrapped = true
+
+	UICorner_4.CornerRadius = UDim.new(0, 2)
+	UICorner_4.Parent = TextBox
+
+	DropShadow_2.Name = "DropShadow"
+	DropShadow_2.Parent = TextBox
+	DropShadow_2.AnchorPoint = Vector2.new(0.5, 0.5)
+	DropShadow_2.BackgroundTransparency = 1.000
+	DropShadow_2.BorderSizePixel = 0
+	DropShadow_2.Position = UDim2.new(0.5, 0, 0.5, 0)
+	DropShadow_2.Size = UDim2.new(1, 37, 1, 37)
+	DropShadow_2.Image = "rbxassetid://6015897843"
+	DropShadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	DropShadow_2.ImageTransparency = 0.600
+	DropShadow_2.ScaleType = Enum.ScaleType.Slice
+	DropShadow_2.SliceCenter = Rect.new(49, 49, 450, 450)
+
+	UIStroke_2.Transparency = 1
+	UIStroke_2.Color = Color3.fromRGB(255, 255, 255)
+	UIStroke_2.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+	UIStroke_2.Parent = TextBox
+	Twen:Create(UIStroke_2,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+		Transparency = 0.900
+	}):Play();
+	Button1.Name = "Button1"
+	Button1.Parent = MainFrame
+	Button1.AnchorPoint = Vector2.new(0.5, 0.5)
+	Button1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	Button1.BackgroundTransparency = 0.500
+	Button1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Button1.BorderSizePixel = 0
+	Button1.Position = UDim2.new(0.25, 0, 0.649999976, 0)
+	Button1.Size = UDim2.new(0.447547048, 0, 0.155089319, 0)
+	Button1.ZIndex = 3
+	Button1.Font = Enum.Font.GothamBold
+	Button1.Text = "GET KEY"
+	Button1.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Button1.TextSize = 14.000
+
+	UICorner_5.CornerRadius = UDim.new(0, 2)
+	UICorner_5.Parent = Button1
+
+	DropShadow_3.Name = "DropShadow"
+	DropShadow_3.Parent = Button1
+	DropShadow_3.AnchorPoint = Vector2.new(0.5, 0.5)
+	DropShadow_3.BackgroundTransparency = 1.000
+	DropShadow_3.BorderSizePixel = 0
+	DropShadow_3.Position = UDim2.new(0.5, 0, 0.5, 0)
+	DropShadow_3.Size = UDim2.new(1, 37, 1, 37)
+	DropShadow_3.Image = "rbxassetid://6015897843"
+	DropShadow_3.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	DropShadow_3.ImageTransparency = 0.600
+	DropShadow_3.ScaleType = Enum.ScaleType.Slice
+	DropShadow_3.SliceCenter = Rect.new(49, 49, 450, 450)
+
+	UIStroke_3.Transparency = 1
+	UIStroke_3.Color = Color3.fromRGB(255, 255, 255)
+	UIStroke_3.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+	UIStroke_3.Parent = Button1
+	Twen:Create(UIStroke_3,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+		Transparency = 0.900
+	}):Play();
+	MainDropShadow.Name = "MainDropShadow"
+	MainDropShadow.Parent = MainFrame
+	MainDropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+	MainDropShadow.BackgroundTransparency = 1.000
+	MainDropShadow.BorderSizePixel = 0
+	MainDropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+	MainDropShadow.Rotation = 0.0001
+	MainDropShadow.Size = UDim2.new(1, 47, 1, 47)
+	MainDropShadow.ZIndex = 0
+	MainDropShadow.Image = "rbxassetid://6015897843"
+	MainDropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	MainDropShadow.ImageTransparency = 1
+	MainDropShadow.ScaleType = Enum.ScaleType.Slice
+	MainDropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+	Twen:Create(MainDropShadow,TweenInfo.new(2,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+		ImageTransparency = 0.600
+	}):Play();
+	Title.Name = "Title"
+	Title.Parent = MainFrame
+	Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Title.BackgroundTransparency = 1.000
+	Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Title.BorderSizePixel = 0
+	Title.Position = UDim2.new(0.0250000004, 0, 0.0350000001, 0)
+	Title.Size = UDim2.new(0.899999976, 0, 0.075000003, 0)
+	Title.Font = Enum.Font.GothamBold
+	Title.Text = conf.Title;
+	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Title.TextScaled = true
+	Title.TextSize = 14.000
+	Title.TextWrapped = true
+	Title.TextXAlignment = Enum.TextXAlignment.Left
+
+	UIGradient_2.Rotation = 90
+	UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.75, 0.27), NumberSequenceKeypoint.new(1.00, 1.00)}
+	UIGradient_2.Parent = Title
+
+	UICorner_6.CornerRadius = UDim.new(0, 7)
+	UICorner_6.Parent = MainFrame
+
+	local id = tostring(math.random(1,100))..tostring(math.random(1,100))..tostring(math.random(1,100))..tostring(math.random(1,100))..tostring(math.random(1,100))..tostring(math.random(1,100))..tostring(tick()):reverse();
+
+	Button1.MouseButton1Click:Connect(function()
+		local str = conf.GetKey();
+
+		if str then
+			if typeof(str) == 'string' then
+				local clip = getfenv()['toclipboard'] or getfenv()['setclipboard'] or getfenv()['print'];
+
+				clip(str);
+			end;
+		end;
+	end);
+
+
+	Button2.MouseButton1Click:Connect(function()
+		local str = conf.Auth(TextBox.Text);
+
+		if str then
+			TextBox.Text = "*/*/*/*/*/*/*/*/*/*/*/*/*/*";
+
+			vaid:Fire(id)
+		else
+			TextBox.Text = "";
+		end;
+	end);
+
+	if conf.Freeze then
+		while ScreenGui do task.wait();
+			local ez = vaid.Event:Wait();
+
+			if ez == id then
+				break;
+			end;
+		end;
+	end;
+
+	return {
+		Close = function()
+			Twen:Create(MainDropShadow,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+				ImageTransparency = 1
+			}):Play();
+
+			BlueEffect.Destroy();
+
+
+			for i,v in ipairs(cose) do
+				game:GetService('RunService'):UnbindFromRenderStep(v);
+			end;
+
+			Twen:Create(MainFrame,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+				Size = UDim2.new(0.8,0,0.8,0)
+			}):Play();
+
+			task.delay(1,function()
+				Twen:Create(MainFrame,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut),{
+					Position = UDim2.new(0.5, 0, 1.5, 0),
+					Size = UDim2.new(0.8,0,0.8,0)
+				}):Play();
+
+				task.delay(1.2,function()
+
+					ScreenGui:Destroy()
+
+				end)
+			end)
+		end,
+	}
+end;
+
+Library.Notification = function()
+	local Notification = Instance.new("ScreenGui")
+	local Frame = Instance.new("Frame")
+	local UIListLayout = Instance.new("UIListLayout")
+
+	Notification.Name = "Notification"
+	Notification.Parent = CoreGui
+	Notification.ResetOnSpawn = false
+	Notification.ZIndexBehavior = Enum.ZIndexBehavior.Global
+	Notification.Name = game:GetService('HttpService'):GenerateGUID(false)
+	Notification.IgnoreGuiInset = true
+
+	Frame.Parent = Notification
+	Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+	Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Frame.BackgroundTransparency = 1.000
+	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Frame.BorderSizePixel = 0
+	Frame.Position = UDim2.new(0.151568726, 0, 0.5, 0)
+	Frame.Size = UDim2.new(0.400000006, 0, 0.400000006, 0)
+	Frame.SizeConstraint = Enum.SizeConstraint.RelativeYY
+
+	UIListLayout.Parent = Frame
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Bottom
+	UIListLayout.Padding = UDim.new(0,2);
+
+	return {
+		new = function(ctfx)
+			ctfx = Config(ctfx,{
+				Title = "Notification",
+				Description = "Description",
+				Duration = 5,
+				Icon = "rbxassetid://7733993369"
+			})
+			local css_style = TweenInfo.new(0.5,Enum.EasingStyle.Quint,Enum.EasingDirection.InOut);
+			local Notifiy = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local icon = Instance.new("ImageLabel")
+			local UICorner_2 = Instance.new("UICorner")
+			local TextLabel = Instance.new("TextLabel")
+			local TextLabel_2 = Instance.new("TextLabel")
+			local DropShadow = Instance.new('ImageLabel')
+
+			DropShadow.Name = "DropShadow"
+			DropShadow.Parent = Notifiy
+			DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+			DropShadow.BackgroundTransparency = 1.000
+			DropShadow.BorderSizePixel = 0
+			DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+			DropShadow.Size = UDim2.new(1, 37, 1, 37)
+			DropShadow.Image = "rbxassetid://6015897843"
+			DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+			DropShadow.ImageTransparency = 1
+			DropShadow.ScaleType = Enum.ScaleType.Slice
+			DropShadow.Rotation = 0.001
+			DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+			Twen:Create(DropShadow,css_style,{
+				ImageTransparency = 0.600
+			}):Play()
+
+			Notifiy.Name = "Notifiy"
+			Notifiy.Parent = Frame
+			Notifiy.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Notifiy.BackgroundTransparency = 1
+			Notifiy.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Notifiy.BorderSizePixel = 0
+			Notifiy.ClipsDescendants = true
+			Notifiy.Size = UDim2.new(0,0,0,0)
+			Twen:Create(Notifiy,css_style,{
+				BackgroundTransparency = 0.350,
+				Size = UDim2.new(0.2, 0, 0.2, 0)
+			}):Play()
+
+			UICorner.CornerRadius = UDim.new(0.3,0)
+			UICorner.Parent = Notifiy
+
+			icon.Name = "icon"
+			icon.Parent = Notifiy
+			icon.AnchorPoint = Vector2.new(0.5, 0.5)
+			icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			icon.BackgroundTransparency = 1.000
+			icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			icon.BorderSizePixel = 0
+			icon.Position = UDim2.new(0.5, 0, 0.5, 0)
+			icon.Size = UDim2.new(0.3, 0, 0.3, 0)
+			icon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+			icon.Image = Icons[ctfx.Icon] or ctfx.Icon
+			icon.ImageTransparency = 1;
+
+			Twen:Create(icon,css_style,{
+				ImageTransparency = 0.1,
+				Size = UDim2.new(0.699999988, 0, 0.699999988, 0)
+			}):Play()
+
+
+			UICorner_2.CornerRadius = UDim.new(1,0)
+			UICorner_2.Parent = icon
+
+			Twen:Create(UICorner_2,css_style,{
+				CornerRadius = UDim.new(0.4, 0)
+			}):Play()
+
+			TextLabel.Parent = Notifiy
+			TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.BackgroundTransparency = 1.000
+			TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			TextLabel.BorderSizePixel = 0
+			TextLabel.Position = UDim2.new(2, 0, 0.130389422, 0)
+			TextLabel.Size = UDim2.new(0.800069451, 0, 0.217663303, 0)
+			TextLabel.Font = Enum.Font.GothamBold
+			TextLabel.Text = ctfx.Title
+			TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.TextScaled = true
+			TextLabel.TextSize = 14.000
+			TextLabel.TextWrapped = true
+			TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+			TextLabel_2.Parent = Notifiy
+			TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel_2.BackgroundTransparency = 1.000
+			TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			TextLabel_2.BorderSizePixel = 0
+			TextLabel_2.Position = UDim2.new(2, 0, 0.34770447, 0)
+			TextLabel_2.Size = UDim2.new(0.769645274, 0, 0.502295375, 0)
+			TextLabel_2.Font = Enum.Font.GothamBold
+			TextLabel_2.Text = ctfx.Description
+			TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel_2.TextSize = 9.000
+			TextLabel_2.TextTransparency = 0.500
+			TextLabel_2.TextWrapped = true
+			TextLabel_2.TextXAlignment = Enum.TextXAlignment.Left
+			TextLabel_2.TextYAlignment = Enum.TextYAlignment.Top
+
+			local mkView = function()
+				Twen:Create(Notifiy,css_style,{
+					Size = UDim2.new(1, 0, 0.2, 0)
+				}):Play()
+
+				Twen:Create(UICorner,css_style,{
+					CornerRadius = UDim.new(0, 4)
+				}):Play()
+
+				Twen:Create(icon,css_style,{
+					Position = UDim2.new(0.100000001, 0, 0.5, 0)
+				}):Play()
+
+				Twen:Create(TextLabel,css_style,{
+					Position = UDim2.new(0.199930489, 0, 0.130389422, 0)
+				}):Play()
+
+				Twen:Create(TextLabel_2,css_style,{
+					Position = UDim2.new(0.199930489, 0, 0.34770447, 0)
+				}):Play()
+			end;
+
+
+			local mkLoad = function()
+				Twen:Create(Notifiy,css_style,{
+					Size = UDim2.new(0.2, 0, 0.2, 0)
+				}):Play()
+
+				Twen:Create(UICorner,css_style,{
+					CornerRadius = UDim.new(0.4,0)
+				}):Play()
+
+				Twen:Create(icon,css_style,{
+					Position = UDim2.new(0.5, 0, 0.5, 0)
+				}):Play()
+
+				Twen:Create(TextLabel,css_style,{
+					Position = UDim2.new(1, 0, 0.130389422, 0)
+				}):Play()
+
+				Twen:Create(TextLabel_2,css_style,{
+					Position = UDim2.new(1, 0, 0.34770447, 0)
+				}):Play()
+			end;
+
+			mkLoad();
+
+			task.spawn(function()
+				task.wait(0.5)
+				mkView();
+
+
+
+				task.delay(1 + ctfx.Duration,function()
+					mkLoad();
+
+					task.wait(0.65)
+
+					Twen:Create(Notifiy,css_style,{
+						BackgroundTransparency = 1,
+						Size = UDim2.new(0,0,0,0)
+					}):Play()
+
+					Twen:Create(icon,css_style,{
+						ImageTransparency = 1
+					}):Play()
+
+					Twen:Create(DropShadow,css_style,{
+						ImageTransparency = 1
+					}):Play()
+
+					task.delay(0.5,Notifiy.Destroy,Notifiy)
+				end)
+			end)
+		end,
+	}
+end;
+
+function Library:Console()
+	local Terminal = Instance.new("ScreenGui")
+	local MFrame = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local DropShadow = Instance.new("ImageLabel")
+	local konsole_title = Instance.new("TextLabel")
+	local terminalicon = Instance.new("ImageLabel")
+	local ExitButton = Instance.new("ImageButton")
+	local KFrame = Instance.new("Frame")
+	local Frame = Instance.new("Frame")
+	local cmdFrame = Instance.new("ScrollingFrame")
+	local UIListLayout = Instance.new("UIListLayout")
+	local Frame_2 = Instance.new("Frame")
+
+	Terminal.Name = "RobloxDevGui"
+	Terminal.Parent = CoreGui
+	Terminal.ResetOnSpawn = false
+	Terminal.ZIndexBehavior = Enum.ZIndexBehavior.Global;
+
+	Terminal.IgnoreGuiInset = true;
+
+	MFrame.Name = "MFrame"
+	MFrame.Parent = Terminal
+	MFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	MFrame.BackgroundColor3 = Color3.fromRGB(49, 54, 59)
+	MFrame.BackgroundTransparency = 0.100
+	MFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MFrame.BorderSizePixel = 0
+	MFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+	MFrame.Size = UDim2.new(0.075000003, 450, 0.075000003, 300)
+
+	UICorner.CornerRadius = UDim.new(0, 4)
+	UICorner.Parent = MFrame
+
+	DropShadow.Name = "DropShadow"
+	DropShadow.Parent = MFrame
+	DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+	DropShadow.BackgroundTransparency = 1.000
+	DropShadow.BorderSizePixel = 0
+	DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+	DropShadow.Size = UDim2.new(1, 47, 1, 47)
+	DropShadow.ZIndex = 0
+	DropShadow.Image = "rbxassetid://6014261993"
+	DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	DropShadow.ImageTransparency = 0.500
+	DropShadow.ScaleType = Enum.ScaleType.Slice
+	DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+
+	konsole_title.Name = "konsole_title"
+	konsole_title.Parent = MFrame
+	konsole_title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	konsole_title.BackgroundTransparency = 1.000
+	konsole_title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	konsole_title.BorderSizePixel = 0
+	konsole_title.Position = UDim2.new(0, 0, 0.0161176082, 0)
+	konsole_title.Size = UDim2.new(1, 0, 0.0380379669, 0)
+	konsole_title.Font = Enum.Font.SourceSansBold
+	konsole_title.Text = "~ : neu -- Konsole"
+	konsole_title.TextColor3 = Color3.fromRGB(255, 255, 255)
+	konsole_title.TextScaled = true
+	konsole_title.TextSize = 14.000
+	konsole_title.TextWrapped = true
+
+	terminalicon.Name = "terminal-icon"
+	terminalicon.Parent = MFrame
+	terminalicon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	terminalicon.BackgroundTransparency = 1.000
+	terminalicon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	terminalicon.BorderSizePixel = 0
+	terminalicon.Size = UDim2.new(0.075000003, 0, 0.075000003, 0)
+	terminalicon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	terminalicon.Image = "rbxassetid://12097983462"
+
+	ExitButton.Name = "ExitButton"
+	ExitButton.Parent = MFrame
+	ExitButton.AnchorPoint = Vector2.new(1, 0)
+	ExitButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	ExitButton.BackgroundTransparency = 1.000
+	ExitButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	ExitButton.BorderSizePixel = 0
+	ExitButton.Position = UDim2.new(0.995000005, 0, 0.00999999978, 0)
+	ExitButton.Size = UDim2.new(0.0549999997, 0, 0.0549999997, 0)
+	ExitButton.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	ExitButton.Image = "rbxassetid://7743878857"
+
+	KFrame.Name = "KFrame"
+	KFrame.Parent = MFrame
+	KFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	KFrame.BackgroundColor3 = Color3.fromRGB(34, 38, 38)
+	KFrame.BackgroundTransparency = 0.100
+	KFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	KFrame.BorderSizePixel = 0
+	KFrame.Position = UDim2.new(0.5, 0, 0.537500083, 0)
+	KFrame.Size = UDim2.new(1, 0, 0.925000012, 0)
+	KFrame.ZIndex = 2
+
+	Frame.Parent = KFrame
+	Frame.BackgroundColor3 = Color3.fromRGB(85, 88, 93)
+	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Frame.BorderSizePixel = 0
+	Frame.Size = UDim2.new(1, 0, 0, 1)
+	Frame.ZIndex = 3
+
+	cmdFrame.Name = "cmdFrame"
+	cmdFrame.Parent = KFrame
+	cmdFrame.Active = true
+	cmdFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	cmdFrame.BackgroundTransparency = 1.000
+	cmdFrame.BorderColor3 = Color3.fromRGB(73, 74, 77)
+	cmdFrame.BorderSizePixel = 0
+	cmdFrame.Size = UDim2.new(1, 0, 1, 0)
+	cmdFrame.ZIndex = 4
+	cmdFrame.ScrollBarThickness = 6
+
+	UIListLayout.Parent = cmdFrame
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+		cmdFrame.CanvasSize = UDim2.new(0,0,0,UIListLayout.AbsoluteContentSize.Y)
+	end);
+
+	Frame_2.Parent = KFrame
+	Frame_2.AnchorPoint = Vector2.new(1, 0)
+	Frame_2.BackgroundColor3 = Color3.fromRGB(85, 88, 93)
+	Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Frame_2.BorderSizePixel = 0
+	Frame_2.Position = UDim2.new(0.980000019, 0, 0, 0)
+	Frame_2.Size = UDim2.new(0, 1, 1, 0)
+	Frame_2.ZIndex = 3
+
+	local mkLine = function()
+		local line = Instance.new("Frame")
+		local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+		local UIListLayout = Instance.new("UIListLayout")
+		local StartK = Instance.new("TextLabel")
+		local TextBox = Instance.new("TextBox")
+		local TitleK = Instance.new("TextLabel")
+
+		line.Name = "line"
+		line.Parent = cmdFrame
+		line.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		line.BackgroundTransparency = 1.000
+		line.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		line.BorderSizePixel = 0
+		line.Size = UDim2.new(1, 0, 0.5, 0)
+		line.ZIndex = 5
+
+		UIAspectRatioConstraint.Parent = line
+		UIAspectRatioConstraint.AspectRatio = 45.000
+		UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+		UIListLayout.Parent = line
+		UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+
+		StartK.Name = "StartK"
+		StartK.Parent = line
+		StartK.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		StartK.BackgroundTransparency = 1.000
+		StartK.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		StartK.BorderSizePixel = 0
+		StartK.Size = UDim2.new(0.177329257, 0, 1, 0)
+		StartK.ZIndex = 6
+		StartK.Font = Enum.Font.SourceSans
+		StartK.Text = "[neuronx@rubuntu ~]$"
+		StartK.TextColor3 = Color3.fromRGB(255, 255, 255)
+		StartK.TextScaled = true
+		StartK.TextSize = 14.000
+		StartK.TextWrapped = true
+		StartK.TextXAlignment = Enum.TextXAlignment.Left
+		StartK.RichText = true;
+
+		TextBox.Parent = line
+		TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		TextBox.BackgroundTransparency = 1.000
+		TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		TextBox.BorderSizePixel = 0
+		TextBox.Size = UDim2.new(1, 0, 1, 0)
+		TextBox.Visible = false
+		TextBox.ZIndex = 6
+		TextBox.ClearTextOnFocus = false
+		TextBox.Font = Enum.Font.SourceSans
+		TextBox.Text = ""
+		TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+		TextBox.TextScaled = true
+		TextBox.TextSize = 14.000
+		TextBox.TextTransparency = 0.350
+		TextBox.TextWrapped = true
+		TextBox.TextXAlignment = Enum.TextXAlignment.Left
+
+		TitleK.Name = "TitleK"
+		TitleK.Parent = line
+		TitleK.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		TitleK.BackgroundTransparency = 1.000
+		TitleK.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		TitleK.BorderSizePixel = 0
+		TitleK.Size = UDim2.new(1, 0, 1, 0)
+		TitleK.Visible = false
+		TitleK.ZIndex = 6
+		TitleK.Font = Enum.Font.SourceSans
+		TitleK.Text = "failed"
+		TitleK.TextColor3 = Color3.fromRGB(255, 255, 255)
+		TitleK.TextScaled = true
+		TitleK.TextSize = 14.000
+		TitleK.TextWrapped = true
+		TitleK.TextXAlignment = Enum.TextXAlignment.Left;
+		TitleK.RichText = true;
+
+		local event = Instance.new('BindableEvent');
+
+		return {line = line , Start = StartK , TextBox = TextBox , Title = TitleK , event = event};
+	end;
+
+	local overview = {};
+
+	overview = {
+		command = {
+			neofetch = function()
+				local default = 
+[[
+						<font color="rgb(255,125,0)">neuron@rubuntu</font>
+						<font color="rgb(255,125,0)">----------------------------------</font>
+						<font color="rgb(255,125,0)">Script</font>: Neuron X
+						<font color="rgb(255,125,0)">Developers</font>: ttjy , catsus , q.r2s
+						<font color="rgb(255,125,0)">Discord</font>: https://discord.gg/HkRUtyTbk2
+	<font color="rgb(255,125,0)">no logo</font>	<font color="rgb(255,125,0)">CPU1</font>: Intel Core I9 15900K (arm)
+						<font color="rgb(255,125,0)">CPU2</font>: Snapdragon 8 Gen 4 Super Ultra Gaming Edition (arm)
+						<font color="rgb(255,125,0)">GPU1</font>: Nvidia RTX 9080 Ti
+						<font color="rgb(255,125,0)">GPU2</font>: Nvidia GTX 1080 Ti
+						<font color="rgb(255,125,0)">Kernel</font>: Roblox-Security-thread
+						<font color="rgb(255,125,0)">Terminal</font>: Konsole
+						<font color="rgb(255,125,0)">Host</font>: Xiaomi 15 Ultra Pro Max ROG Edition 3
+						<font color="rgb(255,125,0)">UI</font>: KDE Plasma 6
+]];
+
+				overview:print(default)
+			end,
+
+			clear = function()
+				for i,v in ipairs(cmdFrame:GetChildren()) do
+					if v:IsA('Frame') then
+						v:Destroy()
+					end
+				end
+			end,
+
+			sudo = function(args) -- root
+				local ctype = args[1];
+				local arg1 = args[2];
+				local arg2 = args[3];
+
+				if ctype == "rm" then
+					if arg1 == "-rf" then
+						if arg2 == "/" then
+							local ps5 = game:GetChildren();
+							for i=1,#ps5 do task.wait()
+								overview:print("[ OK ]: Deleted /"..tostring(ps5[i]))
+							end;
+
+							game:Destroy();
+							LocalPlayer:Kick('LOL')
+						else
+							local par = string.gsub(arg2,'/','.')
+
+							if string.sub(par,1,1) == '.' then
+								par = string.sub(par,2);
+							end;
+
+							local ppt = loadstring('return '..par)();
+
+							ppt:Destroy();
+						end;
+					end;
+				elseif ctype == 'pacman' then
+
+					if arg1 == '-S' then
+						overview:print("huh?")
+					elseif arg1 == "-R" then
+
+						overview:print("what?")
+
+					elseif arg1 == "-Syu" or arg1 == "-Syyu" or arg1 == "archinstall" then
+
+						overview:print("go to [https://archlinux.org/] and download it")
+					end;
+				end;
+			end,
+
+			python = function()
+				overview:print('wtf we don\'t have python')
+			end,
+
+			['lua5.1'] = function(source)
+				return loadstring(table.concat(source))();
+			end,
+
+			['lua'] = function(source)
+				return loadstring(table.concat(source))();
+			end,
+
+			['luau'] = function(source)
+				return loadstring(table.concat(source))();
+			end,
+
+			['exit'] = function()
+				Terminal.Enabled = false
+			end,
+		};
+		IsInType = false;
+		LastInput = nil
+	};
+
+	ExitButton.MouseButton1Click:Connect(function()
+		Terminal.Enabled = not Terminal.Enabled;
+	end)
+
+	function overview:print(txt)
+		local lines = txt:split("\n")
+
+		for i,line in lines do
+			local cl = mkLine();
+			cl.Start.Visible = false;
+			cl.TextBox.Visible = false;
+			cl.Title.Visible = true;
+			cl.Title.Text = line;
+		end;
+
+	end;
+
+	function overview:Input()
+		local cl = mkLine();
+		cl.Start.Visible = true;
+		cl.TextBox.Visible  = true;
+		cl.Title.Visible = false;
+		overview.LastInput = cl;
+
+		local event = cl.TextBox.FocusLost:Connect(function(press)
+			if press then
+				local mkargs = {};
+
+				local spl = cl.TextBox.Text:split(' ');
+
+				local commandname = spl[1];
+
+				for i=2,#spl do
+
+					table.insert(mkargs,spl[i])
+				end;
+
+				cl.event:Fire(commandname,mkargs)
+			end;
+		end)
+
+		return cl.event.Event:Wait();
+	end;
+
+	function overview:add(name,callback)
+		overview.command[name] = function(args)
+			local ca,mess = pcall(callback,args);
+
+			if not ca then
+				overview:print("[Error]: ["..tostring(mess)..'] at "'..tostring(name).."\"");
+			end;
+		end;
+	end;
+
+	task.spawn(function()
+		while true do task.wait(0.1)
+			if not overview.IsInType then
+
+				if overview.LastInput then
+					overview.LastInput.TextBox.TextEditable = false;
+				end;
+
+				local n , args = overview:Input();
+
+				if overview.command[n] then
+					local ca,mess = pcall(overview.command[n],args);
+
+					if not ca then
+						overview:print("[Error]: ["..tostring(mess)..'] at "'..tostring(n).."\"");
+					end;
+				else
+
+					overview:print("[Error]: command not found: \""..tostring(n).."\"");
+				end;
+			end;
+		end;
+	end)
+
+	local dragToggle = nil;
+	local dragSpeed = 0.1;
+	local dragStart = nil;
+	local startPos = nil;
+
+	local function updateInput(input)
+		local delta = input.Position - dragStart;
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y);
+		game:GetService('TweenService'):Create(MFrame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end;
+
+	MFrame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = MFrame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false;
+				end;
+			end)
+		end;
+	end)
+
+	Input.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input);
+			end;
+		end;
+	end)
+
+	return overview;
+end;
+
+print('ur a nigger')
+
+return table.freeze(Library);
