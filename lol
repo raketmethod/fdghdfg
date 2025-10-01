@@ -6,7 +6,7 @@ local LocalPlayer = game:GetService('Players').LocalPlayer;
 local CoreGui = (gethui and gethui()) or game:FindFirstChild('CoreGui') or LocalPlayer.PlayerGui;
 local Icons = (function()
 	local p,c = pcall(function()
-		local Http = game:HttpGetAsync('https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json');
+		local Http = game:HttpGetAsync('ffff');
 
 		local Decode = game:GetService('HttpService'):JSONDecode(Http);
 
