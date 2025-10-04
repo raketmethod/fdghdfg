@@ -848,23 +848,32 @@ do
 		local glow = Instance.new('ImageLabel', Main)
 		--
 Library:Connection(Players.LocalPlayer.CharacterRemoving, function()
-    if Library.Folder then
-        Library.Folder.Parent = ReplicatedStorage
-        Library.ScreenGui.Enabled = false -- Temporarily disable to avoid rendering issues
+    local success, err = pcall(function()
+        if Library.ScreenGui and Library.ScreenGui.Parent == Players.LocalPlayer.PlayerGui then
+            Library.ScreenGui.Enabled = false -- Temporarily disable UI to avoid rendering issues
+        end
+    end)
+    if not success then
+        warn("Error in CharacterRemoving: " .. tostring(err))
     end
 end)
 --
 Library:Connection(Players.LocalPlayer.CharacterAdded, function()
-    if Library.Folder then
-        if Library.Folder.Parent == ReplicatedStorage then
-            Library.Folder.Parent = PlayerGui
+    local success, err = pcall(function()
+        if Library.ScreenGui then
+            -- Ensure ScreenGui is in PlayerGui
+            if Library.ScreenGui.Parent ~= Players.LocalPlayer.PlayerGui then
+                Library.ScreenGui.Parent = Players.LocalPlayer.PlayerGui
+            end
+            Library.ScreenGui.Enabled = true
+            Library.ScreenGui.ResetOnSpawn = false
+            Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+            Library.ScreenGui.DisplayOrder = 1000
+            Library:SetOpen(Library.Open) -- Reapply open state to trigger visibility and animations
         end
-        -- Ensure ScreenGui is enabled and UI is visible
-        Library.ScreenGui.Enabled = true
-        Library.ScreenGui.ResetOnSpawn = false
-        Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
-        Library.ScreenGui.DisplayOrder = 10
-        Library:SetOpen(Library.Open) -- Reapply open state to trigger visibility and animations
+    end)
+    if not success then
+        warn("Error in CharacterAdded: " .. tostring(err))
     end
 end)
 		--
@@ -872,7 +881,7 @@ end)
         Library.ScreenGui.ResetOnSpawn = false -- Prevent UI from resetting on respawn
         Library.ScreenGui.Enabled = true -- Ensure UI is enabled
         Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
-        Library.ScreenGui.DisplayOrder = 10
+        Library.ScreenGui.DisplayOrder = 1000
 		-- Inserts
 		table.insert(Library.Instances, Main)
 		table.insert(Library.Instances, Inline)
