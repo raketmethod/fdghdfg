@@ -847,19 +847,32 @@ do
 		local stroke2 = Instance.new('UIStroke', Inline)
 		local glow = Instance.new('ImageLabel', Main)
 		--
-		Library:Connection(Players.LocalPlayer.CharacterRemoving, function()
-			if Library.Folder then
-				Library.Folder.Parent = ReplicatedStorage
-			end
-		end)
+Library:Connection(Players.LocalPlayer.CharacterRemoving, function()
+    if Library.Folder then
+        Library.Folder.Parent = ReplicatedStorage
+        Library.ScreenGui.Enabled = false -- Temporarily disable to avoid rendering issues
+    end
+end)
+--
+Library:Connection(Players.LocalPlayer.CharacterAdded, function()
+    if Library.Folder then
+        if Library.Folder.Parent == ReplicatedStorage then
+            Library.Folder.Parent = PlayerGui
+        end
+        -- Ensure ScreenGui is enabled and UI is visible
+        Library.ScreenGui.Enabled = true
+        Library.ScreenGui.ResetOnSpawn = false
+        Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+        Library.ScreenGui.DisplayOrder = 10
+        Library:SetOpen(Library.Open) -- Reapply open state to trigger visibility and animations
+    end
+end)
 		--
-		Library:Connection(Players.LocalPlayer.CharacterAdded, function()
-			if Library.Folder and Library.Folder.Parent == ReplicatedStorage then
-				Library.Folder.Parent = PlayerGui
-			end
-		end)
-		--
-		Library.ScreenGui.Name = "MobileLayout"-- this is done to bypass dahoods tweening (its cancer)"
+        Library.ScreenGui.Name = "MobileLayout" -- this is done to bypass dahoods tweening (its cancer)
+        Library.ScreenGui.ResetOnSpawn = false -- Prevent UI from resetting on respawn
+        Library.ScreenGui.Enabled = true -- Ensure UI is enabled
+        Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+        Library.ScreenGui.DisplayOrder = 10
 		-- Inserts
 		table.insert(Library.Instances, Main)
 		table.insert(Library.Instances, Inline)
