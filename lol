@@ -859,12 +859,8 @@ do
 			end
 		end)
 		--
-		Library.ScreenGui.Name = "MobileLayout"
-        Library.ScreenGui.ResetOnSpawn = false
-        Library.ScreenGui.Enabled = true
-        Library.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global
-        Library.ScreenGui.DisplayOrder = 10
-
+		Library.ScreenGui.Name = "MobileLayout"-- this is done to bypass dahoods tweening (its cancer)"
+		-- Inserts
 		table.insert(Library.Instances, Main)
 		table.insert(Library.Instances, Inline)
 		table.insert(Library.Instances, Middle)
